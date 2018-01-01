@@ -1,0 +1,39 @@
+- Les personnages sont divisés en 3 camps : les Protagonistes, les Antagonistes et les neutres (Tritagoniste ?).
+- En général, pour gagner, les Protagonistes doivent tuer tous les Antagonistes et inversement. Les personnages neutres disposent de leurs propres objectifs. Cependant, certains antagonistes / protagonistes disposent de leurs propres conditions de victoire.
+
+- Mort des personnages ?
+
+
+- Les personnages disposent d'un certain nombre de points de blessures. Lorsque ce nombre arrive à 0, le personnage est aux portes de la mort. Cela signifie qu'il ne peut plus attaquer d'autres personnages (même en représailles pour X), <voir à mettre d'autres actions empêchées>. Pour quitter cet état, il lui suffit de regagner un point de blessure.
+  - Pour être achevé, un personnage doit subir un point de blessure en combat par un autre lors d'une attaque (On appelle cet évènement l'Autodafé).
+
+- L'attaque d'un personnage se détermine de la façon suivante : 
+  - L'attaque lance un D6 et le défenseur un D4. Si la différence entre les deux est favorable à l'attaquant, le défenseur perds un point de blessure. On perd donc au maximum un point de blessure par attaque (sauf objets spéciaux, etc.). Si la différence entre l'attaque et la défense est à l'avantage du défenseur, celui ne subit aucune blessure.
+
+
+
+
+
+
+
+
+
+
+Attention à bien respecter certains critères : tous les personnages ne doivent pas être ultra connus, il est bon de mixer les univers (occidental, noir, pour enfants, asiatique, etc.). 
+Les écrits faisant ou ayant faits parti d'un canon religieux, sont refusés. Cela vaut pour les livres religieux, comme le canon de la mythologie en question (égyptienne, bouddhique, nordique, etc.).
+
+Thème : Contes, Harry Potter, Légende, Littérature Classique, Littérature d'horreur, Littérature moderne, Policier Science-Fiction, Théâtre.
+
+Meta-thème 
+Héroïque-fantasy : Le seigneur des Anneaux, Le Trône de Fer
+
+Sample theme : 
+  - Antagoniste : 
+    - sd
+      - sd
+  - Neutre : 
+    - sd
+      - sd
+  - Protagoniste : 
+    - sd
+      - sd

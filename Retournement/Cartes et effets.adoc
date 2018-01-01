@@ -1,0 +1,21 @@
+Cartes et effets
+
+
+Idée de Retournement: 
+
+- Lorsqu'un personnage atteint le seuil de la mort : 
+  - Rédemption : le personnage ciblé regagne tous ses points de blessures et quitte l'état du seuil de la mort.
+  - Cruauté : le personnage au seuil de la mort ciblé est achevé et écarté du jeu comme s'il recevait une blessure fatale.
+
+- Lorsqu'un personnage pioche un équipement : 
+  - Pick-pocket : vous pouvez dérober l'équipement qu'un joueur en question vient de piocher.
+
+- Lorsque deux personnages échangent un équipement : 
+  - Permet de réorganiser l'échange comme il l'entend (ne permet pas de se mettre à la place d'un des deux acteurs de l'échange)
+  - Permet d'intercepter l'échange pour se mettre à la place d'un des deux (voire les deux ? p-ê trop puissant)
+
+- Lorsqu'un personnage utilise une capacité à utilisation unique : 
+  - Annule les effets de la capacité
+
+
+<Réfléchir à d'autres conditions de déclenchement>

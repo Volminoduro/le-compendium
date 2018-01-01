@@ -18,3 +18,5 @@ Bonne idée de Shadow : plateau et dés lors du déroulement des tours.
 
 
 Avancer de cases serait avancer de "Pages" en pages dans le jeu.
+
+- Délimiter le cadre du thème Légende, rapport à la religion, etc.
