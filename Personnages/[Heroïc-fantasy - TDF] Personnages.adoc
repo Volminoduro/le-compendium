@@ -1,0 +1,4 @@
+Neutre :
+  - Walder Frey
+    - Objectif :
+    - : peut permettre à un autre joueur d'attaquer un autre joueur sur la même case que lui ou à une portée de 1 de distance.
