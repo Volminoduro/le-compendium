@@ -6,5 +6,5 @@ Déroulement d'un tour :
 - Action de la case
 - Attaque ou non
 - Action de fin de tour (pouvoir d'héros, etc.)
-- Résolution d'effets de fin de tour
+- Résolution d'effets de fin de tour (moins de X cartes en main)
 - Fin de tour

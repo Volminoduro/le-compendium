@@ -1,0 +1,21 @@
+- Les points s'additionnent les un aux autres pour former un total. Par ailleurs, si une condition pour obtenir des points se répète, vous pouvez la répéter autant de fois.
+Plus clairement, pour la condition "Vous avez tué un personnge de l'alignement adverse", si vous en avez tué 2, le comptage de ses points se produit 2 fois.
+
+- Vous avez accompli votre quête : + 8 points
+- Votre personnage est mort lors de la partie : - 5 points
+- Vous avez des PDBs restants sur votre personnage : + 1 point par PDB (bonus d'équipement exclu)
+
+Alignement :
+- Le meneur de jeu de l'alignement allié est toujours vivant à la fin de la partie : + 2 points (1 point pour les neutres)
+- Un autre personnage de l'alignement allié est toujours vivant à la fin de la partie (sauf meneur de jeu) : + 1 point
+- Le meneur de jeu de l'alignement adverse a été tué : + 2 points (1 point pour les neutres)
+- Vous avez tué le meneur de jeu de l'alignement adverse : + 2 points (0 point pour les neutres)
+- Vous avez tué un personnage de l'alignement adverse : + 3 points (1 point pour les neutres)
+- Vous avez tué un personnage de l'alignement allié : - 1 point (0 point pour les neutres)
+
+- Vous n'avez pas utilisé de carte retournement de la partie alors que vous en possédiez une : + 2 points [A réfléchir]
+- Equipements en votre possession :
+  - Légendaire : 4 points
+  - Epique : 3 points
+  - Rare : 2 points
+  - Commun : 1 points

@@ -19,8 +19,8 @@ Contes :
       - [["A l'attaque !"] : utilise les sujets pour se protéger]
       - YYY
     - Capitaine Crochet
-      - Dandy : peut s'équiper de deux équipements de "Tête" et de "Corps".
-      - Crochet : lors d'un combat, peut utiliser son crochet, rajoutant 2 points de défense ou d'attaque, plutôt que son équipement "Arme".
+      - Dandy : peut s'équiper de deux équipements de "Tête".
+      - Crochet : lors d'un combat, peut utiliser son crochet, rajoutant 2 points d'attaque, plutôt que son équipement "Arme".
     - Grand méchant Loup
       - Déguisement : peut adopter l'identité du dernier personnage qu'il vient de tuer, ne peut pas être combiné avec Dévoration.
       - Dévoration : peut consommer le cadavre du dernier personnage qu'il vient de tuer pour récupérer deux PDB, ne peut pas être combiné avec Déguisement.
