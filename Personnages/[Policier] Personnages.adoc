@@ -1,6 +1,16 @@
+Antagoniste :
+- Ronald Niedermann (Millenium)
+  - Algoataraxie : être au seuil de la mort n'empêche d'attaquer des personnages.
+  - Brute épaisse : réduit automatiquement les dégâts de 1.
+  
+Neutre : 
 
-Policier : 
+Protagoniste :
 - Lisbeth Salander (Millenium)
-- Sherlock Holmes
+  - Black hat : cible un personnage proche d'une de ses cases et lance un D6. Si le résultat est compris entre 5 et 6, elle peut apprendre la quête ou l'identité du personnage.
+  - Wasp : [lors de duel, elle aura toujours l'initiative.]
+
+
+
+- Sherlock Holmes, Dr Watson
 - Hercule Poirot
-- Dr Watson
