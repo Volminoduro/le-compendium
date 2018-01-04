@@ -1,1 +1,5 @@
-- Au début d'une partie, aléatoirement, ou par choix d'un joueur, un meneur de jeu est sélectionné. Ceci se passe avant même la disposition des terrains et l'attribution des personnages. Il dispose d'un point de vie supplémentaire et son personnage est révélé, révélant également son alignement de cette manière. Ainsi, les autres joueurs peuvent déjà avoir des informations sur leurs potentiels alliés ou ennemis.
+- Au début d'une partie, aléatoirement, ou par choix d'un joueur, un meneur de jeu est sélectionné. Ceci se passe avant même la disposition des terrains et l'attribution des personnages.
+
+- Le meneur de jeu démarre en premier la partie.
+- Le meneur de jeu dispose d'un point de vie supplémentaire et a son personnage constamment révélé.
+- On considère qu'un tour de jeu complet a été effectué lorsque tous les joueurs ont joué et que c'est de nouveau au meneur de jeu de 

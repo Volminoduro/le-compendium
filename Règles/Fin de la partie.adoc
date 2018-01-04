@@ -1,4 +1,4 @@
-- La partie se termine lorsque le premier personnage a accompli sa quête. Si cela arrive durant le tour d'un joueur, celui-ci a le droit de terminer son tour normalement.
+- La partie se termine lorsque'un personnage a accompli sa quête. Si cela arrive durant le tour d'un joueur, celui-ci a le droit de terminer son tour normalement.
 Il est possible que plusieurs accomplissements de quêtes coïncident au même moment, et chacun est considéré comme accompli, indépendamment les uns des autres, ils sont tous valides.
 
 - Si vous jouez avec des débutants, le vainqueur est désigné simplement par celui qui a accompli sa quête en premier. Il peut y avoir plusieurs vainqueurs à la fois si plusieurs quêtes ont été accomplies au même moment.

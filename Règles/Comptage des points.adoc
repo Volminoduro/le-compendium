@@ -6,6 +6,8 @@ Plus clairement, pour la condition "Vous avez tué un personnge de l'alignement 
 - Vous avez des PDBs restants sur votre personnage : + 1 point par PDB (bonus d'équipement exclu)
 
 Alignement :
+- Le meneur de jeu meurt :
+  - Si vous 
 - Le meneur de jeu de l'alignement allié est toujours vivant à la fin de la partie : + 2 points (1 point pour les neutres)
 - Un autre personnage de l'alignement allié est toujours vivant à la fin de la partie (sauf meneur de jeu) : + 1 point
 - Le meneur de jeu de l'alignement adverse a été tué : + 2 points (1 point pour les neutres)
