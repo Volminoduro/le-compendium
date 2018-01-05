@@ -1,2 +1,6 @@
-- Bar de fight club (trouver le nom) :
- - Duel jusqu'au seuil de la mort ou quand un personnage dit stop.
+- Lou's tavern (Fight Club) :
+ - Un duel est entamé entre deux personnages qui le désirent. Celui qui déploie la plus grande valeur d'attaque remporte le tour et inflige une blessure à son adversaire.
+ - Le duel se déroule jusqu'au seuil de la mort ou quand un personnage dit stop, le premier tour ne peut être stopper.
+ - Si vous n'avez pas encore pris pars à un duel, vous devez combattre.
+ - Image :
+ - Citation : "I'm fucking Lou. Who the fuck are you?" - Fight Club, Chuck Palanhiuk, 1996

@@ -1,9 +1,10 @@
 - Les équipements ont plusieurs rangs de rareté : Commun, Rare, Épique et Légendaire.
-- Un seul équipement légendaire peut être porté par un personnage à la fois, sauf exception. 
+- Un seul équipement légendaire peut être porté par un personnage à la fois (sauf exception). 
 - Les équipements sont attribués à des emplacements : Tête, corps, arme et accessoire.
-- On peut porter un nombre illimité d'accessoires, mais les autres emplacement sont limités à un équipement, sauf exception.
+- On ne peut équiper un emplacement qu'avec un seul objet, sauf les accessoires qui sont limités à 2 objets équipables.
 
-- Lorsque vous piochez un équipement, vous pouvez : l'équiper, l'échanger avec un joueur (il n'est pas possible de donner simplement un équipement à un autre joueur), le défausser, le conserver en main ou "consommer" son utilisation (le cas échéant).
-- Lorsque vous piochez un équipement légendaire, vous devrez le défausser directement si vous ne possédez déjà un dans votre main ou équiper (sauf exception).
+- Lorsque vous piochez un équipement, vous pouvez : l'équiper, l'échanger avec un joueur (il n'est pas possible de donner simplement un équipement à un autre joueur), le défausser, le conserver en main.
+- Lorsque vous piochez un équipement légendaire, vous devrez le défausser directement si vous ne possédez déjà un dans votre main ou équipé (sauf exception), vous ne pouvez pas l'échanger.
 
 - Certains équipements disposent de charges d'utilisations en plus de leurs effets. Une charge est consommée par utilisation et lorsque le compteur de charge arrive à zéro, l'objet est détruit et envoyé en défausse.
+Pour utiliser les charges, l'objet doit être équiper (à voir si on conserve cette mécanique). 

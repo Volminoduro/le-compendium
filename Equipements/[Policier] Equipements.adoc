@@ -1,4 +1,9 @@
 Arme :
 - Commun :
   - Taser :
-    - Utilisation (1 charge) : paralyse un adversaire, ce qui l'empêche de bouger à son prochain tour.
+    - Ajoute 1 de dégât lors de l'attaque.
+    - Utilisation (1 charge) : paralyse un adversaire, ce qui l'empêche de se déplacer à une autre à son prochain tour (pouvoir compris).
+
+Accessoires :
+  - Menotte :
+    - Utilisation (1 charge) : choisissez un personnage, celui-ci ne peut utiliser son arme au prochain tour. Celui-ci peut s'en défaire en faisant un 6.
