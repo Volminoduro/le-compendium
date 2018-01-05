@@ -1,0 +1,4 @@
+Arme :
+- Commun :
+  - Taser :
+    - Utilisation (1 charge) : paralyse un adversaire, ce qui l'empêche de bouger à son prochain tour.

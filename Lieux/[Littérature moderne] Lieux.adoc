@@ -1,0 +1,2 @@
+- Bar de fight club (trouver le nom) :
+ - Duel jusqu'au seuil de la mort ou quand un personnage dit stop.

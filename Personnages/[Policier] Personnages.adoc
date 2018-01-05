@@ -7,7 +7,7 @@ Neutre :
 
 Protagoniste :
 - Lisbeth Salander (Millenium)
-  - Black hat : cible un personnage proche d'une de ses cases et lance un D6. Si le résultat est compris entre 5 et 6, elle peut apprendre la quête ou l'identité du personnage.
+  - Black hat : cible un personnage proche d'une de ses cases et lance un D6. Si le résultat est compris entre 5 et 6, elle choisit entre apprendre la quête ou l'identité du personnage.
   - Wasp : [lors de duel, elle aura toujours l'initiative.]
 
 
