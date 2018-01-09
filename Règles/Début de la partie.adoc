@@ -2,4 +2,4 @@
 
 - Le meneur de jeu démarre en premier la partie.
 - Le meneur de jeu dispose d'un point de vie supplémentaire et a son personnage constamment révélé.
-- On considère qu'un tour de jeu complet a été effectué lorsque tous les joueurs ont joué et que c'est de nouveau au meneur de jeu de 
+- On considère qu'un tour de jeu complet a été effectué lorsque tous les joueurs ont joué et que c'est de nouveau au meneur de jeu de jouer.

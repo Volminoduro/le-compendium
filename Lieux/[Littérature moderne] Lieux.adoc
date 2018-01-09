@@ -1,5 +1,6 @@
 - Lou's tavern (Fight Club) :
- - Un duel est entamé entre deux personnages qui le désirent. Celui qui déploie la plus grande valeur d'attaque remporte le tour et inflige une blessure à son adversaire.
+- Pool de combattant formé par ceuix qui veulent le faire, ceux qui n'ont jamais combattu y sont inclus automatiquement. Puis sélection en priorité entre ceux qu'ont jamais combattu puis les habitués.
+ - Un duel est entamé entre deux personnages qui le désirent (ou tirage de dé au plus puissant). Celui qui déploie la plus grande valeur d'attaque remporte le tour et inflige une blessure à son adversaire.
  - Le duel se déroule jusqu'au seuil de la mort ou quand un personnage dit stop, le premier tour ne peut être stopper.
  - Si vous n'avez pas encore pris pars à un duel, vous devez combattre.
  - Image :

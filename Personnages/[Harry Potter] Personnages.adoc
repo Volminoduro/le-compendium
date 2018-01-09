@@ -16,10 +16,9 @@ Harry Potter :
   - Neutre : 
     - Gripsec
       - Avidité : peut s'équiper de deux équipements de qualité légendaire.
-      - Ancien employé : bonus lors de l'accès à Gringotts
+      - Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu.
     - Aragog :
       - 7 PDB.
-      - Objectif : Atteindre 7 oeufs pour remporter la partie.
       - Cannibalisme : lorsqu'il atteint le seuil de la mort, Aragog peut consommer un de ses oeufs pour remonter à 1 PDB.
       - [Couvée] : lorsqu'Aragog reçoit un soin excèdentaire, il génère un oeuf.
       

@@ -1,4 +1,5 @@
 Le seigneur des anneaux : 
   - Neutre : 
-    - Smeagol
+    - Smeagol [6 PDB]
       - Mon précieux : si l'Anneau unique entre en possession de Smeagol, il ne peut pas le défausser ni l'échanger.
+      - 
