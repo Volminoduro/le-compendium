@@ -16,7 +16,7 @@ Shadow vs Hunters :
 10 cartes personnage
 16 cartes Lumière
 16 cartes Ténèbres
-16 cartes Ermite
+16 cartes Vision
 6 cartes Lieux
 8 cartes Joueurs
 8 marqueurs de Personnages
@@ -32,9 +32,9 @@ Shadow vs Hunters :
   - Déséquilibré, Shadow trop puissant (cf. Loup-Garou et Vampire).
   - Au début, ça peut attaquer facilement au hasard sans avoir une idée de qui est qui.
   - La mécanique de vision n'est vraiment intéressante qu'avec le métamorphe.
-  - Il n'y a que les neutres qui ont des objectifs vraiment différents
-  - Rejouabilité
-  - Plein potentiel à partir de + 6 joueurs
+  - Il n'y a que les neutres qui ont des objectifs vraiment différents.
+  - Rejouabilité un peu pauvre sans personnages neutre.
+  - Plein potentiel à partir de + 6 joueurs.
 
 
 
