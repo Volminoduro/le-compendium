@@ -1,0 +1,8 @@
+- Jet du d3 et d4, on additionne les deux, puis le joueur choisit dans quelle direction il va.
+
+- Si l'on fait 7, un choix s'offre à nous : tirer une carte retournement ou se déplacer sur la case que l'on souhaite.
+
+Infos pour la conception : 
+- On parcoure au minimum 2 cases (vu qu'on lance deux dés), ce qui évite de pouvoir réattaquer la case où l'on se trouvait déjà.
+
+- 6 cases il faudrait à ce moment là (Equipement, Lieu, Consommable, [Case où l'on va où on veut],  ???), qui se répète deux fois. Ce qui fait qu'un jet de 7 t'emmène où tu veux et un jet de 6 est un demi-terrain, ce qui est suffisant pour faire le tour étant donné que le pattern se répète.
