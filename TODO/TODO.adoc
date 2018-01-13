@@ -3,3 +3,7 @@ Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 - Délimiter le cadre du thème Légende, rapport à la religion, etc. 
 
 - D3 et D4 avec un design spécifique ? Y réfléchir 
+
+- Système de case marchand par troc d'équipement ? (1 case) Défausse définitive, système de stock spécial marchand, troc selon rareté de l'équipement voulu.
+
+- 
