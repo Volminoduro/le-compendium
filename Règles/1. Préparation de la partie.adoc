@@ -1,0 +1,5 @@
+- Attribution du meneur de jeu
+- Placement des cartes comme les joueurs désirent ou au hasard ? ++ Rejouabilité
+- Choix des personnages puis des quêtes
+- Attribution des personnages puis des quêtes
+- Le meneur de jeu révèle son personnage, il commence en premier.

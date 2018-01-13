@@ -1,0 +1,3 @@
+- Limiter les attaques aux personnages adjacents au joueur ? => OUI, un système de portée selon les distances des cases.
+
+- L'attaque se détermine sur un D4, la défense sur un D3 et si la différence est faveur de l'attaquant, le défenseur subit une blessure, sinon, en cas d'égalité ou de résultat en faveur du défenseur, aucune blessure n'est infligée. Les bonus des équipements, consommables, etc., s'additionne au résultat des dés.

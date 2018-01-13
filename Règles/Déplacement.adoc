@@ -2,8 +2,6 @@
 
 - Jet du d3 et d4, on additionne les deux. Puis le joueur choisit dans quelle direction il va, comme au trivial pursuit (donc au minimum 2 cases, ce qui évite de pouvoir réattaquer la case où l'on était déjà).
 
-- Pb de Shadow vs Hunter : nombre de cases limités. Donc dans Compendium, celui nuirait à la légitimité du déplacement. Prévoir une dizaine de cases serait cool. 12 est le bon nombre car vu qu'on un tirage à 2 - 6 déplacement. On diviserait le plateau de déplacement en 2 avec une répétition des cases de chaque côté à la manière d'un trivial pursuit.
-
 - 6 cases il faudrait à ce moment là (Equipement, Lieu, Consommable, [Case où l'on va où on veut],  ???).
 
 - Si l'on fait 7, on peut tirer une carte retournement au lieu de se déplacer.
