@@ -1,3 +1,5 @@
 - Limiter les attaques aux personnages adjacents au joueur ? => OUI, un système de portée selon les distances des cases.
 
-- L'attaque se détermine sur un D4, la défense sur un D3 et si la différence est faveur de l'attaquant, le défenseur subit une blessure, sinon, en cas d'égalité ou de résultat en faveur du défenseur, aucune blessure n'est infligée. Les bonus des équipements, consommables, etc., s'additionne au résultat des dés.
+- L'attaque se détermine sur un D4, la défense sur un D3 et si la différence est en faveur de l'attaquant, le défenseur subit une blessure, sinon, en cas d'égalité ou de résultat en faveur du défenseur, aucune blessure n'est infligée. Les bonus des équipements, consommables, etc., s'additionne au résultat des dés.
+
+- Si une attaque est réussie alors qu'un personnage est au seuil de la mort, celui-ci meur définitivement. Son assaillant a droit de récupérer un équipement de son choix, le reste (ses autres équipements et ses cartes en mains sont révélés et vont dans la défausse°;

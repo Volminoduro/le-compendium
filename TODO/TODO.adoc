@@ -8,14 +8,6 @@ Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 Case "Marchand" : 
 - Cela permet de troc des équipements contre ceux en stock du marchand.
 - Le paiement se fait visiblement de tous, l'équipement reçu en revanche est face cachée et seul l'acheteur le connait.
-- [On peut procéder à plusieurs trocs une fois que l'on est sur la case.]
 - Les légendaires ne peuvent pas être troqués. Les autres équipements troqués auprès du marchand sont défaussés définitivement.
-
-- Deux possibilités de stocks :
-  - Un stock avec un nombre fixe d'équipement et de rareté définie :
-    - Par exemple, 5 communs (coûte 2), 3 rares (coûte 3), 2 épiques (coûte 5), 1 légendaire (coûte 7) (tableau du nombre de stocks selon le nombre de joueur ?)
-      - Rejouabilité -- car il faut reconstituer le stock manuellement à chaque game.
-      - On sait ce que l'on obtient ++
-    - Un nombre fixe d'équipement mais de rareté aléatoire (tableau du nombre de stocks selon le nombre de joueur ? Plus simple à faire).
-      - Aléatoire ++
-      - [Prix qui augmenterait à chaque nouvel achat (++) - Prix fixe toute la game ?]. ++ 
+- Un nombre fixe d'équipement (Nombre d'équipements = Nombre de joueurs x 2) mais de rareté aléatoire.
+- Prix fixe à [2]

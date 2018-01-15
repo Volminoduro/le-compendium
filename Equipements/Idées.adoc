@@ -1,5 +1,10 @@
 https://fr.wikipedia.org/wiki/Liste_d%27objets_de_fiction
 
+- Légendaire : 1 exemplaire
+- Epique : 2 exemplaires
+- Rare : 3 exemplaires
+- Commun : 4 exemplaire ?
+
 - Légendaire : Excalibur, St Graal, L'anneau Unique.
 - Épique : Le Choixpeau magique (permet au tirage d'un dé d'obtenir l'épée de Godric Griffondor - trouver autre chose -, ou alors de le consommer une fois pour faire lancer un dé à un joueur et en dessous de 6, celui-ci doit révéler le camp auquel il appartient).
 - Rare : 
@@ -14,3 +19,11 @@ Idée :
 Le seigneur des anneaux : 
 
 
+
+
+
+
+- Arme : 
+  - Augmente ses dégâts de 1 à chaque personnage adverse tué.
+  
+  - Boost dégâts, contrainte : obligé d'attaquer un personnage à chaque tour sinon vous inflige 1 blessure.

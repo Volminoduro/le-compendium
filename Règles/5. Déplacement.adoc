@@ -1,3 +1,5 @@
+- Pour avancer, vous devez lancer le dé à 4 faces et celui à 3 faces. Vous additionnez le résultat de ces dés et vous pouvez avancer d'autant de cases que le résultat.
+
 - Jet du d3 et d4, on additionne les deux, puis le joueur choisit dans quelle direction il va.
 
 - Si l'on fait 7, un choix s'offre à nous : tirer une carte retournement ou se déplacer sur la case que l'on souhaite.
