@@ -18,4 +18,4 @@ Case "Marchand" :
       - On sait ce que l'on obtient ++
     - Un nombre fixe d'équipement mais de rareté aléatoire (tableau du nombre de stocks selon le nombre de joueur ? Plus simple à faire).
       - Aléatoire ++
-      - [Prix qui augmenterait à chaque nouvel achat (++) - Prix fixe toute la game ?].
+      - [Prix qui augmenterait à chaque nouvel achat (++) - Prix fixe toute la game ?]. ++ 

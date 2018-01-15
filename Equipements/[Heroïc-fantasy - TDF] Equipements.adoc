@@ -7,3 +7,6 @@ Corps :
 - Rare :
   - Armure en plaque :
     - Les dégâts infligés sont réduis de 2, vous infligez 1 dégât de moins au corps à corps.
+    
+    
+    - Collier de Mélisandre
