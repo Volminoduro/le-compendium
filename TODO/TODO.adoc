@@ -1,13 +1,17 @@
 Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 
-- Délimiter le cadre du thème Légende, rapport à la religion, etc. 
+- Délimiter le cadre du thème Légende, rapport à la religion, etc.
 
-- D3 et D4 avec un design spécifique ? Y réfléchir 
+- D3 et D4 avec un design spécifique ? Y réfléchir.
 
 
-Case "Marchand" : 
+Case "Marchand" :
 - Cela permet de troc des équipements contre ceux en stock du marchand.
 - Le paiement se fait visiblement de tous, l'équipement reçu en revanche est face cachée et seul l'acheteur le connait.
 - Les légendaires ne peuvent pas être troqués. Les autres équipements troqués auprès du marchand sont défaussés définitivement.
 - Un nombre fixe d'équipement (Nombre d'équipements = Nombre de joueurs x 2) mais de rareté aléatoire.
 - Prix fixe à [2]
+
+Case "Marchand de sang" :
+- Même mécanisme que la case "Marchand".
+- Le prix fixe serait de 2 PDV.

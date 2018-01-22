@@ -1,4 +1,4 @@
-Liste personnages cools à envisager : 
+Liste personnages cools à envisager :
 - Gatsby le magnifique
 - Dieu
 - Oskar Shell
@@ -7,10 +7,15 @@ Liste personnages cools à envisager :
 
 
 
+- Pouvoir :
+  - Le prix chez les cases MArchands n'est que de 1.
+  - Vous pouvez lancez qu'un seul dé pour vous déplacer.
+
+  - Les équipements n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
+  - Vous pouvez lancez les deux dés pour attaquer ou vous défendre.
 
 
-
-Liste lecture : 
+Liste lecture :
 - Bel Ami ?
 - 1984 ?
 - tales of two cities

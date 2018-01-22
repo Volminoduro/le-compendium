@@ -1,5 +1,16 @@
-- Attribution du meneur de jeu
+==== Attribution du meneur de jeu
+- A chaque partie, un meneur de jeu est choisi. Il peut être se désigné lui-même, être choisi aléatoirement, etc.
+- Le personnage du meneur de jeu sera révélé toute la partie et disposera d'un point de santé supplémentaire (sauf si personnage dispose déjà de 7 points de santé ?).
+- Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre.
+
+==== Placement des cases
+- Le tableau de jeu est composé de 12 cases vides. 
 - Placement des cartes comme les joueurs désirent ou au hasard ? ++ Rejouabilité
+
+==== Choix des extensions
+- Répartition du nombre de cartes par nombre de joueurs
+
+
+==== Attribution des personnages et des quêtes
 - Choix des personnages puis des quêtes
 - Attribution des personnages puis des quêtes
-- Le meneur de jeu révèle son personnage, il commence en premier.

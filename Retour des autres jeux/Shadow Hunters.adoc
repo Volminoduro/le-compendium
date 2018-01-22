@@ -1,0 +1,26 @@
+Shadow vs Hunters :
+- Contenu du jeu :
+
+1 plateau de jeu
+10 cartes personnage
+16 cartes Lumière
+16 cartes Ténèbres
+16 cartes Vision
+6 cartes Lieux
+8 cartes Joueurs
+8 marqueurs de Personnages
+8 marqueurs de Santé
+2 dés dont un 6 faces et un à 4 faces
+1 Règle du jeu
+
+
+- Les +  :
+  - Plateau et dés lors du déroulement des tours.
+  - Des personnaves des pouvoirs alternatifs
+- Les - :
+  - Déséquilibré, Shadow trop puissant (cf. Loup-Garou et Vampire).
+  - Au début, ça peut attaquer facilement au hasard sans avoir une idée de qui est qui.
+  - La mécanique de vision n'est vraiment intéressante qu'avec le métamorphe.
+  - Il n'y a que les neutres qui ont des objectifs vraiment différents.
+  - Rejouabilité un peu pauvre sans personnages neutre.
+  - Plein potentiel à partir de + 6 joueurs.
