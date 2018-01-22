@@ -1,7 +1,0 @@
-- Déplacement :
-
-- Jet du d3 et d4, on additionne les deux. Puis le joueur choisit dans quelle direction il va, comme au trivial pursuit (donc au minimum 2 cases, ce qui évite de pouvoir réattaquer la case où l'on était déjà).
-
-- 6 cases il faudrait à ce moment là (Equipement, Lieu, Consommable, [Case où l'on va où on veut],  ???).
-
-- Si l'on fait 7, on peut tirer une carte retournement au lieu de se déplacer.

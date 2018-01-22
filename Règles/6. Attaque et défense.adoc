@@ -1,5 +1,15 @@
-- Limiter les attaques aux personnages adjacents au joueur ? => OUI, un système de portée selon les distances des cases.
+- Vous êtes libre d'attaquer n'importe quel personnage (à l'exception de vous-même) lors de votre tour, après vous êtes déplacé.
 
-- L'attaque se détermine sur un D4, la défense sur un D3 et si la différence est en faveur de l'attaquant, le défenseur subit une blessure, sinon, en cas d'égalité ou de résultat en faveur du défenseur, aucune blessure n'est infligée. Les bonus des équipements, consommables, etc., s'additionne au résultat des dés.
+- Le choix de la cible est déterminé en partie par la limitation de votre portée. La portée est une donnée indiquant quelles zones autour de vous pouvez attaquer.
 
-- Si une attaque est réussie alors qu'un personnage est au seuil de la mort, celui-ci meur définitivement. Son assaillant a droit de récupérer un équipement de son choix, le reste (ses autres équipements et ses cartes en mains sont révélés et vont dans la défausse°;
+- Par défaut, votre portée est de 1. Cela signifie que vous pouvez attaquer votre case + les cases adjacentes à la vôtre, car elles sont éloignées de votre case de 1 case.
+
+- La portée peut être augmentée ou diminuée (via les équipements, pouvoirs, etc.), néanmoins elle ne peut pas descendre en-dessous de 0, et donc vous pourrez toujours attaquer sur la case où vous vous trouvez.
+
+- L'attaque se déroule ainsi :
+- L'attaquant lance le dé à 4 faces.
+- La défenseur (la cible de l'attaque) lance le dé à 3 faces.
+- Les bonus des équipements, consommables, etc., s'additionne au résultat des dés.
+- Si la différence est en faveur de l'attaquant, le défenseur subit une blessure, sinon, en cas d'égalité ou de résultat en faveur du défenseur, aucune blessure n'est infligée.
+
+- Si une attaque est réussie alors qu'un personnage est au seuil de la mort, celui-ci meur définitivement. Son assaillant a droit de récupérer un équipement de son choix, le reste (ses autres équipements et ses cartes en mains sont révélés et défaussés).
