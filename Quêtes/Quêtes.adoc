@@ -1,1 +1,3 @@
-- Les quêtes sont les objectifs à accomplir pour chaque personnage dans la partie.
+- Tuer le meneur de jeu.
+
+- Achever le dernier personnage de votre alignement encore en vie. 
