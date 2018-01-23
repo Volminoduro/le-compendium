@@ -4,7 +4,7 @@
 - Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre.
 
 ==== Placement des cases
-- Le tableau de jeu est composé de 12 cases vides. 
+- Le tableau de jeu est composé de 12 cases vides.
 - Placement des cartes comme les joueurs désirent ou au hasard ? ++ Rejouabilité
 
 ==== Choix des extensions
@@ -14,3 +14,17 @@
 ==== Attribution des personnages et des quêtes
 - Choix des personnages puis des quêtes
 - Attribution des personnages puis des quêtes
+
+
+==== Attribution alignement selon le nombre de joueurs
+|=======
+|Nb. de joueurs |Antagoniste |Neutre |Protagoniste
+|3 |1 |1 |1
+|4 |1 |2 |1
+|5 |2 |1 |2
+|6 |2 |2 |2
+|7 |2 |3 |2
+|8 |3 |2 |3
+|9 |3 |3 |3
+|10 |3 |4 |3
+|=======

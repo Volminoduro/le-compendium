@@ -1,19 +1,19 @@
-Harry Potter : 
-  - Protagoniste : 
+Harry Potter :
+  - Protagoniste :
     - Harry Potter
       - La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en jeu.
       - Expelliarmus (utilisation unique et seulement en combat) : retire l'arme de l'adversaire avant le calcul des dégâts, celle-ci va dans la défausse. Harry peut s'équiper de l'arme après le combat s'il n'en dispose pas d'une.
     - Severus Rogue
-      - Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est inclu.
-      - Maître des potions : peut fabriquer une fois une potion de vie (soigne 2 PDB), une potion de mort (inflige 1 blessure) ou une potion de chance (pioche une carte Retournement). 
-  - Antagoniste : 
+      - Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
+      - Maître des potions : peut fabriquer une fois une potion de vie (soigne 2 PDB), une potion de mort (inflige 1 blessure) ou une potion de chance (pioche une carte Retournement).
+  - Antagoniste :
     - Voldemort (PDB ?)
       - <TODO> Une ou deux en plus ?
       - Horcruxe : chaque personnage qu'il achève lui permet de résister à une mort définitive, peut être cumulé.
       - La prophétie : ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en jeu (voir plutôt pour un pouvoir positif dépendant l'un de l'autre).
     - Dolores Ombrage <TODO>
-      - 
-  - Neutre : 
+      -
+  - Neutre :
     - Gripsec
       - Avidité : peut s'équiper de deux équipements de qualité légendaire.
       - Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu.
@@ -21,17 +21,17 @@ Harry Potter :
       - 7 PDB.
       - Cannibalisme : lorsqu'il atteint le seuil de la mort, Aragog peut consommer un de ses oeufs pour remonter à 1 PDB.
       - [Couvée] : lorsqu'Aragog reçoit un soin excèdentaire, il génère un oeuf.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-  Harry Potter : 
+
+
+
+
+
+
+
+
+
+
+  Harry Potter :
 - Dolores Ombrage
 - Severus Rogue
 - Queue-de-ver

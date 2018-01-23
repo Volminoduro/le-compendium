@@ -15,3 +15,9 @@ Case "Marchand" :
 Case "Marchand de sang" :
 - Même mécanisme que la case "Marchand".
 - Le prix fixe serait de 2 PDV.
+
+- Thème couleur ?
+
+- Pion îcone pour reconnaître les personnages sur le plateau ?
+
+- Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
