@@ -21,3 +21,9 @@ Case "Marchand de sang" :
 - Pion îcone pour reconnaître les personnages sur le plateau ?
 
 - Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
+
+==== Cases
+- 2 cases "Equipements"
+- 2 cases "Consommables"
+- 2 cases "Lieux"
+- 2 cases "Marchands"

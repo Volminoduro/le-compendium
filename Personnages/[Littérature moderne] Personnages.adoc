@@ -1,6 +1,7 @@
-Littérature moderne : 
+Littérature moderne :
 - Tyler Durden (Fight Club)
 - Orange mécanique
 - Vito Corleone (Le parrain)
 - Alan Parrish (Jumanji)
+  - Perdu dans le Jumanji : si votre jet de déplacement est inférieur à 3, déplacez-vous vers la gauche. Si il est supérieur à 3, déplacez-vous vers le droite.
 - James Bond

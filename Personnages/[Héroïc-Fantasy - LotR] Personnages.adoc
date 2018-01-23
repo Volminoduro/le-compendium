@@ -1,5 +1,6 @@
-Le seigneur des anneaux : 
-  - Neutre : 
+Le seigneur des anneaux :
+  - Neutre :
     - Smeagol [6 PDB]
       - Mon précieux : si l'Anneau unique entre en possession de Smeagol, il ne peut pas le défausser ni l'échanger.
-      - 
+      - Obsession sanguinaire : lors d'une attaque réussie sur un autre personnage portant l'Anneau Unique, vous infligez deux points de dégâts au lieu de 1.
+      - Fratricide : Tuer un personnage de votre alignement ne vous pénalise que d'un point.
