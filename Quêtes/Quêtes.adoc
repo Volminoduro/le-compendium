@@ -6,19 +6,13 @@
 - Être le dernier personnage en vie.
 - Être en vie à la fin de la partie.
 
-==== Meneur de jeu
-- Le meneur de jeu est toujours vivant à la fin de la partie.
+- Achever le dernier personnage de votre alignement encore en vie. 
 
-==== Equipements
-- Avoir 2 objets légendaire en main (les items équipés ne comptent pas).
-- Avoir 1 item légendaire et 3 items épiques d'équipés.
-- Avoir échangé 1 équipement avec chaque joueur de la partie (à revoir peut-être un peu car compliqué de tout retenir).
-- Finir la partie sans équipement sur soi.
 
-==== Marchand
-- Avoir acheté le dernier objet disponible du marchand.
-- Avoir acheté au moins 5 objets du marchand.
--
-
-==== Retournement
-- Avoir utilisé 3 cartes Retournement lors de la partie.
+Objectif dans Shadow vs Hunter :
+- Le joueur à votre gauche / droite doit gagner.
+- Rester en vie jusqu'à la fin.
+- Mourir en premier.
+- Tuer un personnage à 13 PDV ou se trouver à un endroit à la fin de la partie.
+- Réunir des objets spécifiques.
+- Tuer tous les Shadows / Hunters.
