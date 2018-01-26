@@ -1,0 +1,3 @@
+- Maison en pain d'épice :
+  - Vous pouvez manger jusqu'à 3 fois et récupérer 1 point de Santé à chaque fois.
+  - Si vous mangez 3 fois, vous ne pourrez plus vous déplacer au prochain tour.

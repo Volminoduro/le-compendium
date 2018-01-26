@@ -1,4 +1,4 @@
-Harry Potter : 
+Harry Potter :
 https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 - Les reliques de la mort ? Baguette de sureau (arme), pierre de résurrection (accessoire permet de rez quelqu'un ? à réfléchir), cape d'invisibilité (corps, esquiver les attaques ?)
 - Pierre philosophale ?
@@ -9,3 +9,4 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 - Retourneur de temps
 - Bézoard
 - Carte du maraudeur
+- Épique : Le Choixpeau magique (permet au tirage d'un dé d'obtenir l'épée de Godric Griffondor - trouver autre chose -, ou alors de le consommer une fois pour faire lancer un dé à un joueur et en dessous de 6, celui-ci doit révéler le camp auquel il appartient).

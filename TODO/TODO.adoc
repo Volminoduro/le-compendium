@@ -16,6 +16,12 @@ Case "Marchand de sang" :
 - Même mécanisme que la case "Marchand".
 - Le prix fixe serait de 2 PDV.
 
+- Case "Vol (dans la main)" :
+- On désigne un joueur, celui-ci présente ses cartes face cachées, puis on choisit et prends une de ses cartes.
+
+- Case "Vol équipement" :
+- On désigne un joueur, puis on choisit et prends un de ses équipements (ne peut pas être un des items légendaire ?).
+
 - Thème couleur ?
 
 - Pion îcone pour reconnaître les personnages sur le plateau ?
@@ -27,3 +33,6 @@ Case "Marchand de sang" :
 - 2 cases "Consommables"
 - 2 cases "Lieux"
 - 2 cases "Marchands"
+- 2 cases "Vol"
+
+Manque 2 cases
