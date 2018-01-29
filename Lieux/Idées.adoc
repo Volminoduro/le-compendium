@@ -1,0 +1,6 @@
+Pouvoir :
+
+- Tout le monde gagne 1 PDS
+- Tout le monde perd 1 PDS
+- Le joueur avec le meilleur score d'équipement donne à celui avec le plus bas
+- 

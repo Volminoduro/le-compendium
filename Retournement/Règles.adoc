@@ -1,3 +1,1 @@
-Règles
-
-Les cartes Retournement sont des cartes très puissantes, peu nombreuses et répondant à certaines conditions pour être activées. Lorsque la condition est respectée, elles peuvent être activées ou non, au choix de leur possesseur. Lorsqu'une carte Retournement est activée et son effet résolu, elle est définitivement écartée du jeu, elle ne revient pas dans la défausse.
+- Les cartes Retournement sont des cartes très puissantes, peu nombreuses et répondant à certaines conditions pour être activées. Lorsque la condition est respectée, elles peuvent être activées ou non, au choix de leur possesseur. Lorsqu'une carte Retournement est activée et son effet résolu, elle est définitivement écartée du jeu, elle ne revient pas dans la défausse.

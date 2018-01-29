@@ -7,20 +7,20 @@ Arme :
 Accessoires :
   - Menotte :
     - Utilisation (1 charge) : choisissez un personnage, celui-ci ne peut utiliser son arme au prochain tour. Celui-ci peut s'en défaire, au début de son tour, en faisant un 6.
-    
-Corps : 
+
+Corps :
 - Commun :
   - Gilet pare-balle :
     - Vous réduisez les dégâts à distance de 1.
 - Rare :
   - Gilet en kevlar : [trouver mieux et plus exhaustif]
     - Vous réduisez les dégâts à distance de 2.
-    
+
 Tête :
 - Commun :
   - Casque : [trouver mieux et plus exhaustif]
     - Vous réduisez les dégâts au corps-à-corps et à distance de 1.
-    
+
 
 - Canon à eau
 

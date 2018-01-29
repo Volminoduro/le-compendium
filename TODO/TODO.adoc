@@ -1,9 +1,8 @@
 Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 
-- Délimiter le cadre du thème Légende, rapport à la religion, etc.
-
 - D3 et D4 avec un design spécifique ? Y réfléchir.
 
+- Autre nom que point de santé ?
 
 Case "Marchand" :
 - Cela permet de troc des équipements contre ceux en stock du marchand.
@@ -34,5 +33,4 @@ Case "Marchand de sang" :
 - 2 cases "Lieux"
 - 2 cases "Marchands"
 - 2 cases "Vol"
-
-Manque 2 cases
+- 2 cases "Déplacement" (Déplacement -1 et +1)

@@ -1,11 +1,11 @@
 ==== Attribution du meneur de jeu
 - A chaque partie, un meneur de jeu est choisi. Il peut être se désigné lui-même, être choisi aléatoirement, etc.
-- Le personnage du meneur de jeu sera révélé toute la partie et disposera d'un point de santé supplémentaire (sauf si personnage dispose déjà de 7 points de santé ?).
-- Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre.
+- Le personnage du meneur de jeu sera révélé toute la partie et disposera d'un point de santé supplémentaire (sauf si le personnage dispose déjà de 7 points de santé maximum).
+- Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront ensuite.
 
 ==== Placement des cases
-- Le tableau de jeu est composé de 12 cases vides.
-- Placement des cartes comme les joueurs désirent ou au hasard ? ++ Rejouabilité
+- Le tableau de jeu est composé de 12 emplacement de cases vides.
+- Vous êtes libre de placer les cases comme vous le souhaitez, à condition de placer chaque case à l'opposé de celle qui aura le même bord coloré qu'elle (autre indice visuel ?).
 
 ==== Choix des extensions
 - Répartition du nombre de cartes par nombre de joueurs
@@ -17,6 +17,8 @@
 
 
 ==== Attribution alignement selon le nombre de joueurs
+- Afin de respecter un certain équilibre, nous vous conseillons de suivre le tableau suivant pour répartir en nombre les membres des différents alignements dans la partie.
+
 |=======
 |Nb. de joueurs |Antagoniste |Neutre |Protagoniste
 |3 |1 |1 |1
