@@ -6,7 +6,10 @@
 - Être le dernier personnage en vie.
 - Être en vie à la fin de la partie.
 
-- Achever le dernier personnage de votre alignement encore en vie. 
+- Achever le dernier personnage de votre alignement encore en vie.
+
+Policier :
+- Acharnement : tazzer, menoter, mettre en prison puis achever un personnage (dans cet ordre).
 
 
 Objectif dans Shadow vs Hunter :
