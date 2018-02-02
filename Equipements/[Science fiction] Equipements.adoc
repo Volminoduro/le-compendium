@@ -3,8 +3,6 @@
 https://fr.wikipedia.org/wiki/La_Patte_de_singe
 - Se retrouver au seuil de la mort ?
 
-- https://fr.wikipedia.org/wiki/Poignard_subtil Æsahættr (Arme - Légendaire) :
-  - Sélectionner une cible.
-  - Lancez les deux dés.
-  - Si vous faites 3 sur l'un des deux, vous pouvez l'attaquer sans prendre en compte la portée (portée infinie).
-  - Si vous faites 4 sur le dé à 4 faces, la cible subira une blessure qu'importe l'issue du combat.
+- https://fr.wikipedia.org/wiki/Poignard_subtil Æsahættr (Arme - Légendaire - 1 PO) :
+  - Après vous êtes déplacé, si vous le souhaitez, lancez le dé à 3 faces. Si le résultat est 3, vous disposez d'une portée infinie.
+  - Au moment de l'attaque, si vous le souhaitez, lancez le dé à 4 faces. Si le résultat est 4, le défenseur subira une blessure qu'importe l'issue du combat (peut s'additionner à la blessure du combat).

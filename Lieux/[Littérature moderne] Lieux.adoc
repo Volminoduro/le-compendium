@@ -1,3 +1,5 @@
+:imagesdir:../Images
+
 - Lou's tavern (Fight Club) :
 - Pool de combattant formé par ceuix qui veulent le faire, ceux qui n'ont jamais combattu y sont inclus automatiquement. Puis sélection en priorité entre ceux qu'ont jamais combattu puis les habitués.
  - Un duel est entamé entre deux personnages qui le désirent (ou tirage de dé au plus puissant). Celui qui déploie la plus grande valeur d'attaque remporte le tour et inflige une blessure à son adversaire.
@@ -5,3 +7,4 @@
  - Si vous n'avez pas encore pris pars à un duel, vous devez combattre.
  - Image :
  - Citation : "I'm fucking Lou. Who the fuck are you?" - Fight Club, Chuck Palanhiuk, 1996
+ - Image : image:Lou's_tavern.jpg[Lou's Tavern]
