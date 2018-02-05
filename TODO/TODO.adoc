@@ -1,19 +1,9 @@
 Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 
-- D3 et D4 avec un design spécifique ? Y réfléchir.
+- D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
 - Autre nom que point de santé ?
 
 - Thème couleur ?
-
+** Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
 - Pion îcone pour reconnaître les personnages sur le plateau ?
-
-- Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
-
-==== Cases
-- 2 cases "Equipements"
-- 2 cases "Consommables"
-- 2 cases "Lieux"
-- 2 cases "Marchands"
-- 2 cases "Vol"
-- 2 cases "Déplacement" (Déplacement -1 et +1)

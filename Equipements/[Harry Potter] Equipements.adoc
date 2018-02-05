@@ -1,12 +1,67 @@
 Harry Potter :
 https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 - Les reliques de la mort ? Baguette de sureau (arme), pierre de résurrection (accessoire permet de rez quelqu'un ? à réfléchir), cape d'invisibilité (corps, esquiver les attaques ?)
+* http://harrypotter.wikia.com/wiki/Probity_Probe
 - Pierre philosophale ?
-- Glace à l'ennemi
 - Nagini ?
 - Balais volants ?
-- Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant, Poudre de cheminette
+- Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
 - Retourneur de temps
 - Bézoard
 - Carte du maraudeur
-- Épique : Le Choixpeau magique (permet au tirage d'un dé d'obtenir l'épée de Godric Griffondor - trouver autre chose -, ou alors de le consommer une fois pour faire lancer un dé à un joueur et en dessous de 6, celui-ci doit révéler le camp auquel il appartient).
+- Épique :
+
+=== Accessoires (total ?)
+
+===== Commune
+* Glace à l'ennemi (1 exemplaire) [A passer en consommable ?]
+** Détecteur de magie noire (1 charge) : Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre (il ne se passe rien si vous êtes Neutre ou s'ils le sont).
+
+===== Rare
+
+===== Epique
+
+===== Légendaire
+
+* Retourneur de temps
+** Un petit tour : Retour à l'état du prochain tour ?
+
+=== Armes (total ?)
+
+===== Commune
+
+===== Rare
+
+===== Epique
+
+===== Légendaire
+
+* Epée de Godric Griffondor (1 exemplaire, 1 portée)
+** Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire.
+** A chaque fois que vous achevez un adversaire avec cette épée, elle gagne les effets bénéfiques de l'arme adverse si ceux-ci sont plus puissants que les vôtres.
+** + 2 dégâts.
+
+=== Corps (total ?)
+
+===== Commune
+
+===== Rare
+
+===== Epique
+
+===== Légendaire
+
+=== Tête (total ?)
+
+===== Commune
+
+===== Rare
+
+===== Epique
+* Le Choixpeau magique (1 exemplaire)
+** (Réservé aux Protagonistes) Lorsque vous êtes attaqués avec 2 PDS ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor [(retourner la carte)] et ce même si un autre joueur la possédait déjà.
+** Legilimency chapelière (1 charge) : Le joueur ciblé doit dire son identité et sa quête à haute voix. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir.
+** Illustration
+** Citation
+
+===== Légendaire

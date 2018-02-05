@@ -32,3 +32,4 @@
 ==== 2 cases "Déplacement +1 | -1" :
 - Une case : vous fait reculer d'une case, dans le sens où vous êtes arrivé.
 - Une case : vous fait avancer d'une case, dans le sens où vous êtes arrivé.
+- Code couleur ? (TODO)
