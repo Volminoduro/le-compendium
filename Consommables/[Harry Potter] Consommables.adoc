@@ -13,3 +13,7 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 * Poudre de cheminette
 ** Utilisable lors de votre déplacement
 *** Vous pouvez rendre sur la case de votre choix.
+
+* Potion de chance (Felix Felicis)
+** Utilisable à tout moment
+*** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.

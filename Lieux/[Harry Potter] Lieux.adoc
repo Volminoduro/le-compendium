@@ -1,3 +1,6 @@
 Banque de Gringotts :
 - Vous permet de stocker jusqu'à deux équipement ou cartes de votre main.
 - Vous pouvez retirer jusqu'à deux équipements ou cartes de votre main lorsque vous arrivez sur ce lieu.
+
+* Taverne de la Tête du Sanglier :
+** Chaque personne déjà révélée ou voulant se reveler peut venir boire une bière au beurre (soin de 1 PDS).
