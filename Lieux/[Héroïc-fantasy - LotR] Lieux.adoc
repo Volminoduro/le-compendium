@@ -1,0 +1,3 @@
+* Mines de moria
+** En commençant par le tireur de ce lieu, puis dans l'ordre des aiguilles d'une montre, chaque joueur pioche une carte équipement du Marchand.
+** Si la pile est vide, ceux n'ayant pas pu prendre d'équipement perdent un point de santé.

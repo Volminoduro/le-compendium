@@ -17,3 +17,6 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 * Potion de chance (Felix Felicis)
 ** Utilisable à tout moment
 *** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
+
+* Manuel de potion du Prince de Sang-Mêlé
+** Même effets que Rogue, lui qui y aura accès constamment.
