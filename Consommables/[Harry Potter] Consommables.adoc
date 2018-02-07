@@ -1,8 +1,8 @@
 Harry Potter :
 https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
-- Les reliques de la mort ? Baguette de sureau (arme), pierre de résurrection (accessoire permet de rez quelqu'un ? à réfléchir), cape d'invisibilité (corps, esquiver les attaques ?)
+http://harrypotter.wikia.com/wiki/Dark_Arts
+http://harrypotter.wikia.com/wiki/Potion
 - Pierre philosophale ?
-- Glace à l'ennemi
 - Nagini ?
 - Balais volants ?
 - Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
@@ -20,3 +20,7 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 
 * Manuel de potion du Prince de Sang-Mêlé
 ** Même effets que Rogue, lui qui y aura accès constamment.
+
+* Philtre d'amour
+** Le personnage ciblé tombe fou amoureux de celui qui lui administre le philtre.
+** Si la cible de son amour venait à mourir, il se suicidera.

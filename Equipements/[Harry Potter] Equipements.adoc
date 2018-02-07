@@ -1,6 +1,5 @@
 Harry Potter :
 https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
-- Les reliques de la mort ? Baguette de sureau (arme), pierre de résurrection (accessoire permet de rez quelqu'un ? à réfléchir), cape d'invisibilité (corps, esquiver les attaques ?)
 * http://harrypotter.wikia.com/wiki/Probity_Probe
 - Pierre philosophale ?
 - Nagini ?
@@ -21,9 +20,20 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 
 ===== Epique
 
+* Nagini (1 exemplaire)
+** Fidélité extrême à Voldemort : Réservé aux Antagonistes
+** Les blessures de combat que vous infligez ne peuvent être soignés.
+** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place.
+
+
 ===== Légendaire
 
-* Retourneur de temps
+* Pierre de Résurrection (1 exemplaire)
+** Vous pouvez communiquer librement avec les personnages décédés lors de la partie.
+** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
+** Si vous avez possédez dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+
+* Retourneur de temps (1 exemplaire)
 ** Un petit tour : Retour à l'état du prochain tour ?
 
 === Armes (total ?)
@@ -36,10 +46,16 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 
 ===== Légendaire
 
+* Baguette de sureau
+** Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
+** [+ 4 Dégâts]
+** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
+** Si vous avez possédez dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+
 * Epée de Godric Griffondor (1 exemplaire, 1 portée)
 ** Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire.
-** A chaque fois que vous achevez un adversaire avec cette épée, elle gagne les effets bénéfiques de l'arme adverse si ceux-ci sont plus puissants que les vôtres.
-** + 2 dégâts.
+** A chaque fois que vous attaquez un adversaire, si la différence en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussés éternellement, placez les sous la carte de l'Epée).
+** + 1 dégâts.
 
 === Corps (total ?)
 
@@ -50,6 +66,12 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 ===== Epique
 
 ===== Légendaire
+
+* Cape d'Invisibilité
+** [On ne peut vous attaquer que si l'on est sur la même case que vous.]
+** [Résister aux effets négatifs ?]
+** Peut-être équipé avec la Pierre de Résurrection et la Baguette de Sureau.
+** Si vous avez possédez dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 === Tête (total ?)
 

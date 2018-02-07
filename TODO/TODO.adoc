@@ -1,9 +1,12 @@
-Avancer de cases serait avancer de "Pages" en pages dans le jeu.
+* Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 
-- D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
+* D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
-- Autre nom que point de santé ?
+* Autre nom que point de santé ?
 
-- Thème couleur ?
+* Thème couleur ?
 ** Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
-- Pion îcone pour reconnaître les personnages sur le plateau ?
+
+* Thème => Différent style de dessin selon le thème ?
+
+* Pion îcone pour reconnaître les personnages sur le plateau ?
