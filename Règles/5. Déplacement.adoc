@@ -2,4 +2,4 @@
 - Si le résultat de l'addition des deux dés est 7, un choix s'offre à vous : tirer une carte retournement et ne pas se déplacer, ou se déplacer sur la case que l'on souhaite.
 
 Infos pour la conception :
-- On parcoure au minimum 2 cases (vu qu'on lance deux dés), ce qui évite de pouvoir réattaquer la case où l'on se trouvait déjà.
+- On parcourt au minimum 2 cases (vu qu'on lance deux dés), ce qui évite de pouvoir réattaquer la case où l'on se trouvait déjà.
