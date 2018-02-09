@@ -22,11 +22,15 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 
 * Nagini (1 exemplaire)
 ** Fidélité extrême à Voldemort : Réservé aux Antagonistes
-** Les blessures de combat que vous infligez ne peuvent être soignés.
+** Les blessures de combat que vous infligez ne peuvent être soignés - [Baisse les PVS max ?].
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place.
 
 
 ===== Légendaire
+
+* Pierre philosophale
+** Génération d'un filtre qui "soignerai"
+** Obligation d'en boire à un intervalle régulier sinon la mort ou malus
 
 * Pierre de Résurrection (1 exemplaire)
 ** Vous pouvez communiquer librement avec les personnages décédés lors de la partie.
@@ -48,7 +52,7 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 
 * Baguette de sureau
 ** Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
-** [+ 4 Dégâts]
+** Double tous vos bonus de dégâts, qu'ils soient actifs ou passifs.
 ** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 ** Si vous avez possédez dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 

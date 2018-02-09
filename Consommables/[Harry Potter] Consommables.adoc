@@ -24,3 +24,13 @@ http://harrypotter.wikia.com/wiki/Potion
 * Philtre d'amour
 ** Le personnage ciblé tombe fou amoureux de celui qui lui administre le philtre.
 ** Si la cible de son amour venait à mourir, il se suicidera.
+
+* Sang de licorne
+** Vous pouvez échapper à la mort une fois.
+** Vous ne pourrez plus vous déplacer et agir dans le même tour, cela sera l'un ou l'autre.
+
+* Les dragées des frères Weasleys
+** Effets aléatoire : 1 serait de piocher une carte retournement
+
+http://harrypotter.wikia.com/wiki/Elixir_of_Life
+http://harrypotter.wikia.com/wiki/Nicolas_Flamel

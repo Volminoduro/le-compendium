@@ -4,3 +4,6 @@ Banque de Gringotts :
 
 * Taverne de la Tête du Sanglier :
 ** Chaque personne déjà révélée ou voulant se reveler peut venir boire une bière au beurre (soin de 1 PDS).
+
+* La Forêt Interdite
+** Rencontre aléatoire

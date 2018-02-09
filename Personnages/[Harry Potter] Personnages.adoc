@@ -1,26 +1,37 @@
-Harry Potter :
-  - Protagoniste :
-    - Harry Potter
-      - La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
-      - Expelliarmus (utilisation unique) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
-    - Severus Rogue
-      - Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
-      - Maître des potions : peut fabriquer une fois une potion de vie (soigne 2 PDB), une potion de mort (inflige 1 blessure) ou une potion de chance (pioche une carte Retournement).
-  - Antagoniste :
-    - Voldemort (PDB ?)
-      - Horcruxe : chaque personnage qu'il achève lui permet de résister à une mort définitive, peut être cumulé.
-      - La prophétie : ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
-    - Dolores Ombrage <TODO>
-      -
-  - Neutre :
-    - Gripsec
-      - Avidité : peut s'équiper de deux équipements de qualité légendaire.
-      - Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu.
-    - Aragog :
-      - 7 PDB.
-      - Cannibalisme : lorsqu'il atteint le seuil de la mort, Aragog peut consommer un de ses oeufs pour remonter à 1 PDB.
-      - [Couvée] : lorsqu'Aragog reçoit un soin excèdentaire, il génère un oeuf.
+* Protagoniste :
+  ** Harry Potter (5 PDS)
+    *** La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
+    *** Accio :
+    *** Expelliarmus (utilisation unique) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
+  - Severus Rogue
+    *** Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
+    *** Maître des potions : [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
+  ** Firenze
+    *** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
+    *** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
+    *** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que vous. Son déplacement n'activera aucune case.
+* Antagoniste :
+  ** Voldemort (PDB ?)
+    *** Horcruxe : chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut être cumulé.
+    *** La prophétie : ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
+  ** Queue-De-Ver :
+    *** Lâcheté : peut sacrifier un
 
+* Neutre :
+  ** Gripsec
+    *** [Avidité : peut s'équiper de deux équipements de qualité légendaire.]
+    *** [Expertise gobeline] :
+    *** Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu.
+  ** Aragog (7 PDS) :
+    *** Colonie acromantulère : Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez.
+    *** Ponte : lorsqu'Aragog reçoit un soin excèdentaire, il génère un "Membre de la couvée".
+  ** Gilderoy Lockhart :
+    *** Escroc : Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage dont vous avez effacé la mémoire (vous cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence).
+    *** Oubliettes : Ciblez un personnage autre que vous, lancez les deux dés
+      **** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête.
+      **** Si le résultat est 2, vous ne gagnerez aucun points de votre quête, ni de celle des autres, et vous ne pourrez plus utiliser la compétences "Oubliettes".
+  ** Dolores Ombrage <TODO>
+    ***
 
 
 
