@@ -1,9 +1,16 @@
-Banque de Gringotts :
-- Vous permet de stocker jusqu'à deux équipement ou cartes de votre main.
-- Vous pouvez retirer jusqu'à deux équipements ou cartes de votre main lorsque vous arrivez sur ce lieu.
+https://en.wikipedia.org/wiki/Places_in_Harry_Potter
+
+* Banque de Gringotts :
+  ** Vous permet de stocker jusqu'à deux équipement ou cartes de votre main.
+  ** Vous pouvez retirer jusqu'à deux équipements ou cartes de votre main lorsque vous arrivez sur ce lieu.
 
 * Taverne de la Tête du Sanglier :
-** Chaque personne déjà révélée ou voulant se reveler peut venir boire une bière au beurre (soin de 1 PDS).
+  ** Chaque personne déjà révélée ou voulant se reveler peut venir boire une bière au beurre (soin de 1 PDS).
 
 * La Forêt Interdite
-** Rencontre aléatoire
+  ** Rencontre aléatoire
+
+* Azkaban
+  ** Vous désignez un autre personnage que vous, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
+  ** Il doit faire un double en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
+  ** Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libre de sortir.

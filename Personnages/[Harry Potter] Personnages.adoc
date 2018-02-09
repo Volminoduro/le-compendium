@@ -9,7 +9,7 @@
   ** Firenze
     *** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
     *** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
-    *** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que vous. Son déplacement n'activera aucune case.
+    *** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
 * Antagoniste :
   ** Voldemort (PDB ?)
     *** Horcruxe : chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut être cumulé.
