@@ -10,3 +10,7 @@
 * Thème => Différent style de dessin selon le thème ?
 
 * Pion îcone pour reconnaître les personnages sur le plateau ?
+
+* Trouver solution pour révélation plateau points de blessures / Points de santé
+
+* Attention aux placements cases Marchands et trocs, à côté des +1 ou -1 pour éviter l'abus

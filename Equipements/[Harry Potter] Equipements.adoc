@@ -13,18 +13,24 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 === Accessoires (total ?)
 
 ===== Commune
-* Glace à l'ennemi (1 exemplaire) [A passer en consommable ?]
+* Glace à l'ennemi (3 exemplaire) [A passer en consommable ?]
 ** Détecteur de magie noire (1 charge) : Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre (il ne se passe rien si vous êtes Neutre ou s'ils le sont).
 
 ===== Rare
+
+* Miss Teigne (1 exemplaire)
+** Annule les malus de portée d'un adversaire de combat si il est à 1 de portée ou moins de vous.
+** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 1 blessure).
 
 ===== Epique
 
 * Nagini (1 exemplaire)
 ** Fidélité extrême à Voldemort : Réservé aux Antagonistes
-** Les blessures de combat que vous infligez ne peuvent être soignés - [Baisse les PVS max ?].
-** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place.
+** Les blessures de combat que vous infligez baissent également les PDB maximums.
+** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessure).
 
+* Buck
+**
 
 ===== Légendaire
 
@@ -84,6 +90,9 @@ https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 ===== Rare
 
 ===== Epique
+* Oeil magique du professeur
+** [Permet de voir ce qui est pioché par les autres joueurs ?]
+
 * Le Choixpeau magique (1 exemplaire)
 ** (Réservé aux Protagonistes) Lorsque vous êtes attaqués avec 2 PDS ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor [(retourner la carte)] et ce même si un autre joueur la possédait déjà.
 ** Legilimency chapelière (1 charge) : Le joueur ciblé doit dire son identité et sa quête à haute voix. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir.

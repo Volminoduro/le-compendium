@@ -29,8 +29,18 @@ http://harrypotter.wikia.com/wiki/Potion
 ** Vous pouvez échapper à la mort une fois.
 ** Vous ne pourrez plus vous déplacer et agir dans le même tour, cela sera l'un ou l'autre.
 
+* http://harrypotter.wikia.com/wiki/Dungbomb
+** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
+
+* http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup
+** La prochaine boisson que la cible de cette carte boira, lui fera perdre un PDB au lieu de son effet.
+
 * Les dragées des frères Weasleys
 ** Effets aléatoire : 1 serait de piocher une carte retournement
+*** Soin de 1 PDS
+*** Tirer une carte "Consommable"
+*** Tirer une carte "Equipement"
+*** Téléportation sur la case d'un autre joueur (sans la déclencher)
 
 http://harrypotter.wikia.com/wiki/Elixir_of_Life
 http://harrypotter.wikia.com/wiki/Nicolas_Flamel
