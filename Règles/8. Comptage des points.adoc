@@ -2,7 +2,6 @@
 * Par ailleurs, si une condition pour obtenir des points se répète, vous pouvez la répéter autant de fois pour le calcul des points.
 ** Ex : Pour la condition "Vous avez tué un personnge de l'alignement adverse", si vous en avez tué 2, le calcul de ses points se produit 2 fois.
 
-Grille de points :
 * Général
 ** Vous avez accompli votre quête : + 8 points
 ** Votre personnage est mort lors de la partie : - 5 points
