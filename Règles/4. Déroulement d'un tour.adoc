@@ -1,4 +1,4 @@
-Déroulement d'un tour* Action de début de tour (pouvoir d'héros, d'objet, etc.)
+* Action de début de tour (pouvoir d'héros, d'objet, etc.)
 * Résolution d'effets de début de tour
 * Déplacement
 ** Lancez deux dés, additionner les deux résultats, par la droite ou la gauche, avancez d'autant de cases.
