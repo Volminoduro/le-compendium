@@ -1,0 +1,37 @@
+==== 2 cases "Consommable" :
+* Ces deux cases permettent de piocher une carte de la pile "Consommable".
+* Code couleur ? (TODO)
+
+==== 2 cases "Equipement" :
+* Ces deux cases permettent de piocher une carte de la pile "Equipement".
+* Code couleur ? (TODO)
+
+==== 2 cases "Lieux" :
+* Ces deux cases permettent de piocher une carte de la pile "Lieux".
+* Code couleur ? (TODO)
+
+==== 2 cases "Marchand" :
+* Bordure en couleur jaune.
+
+===== Marchand d'or :
+  * Cela permet de troquer des équipements en votre possession contre un provenant du marchand.
+  * Le paiement se fait au regard de tous, l'équipement reçu en revanche est face cachée et seul l'acheteur le connaît.
+  * Les légendaires ne peuvent pas être troqués. Les autres équipements troqués auprès du marchand sont défaussés définitivement (à ne pas mettre dans la pile de défausse habituelle).
+  * Prix fixe à 2 points d'équipement.
+  * Un équipement commun vaut 1 point, rare 2 points, épique 3 points.
+  * Vous ne pouvez acheter qu'un seul équipement par tour.
+  * Le stock du marchand est déterminé de la façon suivante : taille du stock = nombre de joueurs x 2. Il vous suffit de piocher autant de cartes aléatoirement de la pile d'équipement au début de la partie.
+
+===== Marchand de sang :
+  * Même mécanisme que la case "Marchand", à l'exception que le paiement se fait en PDS.
+  * Le prix fixe est de 2 PDS.
+
+==== 2 cases "Larcin" :
+* Code couleur or.
+* Une case : permet de voler une carte dans la main d'un joueur ciblé (ne peut pas être vous).
+* Une case : permet de voler un équipement d'un joueur ciblé (ne peut pas être un objet légendaire).
+
+==== 2 cases "Déplacement +1 | -1" :
+* Une case : vous fait reculer d'une case, dans le sens où vous êtes arrivé.
+* Une case : vous fait avancer d'une case, dans le sens où vous êtes arrivé.
+* Code couleur ? (TODO)
