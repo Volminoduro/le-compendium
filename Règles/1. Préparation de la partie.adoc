@@ -1,23 +1,23 @@
 ==== Attribution du meneur de jeu
-- A chaque partie, un meneur de jeu est choisi. Il peut être se désigné lui-même, être choisi aléatoirement, etc.
-- Le personnage du meneur de jeu sera révélé toute la partie et disposera d'un point de santé supplémentaire (sauf si le personnage dispose déjà de 7 points de santé maximum).
-- Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront ensuite.
+* A chaque partie, un meneur de jeu est choisi. Son mode de sélection est libre aux joueurs. Il peut être se désigné lui-même, être choisi aléatoirement, être élu à la majorité, etc.
+* Le personnage du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le personnage dispose déjà de 7 Blessures maximum).
+* Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront après lui.
 
 ==== Placement des cases
-- Le tableau de jeu est composé de 12 emplacement de cases vides.
-- Vous êtes libre de placer les cases comme vous le souhaitez, à condition de placer chaque case à l'opposé de celle qui aura le même bord coloré qu'elle (autre indice visuel ?).
+* Le tableau de jeu est composé de 12 emplacement de cases vides.
+* Vous êtes libre de placer les cases comme vous le souhaitez, à condition de placer chaque case à l'opposé de celle qui aura le même bord coloré qu'elle.
 
 ==== Choix des extensions
-- Répartition du nombre de cartes par nombre de joueurs
+* Répartition du nombre de cartes par nombre de joueurs
 
 
 ==== Attribution des personnages et des quêtes
-- Choix des personnages puis des quêtes
-- Attribution des personnages puis des quêtes
+* Choix des personnages puis des quêtes
+* Attribution des personnages puis des quêtes
 
 
 ==== Attribution alignement selon le nombre de joueurs
-- Afin de respecter un certain équilibre, nous vous conseillons de suivre le tableau suivant pour répartir en nombre les membres des différents alignements dans la partie.
+* Afin de respecter un certain équilibre, nous vous conseillons de suivre le tableau suivant pour répartir en nombre les membres des différents alignements dans la partie. Bien entendu, vous êtes libre de pas suivre ces indications.
 
 |=======
 |Nb. de joueurs |Antagoniste |Neutre |Protagoniste
