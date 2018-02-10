@@ -3,8 +3,8 @@ Déroulement d'un tour :
 * Action de début de tour (pouvoir d'héros, d'objet, etc.)
 * Résolution d'effets de début de tour
 * Déplacement
-** Lancez deux dés, allez par la droite ou la gauche, au choix.
-** Si le résultat est 7, piochez une carte Retournement ou déplacer où vous le voulez.
+** Lancez deux dés, additionner les deux résultats, par la droite ou la gauche, avancez d'autant de cases.
+** Si le résultat est 7, piochez une carte Retournement ou déplacer vous où vous le voulez.
 * Action de la case (voir « Cases »)
 * Action libre 
 ** Attaque (1 fois)
