@@ -1,5 +1,0 @@
-- Pour avancer, vous devez lancer le dé à 4 faces et celui à 3 faces. Vous additionnez le résultat de ces dés et vous pouvez avancer d'autant de cases que le résultat dans la direction que vous souhaitez.
-- Si le résultat de l'addition des deux dés est 7, un choix s'offre à vous : tirer une carte retournement et ne pas se déplacer, ou se déplacer sur la case que l'on souhaite.
-
-Infos pour la conception :
-- On parcourt au minimum 2 cases (vu qu'on lance deux dés), ce qui évite de pouvoir réattaquer la case où l'on se trouvait déjà.
