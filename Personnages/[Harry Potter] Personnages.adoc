@@ -1,23 +1,11 @@
-* Protagoniste :
-  ** Harry Potter (5 PDS)
-    *** La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
-    *** Accio :
-    *** Expelliarmus (utilisation unique) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
-  - Severus Rogue
-    *** Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
-    *** Maître des potions : [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
-  ** Firenze
-    *** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
-    *** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
-    *** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
-* Antagoniste :
+=== Antagoniste
   ** Voldemort (PDB ?)
     *** Horcruxe : chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut être cumulé.
     *** La prophétie : ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
   ** Queue-De-Ver :
     *** Lâcheté : peut sacrifier un
 
-* Neutre :
+=== Neutre
   ** Gripsec
     *** [Avidité : peut s'équiper de deux équipements de qualité légendaire.]
     *** [Expertise gobeline] :
@@ -33,6 +21,18 @@
   ** Dolores Ombrage <TODO>
     ***
 
+    === Protagoniste
+      ** Harry Potter (5 PDS)
+        *** La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
+        *** Accio :
+        *** Expelliarmus (utilisation unique) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
+      ** Severus Rogue
+        *** Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
+        *** Maître des potions : [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
+      ** Firenze
+        *** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
+        *** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
+        *** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
 
 
 

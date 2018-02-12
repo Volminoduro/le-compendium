@@ -1,2 +1,2 @@
-- Analyse ADN (1 utilisation)
-  - Si vous possédez un équipement ayant appartenu à un autre membre, celui-ci doit vous réveler son alignement. 
+* Analyse ADN (1 utilisation)
+  ** Si vous possédez un équipement ayant appartenu à un autre membre, celui-ci doit vous réveler son alignement. 

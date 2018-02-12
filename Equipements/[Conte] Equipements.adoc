@@ -1,21 +1,21 @@
-- Pantoufle de verre de Cendrillon (accessoire - rare) - 2 exemplaires ?
-  - Réservé aux protagoniste femme
-  - 1 charge en moins par tour, donc se détruit
-  - Effet ?
+* Pantoufle de verre de Cendrillon (accessoire - rare) - 2 exemplaires ?
+  ** Réservé aux protagoniste femme
+  ** 1 charge en moins par tour, donc se détruit
+  ** Effet ?
 
-- Botte de 7 Lieux (accessoire ou corps ? - Rare ) :
-  - Pour vous déplacer, lancez les dés ou déplacez vous de 7 cases dans le sens que vous voulez.
+* Botte de 7 Lieux (accessoire ou corps ? - Rare ) :
+  ** Pour vous déplacer, lancez les dés ou déplacez vous de 7 cases dans le sens que vous voulez.
 
-- Tapis volant
+* Tapis volant
 
-- La clef fée de Barbebleue
+* La clef fée de Barbebleue
 
-- Le miroir magique (pour réveler les personnages adverses ?)
+* Le miroir magique (pour réveler les personnages adverses ?)
 
-- Bourse de Fortunatus (Accessoire - Epique - 3 charges) :
-  - Si vous utilisez cet objet, vous ne pourrez plus échanger d'objet avec le reste des joueurs (ils pourront toujours vous voler).
-  - La case "Marchand" ne vous coûte rien, chaque utilisation consomme 1 charge.
+* Bourse de Fortunatus (Accessoire - Epique - 3 charges) :
+  ** Si vous utilisez cet objet, vous ne pourrez plus échanger d'objet avec le reste des joueurs (ils pourront toujours vous voler).
+  ** La case "Marchand" ne vous coûte rien, chaque utilisation consomme 1 charge.
 
- https://fr.wikipedia.org/wiki/Liste_d%27objets_de_fiction#Contes_merveilleux
+https://fr.wikipedia.org/wiki/Liste_d%27objets_de_fiction#Contes_merveilleux
 
 https://fr.wikipedia.org/wiki/Conte_merveilleux

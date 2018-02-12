@@ -1,14 +1,13 @@
-Harry Potter :
-https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
-http://harrypotter.wikia.com/wiki/Dark_Arts
-http://harrypotter.wikia.com/wiki/Potion
-- Pierre philosophale ?
-- Nagini ?
-- Balais volants ?
-- Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
-- Retourneur de temps
-- Bézoard
-- Carte du maraudeur
+* https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
+* http://harrypotter.wikia.com/wiki/Dark_Arts
+* http://harrypotter.wikia.com/wiki/Potion
+* http://harrypotter.wikia.com/wiki/Elixir_of_Life
+* http://harrypotter.wikia.com/wiki/Nicolas_Flamel
+* Balais volants ?
+* Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
+* Retourneur de temps
+* Bézoard
+* Carte du maraudeur
 
 * Poudre de cheminette
 ** Utilisable lors de votre déplacement
@@ -41,6 +40,3 @@ http://harrypotter.wikia.com/wiki/Potion
 *** Tirer une carte "Consommable"
 *** Tirer une carte "Equipement"
 *** Téléportation sur la case d'un autre joueur (sans la déclencher)
-
-http://harrypotter.wikia.com/wiki/Elixir_of_Life
-http://harrypotter.wikia.com/wiki/Nicolas_Flamel

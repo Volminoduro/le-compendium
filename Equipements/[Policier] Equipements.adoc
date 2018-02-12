@@ -54,9 +54,9 @@
 === Tête
 
 ===== Commune
-- Casque : [trouver mieux et plus exhaustif]
-  - Vous réduisez les dégâts au corps-à-corps et à distance de 1.
-  
+* Casque : [trouver mieux et plus exhaustif]
+  ** Vous réduisez les dégâts au corps-à-corps et à distance de 1.
+
 ===== Rare
 
 ===== Epique

@@ -3,7 +3,7 @@ https://fr.wikipedia.org/wiki/Liste_d%27objets_de_fiction
 https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9p%C3%A9es_de_fiction
 
 
-- Arme :
-  - Augmente ses dégâts de 1 à chaque personnage adverse achevé.
-  - Boost dégâts, contrainte : obligé d'attaquer un personnage à chaque tour sinon vous inflige 1 blessure.
-  - Arme qui rajoute des points de charge au pouvoir de personnage ?
+* Arme :
+  ** Augmente ses dégâts de 1 à chaque personnage adverse achevé.
+  ** Boost dégâts, contrainte : obligé d'attaquer un personnage à chaque tour sinon vous inflige 1 blessure.
+  ** Arme qui rajoute des points de charge au pouvoir de personnage ?
