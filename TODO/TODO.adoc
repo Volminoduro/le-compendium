@@ -2,15 +2,11 @@
 
 * D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
-* Autre nom que point de santé ?
-
 * Thème couleur ?
 ** Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
 
 * Thème => Différent style de dessin selon le thème ?
 
 * Pion îcone pour reconnaître les personnages sur le plateau ?
-
-* Trouver solution pour révélation plateau points de blessures / Points de santé
 
 * Attention aux placements cases Marchands et trocs, à côté des +1 ou -1 pour éviter l'abus

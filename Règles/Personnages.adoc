@@ -2,12 +2,10 @@
 
 - Pour activer n'importe laquelle de ces capacités, un personnage doit réveler son identité, sauf exception. Lors de sa mort, un personnage révèle également son identité. Attaquer un autre personnage ne fait pas réveler son personnage.
 
-- Un personnage ne peut pas s'attaquer lui-même.
-
 - Les personnages disposent d'un certain nombre de points de blessures. Lorsque ce nombre arrive à 0, le personnage est aux portes de la mort. Cela signifie qu'il ne peut plus attaquer d'autres personnages (même en représailles pour X), <voir à mettre d'autres actions empêchées>. Pour quitter cet état, il lui suffit de regagner un point de blessure.
   - Pour être achevé, un personnage doit subir un point de blessure lors d'une attaque (On appelle cet évènement l'Autodafé).
 
-- L'attaque d'un personnage se détermine de la façon suivante : 
+- L'attaque d'un personnage se détermine de la façon suivante :
   - L'attaque lance un D6 et le défenseur un D4. Si la différence entre les deux est favorable à l'attaquant, le défenseur perds un point de blessure. On perd donc au maximum un point de blessure par attaque (sauf objets spéciaux, etc.). Si la différence entre l'attaque et la défense est à l'avantage du défenseur, celui ne subit aucune blessure.
 
 
@@ -19,21 +17,21 @@
 
 
 
-Attention à bien respecter certains critères : tous les personnages ne doivent pas être ultra connus, il est bon de mixer les univers (occidental, noir, pour enfants, asiatique, etc.). 
+Attention à bien respecter certains critères : tous les personnages ne doivent pas être ultra connus, il est bon de mixer les univers (occidental, noir, pour enfants, asiatique, etc.).
 Les écrits faisant ou ayant faits parti d'un canon religieux, sont refusés. Cela vaut pour les livres religieux, comme le canon de la mythologie en question (égyptienne, bouddhique, nordique, etc.).
 
 Thème : Contes, Harry Potter, Légende, Littérature Classique, Littérature d'horreur, Littérature moderne, Policier Science-Fiction, Théâtre.
 
-Meta-thème 
+Meta-thème
 Héroïque-fantasy : Le seigneur des Anneaux, Le Trône de Fer
 
-Sample theme : 
-  - Antagoniste : 
+Sample theme :
+  - Antagoniste :
     - sd
       - sd
-  - Neutre : 
+  - Neutre :
     - sd
       - sd
-  - Protagoniste : 
+  - Protagoniste :
     - sd
       - sd

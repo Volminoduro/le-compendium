@@ -8,7 +8,7 @@ Liste personnages cools à envisager :
 
 
 - Pouvoir :
-  - Le prix chez les cases MArchands n'est que de 1.
+  - Le prix chez les cases Marchands n'est que de 1.
   - Vous pouvez lancez qu'un seul dé pour vous déplacer.
   -
 
