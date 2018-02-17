@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Places_in_Harry_Potter
 
+* Une dizaine (minimum) / quinzaine (optimal ?) serait une bonne base pour la constitution des "Lieux" d'un pack d'extension.
+
 * Banque de Gringotts :
   ** Vous permet de stocker jusqu'à deux équipement ou cartes de votre main.
   ** Vous pouvez retirer jusqu'à deux équipements ou cartes de votre main lorsque vous arrivez sur ce lieu.
@@ -16,10 +18,44 @@ https://en.wikipedia.org/wiki/Places_in_Harry_Potter
   ** Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libre de sortir.
 
 * Hôpital Ste Mangouste
-  ** Réservé aux Protagonistes
-  ** Chaque personnage au seuil de la mort peut être soigné de 1 PDB.
+  ** Interdit aux Antagonistes
+  ** Chaque Protagoniste / Neutre au seuil de la mort peut être soigné de 1 blessure.
+  ** Vous pouvez être soigné de 2 blessures.
 
 * La coupe de feu
   ** Tout le monde peut y participer à condition d'avoir 3 PDB au minimum.
   ** La coupe sélectionne aléatoirement une personne de chaque alignement.
   ** Celui qui finit avec le plus de PDB disponible au bout de 3 tours remporte la coupe, et 3 équipements et 2 Consommable.
+
+* Le terrier ?
+
+* Un lieu antagoniste où ils pourront librement parler / échanger leurs cartes (manoir Malefoy) ?
+** Pareil pour les Protagonistes
+
+* Chemin de traverse
+** [Tout le monde peut acheter s'il était sur la case marchand d'or. Uniquement le joueur qui l'active ? Peu d'intérêt, ça remplace juste la case, mauvaise idée uniquement le joueur.]
+** [Ordre d'achat régit comment ?]
+
+* Madam Malkin robe
+** Récupérer la première carte équipement de "Corps" dans la pile, mélangez la pile après ça.
+** [Twiltting and tatting] Récupérer la première carte équipement de "Corps" de qualité "Rare" dans la pile, mélangez la pile après ça.
+
+* Potage cauldron shop
+** [Piocher, payer des cartes consommables]
+
+* Boutique de Fred et Georges :
+** Achat de friandes aux différents effets
+
+** Honeyduke ?
+
+* Station de train
+** [Permet d'aller à la case opposée sans l'activer, ou alors la case désiré (autre que celle-ci) sans l'activer ?]
+** [Version plus puissante en l'activant la case ?]
+
+* Dervish and banges
+** [Récupérer une charge d'équipement sur un équipement, ou sur tous ?]
+
+* Mad m pudiffot ?
+
+* La cabane hurlante
+** [Malus de portée quand on vous attaque dans ce lieu ?]

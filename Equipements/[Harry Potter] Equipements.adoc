@@ -30,6 +30,9 @@
 * Buck
 **
 
+* Main de la gloire
+** [Annule les malus de portée]
+
 ===== Légendaire
 
 * Pierre philosophale
@@ -39,7 +42,7 @@
 * Pierre de Résurrection (1 exemplaire)
 ** Vous pouvez communiquer librement avec les personnages décédés lors de la partie.
 ** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
-** Si vous avez possédez dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Retourneur de temps (1 exemplaire)
 ** Un petit tour : Retour à l'état du prochain tour ?
@@ -58,7 +61,7 @@
 ** Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
 ** Double tous vos bonus de dégâts, qu'ils soient actifs ou passifs.
 ** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
-** Si vous avez possédez dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Epée de Godric Griffondor (1 exemplaire, 1 portée)
 ** Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire.
@@ -79,7 +82,7 @@
 ** [On ne peut vous attaquer que si l'on est sur la même case que vous.]
 ** [Résister aux effets négatifs ?]
 ** Peut-être équipé avec la Pierre de Résurrection et la Baguette de Sureau.
-** Si vous avez possédez dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+** Si vous avez équipé dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 === Tête (total ?)
 

@@ -1,3 +1,5 @@
 * Mines de moria
-** En commençant par le tireur de ce lieu, puis dans l'ordre des aiguilles d'une montre, chaque joueur pioche une carte équipement du Marchand.
-** Si la pile est vide, ceux n'ayant pas pu prendre d'équipement perdent un point de santé.
+** Chaque passage dans ce lieu est comptabilisé globalement.
+*** 1 passage : vous accorde deux équipements.
+*** 2 passages : vous accorde un équipement.
+*** 3 passages et plus : le seuil de la mort à chaque passage.
