@@ -1,39 +1,44 @@
 === Antagoniste
-  ** Voldemort (PDB ?)
-    *** Horcruxe : chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut être cumulé.
-    *** La prophétie : ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
-  ** Queue-De-Ver :
-    *** Lâcheté : peut sacrifier un
+  * Voldemort (PDB ?)
+    ** Horcruxe : chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut être cumulé.
+    ** La prophétie : ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
+  * link:http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver]
+    ** Lâcheté : peut s'infliger une Blessure pour fuir une attaque.
+  * link:http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald ]
+  * link:[Fenrir Greyback]
+    ** Soif-de-sang : gagne 1 [- 2] de portée lorsqu'il s'agit d'attaquer des personnages blessés.
 
 === Neutre
-  ** Gripsec
-    *** [Avidité : peut s'équiper de deux équipements de qualité légendaire.]
-    *** [Expertise gobeline] :
-    *** Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu.
-  ** Aragog (7 PDS) :
-    *** Colonie acromantulère : Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez.
-    *** Ponte : lorsqu'Aragog reçoit un soin excèdentaire, il génère un "Membre de la couvée".
-  ** Gilderoy Lockhart :
-    *** Escroc : Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage dont vous avez effacé la mémoire (vous cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence).
-    *** Oubliettes : Ciblez un personnage autre que vous, lancez les deux dés
-      **** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête.
-      **** Si le résultat est 2, vous ne gagnerez aucun points de votre quête, ni de celle des autres, et vous ne pourrez plus utiliser la compétences "Oubliettes".
-  ** Dolores Ombrage <TODO>
-    ***
+  * Gripsec
+    ** [Avidité : peut s'équiper de deux équipements de qualité légendaire.]
+    ** [Expertise gobeline] :
+    ** Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu.
+  * Aragog (7 PDS) :
+    ** Colonie acromantulère : Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez.
+    ** Ponte : lorsqu'Aragog reçoit un soin excèdentaire, il génère un "Membre de la couvée".
+  * Gilderoy Lockhart :
+    ** Escroc : Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage dont vous avez effacé la mémoire (vous cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence).
+    ** Oubliettes : Ciblez un personnage autre que vous, lancez les deux dés.
+      *** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête.
+      *** Si le résultat est 2, vous ne gagnerez aucun points d'acomplissement de votre quête, ni de celle des autres, et vous ne pourrez plus utiliser la compétences "Oubliettes".
+  * link:http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage <TODO>]
+    **
+  * link:http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander <TODO>]
 
     === Protagoniste
-      ** Harry Potter (5 PDS)
-        *** La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
-        *** Accio :
-        *** Expelliarmus (utilisation unique) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
-      ** Severus Rogue
-        *** Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
-        *** Maître des potions : [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
-      ** Firenze
-        *** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
-        *** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
-        *** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
-
+      * Harry Potter (5 PDS)
+        ** La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
+        ** Accio :
+        ** Expelliarmus (utilisation unique) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
+      * Severus Rogue
+        ** Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
+        ** Maître des potions : [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
+      * Firenze
+        ** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
+        ** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
+        ** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
+      * link:http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (4 PDB ?) <TODO>]
+        ** Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
 
 
 
@@ -42,13 +47,27 @@
 
 
   Harry Potter :
-- Dolores Ombrage
-- Severus Rogue
-- Queue-de-ver
-- Oliv Anders
-- Firenz (centaure)
-- Gellert Grindewald
-- Norbert Dragoneau
-- Certains des fantômes de Poudlard ?
+- Norbert Dragoneau (Protagoniste)
+- http://harrypotter.wikia.com/wiki/Neville_Longbottom (Protagoniste)
+- Certains des fantômes de Poudlard ? http://harrypotter.wikia.com/wiki/Ghost
+- http://harrypotter.wikia.com/wiki/Mykew_Gregorovitch
+- http://harrypotter.wikia.com/wiki/Rosmerta
+
+- http://harrypotter.wikia.com/wiki/Death_Eaters
+- http://harrypotter.wikia.com/wiki/Muggle
+
+- http://harrypotter.wikia.com/wiki/Rita_Skeeter
+
+- https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child
+
+- http://harrypotter.wikia.com/wiki/Muriel
+
+- http://harrypotter.wikia.com/wiki/Peverell_family
+
+- http://harrypotter.wikia.com/wiki/Dobby
+
+- http://harrypotter.wikia.com/wiki/Kreacher
+
+- http://harrypotter.wikia.com/wiki/Viktor_Krum
 
 https://fr.wikipedia.org/wiki/Liste_des_personnages_du_monde_des_sorciers_de_J._K._Rowling

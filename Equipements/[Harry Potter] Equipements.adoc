@@ -20,6 +20,10 @@
 ** Annule les malus de portée d'un adversaire de combat si il est à 1 de portée ou moins de vous.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 1 blessure).
 
+* link:http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé]
+** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
+*** sdds
+
 ===== Epique
 
 * Nagini (1 exemplaire)
@@ -101,3 +105,11 @@
 ** Citation
 
 ===== Légendaire
+
+
+
+
+
+
+
+- http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand

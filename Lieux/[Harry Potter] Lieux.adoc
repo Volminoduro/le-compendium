@@ -1,4 +1,4 @@
-https://en.wikipedia.org/wiki/Places_in_Harry_Potter
+- https://en.wikipedia.org/wiki/Places_in_Harry_Potter
 
 * Une dizaine (minimum) / quinzaine (optimal ?) serait une bonne base pour la constitution des "Lieux" d'un pack d'extension.
 
@@ -59,3 +59,7 @@ https://en.wikipedia.org/wiki/Places_in_Harry_Potter
 
 * La cabane hurlante
 ** [Malus de portée quand on vous attaque dans ce lieu ?]
+
+- http://harrypotter.wikia.com/wiki/Order_of_the_Phoenix
+- http://harrypotter.wikia.com/wiki/Ministry_of_Magic
+- http://harrypotter.wikia.com/wiki/Skirmish_at_Malfoy_Manor

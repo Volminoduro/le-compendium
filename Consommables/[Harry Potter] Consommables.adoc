@@ -11,7 +11,7 @@
 
 * Poudre de cheminette
 ** Utilisable lors de votre déplacement
-*** Vous pouvez rendre sur la case de votre choix.
+*** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à destination.
 
 * Potion de chance (Felix Felicis)
 ** Utilisable à tout moment
@@ -26,7 +26,7 @@
 
 * Sang de licorne
 ** Vous pouvez échapper à la mort une fois.
-** Vous ne pourrez plus vous déplacer et agir dans le même tour, cela sera l'un ou l'autre.
+** Vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 
 * http://harrypotter.wikia.com/wiki/Dungbomb
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
@@ -40,3 +40,11 @@
 *** Tirer une carte "Consommable"
 *** Tirer une carte "Equipement"
 *** Téléportation sur la case d'un autre joueur (sans la déclencher)
+
+* Poudre instantané du Perou ? http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder
+
+- http://harrypotter.wikia.com/wiki/Butterbeer
+
+- http://harrypotter.wikia.com/wiki/Veela_hair
+
+- https://en.wikipedia.org/wiki/Magic_in_Harry_Potter
