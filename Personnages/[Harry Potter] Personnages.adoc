@@ -5,14 +5,18 @@
   * link:http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver]
     ** Lâcheté : peut s'infliger une Blessure pour fuir une attaque.
   * link:http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald ]
-  * link:[Fenrir Greyback]
-    ** Soif-de-sang : gagne 1 [- 2] de portée lorsqu'il s'agit d'attaquer des personnages blessés.
+  * link:http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback (7 Blessures)]
+    ** Lycanthropie : Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
+      *** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
+      *** Vous réduisez les dégâts de deux.
+      *** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
+    ** [Préparation avant la pleine lune - meilleur nom à trouver (sélène)] : Lors de votre déplacement précédant votre transformation en Loup-Garou, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous avancez de deux cases supplémentaires vers la cible de votre choix, autre que vous.
 
 === Neutre
   * Gripsec
     ** [Avidité : peut s'équiper de deux équipements de qualité légendaire.]
     ** [Expertise gobeline] :
-    ** Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu.
+    ** Ancien employé : Gripsec peut retirer ses objets de Gringotts sans avoir à tomber sur le lieu. Virtuellement, vous avez donc 2 emplacements de carte en main supplémentaires.
   * Aragog (7 PDS) :
     ** Colonie acromantulère : Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez.
     ** Ponte : lorsqu'Aragog reçoit un soin excèdentaire, il génère un "Membre de la couvée".
@@ -22,52 +26,50 @@
       *** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête.
       *** Si le résultat est 2, vous ne gagnerez aucun points d'acomplissement de votre quête, ni de celle des autres, et vous ne pourrez plus utiliser la compétences "Oubliettes".
   * link:http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage <TODO>]
-    **
+    ** dsds
   * link:http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander <TODO>]
 
-    === Protagoniste
-      * Harry Potter (5 PDS)
-        ** La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
-        ** Accio :
-        ** Expelliarmus (utilisation unique) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
-      * Severus Rogue
-        ** Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
-        ** Maître des potions : [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
-      * Firenze
-        ** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
-        ** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
-        ** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
-      * link:http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (4 PDB ?) <TODO>]
-        ** Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
+=== Protagoniste
+  * Harry Potter (5 PDS)
+    ** La prophétie : ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
+    ** Accio :
+    ** Expelliarmus ([3 utilisations OU 1 utilisation tous les 3 joueurs dans la partie]) : lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
+  * Severus Rogue
+    ** Agent double : peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
+    ** Maître des potions : [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
+  * Firenze
+    ** Astrologie : Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
+    ** Maître des lieux : Le lieux "La Forêt interdite" ne peut pas vous infliger d'effets négatifs.
+    ** Monture : Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
+  * link:http://harrypotter.wikia.com/wiki/Remus_Lupin[Remus Lupin]
+    ** Lycanthropie : Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
+      *** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
+      *** Vous réduisez les dégâts de deux.
+      *** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
+    ** Duelliste talentueux...
+      *** Si vous avez attaqué avec succès au tour précédent, vous gagnez un point d'attaque, peut-être cumulé 2 fois.
+    ** Nécessitant de l'entretien
+      *** Si vous n'avez pas attaqué [avec succès ?] pendant les 3 derniers tours, vous perdez vos bonus de Duelliste talentueux.
+  * link:http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (4 PDB ?) <TODO>]
+    ** Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
+  * link:http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey]
+    ** sdds
 
 
-
-
-
-
-
-  Harry Potter :
-- Norbert Dragoneau (Protagoniste)
-- http://harrypotter.wikia.com/wiki/Neville_Longbottom (Protagoniste)
-- Certains des fantômes de Poudlard ? http://harrypotter.wikia.com/wiki/Ghost
-- http://harrypotter.wikia.com/wiki/Mykew_Gregorovitch
-- http://harrypotter.wikia.com/wiki/Rosmerta
-
-- http://harrypotter.wikia.com/wiki/Death_Eaters
-- http://harrypotter.wikia.com/wiki/Muggle
-
-- http://harrypotter.wikia.com/wiki/Rita_Skeeter
-
-- https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child
-
-- http://harrypotter.wikia.com/wiki/Muriel
-
-- http://harrypotter.wikia.com/wiki/Peverell_family
-
-- http://harrypotter.wikia.com/wiki/Dobby
-
-- http://harrypotter.wikia.com/wiki/Kreacher
-
-- http://harrypotter.wikia.com/wiki/Viktor_Krum
-
-https://fr.wikipedia.org/wiki/Liste_des_personnages_du_monde_des_sorciers_de_J._K._Rowling
+=== Idées
+* Norbert Dragoneau (Protagoniste)
+* http://harrypotter.wikia.com/wiki/Neville_Longbottom (Protagoniste)
+* link:http://harrypotter.wikia.com/wiki/Ghost[Certains des fantômes de Poudlard ?]
+* http://harrypotter.wikia.com/wiki/Mykew_Gregorovitch
+* http://harrypotter.wikia.com/wiki/Rosmerta
+* http://harrypotter.wikia.com/wiki/Death_Eaters
+* http://harrypotter.wikia.com/wiki/Muggle
+* http://harrypotter.wikia.com/wiki/Rita_Skeeter
+* http://harrypotter.wikia.com/wiki/Antonin_Dolohov
+* https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child
+* http://harrypotter.wikia.com/wiki/Muriel
+* http://harrypotter.wikia.com/wiki/Peverell_family
+* http://harrypotter.wikia.com/wiki/Dobby
+* http://harrypotter.wikia.com/wiki/Kreacher
+* http://harrypotter.wikia.com/wiki/Viktor_Krum
+* https://fr.wikipedia.org/wiki/Liste_des_personnages_du_monde_des_sorciers_de_J._K._Rowling
