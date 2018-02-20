@@ -27,12 +27,16 @@
 ===== Epique
 
 * Nagini (1 exemplaire)
-** Fidélité extrême à Voldemort : Réservé aux Antagonistes
-** Les blessures de combat que vous infligez baissent également les PDB maximums.
+** Fidélité extrême à Voldemort : Réservé aux Antagonistes.
+** Venin de ? : Les blessures de combat que vous infligez baissent également les PDB maximums.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessure).
 
-* Buck
+* link:http://harrypotter.wikia.com/wiki/Thestral[Sombral ?]
 **
+
+* link:http://harrypotter.wikia.com/wiki/Buckbeak[Buck]
+** Loyauté : vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
+** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessure).
 
 * Main de la gloire
 ** [Annule les malus de portée]
@@ -40,7 +44,7 @@
 ===== Légendaire
 
 * Pierre philosophale
-** Génération d'un filtre qui "soignerai"
+** Génération d'un filtre qui "soignerait"
 ** Obligation d'en boire à un intervalle régulier sinon la mort ou malus
 
 * Pierre de Résurrection (1 exemplaire)
@@ -112,4 +116,5 @@
 
 
 
-- http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand
+* http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand
+* Faire le tour des animaux qui existent dans l'univers

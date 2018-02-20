@@ -48,7 +48,7 @@
       *** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
     ** Duelliste talentueux...
       *** Si vous avez attaqué avec succès au tour précédent, vous gagnez un point d'attaque, peut-être cumulé 2 fois.
-    ** Nécessitant de l'entretien
+    ** ...nécessitant de l'entretien.
       *** Si vous n'avez pas attaqué [avec succès ?] pendant les 3 derniers tours, vous perdez vos bonus de Duelliste talentueux.
   * link:http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (4 PDB ?) <TODO>]
     ** Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
@@ -64,6 +64,7 @@
 * http://harrypotter.wikia.com/wiki/Rosmerta
 * http://harrypotter.wikia.com/wiki/Death_Eaters
 * http://harrypotter.wikia.com/wiki/Muggle
+* http://harrypotter.wikia.com/wiki/Golgomath
 * http://harrypotter.wikia.com/wiki/Rita_Skeeter
 * http://harrypotter.wikia.com/wiki/Antonin_Dolohov
 * https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child
@@ -73,3 +74,4 @@
 * http://harrypotter.wikia.com/wiki/Kreacher
 * http://harrypotter.wikia.com/wiki/Viktor_Krum
 * https://fr.wikipedia.org/wiki/Liste_des_personnages_du_monde_des_sorciers_de_J._K._Rowling
+µ http://harrypotter.wikia.com/wiki/Newton_Scamander
