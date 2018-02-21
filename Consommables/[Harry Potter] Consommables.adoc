@@ -9,30 +9,41 @@
 * Bézoard
 * Carte du maraudeur
 
-* Poudre de cheminette
-** Utilisable lors de votre déplacement
-*** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à destination.
+* Total : 
 
-* Potion de chance (Felix Felicis)
+* Poudre de cheminette (5 exemplaires)
+** Utilisable lors de votre déplacement
+*** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à la destination.
+
+* Potion de Felix Felicis (2 exemplaires)
 ** Utilisable à tout moment
 *** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
 
 * Manuel de potion du Prince de Sang-Mêlé
 ** Même effets que Rogue, lui qui y aura accès constamment.
 
-* Philtre d'amour
-** Le personnage ciblé tombe fou amoureux de celui qui lui administre le philtre.
+* Amortentia (1 exemplaire)
+** Utilisable durant votre tour
+** Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
 ** Si la cible de son amour venait à mourir, il se suicidera.
+** L'effet peut-être annulé à l'aide d'un philtre de haine.
 
-* Sang de licorne
+* Philtre de haine (2 exemplaires)
+** Utilisable durant votre tour
+** [Effet]
+** [Effet]
+** L'effet peut-être annulé à l'aide de l'Amortentia.
+
+* Sang de licorne (1 exemplaire)
 ** Vous pouvez échapper à la mort une fois.
 ** Vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 
-* http://harrypotter.wikia.com/wiki/Dungbomb
+* http://harrypotter.wikia.com/wiki/Dungbomb (3 exemplaires)
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
-* http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup
-** La prochaine boisson que la cible de cette carte boira, lui fera perdre un PDB au lieu de son effet.
+* http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup (2 exemplaires)
+** Utilisable à tout moment
+** Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
 
 * Les dragées des frères Weasleys
 ** Effets aléatoire : 1 serait de piocher une carte retournement
@@ -42,10 +53,8 @@
 *** Téléportation sur la case d'un autre joueur (sans la déclencher)
 
 * Poudre instantané du Perou ? http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder
-
-- http://harrypotter.wikia.com/wiki/Butterbeer
+* http://harrypotter.wikia.com/wiki/Butterbeer
 * http://harrypotter.wikia.com/wiki/Vanishing_Cabinet
-- http://harrypotter.wikia.com/wiki/Veela_hair
+* http://harrypotter.wikia.com/wiki/Veela_hair
 * http://harrypotter.wikia.com/wiki/Amortentia
-
-- https://en.wikipedia.org/wiki/Magic_in_Harry_Potter
+* https://en.wikipedia.org/wiki/Magic_in_Harry_Potter

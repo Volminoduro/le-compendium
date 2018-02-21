@@ -1,4 +1,5 @@
-- Il serait bon que chaque extension dispose de 4 - 5 personnages pour chaque alignement
+*  Il serait bon que chaque extension dispose de 4 - 5 personnages pour chaque alignement
+** Ce chiffre permet de faire le choix entre 2 - 3 personnages par alignement, soit un total de 6 - 9 personnages de l'extension.
 
 Liste personnages cools à envisager :
 - Gatsby le magnifique

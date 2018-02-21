@@ -24,6 +24,10 @@
 ** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
 *** sdds
 
+[]* Marque de Voldemort
+** Ne peut être défaussé
+** Permettre de TP ?]
+
 ===== Epique
 
 * Nagini (1 exemplaire)

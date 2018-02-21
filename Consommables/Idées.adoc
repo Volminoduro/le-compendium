@@ -1,3 +1,6 @@
 * Consommable qui ajout des charges à un équipement
 
 * https://fr.wikipedia.org/wiki/Liste_d%27aliments,_de_boissons_et_de_substances_de_fiction
+
+* Nombre idéal nécessaire pour jouer à 6 - 9 personnages ?
+** 30 ?
