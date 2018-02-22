@@ -121,7 +121,7 @@
 
 * Le Choixpeau magique (1 exemplaire)
 ** (Réservé aux Protagonistes) Lorsque vous êtes attaqués avec 2 PDS ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor [(retourner la carte)] et ce même si un autre joueur la possédait déjà.
-** Legilimency chapelière (3 charge) : Le joueur ciblé doit dire son identité et sa quête à haute voix. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir.
+** Legilimency chapelière (3 charges d'utilisation) : Le joueur ciblé doit dire son identité et sa quête à haute voix. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir.
 ** Illustration
 ** Citation
 

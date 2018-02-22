@@ -9,16 +9,25 @@ Liste personnages cools à envisager :
 
 
 
+* Pouvoir
+  * Le prix chez les cases Marchands n'est que de 1.
+  * Vous pouvez lancez qu'un seul dé pour vous déplacer.
+  * Peut s'infliger une blessure pour réattaquer une seconde fois.
+  * Peut choisir entre les trois premières cartes d'une pile.
+  * Au lieu d'infliger une blessure lors d'un combat, vous pouvez voler une pièce d'équipement à votre vis-à-vis, la carte va dans votre main.
+  * Vous pouvez piocher les cartes de la défausse à la place de ceux des piles standards.
+  * Se guérir d'une blessure au début de tous les 2 tours.
+  * Inflige une blessure sur une case spécifique (marchand de sang par exemple ?)
+  * Vous pouvez rejouer après avoir achever un autre personnage.
+  * Désignez un autre personnage que vous, vous pouvez annuler un de ces pouvoirs au choix.
 
-- Pouvoir :
-  - Le prix chez les cases Marchands n'est que de 1.
-  - Vous pouvez lancez qu'un seul dé pour vous déplacer.
-  -
 
-
-- X
-  - Les équipements n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
-  - Vous pouvez lancez les deux dés pour attaquer ou vous défendre.
+* X
+  ** Les équipements n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
+  ** Vous pouvez lancez les deux dés pour attaquer ou vous défendre.
+* X
+  ** Vous ne pouvez pas être soigné, gagner des Blessures maximales de la partie.
+  ** Chaque mort que vous subissez baisse vos Blessures maximales de 1 et vous ramène à 0 blessures.
 
 
 Liste lecture :
