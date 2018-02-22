@@ -91,4 +91,5 @@
 * http://harrypotter.wikia.com/wiki/Kreacher
 * http://harrypotter.wikia.com/wiki/Viktor_Krum
 * https://fr.wikipedia.org/wiki/Liste_des_personnages_du_monde_des_sorciers_de_J._K._Rowling
-µ http://harrypotter.wikia.com/wiki/Newton_Scamander
+* http://harrypotter.wikia.com/wiki/Newton_Scamander
+* http://harrypotter.wikia.com/wiki/Quirinus_Quirrell
