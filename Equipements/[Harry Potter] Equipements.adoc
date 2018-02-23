@@ -117,7 +117,7 @@
 
 ===== Epique
 * link:http://harrypotter.wikia.com/wiki/Alastor_Moody%27s_magical_eye[Oeil magique du professeur Maugrey]
-** [Permet de voir ce qui est pioché par les autres joueurs ?]
+** [Pendant votre tour, vous pouvez demander jusqu'à deux joueurs de vous révéler les cartes qu'ils ont pioché durant leur dernier tour.]
 
 * Le Choixpeau magique (1 exemplaire)
 ** (Réservé aux Protagonistes) Lorsque vous êtes attaqués avec 2 PDS ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor [(retourner la carte)] et ce même si un autre joueur la possédait déjà.

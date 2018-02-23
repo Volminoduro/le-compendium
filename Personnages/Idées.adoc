@@ -20,14 +20,18 @@ Liste personnages cools à envisager :
   * Inflige une blessure sur une case spécifique (marchand de sang par exemple ?)
   * Vous pouvez rejouer après avoir achever un autre personnage.
   * Désignez un autre personnage que vous, vous pouvez annuler un de ces pouvoirs au choix.
+  * Contreattaquer si on est à partir d'un certain nombre de Blessures.
+  * Placer le marqueur de blessure sur 3.
+  * Mépris des faibles : les personnages à une blessure du seuil de la mort ne peuvent pas vous attaquer.
+  * Sacrification belliqueuse : vous subissez une blessure, la cible de votre choix, autre que vous, subit également une Blessure. Peut être fait à volonté pendant votre tour. Ne peut achever la cible.
 
 
 * X
   ** Les équipements n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
   ** Vous pouvez lancez les deux dés pour attaquer ou vous défendre.
 * X
-  ** Vous ne pouvez pas être soigné, gagner des Blessures maximales de la partie.
-  ** Chaque mort que vous subissez baisse vos Blessures maximales de 1 et vous ramène à 0 blessures.
+  ** Vous ne pouvez pas être soigné ou augmenter votre limite de Blessures de la partie.
+  ** Chaque mort que vous subissez baisse votre limite de Blessures de 1 et vous ramène à 0 blessures.
 
 
 Liste lecture :
