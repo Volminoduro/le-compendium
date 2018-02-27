@@ -7,7 +7,7 @@
   ** Vous pouvez retirer jusqu'à deux équipements ou cartes de votre main lorsque vous arrivez sur ce lieu.
 
 * Taverne de la Tête du Sanglier :
-  ** Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 PDS).
+  ** Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 Blessure, malus si déjà 1 bière-au-beurre utilisé auparavant) et échanger / donner des cartes.
 
 * La Forêt Interdite
   ** Rencontre aléatoire
@@ -15,12 +15,18 @@
 * Azkaban
   ** Vous désignez un autre personnage que vous, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
   ** Il doit faire un double en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
-  ** Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libre de sortir.
+  ** Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libéré de prison.
 
 * Hôpital Ste Mangouste
   ** Interdit aux Antagonistes
   ** Chaque Protagoniste / Neutre au seuil de la mort peut être soigné de 1 blessure.
   ** Vous pouvez être soigné de 2 blessures.
+
+* Echoppe de Gregorovith
+  ** Vous permet de regagner jusqu'à 2 charges sur l'équipement de votre choix.
+
+* La salle sur demande
+  ** [Vous permet d'avoir l'effet de la case que vous souhaitez.]
 
 * La coupe de feu
   ** Tout le monde peut y participer à condition d'avoir 3 PDB au minimum.
@@ -50,18 +56,25 @@
 
 * Station de train
 ** [Permet d'aller à la case opposée sans l'activer, ou alors la case désiré (autre que celle-ci) sans l'activer ?]
-** [Version plus puissante en l'activant la case ?]
 
 * Dervish and banges
-** [Récupérer une charge d'équipement sur un équipement, ou sur tous ?]
+** Récupérer une charge sur l'équipement de votre choix.
+** Réservé aux Antagonistes : récupérer deux charge sur l'équipement de votre choix.
 
 * Mad m pudiffot ?
+
+* link:http://harrypotter.wikia.com/wiki/Veil[Veil]
+** Actif jusqu'à [la fin] de votre prochain tour de jeu.
+** Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort tant que ce lieu est actif.
 
 * La cabane hurlante
 ** [Malus de portée quand on vous attaque dans ce lieu ?]
 
-- http://harrypotter.wikia.com/wiki/Order_of_the_Phoenix
-- http://harrypotter.wikia.com/wiki/Ministry_of_Magic
-- http://harrypotter.wikia.com/wiki/Skirmish_at_Malfoy_Manor
+* http://harrypotter.wikia.com/wiki/Order_of_the_Phoenix
+* http://harrypotter.wikia.com/wiki/Ministry_of_Magic
+* http://harrypotter.wikia.com/wiki/Skirmish_at_Malfoy_Manor
 * http://harrypotter.wikia.com/wiki/Study_of_Ancient_Runes
-* http://harrypotter.wikia.com/wiki/Veil
+* http://harrypotter.wikia.com/wiki/Fundamental_Laws_of_Magic
+* http://harrypotter.wikia.com/wiki/Philosopher%27s_Stone_Chambers
+* http://harrypotter.wikia.com/wiki/Mirror_of_Erised
+ 

@@ -1,17 +1,26 @@
 * https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 * http://harrypotter.wikia.com/wiki/Dark_Arts
 * http://harrypotter.wikia.com/wiki/Potion
-* http://harrypotter.wikia.com/wiki/Elixir_of_Life
-* http://harrypotter.wikia.com/wiki/Nicolas_Flamel
-* Balais volants ?
 * Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
 * Retourneur de temps
 * Bézoard
 * Carte du maraudeur
 
-* Total : 
+* Total :
+* Catégorie :
 
-* Poudre de cheminette (5 exemplaires)
+* link:http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky (3 exemplaires)]
+* Utilisable à tout moment.
+** Soignez-vous de 1 blessure.
+** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
+** Alcool fort : Vous ne pouvez consommer un Firewhisky alors que vous en possédez déjà l'effet.
+
+* link:http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre (5 exemplaires)]
+** Utilisable à tout moment
+** Soignez-vous 1 blessure.
+** Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
+
+* Poudre de cheminette (4 exemplaires)
 ** Utilisable lors de votre déplacement
 *** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à la destination.
 
@@ -19,10 +28,7 @@
 ** Utilisable à tout moment
 *** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
 
-* Manuel de potion du Prince de Sang-Mêlé
-** Même effets que Rogue, lui qui y aura accès constamment.
-
-* Amortentia (1 exemplaire)
+* link:http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire)]
 ** Utilisable durant votre tour
 ** Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
 ** Si la cible de son amour venait à mourir, il se suicidera.
@@ -41,7 +47,7 @@
 * http://harrypotter.wikia.com/wiki/Dungbomb (3 exemplaires)
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
-* http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup (2 exemplaires)
+* link:http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup (2 exemplaires)]
 ** Utilisable à tout moment
 ** Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
 
@@ -52,9 +58,18 @@
 *** Tirer une carte "Equipement"
 *** Téléportation sur la case d'un autre joueur (sans la déclencher)
 
-* Poudre instantané du Perou ? http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder
-* http://harrypotter.wikia.com/wiki/Butterbeer
-* http://harrypotter.wikia.com/wiki/Vanishing_Cabinet
-* http://harrypotter.wikia.com/wiki/Veela_hair
-* http://harrypotter.wikia.com/wiki/Amortentia
+* link:http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires)]
+** Utilisable pendant votre tour.
+** Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
+** Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les emprunter lorsqu'ils arrivent sur la case en question de se rendre à l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
+
+* link:http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder (2 exemplaires)]
+** Utilisable à tout moment.
+** Vous permets de fuir une attaque.
+
 * https://en.wikipedia.org/wiki/Magic_in_Harry_Potter
+* http://harrypotter.wikia.com/wiki/Wizard%27s_Brew
+* http://harrypotter.wikia.com/wiki/Bell_jar
+* http://harrypotter.wikia.com/wiki/Death
+* http://harrypotter.wikia.com/wiki/Verdimillious_Charm
+ 
