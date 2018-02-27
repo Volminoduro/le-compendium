@@ -48,14 +48,10 @@
 ** Venin : Les blessures de combat que vous infligez baissent également les Blessures maximums.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
 
-<<<<<<< HEAD
-* link:http://harrypotter.wikia.com/wiki/Thestral[Sombral ? Plusieurs exemplaires ?]
-**
-=======
+
 * link:http://harrypotter.wikia.com/wiki/Thestral[Sombral ? 3 Exemplaires]
 ** [] : vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
 ** Destrier invisible : vous ajoute 1 de portée, inflige 1 portée en malus pour vos adversaires.
->>>>>>> master
 
 * link:http://harrypotter.wikia.com/wiki/Buckbeak[Buck]
 ** Envol : vous rajoute 2 de portée.
