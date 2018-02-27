@@ -24,7 +24,7 @@
 ** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
 *** sdds
 
-[]* Marque de Voldemort
+* link:http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres]
 ** Ne peut être défaussé
 ** Permettre de TP ?]
 
@@ -35,7 +35,7 @@
 ** Venin de ? : Les blessures de combat que vous infligez baissent également les PDB maximums.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessure).
 
-* link:http://harrypotter.wikia.com/wiki/Thestral[Sombral ?]
+* link:http://harrypotter.wikia.com/wiki/Thestral[Sombral ? Plusieurs exemplaires ?]
 **
 
 * link:http://harrypotter.wikia.com/wiki/Buckbeak[Buck]
