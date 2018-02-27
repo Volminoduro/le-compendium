@@ -10,15 +10,17 @@
 * Catégorie :
 
 * link:http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky (3 exemplaires)]
-* Utilisable à tout moment.
-** Soignez-vous de 1 blessure.
-** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
-** Alcool fort : Vous ne pouvez consommer un Firewhisky alors que vous en possédez déjà l'effet.
+** Catégorie : Soins
+** Utilisable à tout moment.
+*** Soignez-vous de 1 blessure.
+*** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
+*** Alcool fort : Vous ne pouvez consommer un Firewhisky alors que vous en possédez déjà l'effet.
 
 * link:http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre (5 exemplaires)]
+** Catégorie : Soins
 ** Utilisable à tout moment
-** Soignez-vous 1 blessure.
-** Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
+*** Soignez-vous 1 blessure.
+*** Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
 
 * Poudre de cheminette (4 exemplaires)
 ** Utilisable lors de votre déplacement
