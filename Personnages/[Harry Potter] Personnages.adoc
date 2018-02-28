@@ -6,7 +6,7 @@
   * link:http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver]
     ** Lâcheté : peut s'infliger une Blessure pour fuir une attaque.
 
-  * link:http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirrell]
+* link:http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirrell]
     ** Esprit influençable : une seule fois par partie, vous pouvez oublier votre quête afin de vous consacrer à celle d'un autre personnage, sous son accord, sa quête devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
     ** [Possession] : vous pouvez accueillir l'esprit d'un personnage décédé dans votre corps. Il peut toujours accomplir sa quête et vous la vôtre. Ceci vous inflige 1 blessure à chaque début de votre tour, vous pouvez en mourir.
 
@@ -40,9 +40,11 @@
   * link:http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage <TODO>]
     ** dsds
 
+  * link:http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander <TODO>]
+
   * link:http://harrypotter.wikia.com/wiki/Mundungus_Fletcher[Mondungus Fletcher (4 Blessures)]
     ** Réseau d'informateurs intéressés : vous pouvez sacrifier 2 points d'équipement pour apprendre l'identité ou la quête d'un autre personnage. Vous pouvez savoir les deux pour 4 points d'équipement. Les équipements sont défaussés normalement, vous allez le droit de défausser des équipements Légendaires à travers ce procédé.
-    ** Opportuniste : à la place d'infliger des blessures, peut voler un équipement à son adversaire lorsqu'une attaque a été couronnée de succès..
+    ** Opportuniste : à la place d'infliger des blessures, peut voler un équipement à son adversaire lorsqu'une attaque a été couronnée de succès.
     ** Beau-parleur : [prix réduit de 1 au marchand d'or ?]
     ** Récupérateur : [récupérer des consommables utilisés ?]
     ** Couardise : vous ne pouvez attaquer si vous êtes à une blessure du seuil de la Mort.

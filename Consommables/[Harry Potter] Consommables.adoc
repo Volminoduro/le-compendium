@@ -8,6 +8,7 @@
 
 * Total :
 * Catégorie :
+** Soins :
 
 * link:http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky (3 exemplaires)]
 ** Catégorie : Soins
@@ -23,14 +24,17 @@
 *** Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
 
 * Poudre de cheminette (4 exemplaires)
+** Catégorie : Déplacement
 ** Utilisable lors de votre déplacement
 *** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à la destination.
 
 * Potion de Felix Felicis (2 exemplaires)
+** Catégorie : Influence du hasard
 ** Utilisable à tout moment
 *** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
 
 * link:http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire)]
+** Catégorie : Autres
 ** Utilisable durant votre tour
 ** Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
 ** Si la cible de son amour venait à mourir, il se suicidera.
@@ -43,13 +47,17 @@
 ** L'effet peut-être annulé à l'aide de l'Amortentia.
 
 * Sang de licorne (1 exemplaire)
+** Catégorie : Soins
+** Utilisable durant votre tour
 ** Vous pouvez échapper à la mort une fois.
 ** Vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 
 * http://harrypotter.wikia.com/wiki/Dungbomb (3 exemplaires)
+** Catégorie : Protection / Déplacement
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
 * link:http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup (2 exemplaires)]
+** Catégorie : Attaque / Contre
 ** Utilisable à tout moment
 ** Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
 
@@ -61,11 +69,13 @@
 *** Téléportation sur la case d'un autre joueur (sans la déclencher)
 
 * link:http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires)]
-** Utilisable pendant votre tour.
+** Catégorie : Déplacement
+** Utilisable durant votre tour.
 ** Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
 ** Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les emprunter lorsqu'ils arrivent sur la case en question de se rendre à l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
 
 * link:http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder (2 exemplaires)]
+** Catégorie : Protection
 ** Utilisable à tout moment.
 ** Vous permets de fuir une attaque.
 
