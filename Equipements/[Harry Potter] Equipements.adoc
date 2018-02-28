@@ -29,11 +29,16 @@
 ** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
 *** sdds
 
+<<<<<<< HEAD
+* link:http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres]
+** Ne peut être défaussé
+=======
 * link:http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (2 exemplaires)]
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * link:http://harrypotter.wikia.com/wiki/Dark_Mark[Marque de Voldemort]
 ** Ne peut être retiré
+>>>>>>> master
 ** Permettre de TP ?]
 
 ===== Epique
@@ -42,6 +47,7 @@
 ** Fidélité extrême à Voldemort : Réservé aux Antagonistes.
 ** Venin : Les blessures de combat que vous infligez baissent également les Blessures maximums.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
+
 
 * link:http://harrypotter.wikia.com/wiki/Thestral[Sombral ? 3 Exemplaires]
 ** [] : vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
