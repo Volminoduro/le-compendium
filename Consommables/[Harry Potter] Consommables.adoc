@@ -15,7 +15,7 @@
 ** Utilisable à tout moment.
 *** Soignez-vous de 1 blessure.
 *** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
-*** Alcool fort : Vous ne pouvez consommer un Firewhisky alors que vous en possédez déjà l'effet.
+*** Alcool fort : Vous ne pouvez consommer un autre consommable ayant l'effet Alcool fort alors que vous en possédez déjà l'effet.
 
 * link:http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre (5 exemplaires)]
 ** Catégorie : Soins
@@ -48,9 +48,10 @@
 
 * Sang de licorne (1 exemplaire)
 ** Catégorie : Soins
-** Utilisable durant votre tour
+** Utilisable à tout moment
 ** Vous pouvez échapper à la mort une fois.
-** Vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
+** Jusqu'à la fin de la partie, vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
+** Vous ne pourrez consommer un autre Sang de licorne.
 
 * http://harrypotter.wikia.com/wiki/Dungbomb (3 exemplaires)
 ** Catégorie : Protection / Déplacement

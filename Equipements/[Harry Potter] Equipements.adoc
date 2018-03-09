@@ -10,7 +10,18 @@
 
 ===== Commune
 * Glace à l'ennemi (3 exemplaire) [A passer en consommable ?]
-** Détecteur de magie noire (1 charge) : Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre (il ne se passe rien si vous êtes Neutre ou s'ils le sont).
+** Détecteur de magie noire (1 charge) : Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre ou non.
+** [Formulation limpide et concise à trouver]
+*** Si vous êtes Antagoniste :
+**** Si la cible est Protagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+**** Si la cible est Antagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+*** Si vous êtes Protagoniste :
+**** Si la cible est Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+**** Si la cible est Protagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+*** Si vous êtes Neutre :
+**** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+**** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+
 
 * link:http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (3 exemplaires)]
 ** Vous pouvez vous déplacer d'une case, dans le sens que vous voulez, au lieu de lancer les dés.
@@ -29,16 +40,16 @@
 ** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
 *** sdds
 
-<<<<<<< HEAD
 * link:http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres]
 ** Ne peut être défaussé
+** [Permettrait de se téléporter sur la case d'un autre porteur de Marque des Ténèbres ?]
+
 =======
 * link:http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (2 exemplaires)]
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * link:http://harrypotter.wikia.com/wiki/Dark_Mark[Marque de Voldemort]
 ** Ne peut être retiré
->>>>>>> master
 ** Permettre de TP ?]
 
 ===== Epique
@@ -58,7 +69,7 @@
 ** Loyauté : vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
 
-* link:http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Suprême éclair de feu (1 exemplaire)]
+* link:http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
 ** Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Main de la gloire
@@ -95,8 +106,8 @@
 ** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Epée de Godric Griffondor (1 exemplaire, 1 portée)
-** Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire.
-** A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussés éternellement, placez les sous la carte de l'Epée).
+** Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
+** A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez les sous la carte de l'Epée).
 ** + 1 dégâts.
 
 === Corps (total ?)
@@ -123,7 +134,7 @@
 
 ===== Epique
 * link:http://harrypotter.wikia.com/wiki/Alastor_Moody%27s_magical_eye[Oeil magique du professeur Maugrey]
-** [Pendant votre tour, vous pouvez demander jusqu'à deux joueurs de vous révéler les cartes qu'ils ont pioché durant leur dernier tour.]
+** [Pendant votre tour, vous pouvez demander que l'on vous révèle jusqu'à deux cartes que les joueurs ont pioché durant leur dernier tour. Le choix des joueurs et des cartes est votre.]
 
 * Le Choixpeau magique (1 exemplaire)
 ** (Réservé aux Protagonistes) Lorsque vous êtes attaqués avec 2 PDS ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor [(retourner la carte)] et ce même si un autre joueur la possédait déjà.

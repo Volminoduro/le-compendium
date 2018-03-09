@@ -14,7 +14,7 @@
 
 * Azkaban
   ** Vous désignez un autre personnage que vous, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
-  ** Il doit faire un double en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
+  ** Il doit faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
   ** Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libéré de prison.
 
 * Hôpital Ste Mangouste
@@ -30,8 +30,9 @@
 
 * La coupe de feu
   ** Tout le monde peut y participer à condition d'avoir 3 PDB au minimum.
-  ** La coupe sélectionne aléatoirement une personne de chaque alignement.
-  ** Celui qui finit avec le plus de PDB disponible au bout de 3 tours remporte la coupe, et 3 équipements et 2 Consommable.
+  ** La coupe sélectionne aléatoirement une personne de chaque alignement disponible.
+  ** Celui qui finit avec le plus de PDB disponible au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
+  ** [Une fois la coupe remportée, défausser définitivement ce lieu.]
 
 * Le terrier ?
 
@@ -56,6 +57,12 @@
 
 * Station de train
 ** [Permet d'aller à la case opposée sans l'activer, ou alors la case désiré (autre que celle-ci) sans l'activer ?]
+** [Thibault : Si déplacement sur la case de notre choix ou opposée = sert à multiplier le nombre de jet de dé possible pour aller ou l'on souhaite.
+Ex: Case que l'on veut à 5, gare à 3. ça permet de faire soit 3 ou 5 pour accéder à ce que l'on veut.
+
+Jouer sur le déplacement avec un tour d'écart ?
+Interet: Cibler une case moins convoité par les gens en espérant qu'elle soit vide/libre le tour suivant ?
+Récompenser une bonne vision de jeu mais peut s'avérer inutile si la case à changé / si quelqu'un y est allé etc...]
 
 * Dervish and banges
 ** Récupérer une charge sur l'équipement de votre choix.
@@ -72,6 +79,7 @@
 
 * http://harrypotter.wikia.com/wiki/Order_of_the_Phoenix
 * http://harrypotter.wikia.com/wiki/Ministry_of_Magic
+* http://harrypotter.wikia.com/wiki/Malfoy_Manor
 * http://harrypotter.wikia.com/wiki/Skirmish_at_Malfoy_Manor
 * http://harrypotter.wikia.com/wiki/Study_of_Ancient_Runes
 * http://harrypotter.wikia.com/wiki/Fundamental_Laws_of_Magic

@@ -1,3 +1,6 @@
+@SMA : 
+Il faudra que je te parle que j'imagine un "esprit" de conception pour chaque Extension. Harry Potter est un peu celle très accessible, un peu fantaisiste sur certains trucs. Horreur, ça sera celle où ça sera très difficile à jouer pour les joueurs (les lieux, les consommables pourront te tuer, tout ça).
+
 
 
 
@@ -15,12 +18,26 @@ Trop item portée = peut être game breaker.
 
 Piste: Favoriser plus les déplacements ?
 
+@SMA : Oui, je suis assez d'accord, il faudrait peut-être même plus varié les effets.
+
 ----------------------------------------------------
 
 Glace à l’ennemi 
 
 Super cool comme mécanique à effet dans le temps avec retroactivité.
 Warning sur la compréhension de la carte
+
+@SMA : J'ai légèrement changé la mécanique pour que les personnages Neutres soient plus impliqués. Désormais, voici comme ça se passe (il faut trouver une formulation limpide et concise par contre) :
+
+*** Si vous êtes Antagoniste :
+**** Si la cible est Protagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+**** Si la cible est Antagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+*** Si vous êtes Protagoniste :
+**** Si la cible est Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+**** Si la cible est Protagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+*** Si vous êtes Neutre :
+**** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+**** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
 ----------------------------------------------------
 
@@ -33,13 +50,7 @@ La course au désarmement est très interessante. ++ de mécanique jouant là dessus
 
 La cible peut elle choisir de le suicider en cas de besoin ? 
 
-
-----------------------------------------------------
-
-Nimbus 2001
-
-Très interessant : Ne donne pas de déplacement supplémentaire mais permet d'avoir une méca jouant sur les mêmes bases sans rendre la basique obsolète.
-
+@SMA La cible peut "suicider" son objet, dans la mesure où tu peux défausser tes équipements à tout moment (ou que pendant ton tour, faut que j'y réfléchisse).
 
 ----------------------------------------------------
 
@@ -48,6 +59,8 @@ Nagini
 Venin = équivaut à l'érosion dans dofus ?
 
 Si oui peut être trop craqué si spammable.
+
+@SMA : Oui c'est pareil que l'érosion.
 
 ----------------------------------------------------
 
@@ -58,6 +71,8 @@ Buck
 Si la mécanique de PO persiste, proposer un malus équivalent en terme de "puissance".
 Gros avantage = possible gros malus
 
+@SMA : A y réfléchir pour que ça s'accorde avec le RP de la carte également (d'où déjà le premier malus de pas pouvoir s'en servir contre quelqu'un qui l'a déjà possédé).
+
 ----------------------------------------------------
 
 Pierre de résu
@@ -67,6 +82,7 @@ Vous pouvez communiquer librement avec les personnages décédés lors de la partie
 Comment le mettre en place ? 
 Est only RP ou réel avantage In game ?
 
+@SMA : Avantage IG, mais faut y réfléchir. J'ai pas vraiment d'idée bonne sous la main, sinon ça serait un truc chiant à base de les joueurs morts ont pas le droit de parler.
 
 ----------------------------------------------------
 
@@ -81,7 +97,10 @@ Epee de Godric
 
 Attention au snowball potentiel
 Bien définir à partir de quel moment elle peut doit commencé à être utilisé pour être déterministe.
-Checker les minimums pour être god like et définir le moment à partir de quand elle ne peut plus le devenir
+Checker les minimums pour être god like et définir le moment à partir de quand elle ne peut plus le devenir.
+
+@SMA : Tu peux l'utiliser dès que tu l'as, quand tu te décides à attaquer. Mais vu qu'il faut une différence de dégât de 4 (ce qui est bcp, au maximum juste avec les dés, avec bcp de malchance, tu as 3 maximum), il faut attendre un minimum dans la partie pour que ça soit fort.
+En plus de ça, à côté de ça, elle donne que +1 de dégâts quand elle est pas boostée.
 
 ----------------------------------------------------
 
@@ -91,6 +110,8 @@ Peut être changer en 2 cartes piochées demandées à être vu ?
 Ex: x2 cartes d'un joueur ou 2 joueurs x1 carte
 
 à balance avec le nombre de cartes piochées en moyenne par tour
+
+@SMA : Le nombre de cartes par tour est plus intéressant en effet, ça évite aussi de devoir réfléchir à l'équilibrage par nombre de joueurs (vu que c'est une mécanique de la carte).
 
 ----------------------------------------------------
 Cape d'invisibilité
@@ -119,11 +140,15 @@ Gripsec
 Poser ou retirer les objets à distances: Les deux = peut être trop OP.
 Autoriser l'action la plus récurente, laisser en obligatoire la moins utilisée ?
 
+@SMA : Oui, c'est très fort.
+
 ----------------------------------------------------
 
 Mondungus Fletcher
 
 Est en double sur le fichier
+
+@SMA : Corrigé, c'était un pb de versioning.
 
 ----------------------------------------------------
 
@@ -141,12 +166,16 @@ Firenze
 
 "Choisir la rencontre": il doit me manquer un élément de gameplay je n'ai pas compris.
 
+@SMA : Oui, faut que je définisse le Lieu "La forêt interdite", un lieu où tu pourras faire des rencontres randoms selon le résultats des dés. Et lui pourra choisir le résultat.
+
 
 ----------------------------------------------------
 
 Banque de Gringotts
 
 Si pas extension de Harry Potter, comment la remplacer et quelle serait sa spécificité comparé à une autre "banque like" d'une autre extension ?
+
+@SMA : Intéressant l'idée de la spécificité de gringotts, il faudra y réfléchir. On pourrait penser à d'autres banque moins sécurisée où tu pourrais voler des items aux autres joueurs.
 
 ----------------------------------------------------
 
@@ -159,14 +188,7 @@ Attention à ce que le joueur ne pense pas perdre sa partie une fois tomber dedan
 Ex: Sac à dos affamé dans munchkin. Sans carte pour le détruire (uniquement jet de dé) il détruit la game de quelqu'un sans que cette personne puisse mettre une stratégie en place pour s'en sortir.
 Sentiment d'impuissance trop fort (?)
 
-----------------------------------------------------
-
-Hopital de Ste Mangouste
-
-Besoin d'un lieu pour les antagonistes similaires (pas forcément du soin).
-Genre chemin de Travers pour des items ou autre...
-
-(vient de lire la suite :) )
+@SMA : C'est vrai, à réfléchir pour en limiter l'effet éventuellement. Pour éviter le coup de la carte "ayé j'ai perdu la game, gg" (ça sera le cas par contre du pack Extension "Horreur").
 
 ----------------------------------------------------
 
@@ -175,6 +197,8 @@ Genre chemin de Travers pour des items ou autre...
 100% antagoniste ? Les neutres peuvent aller à l'hopital mais ici aussi ? 
 
 Bien balance les deux lieux, qu'un joueur neutre soit ammené à autant aller dans l'un comme dans l'autre.
+
+@SMA : ça serait plutôt interdit aux Protagonistes, vu que les Neutres, dans le jeu comme dans le RP joue sur les deux tableaux. Mais le thème de la carte est cool, j'avais déjà sélectionné ce Lieu en idée.
 
 ----------------------------------------------------
 
@@ -202,12 +226,7 @@ Jouer sur le déplacement avec un tour d'écart ?
 Interet: Cibler une case moins convoité par les gens en espérant qu'elle soit vide/libre le tour suivant ? 
 Récompenser une bonne vision de jeu mais peut s'avérer inutile si la case à changé / si quelqu'un y est allé etc...
 
-----------------------------------------------------
-
-Dervish 
-
-Bonne idée (++) Lieux communs à tout les clans mais avec des effets un poil différent pour certaines personnes
-Permet de jouer sur l'ambiguité et que tout le monde trouve un interet à la case.
+@SMA : Excellent idée de pouvoir se déplacer en planifiant le tour suivant, je garde. Dans le RP, on peut s'imaginer que tu attends durant ton tour sur le quai de la gare et que le train démarre à ton tour suivant.
 
 
 
