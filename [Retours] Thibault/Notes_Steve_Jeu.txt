@@ -1,5 +1,5 @@
-@SMA : 
-Il faudra que je te parle que j'imagine un "esprit" de conception pour chaque Extension. Harry Potter est un peu celle très accessible, un peu fantaisiste sur certains trucs. Horreur, ça sera celle où ça sera très difficile à jouer pour les joueurs (les lieux, les consommables pourront te tuer, tout ça).
+@SMA :
+Il faudra que je te parle que j'imagine un "esprit" de conception pour chaque Extension. Harry Potter est un peu celle trÃ¨s accessible, un peu fantaisiste sur certains trucs. Horreur, Ã§a sera celle oÃ¹ Ã§a sera trÃ¨s difficile Ã  jouer pour les joueurs (les lieux, les consommables pourront te tuer, tout Ã§a).
 
 
 
@@ -12,77 +12,67 @@ Lieu Harry Potter
 
 ----------------------------------------------------
 
-Warning sur la Portée:
-Trop item portée = peut être game breaker.
+Warning sur la PortÃ©e:
+Trop item portÃ©e = peut Ãªtre game breaker.
 (plus besoin de bouger pour toucher qui l'on veut)
 
-Piste: Favoriser plus les déplacements ?
+Piste: Favoriser plus les dÃ©placements ?
 
-@SMA : Oui, je suis assez d'accord, il faudrait peut-être même plus varié les effets.
-
-----------------------------------------------------
-
-Glace à l’ennemi 
-
-Super cool comme mécanique à effet dans le temps avec retroactivité.
-Warning sur la compréhension de la carte
-
-@SMA : J'ai légèrement changé la mécanique pour que les personnages Neutres soient plus impliqués. Désormais, voici comme ça se passe (il faut trouver une formulation limpide et concise par contre) :
-
-*** Si vous êtes Antagoniste :
-**** Si la cible est Protagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
-**** Si la cible est Antagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
-*** Si vous êtes Protagoniste :
-**** Si la cible est Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
-**** Si la cible est Protagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
-*** Si vous êtes Neutre :
-**** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
-**** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+@SMA : Oui, je suis assez d'accord, il faudrait peut-Ãªtre mÃªme plus variÃ© les effets.
 
 ----------------------------------------------------
 
-Miss Teigne 
+Glace Ã  lâ€™ennemi
 
-Peut être ciblé par un adversaire pour subir les conséquences d’un combat à votre place
+Super cool comme mÃ©canique Ã  effet dans le temps avec retroactivitÃ©.
+Warning sur la comprÃ©hension de la carte
 
-Item destructible par l'advsersaire sur simple attaque = bonne idée = équipement pas figé, l'adversaire peut utiliser son attaque de manière très utile sans faire la course à l'armement. 
-La course au désarmement est très interessante. ++ de mécanique jouant là dessus ?
+@SMA : J'ai lÃ©gÃ¨rement changÃ© la mÃ©canique pour que les personnages Neutres soient plus impliquÃ©s. DÃ©sormais, voici comme Ã§a se passe (il faut trouver une formulation limpide et concise par contre) :
 
-La cible peut elle choisir de le suicider en cas de besoin ? 
-
-@SMA La cible peut "suicider" son objet, dans la mesure où tu peux défausser tes équipements à tout moment (ou que pendant ton tour, faut que j'y réfléchisse).
-
-----------------------------------------------------
-
-Nagini
-
-Venin = équivaut à l'érosion dans dofus ?
-
-Si oui peut être trop craqué si spammable.
-
-@SMA : Oui c'est pareil que l'érosion.
+*** Si vous Ãªtes Antagoniste :
+**** Si la cible est Protagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vÃ´tre.
+**** Si la cible est Antagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vÃ´tre.
+*** Si vous Ãªtes Protagoniste :
+**** Si la cible est Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vÃ´tre.
+**** Si la cible est Protagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vÃ´tre.
+*** Si vous Ãªtes Neutre :
+**** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vÃ´tre.
+**** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vÃ´tre.
 
 ----------------------------------------------------
 
-Buck 
+Miss Teigne
 
-+2 PO peut être craqué
+Peut Ãªtre ciblÃ© par un adversaire pour subir les consÃ©quences dâ€™un combat Ã  votre place
 
-Si la mécanique de PO persiste, proposer un malus équivalent en terme de "puissance".
+Item destructible par l'advsersaire sur simple attaque = bonne idÃ©e = Ã©quipement pas figÃ©, l'adversaire peut utiliser son attaque de maniÃ¨re trÃ¨s utile sans faire la course Ã  l'armement.
+La course au dÃ©sarmement est trÃ¨s interessante. ++ de mÃ©canique jouant lÃ  dessus ?
+
+La cible peut elle choisir de le suicider en cas de besoin ?
+
+@SMA La cible peut "suicider" son objet, dans la mesure oÃ¹ tu peux dÃ©fausser tes Ã©quipements Ã  tout moment (ou que pendant ton tour, faut que j'y rÃ©flÃ©chisse).
+
+----------------------------------------------------
+
+Buck
+
++2 PO peut Ãªtre craquÃ©
+
+Si la mÃ©canique de PO persiste, proposer un malus Ã©quivalent en terme de "puissance".
 Gros avantage = possible gros malus
 
-@SMA : A y réfléchir pour que ça s'accorde avec le RP de la carte également (d'où déjà le premier malus de pas pouvoir s'en servir contre quelqu'un qui l'a déjà possédé).
+@SMA : A y rÃ©flÃ©chir pour que Ã§a s'accorde avec le RP de la carte Ã©galement (d'oÃ¹ dÃ©jÃ  le premier malus de pas pouvoir s'en servir contre quelqu'un qui l'a dÃ©jÃ  possÃ©dÃ©).
 
 ----------------------------------------------------
 
-Pierre de résu
+Pierre de rÃ©su
 
-Vous pouvez communiquer librement avec les personnages décédés lors de la partie.
+Vous pouvez communiquer librement avec les personnages dÃ©cÃ©dÃ©s lors de la partie.
 
-Comment le mettre en place ? 
-Est only RP ou réel avantage In game ?
+Comment le mettre en place ?
+Est only RP ou rÃ©el avantage In game ?
 
-@SMA : Avantage IG, mais faut y réfléchir. J'ai pas vraiment d'idée bonne sous la main, sinon ça serait un truc chiant à base de les joueurs morts ont pas le droit de parler.
+@SMA : Avantage IG, mais faut y rÃ©flÃ©chir. J'ai pas vraiment d'idÃ©e bonne sous la main, sinon Ã§a serait un truc chiant Ã  base de les joueurs morts ont pas le droit de parler.
 
 ----------------------------------------------------
 
@@ -96,51 +86,51 @@ Check si le bonus est pas trop cheat dans le futur, pas urgent.
 Epee de Godric
 
 Attention au snowball potentiel
-Bien définir à partir de quel moment elle peut doit commencé à être utilisé pour être déterministe.
-Checker les minimums pour être god like et définir le moment à partir de quand elle ne peut plus le devenir.
+Bien dÃ©finir Ã  partir de quel moment elle peut doit commencÃ© Ã  Ãªtre utilisÃ© pour Ãªtre dÃ©terministe.
+Checker les minimums pour Ãªtre god like et dÃ©finir le moment Ã  partir de quand elle ne peut plus le devenir.
 
-@SMA : Tu peux l'utiliser dès que tu l'as, quand tu te décides à attaquer. Mais vu qu'il faut une différence de dégât de 4 (ce qui est bcp, au maximum juste avec les dés, avec bcp de malchance, tu as 3 maximum), il faut attendre un minimum dans la partie pour que ça soit fort.
-En plus de ça, à côté de ça, elle donne que +1 de dégâts quand elle est pas boostée.
+@SMA : Tu peux l'utiliser dÃ¨s que tu l'as, quand tu te dÃ©cides Ã  attaquer. Mais vu qu'il faut une diffÃ©rence de dÃ©gÃ¢t de 4 (ce qui est bcp, au maximum juste avec les dÃ©s, avec bcp de malchance, tu as 3 maximum), il faut attendre un minimum dans la partie pour que Ã§a soit fort.
+En plus de Ã§a, Ã  cÃ´tÃ© de Ã§a, elle donne que +1 de dÃ©gÃ¢ts quand elle est pas boostÃ©e.
 
 ----------------------------------------------------
 
 Oeil de Maugrey
 
-Peut être changer en 2 cartes piochées demandées à être vu ?
+Peut Ãªtre changer en 2 cartes piochÃ©es demandÃ©es Ã  Ãªtre vu ?
 Ex: x2 cartes d'un joueur ou 2 joueurs x1 carte
 
-à balance avec le nombre de cartes piochées en moyenne par tour
+Ã  balance avec le nombre de cartes piochÃ©es en moyenne par tour
 
-@SMA : Le nombre de cartes par tour est plus intéressant en effet, ça évite aussi de devoir réfléchir à l'équilibrage par nombre de joueurs (vu que c'est une mécanique de la carte).
+@SMA : Le nombre de cartes par tour est plus intÃ©ressant en effet, Ã§a Ã©vite aussi de devoir rÃ©flÃ©chir Ã  l'Ã©quilibrage par nombre de joueurs (vu que c'est une mÃ©canique de la carte).
 
 ----------------------------------------------------
-Cape d'invisibilité
+Cape d'invisibilitÃ©
 
-Très bon counter aux items PO
+TrÃ¨s bon counter aux items PO
 
-Rendre les counters PO aussi accessibles/récurents que les items PO
+Rendre les counters PO aussi accessibles/rÃ©curents que les items PO
 
 ----------------------------------------------------
 
 Voldemort
 
-Horcruxe : Cool => Gros avantage mais demande de se "dévoiler" en achevant à plusieurs reprise si l'on souhaite en profiter plusieurs fois.
+Horcruxe : Cool => Gros avantage mais demande de se "dÃ©voiler" en achevant Ã  plusieurs reprise si l'on souhaite en profiter plusieurs fois.
 
 ----------------------------------------------------
 
-Quirelle 
+Quirelle
 
 Original le mode coop (++)
 
 
 ----------------------------------------------------
 
-Gripsec 
+Gripsec
 
-Poser ou retirer les objets à distances: Les deux = peut être trop OP.
-Autoriser l'action la plus récurente, laisser en obligatoire la moins utilisée ?
+Poser ou retirer les objets Ã  distances: Les deux = peut Ãªtre trop OP.
+Autoriser l'action la plus rÃ©curente, laisser en obligatoire la moins utilisÃ©e ?
 
-@SMA : Oui, c'est très fort.
+@SMA : Oui, c'est trÃ¨s fort.
 
 ----------------------------------------------------
 
@@ -148,85 +138,82 @@ Mondungus Fletcher
 
 Est en double sur le fichier
 
-@SMA : Corrigé, c'était un pb de versioning.
+@SMA : CorrigÃ©, c'Ã©tait un pb de versioning.
 
 ----------------------------------------------------
 
 Harry potter
 
 Accio:
-Nommer la carte = très difficile/impossible pour quelqu'un qui connait pas le jeu
-"Easy to play, Hard to master", il faut garder le côté easy, à voir si tu veux add un effet pour valoriser le hard to master
+Nommer la carte = trÃ¨s difficile/impossible pour quelqu'un qui connait pas le jeu
+"Easy to play, Hard to master", il faut garder le cÃ´tÃ© easy, Ã  voir si tu veux add un effet pour valoriser le hard to master
 
-Expelliarmus = très balance c'est cool
+Expelliarmus = trÃ¨s balance c'est cool
 
 ----------------------------------------------------
 
-Firenze 
+Firenze
 
-"Choisir la rencontre": il doit me manquer un élément de gameplay je n'ai pas compris.
+"Choisir la rencontre": il doit me manquer un Ã©lÃ©ment de gameplay je n'ai pas compris.
 
-@SMA : Oui, faut que je définisse le Lieu "La forêt interdite", un lieu où tu pourras faire des rencontres randoms selon le résultats des dés. Et lui pourra choisir le résultat.
+@SMA : Oui, faut que je dÃ©finisse le Lieu "La forÃªt interdite", un lieu oÃ¹ tu pourras faire des rencontres randoms selon le rÃ©sultats des dÃ©s. Et lui pourra choisir le rÃ©sultat.
 
 
 ----------------------------------------------------
 
 Banque de Gringotts
 
-Si pas extension de Harry Potter, comment la remplacer et quelle serait sa spécificité comparé à une autre "banque like" d'une autre extension ?
+Si pas extension de Harry Potter, comment la remplacer et quelle serait sa spÃ©cificitÃ© comparÃ© Ã  une autre "banque like" d'une autre extension ?
 
-@SMA : Intéressant l'idée de la spécificité de gringotts, il faudra y réfléchir. On pourrait penser à d'autres banque moins sécurisée où tu pourrais voler des items aux autres joueurs.
+@SMA : IntÃ©ressant l'idÃ©e de la spÃ©cificitÃ© de gringotts, il faudra y rÃ©flÃ©chir. On pourrait penser Ã  d'autres banque moins sÃ©curisÃ©e oÃ¹ tu pourrais voler des items aux autres joueurs.
 
 ----------------------------------------------------
 
-Azkaban 
+Azkaban
 
-Très très impactant si malchanceux.
-Empêche de jouer (?) + destruction de potentiellement tout le stuff
+TrÃ¨s trÃ¨s impactant si malchanceux.
+EmpÃªche de jouer (?) + destruction de potentiellement tout le stuff
 
-Attention à ce que le joueur ne pense pas perdre sa partie une fois tomber dedans et "abandonne".
-Ex: Sac à dos affamé dans munchkin. Sans carte pour le détruire (uniquement jet de dé) il détruit la game de quelqu'un sans que cette personne puisse mettre une stratégie en place pour s'en sortir.
+Attention Ã  ce que le joueur ne pense pas perdre sa partie une fois tomber dedans et "abandonne".
+Ex: Sac Ã  dos affamÃ© dans munchkin. Sans carte pour le dÃ©truire (uniquement jet de dÃ©) il dÃ©truit la game de quelqu'un sans que cette personne puisse mettre une stratÃ©gie en place pour s'en sortir.
 Sentiment d'impuissance trop fort (?)
 
-@SMA : C'est vrai, à réfléchir pour en limiter l'effet éventuellement. Pour éviter le coup de la carte "ayé j'ai perdu la game, gg" (ça sera le cas par contre du pack Extension "Horreur").
+@SMA : C'est vrai, Ã  rÃ©flÃ©chir pour en limiter l'effet Ã©ventuellement. Pour Ã©viter le coup de la carte "ayÃ© j'ai perdu la game, gg" (Ã§a sera le cas par contre du pack Extension "Horreur").
 
 ----------------------------------------------------
 
-(Potentiel) Manoir de Malfoy 
+(Potentiel) Manoir de Malfoy
 
-100% antagoniste ? Les neutres peuvent aller à l'hopital mais ici aussi ? 
+100% antagoniste ? Les neutres peuvent aller Ã  l'hopital mais ici aussi ?
 
-Bien balance les deux lieux, qu'un joueur neutre soit ammené à autant aller dans l'un comme dans l'autre.
+Bien balance les deux lieux, qu'un joueur neutre soit ammenÃ© Ã  autant aller dans l'un comme dans l'autre.
 
-@SMA : ça serait plutôt interdit aux Protagonistes, vu que les Neutres, dans le jeu comme dans le RP joue sur les deux tableaux. Mais le thème de la carte est cool, j'avais déjà sélectionné ce Lieu en idée.
-
-----------------------------------------------------
-
-Chemin de traverse 
-
-Marchand pour tout le monde = idée cool
-Jet de dés pour départager l'ordre d'arriver devant le marchand ?
-Le moins de valeur de stuff = ordre du plus néscéciteux au plus aisé ?
+@SMA : Ã§a serait plutÃ´t interdit aux Protagonistes, vu que les Neutres, dans le jeu comme dans le RP joue sur les deux tableaux. Mais le thÃ¨me de la carte est cool, j'avais dÃ©jÃ  sÃ©lectionnÃ© ce Lieu en idÃ©e.
 
 ----------------------------------------------------
 
-Boutique de fred & george 
+Chemin de traverse
 
-Pioche générique -> Difficile d'avoir une pioche spéciale friandise (?)
-Comment gérer ça ?
+Marchand pour tout le monde = idÃ©e cool
+Jet de dÃ©s pour dÃ©partager l'ordre d'arriver devant le marchand ?
+Le moins de valeur de stuff = ordre du plus nÃ©scÃ©citeux au plus aisÃ© ?
+
+----------------------------------------------------
+
+Boutique de fred & george
+
+Pioche gÃ©nÃ©rique -> Difficile d'avoir une pioche spÃ©ciale friandise (?)
+Comment gÃ©rer Ã§a ?
 
 ----------------------------------------------------
 
 Station de train
 
-Si déplacement sur la case de notre choix ou opposée = sert à multiplier le nombre de jet de dé possible pour aller ou l'on souhaite.
-Ex: Case que l'on veut à 5, gare à 3. ça permet de faire soit 3 ou 5 pour accéder à ce que l'on veut.
+Si dÃ©placement sur la case de notre choix ou opposÃ©e = sert Ã  multiplier le nombre de jet de dÃ© possible pour aller ou l'on souhaite.
+Ex: Case que l'on veut Ã  5, gare Ã  3. Ã§a permet de faire soit 3 ou 5 pour accÃ©der Ã  ce que l'on veut.
 
-Jouer sur le déplacement avec un tour d'écart ? 
-Interet: Cibler une case moins convoité par les gens en espérant qu'elle soit vide/libre le tour suivant ? 
-Récompenser une bonne vision de jeu mais peut s'avérer inutile si la case à changé / si quelqu'un y est allé etc...
+Jouer sur le dÃ©placement avec un tour d'Ã©cart ?
+Interet: Cibler une case moins convoitÃ© par les gens en espÃ©rant qu'elle soit vide/libre le tour suivant ?
+RÃ©compenser une bonne vision de jeu mais peut s'avÃ©rer inutile si la case Ã  changÃ© / si quelqu'un y est allÃ© etc...
 
-@SMA : Excellent idée de pouvoir se déplacer en planifiant le tour suivant, je garde. Dans le RP, on peut s'imaginer que tu attends durant ton tour sur le quai de la gare et que le train démarre à ton tour suivant.
-
-
-
+@SMA : Excellent idÃ©e de pouvoir se dÃ©placer en planifiant le tour suivant, je garde. Dans le RP, on peut s'imaginer que tu attends durant ton tour sur le quai de la gare et que le train dÃ©marre Ã  ton tour suivant.
