@@ -16,6 +16,10 @@
   ** Si vous utilisez cet objet, vous ne pourrez plus échanger d'objet avec le reste des joueurs (ils pourront toujours vous voler).
   ** La case "Marchand" ne vous coûte rien, chaque utilisation consomme 1 charge.
 
+* Accessoire : Chat de Cheschire
+** [Disparition : au lieu d'attaquer, réduit la portée de vos adversaires de 2 quand ils vous ciblent]
+** peut être attaqué à la place de vous (PDB ?)
+
 https://fr.wikipedia.org/wiki/Liste_d%27objets_de_fiction#Contes_merveilleux
 
 https://fr.wikipedia.org/wiki/Conte_merveilleux
