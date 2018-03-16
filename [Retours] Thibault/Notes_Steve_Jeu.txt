@@ -1,3 +1,6 @@
+Idée : resteindre les échanges entre joueurs à leur portée ? Peut-être trop bloquant, et rendrait la portée trop vitale, même si ça pousserait à bouger pas que pour attaquer.
+J'ai une idée assez cool, mais peut-être très chiante. Dans Harry Potter, l'arme la plus courante, c'est la baguette. Et je trouve ça cool que les joueurs puissent constituer leur baguette eux-mêmes avec 3 ingrédients différents qui auront des pouvoirs et une rareté différente.
+
 @SMA :
 Il faudra que je te parle que j'imagine un "esprit" de conception pour chaque Extension. Harry Potter est un peu celle très accessible, un peu fantaisiste sur certains trucs. Horreur, ça sera celle où ça sera très difficile à jouer pour les joueurs (les lieux, les consommables pourront te tuer, tout ça).
 
@@ -62,6 +65,7 @@ Si la mécanique de PO persiste, proposer un malus équivalent en terme de "puis
 Gros avantage = possible gros malus
 
 @SMA : A y réfléchir pour que ça s'accorde avec le RP de la carte également (d'où déjà le premier malus de pas pouvoir s'en servir contre quelqu'un qui l'a déjà possédé).
+Finalement, la carte a été nerf à 1 de PO, et déplacer en tant qu'accessoire rare au lieu d'épique. Je réfléchis à enlever le côté unique pour transformer ça en hyppogriffe et donc pvr y avoir plusieurs exemplaires.
 
 ----------------------------------------------------
 

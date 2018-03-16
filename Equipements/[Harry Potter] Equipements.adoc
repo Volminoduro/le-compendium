@@ -44,30 +44,25 @@
 ** Ne peut être défaussé
 ** [Permettrait de se téléporter sur la case d'un autre porteur de Marque des Ténèbres ?]
 
-=======
 * link:http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (2 exemplaires)]
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
-* link:http://harrypotter.wikia.com/wiki/Dark_Mark[Marque de Voldemort]
-** Ne peut être retiré
-** Permettre de TP ?]
+* link:http://harrypotter.wikia.com/wiki/Buckbeak[Buck]
+** Envol : vous rajoute 1 de portée.
+** Loyauté : vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
+** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
 
 ===== Epique
 
 * Nagini (1 exemplaire)
 ** Fidélité extrême à Voldemort : Réservé aux Antagonistes.
-** Venin : Les blessures de combat que vous infligez baissent également les Blessures maximums.
+** Venin : Les blessures de combat que vous infligez baissent également les Blessures maximums [peut-être limité ça à 3 dimininutions de blessures max par cible ?].
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
 
 
 * link:http://harrypotter.wikia.com/wiki/Thestral[Sombral ? 3 Exemplaires]
 ** [] : vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
 ** Destrier invisible : vous ajoute 1 de portée, inflige 1 portée en malus pour vos adversaires.
-
-* link:http://harrypotter.wikia.com/wiki/Buckbeak[Buck]
-** Envol : vous rajoute 2 de portée.
-** Loyauté : vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
-** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
 
 * link:http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
 ** Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
@@ -115,6 +110,9 @@
 ===== Commune
 
 ===== Rare
+
+* Cape d'Invisibilité standard
+** Invisibilité dégradative (2 charges) : On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
 ===== Epique
 
