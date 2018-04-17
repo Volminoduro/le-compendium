@@ -10,3 +10,5 @@
 * Pion îcone pour reconnaître les personnages sur le plateau ?
 
 * Attention aux placements cases Marchands et trocs, à côté des +1 ou -1 pour éviter l'abus
+
+* Mettre en place une meilleure structure adoc, et un lien vers des images beaucoup plus probantes.

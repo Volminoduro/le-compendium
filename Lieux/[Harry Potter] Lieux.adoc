@@ -1,4 +1,4 @@
-- https://en.wikipedia.org/wiki/Places_in_Harry_Potter
+* https://en.wikipedia.org/wiki/Places_in_Harry_Potter
 
 * Une dizaine (minimum) / quinzaine (optimal ?) serait une bonne base pour la constitution des "Lieux" d'un pack d'extension.
 
