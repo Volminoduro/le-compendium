@@ -13,10 +13,6 @@
 * Bézoard
 * Carte du maraudeur
 
-* Total :
-* Catégorie :
-** Soins :
-
 ==== link:http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky (3 exemplaires)]
 ** Catégorie : Soins
 ** Utilisable à tout moment.
