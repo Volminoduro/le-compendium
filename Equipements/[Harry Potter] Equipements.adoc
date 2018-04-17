@@ -1,3 +1,10 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+:toc:
+:numbered:
+
 * Harry Potter :
 ** https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
 ** http://harrypotter.wikia.com/wiki/Probity_Probe

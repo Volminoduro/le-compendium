@@ -8,7 +8,7 @@
 :project-name: Le compendium
 :nbTotal: 0
 
-= {counter:nbTotal}
+= {counter2:nbTotal}
 
 Ceci est le {project-name} !
 

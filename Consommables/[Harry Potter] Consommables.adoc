@@ -2,89 +2,143 @@
 :source-highlighter: pygments
 :data-uri:
 :icons: font
+:nbTotal: 0
 :toc:
 :numbered:
 
-* https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
-* http://harrypotter.wikia.com/wiki/Dark_Arts
-* http://harrypotter.wikia.com/wiki/Potion
-* Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
-* Retourneur de temps
-* Bézoard
-* Carte du maraudeur
+= Soins
 
-==== link:http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky (3 exemplaires)]
-** Catégorie : Soins
-** Utilisable à tout moment.
-*** Soignez-vous de 1 blessure.
-*** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
-*** Alcool fort : Vous ne pouvez consommer un autre consommable ayant l'effet Alcool fort alors que vous en possédez déjà l'effet.
+:nbTotalSoins: 0
 
-==== link:http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre (5 exemplaires)]
-** Catégorie : Soins
-** Utilisable à tout moment
-*** Soignez-vous 1 blessure.
-*** Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
+== link:http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky (3 exemplaires)]
 
-==== Poudre de cheminette (4 exemplaires)
-** Catégorie : Déplacement
-** Utilisable lors de votre déplacement
-*** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à la destination.
+{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
+{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}
 
-==== Potion de Felix Felicis (2 exemplaires)
-** Catégorie : Influence du hasard
-** Utilisable à tout moment
-*** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
+* Exemplaires : 3
+* Utilisable à tout moment.
+* Soignez-vous de 1 blessure.
+* Augmente votre défense de 1 jusqu'au début de votre prochain tour.
+* Alcool fort : Vous ne pouvez consommer un autre consommable ayant l'effet Alcool fort alors que vous en possédez déjà l'effet.
 
-==== link:http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire)]
-** Catégorie : Autres
-** Utilisable durant votre tour
-** Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
-** Si la cible de son amour venait à mourir, il se suicidera.
-** L'effet peut-être annulé à l'aide d'un philtre de haine.
+== link:http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre (5 exemplaires)]
 
-==== Philtre de haine (2 exemplaires)
-** Utilisable durant votre tour
-** [Effet]
-** [Effet]
-** L'effet peut-être annulé à l'aide de l'Amortentia.
+{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
+{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}
 
-==== Sang de licorne (1 exemplaire)
-** Catégorie : Soins
-** Utilisable à tout moment
-** Vous pouvez échapper à la mort une fois.
-** Jusqu'à la fin de la partie, vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
-** Vous ne pourrez consommer un autre Sang de licorne.
+* Utilisable à tout moment
+* Soignez-vous 1 blessure.
+* Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
 
-==== http://harrypotter.wikia.com/wiki/Dungbomb (3 exemplaires)
-** Catégorie : Protection / Déplacement
-** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
+== Sang de licorne (1 exemplaire)
 
-==== link:http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup (2 exemplaires)]
-** Catégorie : Attaque / Contre
-** Utilisable à tout moment
-** Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
+{counter2:nbTotal}
+{counter2:nbTotalSoins}
 
-==== Les dragées des frères Weasleys
-** Effets aléatoire : 1 serait de piocher une carte retournement
-*** Soin de 1 PDS
-*** Tirer une carte "Consommable"
-*** Tirer une carte "Equipement"
-*** Téléportation sur la case d'un autre joueur (sans la déclencher)
+* Utilisable à tout moment
+* Vous pouvez échapper à la mort une fois.
+* Jusqu'à la fin de la partie, vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
+* Vous ne pourrez consommer un autre Sang de licorne.
 
-==== link:http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires)]
-** Catégorie : Déplacement
-** Utilisable durant votre tour.
-** Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
-** Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les emprunter lorsqu'ils arrivent sur la case en question de se rendre à l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
+== Nombre d'exemplaire total : {counter:nbTotalSoins}
 
-==== link:http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder (2 exemplaires)]
-** Catégorie : Protection
-** Utilisable à tout moment.
-** Vous permets de fuir une attaque.
+= Déplacement
+
+:nbTotalDeplacement: 0
+
+== Poudre de cheminette (4 exemplaires)
+
+{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
+{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}
+
+* Utilisable lors de votre déplacement
+** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à la destination.
+
+== link:http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires)]
+
+{counter2:nbTotal}{counter2:nbTotal}
+{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}
+
+* Utilisable durant votre tour.
+* Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
+* Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les emprunter lorsqu'ils arrivent sur la case en question de se rendre à l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
+
+== Nombre d'exemplaire total : {counter:nbTotalDeplacement}
+
+= Protection
+
+:nbTotalProtection: 0
+
+== link:http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder (2 exemplaires)]
+
+{counter2:nbTotal}{counter2:nbTotal}
+{counter2:nbTotalProtection}{counter2:nbTotalProtection}
+
+* Utilisable à tout moment.
+* Vous permets de fuir une attaque.
+
+== http://harrypotter.wikia.com/wiki/Dungbomb (3 exemplaires)
+
+{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
+{counter2:nbTotalProtection}{counter2:nbTotalProtection}{counter2:nbTotalProtection}
+
+* Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
+
+
+== Nombre d'exemplaire total : {counter:nbTotalProtection}
+
+= Autres
+
+== Potion de Felix Felicis (2 exemplaires)
+
+* Catégorie : Influence du hasard
+* Utilisable à tout moment
+** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
+
+== link:http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire)]
+
+* Utilisable durant votre tour
+* Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
+* Si la cible de son amour venait à mourir, il se suicidera.
+* L'effet peut-être annulé à l'aide d'un philtre de haine.
+
+== Philtre de haine (2 exemplaires)
+
+* Utilisable durant votre tour
+* [Effet]
+* [Effet]
+* L'effet peut-être annulé à l'aide de l'Amortentia.
+
+== link:http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup (2 exemplaires)]
+
+* Catégorie : Attaque / Contre
+* Utilisable à tout moment
+* Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
+
+== Les dragées des frères Weasleys
+
+* Effets aléatoire : 1 serait de piocher une carte retournement
+** Soin de 1 PDS
+** Tirer une carte "Consommable"
+** Tirer une carte "Equipement"
+** Téléportation sur la case d'un autre joueur (sans la déclencher)
+
+= Nombre total d'exemplaire {counter:nbTotal}
+
+= Ressources
 
 * https://en.wikipedia.org/wiki/Magic_in_Harry_Potter
 * http://harrypotter.wikia.com/wiki/Wizard%27s_Brew
 * http://harrypotter.wikia.com/wiki/Bell_jar
 * http://harrypotter.wikia.com/wiki/Death
 * http://harrypotter.wikia.com/wiki/Verdimillious_Charm
+* https://fr.wikipedia.org/wiki/Objets_magiques_de_Harry_Potter
+* http://harrypotter.wikia.com/wiki/Dark_Arts
+* http://harrypotter.wikia.com/wiki/Potion
+
+= Idées
+
+* Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
+* Retourneur de temps
+* Bézoard
+* Carte du maraudeur

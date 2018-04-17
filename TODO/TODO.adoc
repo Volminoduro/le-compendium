@@ -23,3 +23,5 @@
 * Attention aux placements cases Marchands et trocs, à côté des +1 ou -1 pour éviter l'abus
 
 * Mettre en place une meilleure structure adoc, et un lien vers des images beaucoup plus probantes.
+
+* Faire un sample de carte sous format adoc pour s'approcher du format physique final
