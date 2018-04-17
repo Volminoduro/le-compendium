@@ -1,0 +1,51 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+:toc:
+:numbered:
+
+:project-name: Le compendium
+:nbTotal: 0
+
+= {counter:nbTotal}
+
+Ceci est le {project-name} !
+
+
+
+Nombre total : {nbTotal}
+
+Nombre total +1  : {counter:nbTotal}
+
+
+Nombre total +2  : {counter2:nbTotal}{counter:nbTotal}
+
+== Counters
+
+In Asciidoctor we can use counters. To use them
+we ({counter:usage}) use a document attribute
+prefixed with `counter:` and ({counter:usage}) use it again
+to increment the counter.
+
+Instead of numbers we can use characters. To use them
+we ({counter:usageChar:A}) use a document attribute
+prefixed with `counter:` and suffix `:A` and ({counter:usageChar}) use it again
+to increment the counter.
+
+=== Current value
+
+Current value for a counter can be obtained by just referring to document attribute name.
+Value counter is *{usage}*.
+
+=== Increment
+
+{counter2:usage} We can also increment the counter without displaying the value.
+On the next increment the value is *{counter:usage}*.
+
+=== Start at
+
+To start at another number than 1 we can specify the starting counter value as
+a suffix to the counter attribute as `:<start>`.
+
+{counter:sample:10}. do something followed by {counter:sample}. something else.
