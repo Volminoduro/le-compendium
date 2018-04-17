@@ -1,3 +1,14 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+:toc:
+:numbered:
+
+=== sdsds
+
+=== sdsd
+
 * Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 
 * D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
