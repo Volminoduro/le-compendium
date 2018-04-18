@@ -1,0 +1,29 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+:toc:
+:numbered:
+
+:imagesdir: ressources/images
+
+Quelles informations doivent être affichées et comment ?
+
+* Il faut que la taille des encadrés reste la même peu importe le style de carte.
+
+* Le nom de la carte en titre, en haut et encadré.
+* Le type de la carte (Consommable, personnage, etc.), cela peut être indiqué avec la couleur [voire une indication en bas de carte déconseillé pour la gestion de l'espace] ?
+* Ce que la carte est censé faire
+* Une illustration
+* (Optionnel, si place disponible) Une citation
+* Son extension
+
+* Pour les équipements :
+** L'emplacement
+** La rareté
+
+* Pour les personnages :
+** Le nombre de blessures encaissables
+** L'alignement
+
+image::Lou's_tavern.jpg
