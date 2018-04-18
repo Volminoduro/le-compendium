@@ -2,28 +2,32 @@
 :source-highlighter: pygments
 :data-uri:
 :icons: font
-:nbTotal: 0
 :toc:
 :numbered:
 
-= Exemple
+:nbTotal: 0
 
-= Soins
+= Consommables
+
+== Soins
 
 :nbTotalSoins: 0
 
-== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky]
-
-{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}
 
+=== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky]
+
+{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
+
+
 * Exemplaires : 3
+* Pre total : {counter:nbTotal} et {counter:nbTotalSoins}
 * Utilisable à tout moment.
 * Soignez-vous de 1 blessure.
 * Augmente votre défense de 1 jusqu'au début de votre prochain tour.
 * Alcool fort : Vous ne pouvez consommer un autre consommable ayant l'effet Alcool fort alors que vous en possédez déjà l'effet.
 
-== http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre]
+=== http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre]
 
 {counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}
@@ -33,7 +37,7 @@
 * Soignez-vous 1 blessure.
 * Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
 
-== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne]
+=== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne]
 
 {counter2:nbTotal}
 {counter2:nbTotalSoins}
@@ -44,13 +48,13 @@
 * Jusqu'à la fin de la partie, vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 * Vous ne pourrez consommer un autre Sang de licorne.
 
-== Nombre d'exemplaire total : {counter:nbTotalSoins}
+=== Nombre d'exemplaire total : {counter:nbTotalSoins}
 
 = Déplacement
 
 :nbTotalDeplacement: 0
 
-== Poudre de cheminette
+=== Poudre de cheminette
 
 {counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}
@@ -69,13 +73,13 @@
 * Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
 * Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les emprunter lorsqu'ils arrivent sur la case en question de se rendre à l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
 
-== Nombre d'exemplaire total : {counter:nbTotalDeplacement}
+=== Nombre d'exemplaire total : {counter:nbTotalDeplacement}
 
-= Protection
+== Protection
 
 :nbTotalProtection: 0
 
-== link:http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder]
+=== link:http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder]
 
 {counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalProtection}{counter2:nbTotalProtection}
@@ -84,7 +88,7 @@
 * Utilisable à tout moment.
 * Vous permets de fuir une attaque.
 
-== http://harrypotter.wikia.com/wiki/Dungbomb[Dungbomb]
+=== http://harrypotter.wikia.com/wiki/Dungbomb[Dungbomb]
 
 {counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalProtection}{counter2:nbTotalProtection}{counter2:nbTotalProtection}
@@ -93,13 +97,13 @@
 * Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
 
-== Nombre d'exemplaire total : {counter:nbTotalProtection}
+=== Nombre d'exemplaire total : {counter:nbTotalProtection}
 
-= Autres
+== Autres
 
 :nbTotalAutres: 0
 
-== Potion de Felix Felicis
+=== Potion de Felix Felicis
 
 {counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalAutres}{counter2:nbTotalAutres}
@@ -109,7 +113,7 @@
 * Utilisable à tout moment
 ** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
 
-== link:http://harrypotter.wikia.com/wiki/Amortentia[Amortentia]
+=== link:http://harrypotter.wikia.com/wiki/Amortentia[Amortentia]
 
 {counter2:nbTotal}
 {counter2:nbTotalAutres}
@@ -120,7 +124,7 @@
 * Si la cible de son amour venait à mourir, il se suicidera.
 * L'effet peut-être annulé à l'aide d'un philtre de haine.
 
-== Philtre de haine
+=== Philtre de haine
 
 {counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalAutres}{counter2:nbTotalAutres}
@@ -131,7 +135,7 @@
 * [Effet]
 * L'effet peut-être annulé à l'aide de l'Amortentia.
 
-== link:http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup]
+=== link:http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup]
 
 {counter2:nbTotal}{counter2:nbTotal}
 {counter2:nbTotalAutres}{counter2:nbTotalAutres}
@@ -141,7 +145,7 @@
 * Utilisable à tout moment
 * Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
 
-== Les dragées des frères Weasleys
+=== Les dragées des frères Weasleys
 
 * Effets aléatoire : 1 serait de piocher une carte retournement
 ** Soin de 1 PDS
@@ -149,11 +153,11 @@
 ** Tirer une carte "Equipement"
 ** Téléportation sur la case d'un autre joueur (sans la déclencher)
 
-== Nombre d'exemplaire total : {counter:nbTotalAutres}
+=== Nombre d'exemplaire total : {counter:nbTotalAutres}
 
-= Nombre total d'exemplaire {counter:nbTotal}
+== Nombre total d'exemplaire {counter:nbTotal}
 
-= Ressources
+== Ressources
 
 * https://en.wikipedia.org/wiki/Magic_in_Harry_Potter
 * http://harrypotter.wikia.com/wiki/Wizard%27s_Brew
@@ -164,7 +168,7 @@
 * http://harrypotter.wikia.com/wiki/Dark_Arts
 * http://harrypotter.wikia.com/wiki/Potion
 
-= Idées
+== Idées
 
 * Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
 * Retourneur de temps
