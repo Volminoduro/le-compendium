@@ -2,10 +2,20 @@
 :source-highlighter: pygments
 :data-uri:
 :icons: font
+
 :toc:
 :numbered:
 
-:imagesdir: ressources/images
+:imagesdir: /ressources/images
+
+|=======================
+4+|couleur
+|vide 2+|Titre |vide
+|vide 2+|Image |vide
+|vide 2+|Précision |vide
+|vide 2+|Contenu |vide
+|vide |Citation |Icone extension |vide
+|=======================
 
 Quelles informations doivent être affichées et comment ?
 
@@ -26,4 +36,6 @@ Quelles informations doivent être affichées et comment ?
 ** Le nombre de blessures encaissables
 ** L'alignement
 
-image::Lou's_tavern.jpg
+image:{imagesdir}/lou.jpg[]
+
+image:{imagesdir}/Lous_tavern.jpg[]
