@@ -7,24 +7,36 @@
 :numbered:
 
 :imagesdir: /ressources/images
+:iconesdir: /ressources/images/icones
 
 |=======================
 6+|couleur
-.5+|vide 4+|Titre .5+| vide
+
+.5+|
+vide 4+|
+Titre .5+| vide
+
 4+|Image
+
 3+|Précision |vide ou PDV
-4+|Contenu
-3+|Citation |Icone extension
+
+4+a|* list 1
+* list 2
+
+3+|_"Citation entre crochet" puis l'oeuvre, auteur, Annee._ |image:{iconesdir}/Harry_Potter.png[]
+
 6+|couleur
 |=======================
 
 |=======================
-4+|couleur
-|vide 2+|Titre |vide
-|vide 2+|Image |vide
-|vide 2+|Précision |vide
-|vide 2+|Contenu |vide
-|vide |Citation |Icone extension |vide
+6+|couleur
+.5+|vide 4+|Titre .5+|vide
+4+|Image
+3+|Précision|vide ou PDV
+4+a|* list 1
+* list 2
+3+|_"Citation entre crochet" puis l'oeuvre, auteur, Annee._ |image:{iconesdir}/Harry_Potter.png[]
+6+|couleur
 |=======================
 
 Quelles informations doivent être affichées et comment ?
