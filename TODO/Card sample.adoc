@@ -9,24 +9,43 @@
 :imagesdir: /ressources/images
 :iconesdir: /ressources/images/icones
 
+= Exemple carte équipement
+
+= Exemple carte personnage
+
+image:{imagesdir}/lou.jpg['', width=100,height=480]
+
+= Exemple carte autre
+
+* grid attribute à passer à none pour effacer les lignes du tableau
+
+[cols="2%, 10%, 20%, 50%, 16%, 2%"]
 |=======================
-6+|couleur
+6+|{set:cellbgcolor:red}
 
 .5+|
-vide 4+|
-Titre .5+| vide
+4+|{set:cellbgcolor:none}
+Titre .5+|
+{set:cellbgcolor:red}
 
-4+|Image
+4+|{set:cellbgcolor:none}
+image:{imagesdir}/lou.jpg['', 100, 100]
 
-3+|Précision |vide ou PDV
+3+|
+Précision |
+vide-PDV
 
-4+a|* list 1
+4+a|
+* list 1
 * list 2
 
-3+|_"Citation entre crochet" puis l'oeuvre, auteur, Annee._ |image:{iconesdir}/Harry_Potter.png[]
+3+|
+_"Citation entre crochet" - Oeuvre, Auteur (Annee)._ |
+image:{iconesdir}/Harry_Potter.png['', 50, 50]
 
-6+|couleur
+6+|{set:cellbgcolor:red}
 |=======================
+{set:cellbgcolor:none}
 
 |=======================
 6+|couleur
@@ -35,7 +54,7 @@ Titre .5+| vide
 3+|Précision|vide ou PDV
 4+a|* list 1
 * list 2
-3+|_"Citation entre crochet" puis l'oeuvre, auteur, Annee._ |image:{iconesdir}/Harry_Potter.png[]
+3+|_"Citation entre crochet" - Oeuvre, Auteur, Annee._ |image:{iconesdir}/Harry_Potter.png[]
 6+|couleur
 |=======================
 
