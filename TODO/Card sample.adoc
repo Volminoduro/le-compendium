@@ -89,13 +89,9 @@ Quelles informations doivent être affichées et comment ?
 * Son extension
 
 * Pour les équipements :
-** L'emplacement
+** L'emplacement (légende sous l'image)
 ** La rareté
 
 * Pour les personnages :
+** L'alignement (légende sous l'image)
 ** Le nombre de blessures encaissables
-** L'alignement
-
-image:{imagesdir}/lou.jpg[]
-
-image:{imagesdir}/Lous_tavern.jpg[]
