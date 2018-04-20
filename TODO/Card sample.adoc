@@ -6,14 +6,44 @@
 :toc:
 :numbered:
 
-:imagesdir: /ressources/images
-:iconesdir: /ressources/images/icones
+:imagesdir: /ressources/images/Harry_Potter/
+:personnagesdir: /ressources/images/Harry_Potter/Personnages/
 
 = Exemple carte équipement
 
 = Exemple carte personnage
 
-image:{imagesdir}/lou.jpg['', width=100,height=480]
+[cols="2%, 10%, 20%, 50%, 16%, 2%"]
+|=======================
+6+|{set:cellbgcolor:red}
+
+.5+|
+4+|{set:cellbgcolor:none}
+Fenrir Greyback .5+|
+{set:cellbgcolor:red}
+
+4+|{set:cellbgcolor:none}
+image:{personnagesdir}/Fenrir_Greyback_dimension.jpg['']
+
+3+|
+Personnage : Antagoniste |
+7 Blessures
+
+4+a|
+** Lycanthropie : Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
+  *** Vous êtes obligé d'attaquer n'importe quel autre personnage non-Loup-Garou qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
+  *** Vous réduisez les dégâts de deux.
+  *** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
+  *** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
+** [Préparation avant la pleine lune (sélène)] : Lors de votre déplacement précédant votre transformation en Loup-Garou, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous déplacer de deux cases supplémentaires vers un autre personnage de votre choix.
+
+3+|
+_"Citation entre crochet" - Oeuvre, Auteur (Annee)._ |
+image:{imagesdir}/icone.png['', 50, 50]
+
+6+|{set:cellbgcolor:red}
+|=======================
+{set:cellbgcolor:none}
 
 = Exemple carte autre
 
@@ -29,7 +59,7 @@ Titre .5+|
 {set:cellbgcolor:red}
 
 4+|{set:cellbgcolor:none}
-image:{imagesdir}/lou.jpg['', 100, 100]
+image:{imagesdir}/lou.jpg['']
 
 3+|
 Précision |
@@ -47,16 +77,33 @@ image:{iconesdir}/Harry_Potter.png['', 50, 50]
 |=======================
 {set:cellbgcolor:none}
 
+[cols="2%, 10%, 20%, 50%, 16%, 2%"]
 |=======================
-6+|couleur
-.5+|vide 4+|Titre .5+|vide
-4+|Image
-3+|Précision|vide ou PDV
-4+a|* list 1
+6+|{set:cellbgcolor:red}
+
+.5+|
+4+|{set:cellbgcolor:none}
+Titre .5+|
+{set:cellbgcolor:red}
+
+4+|{set:cellbgcolor:none}
+image:{imagesdir}/lou.jpg['']
+
+3+|
+Précision |
+vide-PDV
+
+4+a|
+* list 1
 * list 2
-3+|_"Citation entre crochet" - Oeuvre, Auteur, Annee._ |image:{iconesdir}/Harry_Potter.png[]
-6+|couleur
+
+3+|
+_"Citation entre crochet" - Oeuvre, Auteur (Annee)._ |
+image:{iconesdir}/Harry_Potter.png['', 50, 50]
+
+6+|{set:cellbgcolor:red}
 |=======================
+{set:cellbgcolor:none}
 
 Quelles informations doivent être affichées et comment ?
 
