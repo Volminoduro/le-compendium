@@ -2,87 +2,63 @@
 :source-highlighter: pygments
 :data-uri:
 :icons: font
+
 :toc:
 :numbered:
-
-:nbTotal: 0
 
 = Consommables
 
 == Soins
 
-:nbTotalSoins: 0
-
-{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}
-
-=== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Firewhisky]
-
-{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
-
+=== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Whisky Pur Feu]
 
 * Exemplaires : 3
-* Pre total : {counter:nbTotal} et {counter:nbTotalSoins}
 * Utilisable à tout moment.
-* Soignez-vous de 1 blessure.
-* Augmente votre défense de 1 jusqu'au début de votre prochain tour.
-* Alcool fort : Vous ne pouvez consommer un autre consommable ayant l'effet Alcool fort alors que vous en possédez déjà l'effet.
+* *Effet(s) :*
+** Soignez-vous immédiatement de 1 blessure.
+** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
+** *Alcool fort (1 tour) :* Vous ne pouvez utiliser une autre carte vous conférant l'effet Alcool fort.
 
-=== http://harrypotter.wikia.com/wiki/Butterbeer[Bière-au-beurre]
-
-{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}{counter2:nbTotalSoins}
+=== http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre]
 
 * Exemplaires : 5
-* Utilisable à tout moment
-* Soignez-vous 1 blessure.
-* Alcool léger : Si vous utilisez 2 bière-au-beurre consécutivement, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
+* Utilisable à tout moment.
+* *Effet(s) :*
+** Soignez-vous 1 blessure.
+** *Alcool léger (1 tour) :* Si vous cumulez 2 effets d'Alcool léger ou plus, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
 
 === http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne]
 
-{counter2:nbTotal}
-{counter2:nbTotalSoins}
-
-* Exemplaires : 1
+* Exemplaire : 1
 * Utilisable à tout moment
 * Vous pouvez échapper à la mort une fois.
-* Jusqu'à la fin de la partie, vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
+* *Maudit (jusqu'à la fin de la partie) :* vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 * Vous ne pourrez consommer un autre Sang de licorne.
 
-=== Nombre d'exemplaire total : {counter:nbTotalSoins}
+=== Nombre d'exemplaire total : 9
+
 
 = Déplacement
 
-:nbTotalDeplacement: 0
-
-=== Poudre de cheminette
-
-{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}
+=== http://harrypotter.wikia.com/wiki/Floo_Powder[Poudre de cheminette]
 
 * Exemplaires : 4
-* Utilisable lors de votre déplacement
+* Utilisable à la place de votre déplacement.
 ** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à la destination.
 
-== link:http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître]
-
-{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalDeplacement}{counter2:nbTotalDeplacement}
+=== http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître]
 
 * Exemplaires : 2
 * Utilisable durant votre tour.
 * Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
 * Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les emprunter lorsqu'ils arrivent sur la case en question de se rendre à l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
 
-=== Nombre d'exemplaire total : {counter:nbTotalDeplacement}
+=== Nombre d'exemplaire total : 6
+
 
 == Protection
 
-:nbTotalProtection: 0
-
-=== link:http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder]
-
-{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalProtection}{counter2:nbTotalProtection}
+=== http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder]
 
 * Exemplaires : 2
 * Utilisable à tout moment.
@@ -90,33 +66,23 @@
 
 === http://harrypotter.wikia.com/wiki/Dungbomb[Dungbomb]
 
-{counter2:nbTotal}{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalProtection}{counter2:nbTotalProtection}{counter2:nbTotalProtection}
-
 * Exemplaires : 3
+* Utilisable uniquement durant le tour des autres joueurs.
 * Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
+=== Nombre d'exemplaire total : 5
 
-=== Nombre d'exemplaire total : {counter:nbTotalProtection}
 
 == Autres
 
-:nbTotalAutres: 0
-
 === Potion de Felix Felicis
-
-{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalAutres}{counter2:nbTotalAutres}
 
 * Exemplaires : 2
 * Catégorie : Influence du hasard
 * Utilisable à tout moment
 ** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
 
-=== link:http://harrypotter.wikia.com/wiki/Amortentia[Amortentia]
-
-{counter2:nbTotal}
-{counter2:nbTotalAutres}
+=== http://harrypotter.wikia.com/wiki/Amortentia[Amortentia]
 
 * Exemplaires : 1
 * Utilisable durant votre tour
@@ -126,19 +92,13 @@
 
 === Philtre de haine
 
-{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalAutres}{counter2:nbTotalAutres}
-
 * Exemplaires : 2
 * Utilisable durant votre tour
 * [Effet]
 * [Effet]
 * L'effet peut-être annulé à l'aide de l'Amortentia.
 
-=== link:http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup]
-
-{counter2:nbTotal}{counter2:nbTotal}
-{counter2:nbTotalAutres}{counter2:nbTotalAutres}
+=== http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup]
 
 * Catégorie : Attaque / Contre
 * Exemplaires : 2
@@ -147,15 +107,17 @@
 
 === Les dragées des frères Weasleys
 
+* Exemplaires : ?
 * Effets aléatoire : 1 serait de piocher une carte retournement
 ** Soin de 1 PDS
 ** Tirer une carte "Consommable"
 ** Tirer une carte "Equipement"
 ** Téléportation sur la case d'un autre joueur (sans la déclencher)
 
-=== Nombre d'exemplaire total : {counter:nbTotalAutres}
+=== Nombre d'exemplaire total : 7
 
-== Nombre total d'exemplaire {counter:nbTotal}
+== Nombre total d'exemplaire 27
+
 
 == Ressources
 
