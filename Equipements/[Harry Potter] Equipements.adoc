@@ -37,7 +37,7 @@
 ** Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 1 blessure).
 
-==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1. exemplaire)]
 
 ** Vous permet de connaître l'identité des joueurs à votre portée d'attaque, pendant votre tour, avant et après votre déplacement.
 ** Incohérent par rapport au pouvoir de la carte du maraudeur, bon effet quand même.
@@ -93,7 +93,7 @@
 
 ==== Pierre de Résurrection (1 exemplaire)
 
-** Vous pouvez communiquer librement avec les personnages décédés lors de la partie.
+** Vous pouvez communiquer librement avec les personnages décédés lors de la partie. [Meilleur effet à trouver]
 ** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 ** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
@@ -136,7 +136,10 @@
 
 ==== Cape d'Invisibilité standard
 
-** Invisibilité dégradative (2 charges) : On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+** Invisibilité dégradative (2 charges)
+*** Utilisable uniquement durant votre tour, dure 1 tour.
+*** On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+
 
 === Epique
 
@@ -176,9 +179,12 @@
 
 * http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand
 * Faire le tour des animaux qui existent dans l'univers
-
-
 * http://harrypotter.wikia.com/wiki/Wand_core
 * http://harrypotter.wikia.com/wiki/Wand_wood
 * http://harrypotter.wikia.com/wiki/Wand
 * http://harrypotter.wikia.com/wiki/Wandlore
+
+= Idées
+
+* Un équipement valant moins de points, ou plus de points à la vente
+* Une arme qui ferait un d'attaque de plus pour chaque tentative consécutive réussie sur une cible
