@@ -10,26 +10,18 @@
 
 == Banque de Gringotts
 
-{counter2:nbTotal}
-
 ** Vous permet de stocker jusqu'à deux équipement ou cartes de votre main.
 ** Vous pouvez retirer jusqu'à deux équipements ou cartes de votre main lorsque vous arrivez sur ce lieu.
 
 == Taverne de la Tête du Sanglier
 
-{counter2:nbTotal}
-
 ** Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 Blessure, malus si déjà 1 bière-au-beurre utilisé auparavant) et échanger / donner des cartes.
 
 == La Forêt Interdite
 
-{counter2:nbTotal}
-
 ** Rencontre aléatoire
 
 == Azkaban
-
-{counter2:nbTotal}
 
 ** Vous désignez un autre personnage que vous, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
 ** Il doit faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
@@ -37,27 +29,19 @@
 
 == Hôpital Ste Mangouste
 
-{counter2:nbTotal}
-
 ** Interdit aux Antagonistes
 ** Chaque Protagoniste / Neutre au seuil de la mort peut être soigné de 1 blessure.
 ** Vous pouvez être soigné de 2 blessures.
 
 == Echoppe de Gregorovith
 
-{counter2:nbTotal}
-
 ** Vous permet de regagner jusqu'à 2 charges sur l'équipement de votre choix.
 
 == La salle sur demande
 
-{counter2:nbTotal}
-
 ** [Vous permet d'avoir l'effet de la case que vous souhaitez.]
 
 == La coupe de feu
-
-{counter2:nbTotal}
 
 ** Tout le monde peut y participer à condition d'avoir 3 PDB au minimum.
 ** La coupe sélectionne aléatoirement une personne de chaque alignement disponible.
@@ -66,49 +50,33 @@
 
 == Le terrier ?
 
-{counter2:nbTotal}
-
 * dsds
 
 == Un lieu antagoniste où ils pourront librement parler / échanger leurs cartes (manoir Malefoy) ?
 
-{counter2:nbTotal}
-
 ** Pareil pour les Protagonistes
 
 == Chemin de traverse
-
-{counter2:nbTotal}
 
 ** [Tout le monde peut acheter s'il était sur la case marchand d'or. Uniquement le joueur qui l'active ? Peu d'intérêt, ça remplace juste la case, mauvaise idée uniquement le joueur.]
 ** [Ordre d'achat régit comment ?]
 
 == Madam Malkin robe
 
-{counter2:nbTotal}
-
 ** Récupérer la première carte équipement de "Corps" dans la pile, mélangez la pile après ça.
 ** [Twiltting and tatting] Récupérer la première carte équipement de "Corps" de qualité "Rare" dans la pile, mélangez la pile après ça.
 
 == Potage cauldron shop
 
-{counter2:nbTotal}
-
 ** [Piocher, payer des cartes consommables]
 
 == Boutique de Fred et Georges
-
-{counter2:nbTotal}
 
 ** Achat de friandes aux différents effets
 
 == Honeyduke ?
 
-{counter2:nbTotal}
-
 == Station de train
-
-{counter2:nbTotal}
 
 ** [Permet d'aller à la case opposée sans l'activer, ou alors la case désiré (autre que celle-ci) sans l'activer ?]
 ** [Thibault : Si déplacement sur la case de notre choix ou opposée = sert à multiplier le nombre de jet de dé possible pour aller ou l'on souhaite.
@@ -120,29 +88,19 @@ Récompenser une bonne vision de jeu mais peut s'avérer inutile si la case à c
 
 == Dervish and banges
 
-{counter2:nbTotal}
-
 ** Récupérer une charge sur l'équipement de votre choix.
 ** Réservé aux Antagonistes : récupérer deux charge sur l'équipement de votre choix.
 
 == Mad m pudiffot ?
 
-{counter2:nbTotal}
-
 == link:http://harrypotter.wikia.com/wiki/Veil[Veil]
-
-{counter2:nbTotal}
 
 ** Actif jusqu'à [la fin] de votre prochain tour de jeu.
 ** Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort tant que ce lieu est actif.
 
 == La cabane hurlante
 
-{counter2:nbTotal}
-
 ** [Malus de portée quand on vous attaque dans ce lieu ?]
-
-= Nombre de lieux : {counter:nbTotal}
 
 = Ressources
 
