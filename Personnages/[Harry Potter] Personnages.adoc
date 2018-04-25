@@ -11,20 +11,25 @@
 == Antagoniste
 
 === http://harrypotter.wikia.com/wiki/Tom_Riddle[Voldemort (PDB ?)]
+
     ** *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut être cumulé.
     ** *La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
 
 === http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver]
+
     ** *Lâcheté :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au seuil de la mort.
 
 === http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirrell]
+
     ** *Esprit influençable :* une seule fois par partie, vous pouvez oublier votre quête afin de vous consacrer à celle d'un autre personnage, sous son accord, sa quête devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
     ** *[Possession] :* vous pouvez accueillir l'esprit d'un personnage décédé dans votre corps. Il peut toujours accomplir sa quête et vous la vôtre. Ceci vous inflige 1 blessure à chaque début de votre tour [(ou tous les deux tours ?)], vous pouvez en mourir.
 
 === http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald ]
+
     ** dsds
 
 === http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback (7 Blessures)]
+
     ** *Lycanthropie :* Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
       *** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
       *** Vous réduisez les dégâts de deux.
@@ -35,15 +40,18 @@
 == Neutre
 
 === http://harrypotter.wikia.com/wiki/Griphook[Gripsec]
+
     ** *Sadisme :* gagne 1 d'attaque si il combat un personnage ayant subis plus de Blessures que lui.
     ** *Ancien employé :* Gripsec peut retirer ses objets de Gringotts sans avoir tirer cette carte "Lieux". Virtuellement, vous avez donc 2 emplacements de carte en main supplémentaires.
 
 === http://harrypotter.wikia.com/wiki/Aragog[Aragog (7 Blessures)] :
+
     ** *Ponte de Mosag :* lorsqu'Aragog reçoit un soin excèdentaire (lorsque vous avez 0 blessures subies), il génère un "Membre de la couvée".
     ** *Colonie acromantulère :* Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez lors de l'attaque / défense.
 
 
 === http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart] :
+
     ** *Escroc :* Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage dont vous avez effacé la mémoire (vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence).
     ** *Oubliettes :* Ciblez un personnage autre que vous, lancez les deux dés.
       *** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête.
@@ -55,6 +63,7 @@
 === http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander <TODO>]
 
 === http://harrypotter.wikia.com/wiki/Mundungus_Fletcher[Mondungus Fletcher (4 Blessures)]
+
     ** *Réseau d'informateurs intéressés :* vous pouvez sacrifier 2 points d'équipement pour regarder la carte personnage ou quête d'un autre personnage. Peut être fait plusieurs fois par tour.
     ** *Opportuniste :* à la place d'infliger des blessures lors d'une attaque, peut voler un objet équipé à la cible.
     ** *Beau-parleur :* [prix réduit de 1 au marchand d'or ?]
@@ -64,20 +73,24 @@
 == Protagoniste
 
 === http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (5  Blessures)]
+
     ** *La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
     ** *Accio :* [récupérer une carte dans un des tas, limité par la portée ? Devoir nommer la carte ?]
     ** *Expelliarmus ([3 utilisations OU 1 utilisation tous les 3 joueurs dans la partie]) :* lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
 
 === http://harrypotter.wikia.com/wiki/Severus_Snape[Severus Rogue]
+
     ** *Agent double :* peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
     ** *Maître des potions :* [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
 
 === http://harrypotter.wikia.com/wiki/Firenze[Firenze]
+
     ** *Astrologie :* Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
     ** *Maître des lieux :* Vous pouvez choisir la rencontre que vous faites dans le lieu "La Forêt Interdite".
     ** *Monture :* Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
 
 === http://harrypotter.wikia.com/wiki/Remus_Lupin[Remus Lupin]
+
     ** *Lycanthropie :* Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
       *** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
       *** Vous réduisez les dégâts de deux.
@@ -89,9 +102,11 @@
       *** Si vous n'avez pas attaqué [avec succès ?] pendant les 3 derniers tours, vous perdez vos bonus de Duelliste talentueux.
 
 === http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (4 PDB ?) <TODO>]
+
     ** Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
 
 === http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey <TODO>]
+
     ** sdds
 
 

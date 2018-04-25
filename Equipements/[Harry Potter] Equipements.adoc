@@ -8,11 +8,12 @@
 
 = Equipements
 
-== Accessoires (total ?)
+== Accessoires
 
 === Commune
 
 ==== Glace à l'ennemi (3 exemplaire) [A passer en consommable ?]
+
 ** *Détecteur de magie noire (1 charge) :* Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre ou non.
 ** [Formulation limpide et concise à trouver]
 *** Si vous êtes Antagoniste :
@@ -25,31 +26,38 @@
 **** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
 **** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
-==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (3 exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire)]
+
 ** Vous pouvez vous déplacer d'une case, dans le sens que vous voulez, au lieu de lancer les dés.
 
 === Rare
 
 ==== Miss Teigne (1 exemplaire)
+
 ** Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 1 blessure).
 
 ==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1 exemplaire)]
+
 ** Vous permet de connaître l'identité des joueurs à votre portée d'attaque, pendant votre tour, avant et après votre déplacement.
 ** Incohérent par rapport au pouvoir de la carte du maraudeur, bon effet quand même.
 
 ==== http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé]
+
 ** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
 *** sdds
 
 ==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres]
+
 ** Ne peut être défaussé
 ** [Permettrait de se téléporter sur la case d'un autre porteur de Marque des Ténèbres ?]
 
 ==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (2 exemplaires)]
+
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 ==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck]
+
 ** *Envol :* vous rajoute 1 de portée.
 ** *Loyauté :* vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
@@ -57,36 +65,45 @@
 === Epique
 
 ==== Nagini (1 exemplaire)
+
 ** *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
 ** *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums [peut-être limité ça à 3 dimininutions de blessures max par cible ?].
 ** Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (meurt s'il subit 2 blessures).
 
 
 ==== http://harrypotter.wikia.com/wiki/Thestral[Sombral ? 3 Exemplaires]
+
 ** *[] :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
 ** *Destrier invisible :* vous ajoute 1 de portée, inflige 1 portée en malus pour vos adversaires.
 
 ==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
+
 ** Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 ==== Main de la gloire
+
 ** L'effet de la Peruvian_Instant_Darkness_Powder est annulé sur les cibles que vous attaquez.
 
 === Légendaire
 
 ==== Pierre philosophale
+
 ** Génération d'un filtre qui "soignerait"
 ** Obligation d'en boire à un intervalle régulier sinon la mort ou malus
 
 ==== Pierre de Résurrection (1 exemplaire)
+
 ** Vous pouvez communiquer librement avec les personnages décédés lors de la partie.
 ** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 ** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 ==== Retourneur de temps (1 exemplaire)
+
 ** *Un petit tour :* Retour à l'état du début du tour.
 
-== Armes (total ?)
+=== Total : 20
+
+== Armes
 
 === Commune
 
@@ -97,23 +114,28 @@
 === Légendaire
 
 ==== Baguette de sureau
+
 ** Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
 ** Double tous vos bonus de dégâts, qu'ils soient actifs ou passifs.
 ** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 ** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 ==== Epée de Godric Griffondor (1 exemplaire, 1 portée)
+
 ** Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
 ** A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
 ** + 1 dégâts.
 
-== Corps (total ?)
+=== Total : 2
+
+== Corps
 
 === Commune
 
 === Rare
 
 ==== Cape d'Invisibilité standard
+
 ** Invisibilité dégradative (2 charges) : On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
 === Epique
@@ -121,12 +143,15 @@
 === Légendaire
 
 ==== Cape d'Invisibilité
+
 ** [On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.]
 ** [Résister aux effets négatifs ?]
 ** Peut-être équipé avec la Pierre de Résurrection et la Baguette de Sureau.
 ** Si vous avez équipé dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
-== Tête (total ?)
+=== Total : 2
+
+== Tête
 
 === Commune
 
@@ -135,19 +160,19 @@
 === Epique
 
 ==== http://harrypotter.wikia.com/wiki/Alastor_Moody%27s_magical_eye[Oeil magique du professeur Maugrey]
+
 ** [Pendant votre tour, vous pouvez demander que l'on vous révèle jusqu'à deux cartes que les joueurs ont pioché durant leur dernier tour. Le choix des joueurs et des cartes est votre.]
 
 ==== Le Choixpeau magique (1 exemplaire)
+
 ** (Réservé aux Protagonistes) Lorsque vous êtes attaqués avec 2 PDS ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor [(retourner la carte)] et ce même si un autre joueur la possédait déjà.
 ** *Legilimency chapelière (3 charges d'utilisation) :* Le joueur ciblé doit dire son identité et sa quête à haute voix. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir.
 
 === Légendaire
 
+=== Total : 2
 
-
-
-
-
+= Ressources
 
 * http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand
 * Faire le tour des animaux qui existent dans l'univers
