@@ -5,23 +5,21 @@
 :toc:
 :numbered:
 
-=== sdsds
 
-=== sdsd
+=== Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 
-* Avancer de cases serait avancer de "Pages" en pages dans le jeu.
+=== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
-* D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
+=== Thème couleur ?
 
-* Thème couleur ?
-** Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
+==== Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
 
-* Thème => Différent style de dessin selon le thème ?
+=== Thème => Différent style de dessin selon le thème ?
 
-* Pion îcone pour reconnaître les personnages sur le plateau ?
+=== Pion îcone pour reconnaître les personnages sur le plateau ?
 
-* Attention aux placements cases Marchands et trocs, à côté des +1 ou -1 pour éviter l'abus
+=== Attention aux placements cases Marchands, à côté des +1 ou -1 pour éviter l'abus
 
-* Mettre en place une meilleure structure adoc, et un lien vers des images beaucoup plus probantes.
+=== Mettre en place une meilleure structure adoc, et un lien vers des images beaucoup plus probantes.
 
-* Faire un sample de carte sous format adoc pour s'approcher du format physique final
+=== Faire un sample de carte sous format adoc pour s'approcher du format physique final
