@@ -6,3 +6,14 @@ Thème : Conte, Harry Potter, Légende, Littérature classique, Littérature d'h
 
 
 - Nombre de cartes par extension en moyenne ? Pour pouvoir compter sur un nombre d'extension par nombre de joueurs
+
+- Une extension est prévue pour faire jouer 5 à 6 joueurs. Ce qui fait 5 emplacements d'équipement disponible par joueur et 2 cartes en main.
+Soit pour 6 joueurs 42 cartes minimum à intégrer dans l'extension. Sachant qu'il faudrait un volume suffisant pour permettre du recyclage de carte, il en faudrait bien plus (cb ?).
+Et il n'en faudrait pas trop non plus pour pouvoir permettre le recyclage via la défausse et avoir plus de chance d'obtenir des cartes utiles.
+
+* 5 emplacements équipement x 6 joueurs = 30 équipements minimum.
+* 2 accessoires équipement x 6 joueurs = 12 Accessoires minimum.
+* Le reste des autres emplacement d'équipement = 6 par emplacement minimum.
+
+
+*
