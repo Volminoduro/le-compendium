@@ -1,33 +1,51 @@
-Métathème : Héroïc-fantasy
-Sous-thème :
-- Héroïc-fantasy : Le seigneur des anneaux (LotR), le Trône de fer (LDF)
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
 
-Thème : Conte, Harry Potter, Légende, Littérature classique, Littérature d'horreur, Littérature moderne, Policier, Science-Fiction, Théâtre.
+:toc:
+:numbered:
 
-
-- Nombre de cartes par extension en moyenne ? Pour pouvoir compter sur un nombre d'extension par nombre de joueurs
-
-- Une extension est prévue pour faire jouer 5 à 6 joueurs. Ce qui fait 5 emplacements d'équipement disponible par joueur et 2 cartes en main.
-Soit pour 6 joueurs 42 cartes minimum à intégrer dans l'extension. Sachant qu'il faudrait un volume suffisant pour permettre du recyclage de carte, il en faudrait bien plus (cb ?).
-Et il n'en faudrait pas trop non plus pour pouvoir permettre le recyclage via la défausse et avoir plus de chance d'obtenir des cartes utiles.
-
-* 5 emplacements équipement x 6 joueurs = 30 équipements minimum.
-* 2 accessoires équipement x 6 joueurs = 12 Accessoires minimum * 1.5 de recyclage = 18 accessoires en moyenne.
-* Le reste des autres emplacement d'équipement = 6 par emplacement minimum * 1.5 de recyclage = 9 autres équipement par emplacement en moyenne.
-* Nombre de cartes * 1.5 pour le recyclage ?
-* Consommable de 2 cartes par main x 6 joueurs = soit 12 * 1.5 de recyclage = 18 consommables en moyenne. Mais du fait de la nature consommable, il en faudrait sûrement encore plus.
+= Nombre de cartes par extension
 
 * Nombre de joueurs par extension : 6 joueurs max.
 
+|=======
+|Type de cartes |Nombre souhaité minimum |Harry Potter
+|Personnages |18 |17 (still TODO)
+|Consommables |24 |27 (still TODO)
+|Lieux |10 |20 (still TODO)
+|Equipement : Tête |9 |2 (still TODO)
+|Equipement : Corps |9 |2 (still TODO)
+|Equipement : Accessoires |18 |20 (still TODO)
+|Equipement : Arme |9 |2 (still TODO)
+|=======
 
 
-|=======
-|Type de cartes |Nombre souhaité minimum |Formule |Harry Potter
-|Personnages |18 |(2 par alignement * 3 nombre d'alignement) * 1.5 pour avoir de la variété |A remplir
-|Consommables |24 |(2 par carte * 6 nombre de joueurs) * 2 pour recyclage |A remplir
-|Lieux |10 |Pas de formule |A remplir
-|Equipement : Tête |9 |(1 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage |A remplir
-|Equipement : Corps |9 |(1 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage |A remplir
-|Equipement : Accessoires |18 |(2 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage3 |A remplir
-|Equipement : Arme |9 |(1 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage |A remplir
-|=======
+= Formules de calcul
+
+== Personnages
+
+* Il faut permettre aux joueurs de pouvoir tous jouer dans le même alignement si possible.
+** Ce qui fait 6 personnages au maximum dans chaque alignement.
+** Ce qui fait un total de 18 personnages, ce qui est amplement suffisant compte tenu de la répartition selon les règles standard de 2 personnages par alignement. ça donne une variété de 2 personnages par règle standard + 4 au choix.
+* Au total : 18 personnages.
+
+== Consommables
+
+* Il faut permettre aux joueurs d'avoir deux cartes en main.
+** Ce qui fait 12 consommables au maximum dans toutes les mains.
+** Ce qui fait un total de 24 consommables, compte tenu d'un multiplicateur de 2 pour le recyclage car les consommables seront beaucoup utilisés.
+* Au total : 24 consommables.
+
+== Lieux
+
+* Certains peuvent rester actifs pendant un ou plusieurs tours.
+* 10 est un critère arbitraire et cela serait bien d'avoir une meilleure justification.
+
+== Equipement : Tête, Corps, Accessoires et Armes.
+
+* A l'exception des Accessoires, les équipements vont à un emplacement.
+** Ce qui fait 6 équipements à procurer pour chaque joueur et à chaque emplacement (12 équipements pour les accessoires, puisque 2 emplacements).
+** Ce qui fait un total de 9 équipements par emplacement, compte tenu d'un coefficient de 1.5 pour le recyclage (d'autant plus avec la défausse éternelle du marchand) et 18 pour les accessoires.
+* Au total : 9 Tête, 9 Corps, 9 Armes et 18 Accessoires.
