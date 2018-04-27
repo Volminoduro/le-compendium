@@ -17,4 +17,17 @@ Et il n'en faudrait pas trop non plus pour pouvoir permettre le recyclage via la
 * Nombre de cartes * 1.5 pour le recyclage ?
 * Consommable de 2 cartes par main x 6 joueurs = soit 12 * 1.5 de recyclage = 18 consommables en moyenne. Mais du fait de la nature consommable, il en faudrait sûrement encore plus.
 
-* Nombre d
+* Nombre de joueurs par extension : 6 joueurs max.
+
+
+
+|=======
+|Type de cartes |Nombre souhaité minimum |Formule |Harry Potter
+|Personnages |18 |(2 par alignement * 3 nombre d'alignement) * 1.5 pour avoir de la variété |A remplir
+|Consommables |24 |(2 par carte * 6 nombre de joueurs) * 2 pour recyclage |A remplir
+|Lieux |10 |Pas de formule |A remplir
+|Equipement : Tête |9 |(1 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage |A remplir
+|Equipement : Corps |9 |(1 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage |A remplir
+|Equipement : Accessoires |18 |(2 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage3 |A remplir
+|Equipement : Arme |9 |(1 par emplacement * 6 nombre de joueurs) * 1.5 pour recyclage |A remplir
+|=======
