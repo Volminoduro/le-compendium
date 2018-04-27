@@ -4,6 +4,3 @@
 :icons: font
 :toc:
 :numbered:
-
-:project-name: Le compendium
-:nbTotal: 0

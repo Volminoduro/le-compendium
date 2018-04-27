@@ -30,3 +30,5 @@
 |9 |3 |3 |3
 |10 |3 |4 |3
 |=======
+
+* Pour ajouter du piment dans votre partie [indiquer le mélange de Marie].

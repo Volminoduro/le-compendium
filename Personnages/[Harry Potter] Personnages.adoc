@@ -49,7 +49,6 @@
     ** *Ponte de Mosag :* lorsqu'Aragog reçoit un soin excèdentaire (lorsque vous avez 0 blessures subies), il génère un "Membre de la couvée".
     ** *Colonie acromantulère :* Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez lors de l'attaque / défense.
 
-
 === http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart] :
 
     ** *Escroc :* Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage dont vous avez effacé la mémoire (vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence).
@@ -58,6 +57,7 @@
       *** Si le résultat est 2, vous ne gagnerez aucun points d'acomplissement de votre quête, ni de celle des autres, et vous ne pourrez plus utiliser la compétences "Oubliettes".
 
 === http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage <TODO>]
+
     ** dsds
 
 === http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander <TODO>]
@@ -111,6 +111,7 @@
 
 
 = Idées
+
 * Norbert Dragoneau (Protagoniste)
 * http://harrypotter.wikia.com/wiki/Neville_Longbottom (Protagoniste)
 * link:http://harrypotter.wikia.com/wiki/Ghost[Certains des fantômes de Poudlard ?]

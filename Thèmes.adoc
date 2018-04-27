@@ -12,8 +12,9 @@ Soit pour 6 joueurs 42 cartes minimum à intégrer dans l'extension. Sachant qu'
 Et il n'en faudrait pas trop non plus pour pouvoir permettre le recyclage via la défausse et avoir plus de chance d'obtenir des cartes utiles.
 
 * 5 emplacements équipement x 6 joueurs = 30 équipements minimum.
-* 2 accessoires équipement x 6 joueurs = 12 Accessoires minimum.
-* Le reste des autres emplacement d'équipement = 6 par emplacement minimum.
+* 2 accessoires équipement x 6 joueurs = 12 Accessoires minimum * 1.5 de recyclage = 18 accessoires en moyenne.
+* Le reste des autres emplacement d'équipement = 6 par emplacement minimum * 1.5 de recyclage = 9 autres équipement par emplacement en moyenne.
+* Nombre de cartes * 1.5 pour le recyclage ?
+* Consommable de 2 cartes par main x 6 joueurs = soit 12 * 1.5 de recyclage = 18 consommables en moyenne. Mais du fait de la nature consommable, il en faudrait sûrement encore plus.
 
-
-*
+* Nombre d
