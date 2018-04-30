@@ -1,3 +1,12 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+
 * Vous êtes libre d'attaquer n'importe quel personnage (à l'exception de vous-même) lors de votre tour, après vous êtes déplacé (ou avoir tiré une carte retournement en cas de 7).
 
 * Le choix de la cible est déterminé en partie par la limitation de votre portée. La portée est une statistique indiquant quelles zones autour de vous pouvez attaquer.

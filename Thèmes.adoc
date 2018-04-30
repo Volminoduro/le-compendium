@@ -21,7 +21,6 @@
 |Equipement : Arme |9 |2 (still TODO)
 |=======
 
-
 = Formules de calcul
 
 == Personnages

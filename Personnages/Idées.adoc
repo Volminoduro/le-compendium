@@ -10,6 +10,8 @@ Liste personnages cools à envisager :
 
 
 * Pouvoir
+  * *Opportuniste :* à la place d'infliger des blessures lors d'une attaque, peut voler un objet équipé à la cible.
+  * *Beau-parleur :* [prix réduit de 1 au marchand d'or ?]
   * Le prix chez les cases Marchands n'est que de 1.
   * Vous pouvez lancez qu'un seul dé pour vous déplacer.
   * Peut s'infliger une blessure pour réattaquer une seconde fois.

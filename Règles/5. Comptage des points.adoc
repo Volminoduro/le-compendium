@@ -1,3 +1,12 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+
 * Les points s'additionnent et se soustraient les un aux autres pour former un total. Ce total servira à déterminer le classement des joueurs à la fin de la partie.
 * Par ailleurs, si une condition pour obtenir des points se répète, vous pouvez la répéter autant de fois pour le calcul des points.
 ** Ex : Pour la condition "Vous avez tué un personnge de l'alignement adverse", si vous en avez tué 2, le calcul de ses points se produit 2 fois.

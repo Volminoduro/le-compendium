@@ -1,3 +1,11 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
 - Les personnages sont divisés en 3 camps : les Protagonistes, les Antagonistes et les neutres (Tritagoniste ?).
 
 - Pour activer n'importe laquelle de ces capacités, un personnage doit réveler son identité, sauf exception. Lors de sa mort, un personnage révèle également son identité. Attaquer un autre personnage ne fait pas réveler son personnage.
@@ -7,31 +15,3 @@
 
 - L'attaque d'un personnage se détermine de la façon suivante :
   - L'attaque lance un D6 et le défenseur un D4. Si la différence entre les deux est favorable à l'attaquant, le défenseur perds un point de blessure. On perd donc au maximum un point de blessure par attaque (sauf objets spéciaux, etc.). Si la différence entre l'attaque et la défense est à l'avantage du défenseur, celui ne subit aucune blessure.
-
-
-
-
-
-
-
-
-
-
-Attention à bien respecter certains critères : tous les personnages ne doivent pas être ultra connus, il est bon de mixer les univers (occidental, noir, pour enfants, asiatique, etc.).
-Les écrits faisant ou ayant faits parti d'un canon religieux, sont refusés. Cela vaut pour les livres religieux, comme le canon de la mythologie en question (égyptienne, bouddhique, nordique, etc.).
-
-Thème : Contes, Harry Potter, Légende, Littérature Classique, Littérature d'horreur, Littérature moderne, Policier Science-Fiction, Théâtre.
-
-Meta-thème
-Héroïque-fantasy : Le seigneur des Anneaux, Le Trône de Fer
-
-Sample theme :
-  - Antagoniste :
-    - sd
-      - sd
-  - Neutre :
-    - sd
-      - sd
-  - Protagoniste :
-    - sd
-      - sd

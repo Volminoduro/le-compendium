@@ -1,3 +1,12 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+
 * Vous pouvez équiper vos objets que durant votre tour.
 * Vous ne pouvez pas vous déséquiper de vos objets pour les récupérer dans votre main.
 * [Vous pouvez vous débarasser à tout moment d'un objet équipé pour le mettre dans la défausse.]
