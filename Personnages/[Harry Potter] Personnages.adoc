@@ -15,6 +15,8 @@
   * *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut se cumuler [X] fois.
   * *La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
 
+  * Citation : _"Allons, il faut respecter les usages… [...] Incline-toi devant la mort, Harry…"_, Harry Potter et la Coupe de Feu, J.K Rowling, 2000.
+
 === http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver (X Blessures - TODO)]
 
   * *Lâcheté :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au seuil de la mort.
@@ -110,6 +112,7 @@
   * *...nécessitant de l'entretien.*
     ** Si vous n'avez pas attaqué [avec succès ?] pendant les 2 derniers tours, vous perdez vos bonus de Duelliste talentueux.
   * [Voir pour que ces bonus soient annulés avec la Lycanthropie ?]
+  * *Citation :* _"C'est de la force des convictions que dépend la réussite, pas du nombre de partisan."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
 
 === http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (4 PDB ?) <TODO>]
 
