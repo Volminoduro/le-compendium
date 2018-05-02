@@ -1,0 +1,23 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+= Matériel
+
+* 1 plateau de jeu
+* 12 petites cases
+* 1 boîte à dé, 1 dé à 3 faces et 1 dé à 4 faces.
+
+*
+
+= Infos
+
+* Jouable à partir de 3 participants.
+* Recommandé à partir de 12 ans.
+* Temps d'une partie, etc.
+
+= But du jeu

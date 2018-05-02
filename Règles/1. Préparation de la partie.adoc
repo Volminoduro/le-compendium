@@ -6,27 +6,43 @@
 :toc:
 :numbered:
 
+= Préparation de la partie
 
-==== Attribution du meneur de jeu
+
+== Attribution du meneur de jeu
+
 * A chaque partie, un meneur de jeu est choisi. Son mode de sélection est libre aux joueurs. Il peut être se désigné lui-même, être choisi aléatoirement, être élu à la majorité, etc.
 * Le personnage du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le personnage dispose déjà de 7 Blessures maximum).
 * Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront après lui.
 
-==== Placement des cases
+== Placement des cases
+
 * Le tableau de jeu est composé de 12 emplacement de cases vides.
 * Vous êtes libre de placer les cases comme vous le souhaitez, à condition de placer chaque case à l'opposé de celle qui aura le même bord coloré qu'elle.
 
-==== Choix des extensions
-* Répartition du nombre de cartes par nombre de joueurs
+== Choix des extensions
+
+* Vous devrez ensuite choisir une ou plusieurs extension(s). A savoir qu'une extension est conçue pour être utilisée par 6 joueurs au maximum.
+* Les extensions sont des packs de cartes ayant un thème commun et conçues selon un certain esprit de jeu.
+** Par exemple, le thème des Contes est très facile d'accès et n'est pas très punitif envers les joueurs. A contrario, le thème Horreur est plutôt pensé pour des joueurs très expérimentés avec un réel désir de difficulté.
 
 
-==== Attribution des personnages et des quêtes
-* Choix des personnages puis des quêtes
-* Attribution des personnages puis des quêtes
+== Attribution des personnages
+
+* Une fois que vous avez choisi la ou les extensions de jeu, vous devrez sélectionner vos personnages. Pour savoir quelle est la répartition d'Antagoniste / Neutre / Protagoniste à respecter pour une partie équilibrée, référez-vous à la sous-partie ci-dessous.
+* Nous vous conseillons de sélectionner des personnages qui sont sur un pied d'égalité de puissance, afin que l'équilibre des forces soit présent dans la partie.
+* Une fois que vous avez choisi les personnages joués pour la partie, vous les mélangez puis les distribuez aléatoirement à chaque joueur face cachée (à l'exception du Meneur de jeu).
 
 
-==== Attribution alignement selon le nombre de joueurs
-* Afin de respecter un certain équilibre, nous vous conseillons de suivre le tableau suivant pour répartir en nombre les membres des différents alignements dans la partie. Bien entendu, vous êtes libre de pas suivre ces indications.
+* Pour ajouter du piment dans votre partie, voici un mélange où l'aléatoire a pleinement son importance :
+** Au lieu de prendre le nombre indiqué de personnages par alignement, vous en prenez davantage.
+** Vous faites un tas des cartes sélectionnées par alignement. Puis, cartes faces cachées, vous retirez aléatoirement le nombre de cartes nécessaires jusqu'à obtenir le nombre de personnages désirés pour l'alignement en question.
+** Ensuite, comme usuellement, vous mélangez les tas avec les cartes restants puis vous distribuez l'intégralité des personnages à chaque face cachée (à l'exception du Meneur de jeu).
+
+
+=== Attribution alignement selon le nombre de joueurs
+
+* Ce tableau est indicatif, vous êtes libre de ne pas le suivre.
 
 |=======
 |Nb. de joueurs |Antagoniste |Neutre |Protagoniste
@@ -38,6 +54,11 @@
 |8 |3 |2 |3
 |9 |3 |3 |3
 |10 |3 |4 |3
+|11 |4 |3 |4
+|12 |4 |4 |4
 |=======
 
-* Pour ajouter du piment dans votre partie [indiquer le mélange de Marie].
+
+== Attribution des quêtes
+
+* dssd
