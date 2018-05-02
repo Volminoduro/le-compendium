@@ -13,7 +13,7 @@
 
 ==== Protagoniste = bleu ? Neutre = jaune (gris ?) ? Antagoniste = rouge ? (Daltonien ?)
 
-=== Thème => Différent style de dessin selon le thème ?
+=== Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
 
 === Pion îcone pour reconnaître les personnages sur le plateau ? Préférable au code couleur, car cela sera très utilisé ailleurs.
 
