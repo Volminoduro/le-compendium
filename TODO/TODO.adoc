@@ -23,4 +23,4 @@
 
 === Pourcentage de complétion d'une extension (calcul)
 
-* Pour une carte, il faut son nom (10 %), son effet (80 %), son image (5 %), sa citation (5%).
+* Pour une carte, il faut son nom (5 %), les blessures (5 %) son effet (80 %), son image (5 %), sa citation (5%).

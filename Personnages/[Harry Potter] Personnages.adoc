@@ -6,33 +6,51 @@
 :toc:
 :numbered:
 
+:personnagesdir: /ressources/images/Harry_Potter/Personnages/
+
 = Personnages
 
 == Antagoniste
 
-=== http://harrypotter.wikia.com/wiki/Tom_Riddle[Voldemort (5 Blessures)]
+=== http://harrypotter.wikia.com/wiki/Tom_Riddle[Voldemort (0.80 - TODO)]
 
+  * [red]*5 Blessures.*
   * *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut se cumuler [X] fois.
-  * *La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu.
+  * *La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu (Ou doubler les dégâts de l'un à l'autre ?).
+  * Une capacité ou un défaut en plus ?
 
   * Citation : _"Allons, il faut respecter les usages… [...] Incline-toi devant la mort, Harry…"_, Harry Potter et la Coupe de Feu, J.K Rowling, 2000.
+  * Image : {personnagesdir}/Voldemort.jpg
 
-=== http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver (X Blessures - TODO)]
+=== http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver (0.35 - TODO)]
 
+  * [red]*X Blessures.*
   * *Lâcheté :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au seuil de la mort.
 
-=== http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirrell (5 Blessures)]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirrell (0.70 - TODO)]
+
+  * [red]*X Blessures.*
   * *Esprit influençable :* une seule fois par partie, vous pouvez oublier votre quête afin de vous consacrer à celle d'un autre personnage, sous son accord, sa quête devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
   * *Possession :* vous pouvez accueillir l'esprit d'un personnage décédé dans votre corps. Il peut toujours accomplir sa quête et vous la vôtre. Ceci vous inflige 1 blessure à chaque début de votre tour, tous les 2 tours, vous pouvez en mourir.
   * *"Cessez de vous moquer de moi" :* gagnera +[2] d'attaque s'il est le personnage avec le plus de blessures infligées dans la partie.
 
-=== http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald ]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald (0.05 - TODO)]
+
+  * [red]*X Blessures.*
   * <TODO>
 
-=== http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback (7 Blessures)]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback (0.85 - TODO)]
+
+  * [red]*7 Blessures.*
   * *Lycanthropie :* Tous les [3] tours, après votre déplacement, vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
     ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
     ** Lors d'une attaque, vous réduisez les dégâts de deux.
@@ -40,24 +58,40 @@
     ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
   * *Préparation sélène :* Lors de votre déplacement précédant votre _Lycanthropie_, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous avancez de deux cases supplémentaires vers un autre personnage de votre choix.
 
-=== [Bellastrix Lestrange (TODO)]
+  * Citation :
+  * Image :
 
+=== [Bellastrix Lestrange (0.05 - TODO)]
+
+  * [red]*X Blessures.*
   * <TODO>
+
+  * Citation :
+  * Image :
 
 == Neutre
 
-=== http://harrypotter.wikia.com/wiki/Griphook[Gripsec]
+=== http://harrypotter.wikia.com/wiki/Griphook[Gripsec (0.80 - TODO)]
 
+  * [red]*X Blessures.*
   * *Sadisme :* gagne 1 d'attaque en combattant un personnage ayant subi plus de Blessures que vous.
   * *Ancien employé :* Gripsec peut retirer ses objets de Gringotts sans avoir tirer cette carte "Lieux". Virtuellement, vous avez donc 2 emplacements de carte en main supplémentaires.
 
-=== http://harrypotter.wikia.com/wiki/Aragog[Aragog (7 Blessures)] :
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Aragog[Aragog (0.90 - TODO)] :
+
+  * [red]*7 Blessures.*
   * *Ponte de Mosag :* lorsqu'Aragog reçoit un soin excèdentaire (lorsque vous avez 0 blessures subies), il génère un "Membre de la couvée".
   * *Colonie acromantulère :* Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez lors de l'attaque / défense.
 
-=== http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart] :
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart (0.45 - TODO)] :
+
+  * [red]*X Blessures.*
   * *Escroc :* Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage affecté par votre compétence _Oubliettes_. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence.
   * *Oubliettes :* Pendant votre tour, ciblez un personnage autre que vous, lancez les deux dés.
     ** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête ET ne pourra plus utiliser aucune de ses capacités de personnages.
@@ -66,42 +100,70 @@
     ** Si le résultat est 2, vous ne gagnerez aucun points d'acomplissement de votre quête, ni de celle des autres, et vous ne pourrez plus utiliser la compétences "Oubliettes".
   * <TODO> : le pb de ce personnage est qu'il nécessite l'application des points de quête.
 
-=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage <TODO>]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage (0.05 - TODO)]
+
+  * [red]*X Blessures.*
   * <TODO>
 
-=== http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander <TODO>]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander (0.05 - TODO)]
+
+  * [red]*X Blessures.*
   * <TODO>
 
-=== http://harrypotter.wikia.com/wiki/Mundungus_Fletcher[Mondungus Fletcher (4 Blessures)]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Mundungus_Fletcher[Mondungus Fletcher (0.75 - TODO)]
+
+  * [red]*4 Blessures.*
   * *Réseau d'informateurs intéressés :* Pendant votre tour, vous pouvez sacrifier 2 points d'équipement pour regarder la carte personnage ou quête d'un autre personnage. Peut être fait plusieurs fois par tour.
   * *Récupérateur :* au lieu d'attaquer, vous pouvez récupérer la dernière carte dans la défausse des consommables.
   * *Refourgueur :* vos consommables valent 1 point d'équipement et peuvent être vendus en tant que tels.
   * *Couardise :* vous ne pouvez attaquer si vous êtes à une blessure du seuil de la Mort.
 
+  * Citation :
+  * Image :
+
 == Protagoniste
 
-=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (5  Blessures)]
+=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (0.60 - TODO)]
 
+  * [red]*5 Blessures.*
   * *La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
   * *Accio :* [récupérer une carte dans un des tas, limité par la portée ? Devoir nommer la carte ?]
   * *Expelliarmus ([3 utilisations OU 1 utilisation tous les 3 joueurs dans la partie]) :* lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
 
-=== http://harrypotter.wikia.com/wiki/Severus_Snape[Severus Rogue]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Severus_Snape[Severus Rogue (0.35 - TODO)]
+
+  * [red]*X Blessures.*
   * *Agent double :* peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
   * *Maître des potions :* [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
 
-=== http://harrypotter.wikia.com/wiki/Firenze[Firenze]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Firenze[Firenze (0.45 - TODO)]
+
+  * [red]*X Blessures.*
   * *Astrologie :* Au début de votre tour, vous pouvez regarder la première carte de la pile "Lieux".
   * *Maître des lieux :* Vous pouvez choisir la rencontre que vous faites dans le lieu "La Forêt Interdite".
   * *Monture :* Si vous le voulez, vous pouvez proposez à un joueur de déplacer son personnage en même temps que le votre. Son déplacement n'activera aucune case.
 
-=== http://harrypotter.wikia.com/wiki/Remus_Lupin[Remus Lupin]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Remus_Lupin[Remus Lupin (0.80 - TODO)]
+
+  * [red]*X Blessures.*
   * *Lycanthropie :* Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
     ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
     ** Vous réduisez les dégâts de deux.
@@ -112,17 +174,26 @@
   * *...nécessitant de l'entretien.*
     ** Si vous n'avez pas attaqué [avec succès ?] pendant les 2 derniers tours, vous perdez vos bonus de Duelliste talentueux.
   * [Voir pour que ces bonus soient annulés avec la Lycanthropie ?]
+
   * *Citation :* _"C'est de la force des convictions que dépend la réussite, pas du nombre de partisan."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
+  * Image :
 
-=== http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (4 PDB ?) <TODO>]
+=== http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (0.05 - TODO)]
 
+  * [red]*4 Blessures ?*
   * Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
   * <TODO>
 
-=== http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey <TODO>]
+  * Citation :
+  * Image :
 
+=== http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey (0.05 - TODO)]
+
+  * [red]*X Blessures.*
   * <TODO>
 
+  * Citation :
+  * Image :
 
 = Idées
 
