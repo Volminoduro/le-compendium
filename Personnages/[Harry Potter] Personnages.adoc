@@ -184,6 +184,7 @@
   * Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
   * <TODO>
   * Accoutrement loufoque : si elle décide de se réveler lors de son premier tour, Luna a accès à tel ou tel item, la coiffe tête de lion et les lunettes
+  * *Magicozoologiste (est-ce vraiment le nom) :* les accessoires des autres personnages ayant la capacité _Compagnon_ ne vous font aucun effet.
   * Il faudrait un pouvoir un peu tout au long de la partie.
 
   * Citation :

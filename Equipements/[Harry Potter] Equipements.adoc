@@ -34,10 +34,10 @@
 
 ==== Miss Teigne (1 exemplaire)
 
-** Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
+** *Regard perçant :* Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
 ** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
 
-==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1. exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1 exemplaire)]
 
 ** Vous permet de connaître l'identité des joueurs à votre portée d'attaque, pendant votre tour, avant et après votre déplacement.
 ** Incohérent par rapport au pouvoir de la carte du maraudeur, bon effet quand même.
@@ -47,10 +47,10 @@
 ** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
 *** sdds
 
-==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres]
+==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (X Exemplaires)]
 
-** Ne peut être défaussé
-** [Permettrait de se téléporter sur la case d'un autre porteur de Marque des Ténèbres ?]
+** Ne peut être défaussé, ni vendu.
+** Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 ==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (2 exemplaires)]
 
@@ -60,7 +60,7 @@
 
 ** *Envol :* vous rajoute 1 de portée.
 ** *Loyauté :* vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
-** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
+** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 === Epique
 
@@ -68,14 +68,15 @@
 
 ** *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
 ** *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums, se limite à [X] effets par cible.
-** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
+** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 
-==== http://harrypotter.wikia.com/wiki/Thestral[Sombral ? (2 Exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (2 Exemplaires)]
 
-** * :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
-** *Destrier invisible :* vous ajoute 1 de portée, inflige 1 portée en malus pour vos adversaires.
-** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit [X] blessures).
+** *Monture de mauvaise augure :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
+** *Allo ? :* peut porter des charges très lourdes : vous permet d'avoir une carte de plus dans votre main.
+** *Odeur du sang :* lors de votre phase de déplacement, vous pouvez vous approcher d'une case supplémentaire vers un personnage blessé s'il est à votre portée.
+** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 ==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
 
