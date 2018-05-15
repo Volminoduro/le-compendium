@@ -183,6 +183,8 @@
   * [red]*4 Blessures ?*
   * Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
   * <TODO>
+  * Accoutrement loufoque : si elle décide de se réveler lors de son premier tour, Luna a accès à tel ou tel item, la coiffe tête de lion et les lunettes
+  * Il faudrait un pouvoir un peu tout au long de la partie.
 
   * Citation :
   * Image :
@@ -190,6 +192,7 @@
 === http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey (0.05 - TODO)]
 
   * [red]*X Blessures.*
+  * *Jambe de bois détachable* : vous pouvez ne lancer que le dé à 4 faces lors de votre phase de déplacement.
   * <TODO>
 
   * Citation :

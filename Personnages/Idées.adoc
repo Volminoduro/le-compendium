@@ -13,10 +13,8 @@ Liste personnages cools à envisager :
   * *Opportuniste :* à la place d'infliger des blessures lors d'une attaque, peut voler un objet équipé à la cible.
   * *Beau-parleur :* [prix réduit de 1 au marchand d'or ?]
   * Le prix chez les cases Marchands n'est que de 1.
-  * Vous pouvez lancez qu'un seul dé pour vous déplacer.
   * Peut s'infliger une blessure pour réattaquer une seconde fois.
   * Peut choisir entre les trois premières cartes d'une pile.
-  * Au lieu d'infliger une blessure lors d'un combat, vous pouvez voler une pièce d'équipement à votre vis-à-vis, la carte va dans votre main.
   * Vous pouvez piocher les cartes de la défausse à la place de ceux des piles standards.
   * Se guérir d'une blessure au début de tous les 2 tours.
   * Inflige une blessure sur une case spécifique (marchand de sang par exemple ?)
@@ -25,7 +23,7 @@ Liste personnages cools à envisager :
   * Contreattaquer si on est à partir d'un certain nombre de Blessures.
   * Placer le marqueur de blessure sur 3.
   * Mépris des faibles : les personnages à une blessure du seuil de la mort ne peuvent pas vous attaquer.
-  * Sacrification belliqueuse : vous subissez une blessure, la cible de votre choix, autre que vous, subit également une Blessure. Peut être fait à volonté pendant votre tour. Ne peut achever la cible.
+  * Sacrification belliqueuse : vous subissez une blessure, la cible de votre choix, autre que vous, subit également une Blessure. Peut être fait à volonté pendant votre tour. Ne peut achever la cible ni vous tuer vous-même.
 
 
 * X
