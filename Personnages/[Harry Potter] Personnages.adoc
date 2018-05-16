@@ -137,7 +137,7 @@
   * [red]*5 Blessures.*
   * *La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
   * *Accio :* [récupérer une carte dans un des tas, limité par la portée ? Devoir nommer la carte ?]
-  * *Expelliarmus ([3 utilisations OU 1 utilisation tous les 3 joueurs dans la partie]) :* lors d'un combat, désactivez toutes les armes de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, les armes vont dans sa main.
+  * *Expelliarmus (1 utilisation tous les 2 joueurs dans la partie]) :* lors d'un combat, désactivez toutes les armes équipées de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, toutes les armes équipées de l'adversaire lui reviennent.
 
   * Citation :
   * Image :
@@ -184,16 +184,20 @@
   * Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
   * <TODO>
   * Accoutrement loufoque : si elle décide de se réveler lors de son premier tour, Luna a accès à tel ou tel item, la coiffe tête de lion et les lunettes
-  * *Magicozoologiste (est-ce vraiment le nom) :* les accessoires des autres personnages ayant la capacité _Compagnon_ ne vous font aucun effet.
+  * *Magizoologiste :* les accessoires des autres personnages ayant la capacité _Compagnon_ ne vous font aucun effet.
   * Il faudrait un pouvoir un peu tout au long de la partie.
 
   * Citation :
   * Image :
 
-=== http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey (0.05 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey (0.80 - TODO)]
 
-  * [red]*X Blessures.*
-  * *Jambe de bois détachable* : vous pouvez ne lancer que le dé à 4 faces lors de votre phase de déplacement.
+  * [red]*6 Blessures.*
+  * *Jambe de bois détachable :* dorénavant, vos phases de déplacements se fera uniquement avec le dé à 4 faces.
+  * *Jambe de bois rattachable :* passez votre phase de déplacement, dorénavant, vos phases de déplacements se fera uniquement avec les deux dés.
+  * *Paranoïa :* vous ne pouvez recevoir en échange que des cartes qui vous soient revélées.
+  * *Auror d'exception :* vous bénéficez d'un bonus d'attaque et de défense de 2 face aux personnages Antagonistes.
+  * *[Nom à trouver] :* si vous révelez votre identité dès le premier tour, équipez vous directement de l'_Oeil magique d'Alastor Maugrey_, qu'importe la pile dans laquelle il se trouve.
   * <TODO>
 
   * Citation :

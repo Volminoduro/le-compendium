@@ -166,7 +166,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Alastor_Moody%27s_magical_eye[Oeil magique du professeur Maugrey]
 
-** [Pendant votre tour, vous pouvez demander que l'on vous révèle jusqu'à deux cartes que les joueurs ont pioché durant leur dernier tour. Le choix des joueurs et des cartes est votre.]
+** Pendant votre tour, vous pouvez choisir un joueur, celui-ci devra vous réveler sa main, et uniquement à vous.
 
 ==== Le Choixpeau magique (1 exemplaire)
 
