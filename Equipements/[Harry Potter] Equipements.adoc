@@ -56,7 +56,7 @@
 
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
-==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck]
+==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire)]
 
 ** *Envol :* vous rajoute 1 de portée.
 ** *Loyauté :* vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
@@ -64,7 +64,7 @@
 
 === Epique
 
-==== Nagini (1 exemplaire)
+==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire)]
 
 ** *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
 ** *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums, se limite à [X] effets par cible.

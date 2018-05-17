@@ -15,9 +15,10 @@
 === http://harrypotter.wikia.com/wiki/Tom_Riddle[Voldemort (0.80 - TODO)]
 
   * [red]*5 Blessures.*
-  * *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut se cumuler [X] fois.
+  * *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut se cumuler plusieurs fois.
   * *La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu (Ou doubler les dégâts de l'un à l'autre ?).
   * Une capacité ou un défaut en plus ?
+  * [Si vous révelez votre identité dès le premier tour, équipez vous directement de _Nagini_, qu'importe la pile dans laquelle il se trouve. A voir car Nagini n'est pas déséquippable et sa mort provoque une défausse définitive.]
 
   * Citation : _"Allons, il faut respecter les usages… [...] Incline-toi devant la mort, Harry…"_, Harry Potter et la Coupe de Feu, J.K Rowling, 2000.
   * Image : {personnagesdir}/Voldemort.jpg
@@ -25,7 +26,7 @@
 === http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver (0.35 - TODO)]
 
   * [red]*X Blessures.*
-  * *Lâcheté :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au seuil de la mort.
+  * *Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au seuil de la mort.
 
   * Citation :
   * Image :
@@ -35,7 +36,7 @@
   * [red]*X Blessures.*
   * *Esprit influençable :* une seule fois par partie, vous pouvez oublier votre quête afin de vous consacrer à celle d'un autre personnage, sous son accord, sa quête devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
   * *Possession :* vous pouvez accueillir l'esprit d'un personnage décédé dans votre corps. Il peut toujours accomplir sa quête et vous la vôtre. Ceci vous inflige 1 blessure à chaque début de votre tour, tous les 2 tours, vous pouvez en mourir.
-  * *"Cessez de vous moquer de moi" :* gagnera +[2] d'attaque s'il est le personnage avec le plus de blessures infligées dans la partie.
+  * *"Cessez de vous moquer de moi" :* gagnera +[2] d'attaque s'il est le personnage avec le plus de blessures subies dans la partie.
 
   * Citation :
   * Image :
@@ -64,7 +65,7 @@
 === [Bellastrix Lestrange (0.05 - TODO)]
 
   * [red]*X Blessures.*
-  * *Cruauté :* chaque attaque consécutive envers un personnage vous donne +1 d'attaque, peut se cumuler [3] fois.
+  * *Cruauté :* chaque attaque consécutive envers un personnage vous donne +1 d'attaque, peut se cumuler jusqu'à [3] fois. Changer de cible fait repartir l'effet de zéro.
   * <TODO>
 
   * Citation :
@@ -184,7 +185,7 @@
   * [red]*4 Blessures ?*
   * Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
   * <TODO>
-  * Accoutrement loufoque : si elle décide de se réveler lors de son premier tour, Luna a accès à tel ou tel item, la coiffe tête de lion et les lunettes
+  * Accoutrement loufoque : si elle décide de se réveler lors de son premier tour, Luna a accès à tel ou tel item, la coiffe tête de lion et les lunettes, ou son cartable (comme ça Tête + Corps).
   * *Magizoologiste :* les accessoires des autres personnages ayant la capacité _Compagnon_ ne vous font aucun effet.
   * Il faudrait un pouvoir un peu tout au long de la partie.
 
@@ -196,7 +197,7 @@
   * [red]*6 Blessures.*
   * *Jambe de bois détachable :* dorénavant, vos phases de déplacements se fera uniquement avec le dé à 4 faces.
   * *Jambe de bois rattachable :* passez votre phase de déplacement, dorénavant, vos phases de déplacements se fera uniquement avec les deux dés.
-  * *Paranoïa :* vous ne pouvez recevoir en échange que des cartes qui vous soient revélées (fonctionne avec l'_Oeil magique d'Alastor Maugrey_).
+  * *Paranoïa :* Vous gagnez +1 de défense contre les ennemis non révélés. Vous ne pouvez recevoir en échange que des cartes qui vous soient revélées (fonctionne avec l'_Oeil magique d'Alastor Maugrey_).
   * *Auror d'exception :* vous bénéficez d'un bonus d'attaque et de défense de 2 face aux personnages Antagonistes.
   * Si vous révelez votre identité dès le premier tour, équipez vous directement de l'_Oeil magique d'Alastor Maugrey_, qu'importe la pile dans laquelle il se trouve.
 
@@ -225,6 +226,7 @@
 * http://harrypotter.wikia.com/wiki/Viktor_Krum
 * https://fr.wikipedia.org/wiki/Liste_des_personnages_du_monde_des_sorciers_de_J._K._Rowling
 * http://harrypotter.wikia.com/wiki/Newton_Scamander
+* http://harrypotter.wikia.com/wiki/Bartemius_Crouch_Junior
 
 * http://harrypotter.wikia.com/wiki/Unbreakable_Vow
 * Delphini
