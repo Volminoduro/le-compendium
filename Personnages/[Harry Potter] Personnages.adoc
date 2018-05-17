@@ -64,6 +64,7 @@
 === [Bellastrix Lestrange (0.05 - TODO)]
 
   * [red]*X Blessures.*
+  * *Cruauté :* chaque attaque consécutive envers un personnage vous donne +1 d'attaque, peut se cumuler [3] fois.
   * <TODO>
 
   * Citation :
@@ -83,7 +84,7 @@
 === http://harrypotter.wikia.com/wiki/Aragog[Aragog (0.90 - TODO)] :
 
   * [red]*7 Blessures.*
-  * *Ponte de Mosag :* lorsqu'Aragog reçoit un soin excèdentaire (lorsque vous avez 0 blessures subies), il génère un "Membre de la couvée".
+  * *Ponte de Mosag :* A tout moment, lorsqu'Aragog reçoit un soin excèdentaire (lorsque vous avez 0 blessures subies), il génère un "Membre de la couvée".
   * *Colonie acromantulère :* Vous pouvez sacrifier des "Membres de la couvée" pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez lors de l'attaque / défense.
 
   * Citation :
@@ -170,9 +171,9 @@
     ** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
     ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
   * *Duelliste talentueux...*
-    ** Si vous avez attaqué avec succès au tour précédent, vous gagnez un point d'attaque, peut-être cumulé 2 fois.
+    ** Si vous avez attaqué avec succès au tour précédent, vous gagnez un point d'attaque, peut être cumulé 2 fois.
   * *...nécessitant de l'entretien.*
-    ** Si vous n'avez pas attaqué [avec succès ?] pendant les 2 derniers tours, vous perdez vos bonus de Duelliste talentueux.
+    ** Si vous n'avez pas attaqué avec succès pendant les 2 derniers tours, vous perdez vos effets de Duelliste talentueux.
   * [Voir pour que ces bonus soient annulés avec la Lycanthropie ?]
 
   * *Citation :* _"C'est de la force des convictions que dépend la réussite, pas du nombre de partisan."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
@@ -195,10 +196,9 @@
   * [red]*6 Blessures.*
   * *Jambe de bois détachable :* dorénavant, vos phases de déplacements se fera uniquement avec le dé à 4 faces.
   * *Jambe de bois rattachable :* passez votre phase de déplacement, dorénavant, vos phases de déplacements se fera uniquement avec les deux dés.
-  * *Paranoïa :* vous ne pouvez recevoir en échange que des cartes qui vous soient revélées.
+  * *Paranoïa :* vous ne pouvez recevoir en échange que des cartes qui vous soient revélées (fonctionne avec l'_Oeil magique d'Alastor Maugrey_).
   * *Auror d'exception :* vous bénéficez d'un bonus d'attaque et de défense de 2 face aux personnages Antagonistes.
-  * *[Nom à trouver] :* si vous révelez votre identité dès le premier tour, équipez vous directement de l'_Oeil magique d'Alastor Maugrey_, qu'importe la pile dans laquelle il se trouve.
-  * <TODO>
+  * Si vous révelez votre identité dès le premier tour, équipez vous directement de l'_Oeil magique d'Alastor Maugrey_, qu'importe la pile dans laquelle il se trouve.
 
   * Citation :
   * Image :
@@ -225,5 +225,7 @@
 * http://harrypotter.wikia.com/wiki/Viktor_Krum
 * https://fr.wikipedia.org/wiki/Liste_des_personnages_du_monde_des_sorciers_de_J._K._Rowling
 * http://harrypotter.wikia.com/wiki/Newton_Scamander
+
+* http://harrypotter.wikia.com/wiki/Unbreakable_Vow
 * Delphini
 * Lucius Malfoy ?
