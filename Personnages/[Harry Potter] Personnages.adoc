@@ -33,9 +33,9 @@
 
 === http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirrell (0.70 - TODO)]
 
-  * [red]*X Blessures.*
+  * [red]*5 Blessures.*
   * *Esprit influençable :* une seule fois par partie, vous pouvez oublier votre quête afin de vous consacrer à celle d'un autre personnage, sous son accord, sa quête devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
-  * *Possession :* vous pouvez accueillir l'esprit d'un personnage décédé dans votre corps. Il peut toujours accomplir sa quête et vous la vôtre. Ceci vous inflige 1 blessure à chaque début de votre tour, tous les 2 tours, vous pouvez en mourir.
+  * *Possession :* vous pouvez accueillir l'esprit d'un personnage décédé dans votre corps. Il peut toujours accomplir sa quête et vous la vôtre. Ceci vous inflige 1 blessure à chaque début de votre tour, tous les 2 tours, vous pouvez en mourir. Désormais, _Esprit influençable_ vous donnera l'intégralité des points d'accomplissement.
   * *"Cessez de vous moquer de moi" :* gagnera +[2] d'attaque s'il est le personnage avec le plus de blessures subies dans la partie.
 
   * Citation :
@@ -49,15 +49,16 @@
   * Citation :
   * Image :
 
-=== http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback (0.85 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback (0.90 - TODO)]
 
-  * [red]*7 Blessures.*
+  * [red]*6 Blessures.*
   * *Lycanthropie :* Tous les [3] tours, après votre déplacement, vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
     ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
-    ** Lors d'une attaque, vous réduisez les dégâts de deux.
+    ** Lorsque vous êtes attaqué, vous réduisez les dégâts de deux.
     ** Si vous êtes attaqué, si le résultat n'est pas strictement à l'avantage de l'attaquant, vous lui infliger une blessure en représailles (cela peut achever un personnage).
     ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
   * *Préparation sélène :* Lors de votre déplacement précédant votre _Lycanthropie_, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous avancez de deux cases supplémentaires vers un autre personnage de votre choix.
+  * [nécessite une capacité en plus ?]
 
   * Citation :
   * Image :
@@ -134,19 +135,19 @@
 
 == Protagoniste
 
-=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (0.60 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (0.75 - TODO)]
 
   * [red]*5 Blessures.*
-  * *La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.
-  * *Accio :* [récupérer une carte dans un des tas, limité par la portée ? Devoir nommer la carte ?]
-  * *Expelliarmus (1 utilisation tous les 2 joueurs dans la partie]) :* lors d'un combat, désactivez toutes les armes équipées de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, toutes les armes équipées de l'adversaire lui reviennent.
+  * [*La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.]
+  * *Accio (1 utilisation tous les 2 tours):* Pendant votre tour, vous pouvez récuperer une carte de la pile Consommables ou Equipements [Voir pour nommer la carte)].
+  * *Expelliarmus (1 utilisation disponible tous les 2 joueurs dans la partie]) :* lors d'un combat, désactivez toutes les armes équipées de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul des dégâts. Si le résultat du combat est en la faveur d'Harry, toutes les armes équipées de l'adversaire lui reviennent.
 
   * Citation :
   * Image :
 
 === http://harrypotter.wikia.com/wiki/Severus_Snape[Severus Rogue (0.35 - TODO)]
 
-  * [red]*X Blessures.*
+  * [red]*5 Blessures.*
   * *Agent double :* peut se faire passer pour un Antagoniste tout le long de la partie et utiliser ce qui leur est exclusif.
   * *Maître des potions :* [Possibilité constante de faire l'effet du livre de potions du Prince de Sang-Mêlé.]
 
@@ -165,7 +166,7 @@
 
 === http://harrypotter.wikia.com/wiki/Remus_Lupin[Remus Lupin (0.80 - TODO)]
 
-  * [red]*X Blessures.*
+  * [red]*5 Blessures.*
   * *Lycanthropie :* Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
     ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
     ** Vous réduisez les dégâts de deux.

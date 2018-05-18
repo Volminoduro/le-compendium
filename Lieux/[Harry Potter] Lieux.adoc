@@ -15,7 +15,7 @@
 
 == Taverne de la Tête du Sanglier
 
-** Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 Blessure, malus si déjà 1 bière-au-beurre utilisé auparavant) et échanger / donner des cartes.
+** Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger / donner des cartes.
 
 == La Forêt Interdite
 
@@ -39,14 +39,14 @@
 
 == La salle sur demande
 
-** [Vous permet d'avoir l'effet de la case que vous souhaitez.]
+** Vous permet d'avoir l'effet de la case que vous souhaitez.
 
 == La coupe de feu
 
-** Tout le monde peut y participer à condition d'avoir 3 PDB au minimum.
+** Tout le monde peut y participer à condition d'être à moins de 3 blessures du seuil de la mort.
 ** La coupe sélectionne aléatoirement une personne de chaque alignement disponible.
 ** Celui qui finit avec le plus de PDB disponible au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
-** [Une fois la coupe remportée, défausser définitivement ce lieu.]
+** Une fois la coupe remportée, défausser définitivement ce lieu.
 
 == Le terrier ?
 
@@ -59,7 +59,7 @@
 == Chemin de traverse
 
 ** [Tout le monde peut acheter s'il était sur la case marchand d'or. Uniquement le joueur qui l'active ? Peu d'intérêt, ça remplace juste la case, mauvaise idée uniquement le joueur.]
-** [Ordre d'achat régit comment ?]
+** [Ordre d'achat régit comment ? Dans l'ordre du tour]
 
 == Madam Malkin robe
 
@@ -113,3 +113,7 @@ Récompenser une bonne vision de jeu mais peut s'avérer inutile si la case à c
 * http://harrypotter.wikia.com/wiki/Fundamental_Laws_of_Magic
 * http://harrypotter.wikia.com/wiki/Philosopher%27s_Stone_Chambers
 * http://harrypotter.wikia.com/wiki/Mirror_of_Erised
+
+= Idées
+
+* Rencontre avec les détraqueurs et perdrent un objet aléatoire ?
