@@ -41,7 +41,7 @@
   * Citation :
   * Image :
 
-=== http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald (0.05 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald (0.05 - TODO) - Réservé ça pour une extension Animaux Fantastiques ?]
 
   * [red]*X Blessures.*
   * <TODO>

@@ -105,18 +105,9 @@
 * Utilisable à tout moment
 * Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
 
-=== Les dragées des frères Weasleys
+=== Nombre d'exemplaire total : 6
 
-* Exemplaires : ?
-* Effets aléatoire : 1 serait de piocher une carte retournement
-** Soin de 1 PDS
-** Tirer une carte "Consommable"
-** Tirer une carte "Equipement"
-** Téléportation sur la case d'un autre joueur (sans la déclencher)
-
-=== Nombre d'exemplaire total : 7
-
-== Nombre total d'exemplaire 27
+== Nombre total d'exemplaire 26
 
 
 == Ressources

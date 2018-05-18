@@ -6,106 +6,169 @@
 :toc:
 :numbered:
 
+:lieuxdir: /ressources/images/Harry_Potter/Personnages/
+
 = Lieux
 
 == Soins
 
-=== Taverne de la Tête du Sanglier
+=== http://harrypotter.wikia.com/wiki/Hog%27s_Head_Inn[Taverne de la Tête du Sanglier (0.95 - TODO - Citation)]
 
-* Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger ou donner des cartes.
+* Chaque personnage déjà révélée, ou voulant s'y révélant, peut venir y boire une _Bièraubeurre_ (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger ou donner des cartes.
 
-=== Hôpital Ste-Mangouste
+* Citation :
+* Image : {lieuxdir}/hogshead.jpg
+
+=== http://harrypotter.wikia.com/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries[Hôpital Ste-Mangouste (0.95 - TODO - Citation)]
 
 * Interdit aux Antagonistes
 * Chaque personnage au seuil de la mort peut être soigné de 1 blessure.
 * Vous pouvez être soigné de 2 blessures.
 
+* Citation :
+* Image : {lieuxdir}/st_mungo.jpg
+
 == Récupération de cartes
 
-=== http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers]
+=== http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers (0.95 - TODO - Citation)]
 
 * Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" dans la pile, mélangez la pile après ça.
 
-=== http://harrypotter.wikia.com/wiki/Twilfitt_and_Tattings[Tissard et Brodette]
+* Citation :
+* Image :
+
+=== http://harrypotter.wikia.com/wiki/Twilfitt_and_Tattings[Tissard et Brodette (0.95 - TODO - Citation)]
 
 * Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" de qualité "Rare" dans la pile, mélangez la pile après ça.
+
+* Citation :
+* Image : {lieuxdir}/twilfitt_and_tattings.jpg
 
 === Potage cauldron shop
 
 * [Piocher, payer des cartes consommables]
 
-=== Boutique de Fred et Georges
+* Citation :
+* Image :
 
-* Achat de friandes aux différents effets
+=== http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges (0.70 - TODO - Effets - Citation)]
+
+* *Goûteur dévoué :* par sympathie, vous gouttez la nouvelle dragées surprise des frères Weasleys. Lancez les deux dés :
+** 2 : piocher une carte retournement
+** 3 : votre prochain jet de dé sera le score minimum possible.
+** 4 : subissez une blessure, soignez-vous 2 blessures au début de votre prochaine tour.
+** 5 : []
+** 6 : []
+** 7 : vous goûter deux nouvelles dragées, quelle gourmandise !
+
+* Citation :
+* Image : {lieuxdir}/weasleys_wizard_wheezes.jpg
 
 == Equipements
 
-=== http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk]
+=== http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk (0.95 - TODO - Citation)]
 
 * Vous pouvez récupérer une charge sur l'équipement de votre choix, 2 charges si vous êtes un Antagoniste.
 * Pour deux points d'équipement, vous pouvez acheter la _Main de la gloire_ directement depuis la pile d'Equipement. Mélangez la pile ensuite.
 
-=== http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe]
+* Citation :
+* Image : {lieuxdir}/borgin_and_burkes.jpg
+
+
+=== http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe (0.95 - TODO - Citation)]
 
 * Vous permet de regagner jusqu'à 2 charges sur l'équipement de votre choix.
 
-
+* Citation :
+* Image : {lieuxdir}/gregorovitch_workshop.jpg
 
 == Evènements
 
-=== La Forêt Interdite
+=== http://harrypotter.wikia.com/wiki/Forbidden_Forest[La Forêt Interdite (0.95 - TODO - Citation)]
 
-* Rencontre aléatoire
+* Lancez [] les dés pour un effet aléatoire :
+** sds
 
-=== Azkaban
+* Citation :
+* Image : {lieuxdir}/forbidden_forest.jpg
+
+=== http://harrypotter.wikia.com/wiki/Azkaban[Azkaban (0.95 - TODO - Citation)]
 
 * Vous désignez un autre personnage que vous à votre portée, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
 * Il doit faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
 * Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libéré de prison.
 
-=== Salle de la coupe de feu
+* Citation :
+* Image : {lieuxdir}/azkaban.jpg
+
+=== http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu (0.95 - TODO - Citation)]
 
 * Chaque personnage peut y participer à condition d'être à moins de 3 blessures du seuil de la mort.
 * La coupe sélectionne aléatoirement un personnage de chaque alignement disponible.
 * Celui qui finit avec le moins de Blessures subies au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
-=== Tribunal magique
+* Citation :
+* Image :
+
+=== http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique [peut être amélioré un peu] (0.85 - TODO - Citation)]
 
 * Vous pouvez dénoncer un autre personnage en indiquant ce que vous pensez être sa quête. Le personnage devra indiquer si vous dites vrai ou non, il ne peut mentir.
 
-=== Poudlard Express (Le prisonnier d'Azkaban)
+* Citation :
+* Image : {lieuxdir}/council_magical.jpg
 
-** *Rencontre avec un détraqueur :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case du Lieu doit affronter un détraqueur. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
+=== http://harrypotter.wikia.com/wiki/Hogwarts_Express[Poudlard Express (Le prisonnier d'Azkaban) (0.95 - TODO - Citation)]
+
+** *Rencontre avec un détraqueur :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case de distance du Lieu doit affronter un détraqueur. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
+
+* Citation :
+* Image : {lieuxdir}/dementors_hogwarts_express.jpg
 
 == Autres
 
-=== La salle sur demande
+=== http://harrypotter.wikia.com/wiki/Room_of_Requirement[La salle sur demande (0.95 - TODO - Citation)]
 
 * Vous permet d'avoir l'effet de la case que vous souhaitez.
 
-=== Banque de Gringotts
+* Citation :
+* Image : {lieuxdir}/room_of_requirement.jpg
+
+=== http://harrypotter.wikia.com/wiki/Gringotts_Wizarding_Bank[Banque de Gringotts (0.95 - TODO - Citation)]
 
 * Vous permet de stocker / reprendre jusqu'à deux cartes de votre main.
 
-=== http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier]
+* Citation :
+* Image : {lieuxdir}/gringotts.jpg
+
+=== http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier (0.90 - TODO - Cohérence du pouvoir avec le lieu ? - Citation)]
 
 * *Doux foyer :* vous ne pouvez attaquer personne et personne ne peut vous attaquer tant que vous vous trouvez dans ce lieu.
 
-* Cohérence du pouvoir avec le lieu ?
+* Citation :
+* Image : {lieuxdir}/burrow.jpg
 
-=== Chemin de traverse
+=== http://harrypotter.wikia.com/wiki/Diagon_Alley[Chemin de traverse (0.95 - TODO - Citation)]
 
 * En commençant par celui qui a découvert le _Chemin de traverse_, et dans l'ordre de jeu, chaque personnage peut acheter un équipement comme s'il était sur la case marchand d'or.
 
-=== http://harrypotter.wikia.com/wiki/Veil[Le voile]
+* Citation :
+* Image : {lieuxdir}/diagon_alley.jpg
+
+=== http://harrypotter.wikia.com/wiki/Veil[Le voile (0.95 - TODO - Citation)]
 
 * Actif pour tous les joueurs jusqu'à la fin de votre prochain tour de jeu.
 * Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort.
 
-=== Station de train
+* Citation :
+* Image : {lieuxdir}/veil.jpg
+
+=== http://harrypotter.wikia.com/wiki/King%27s_Cross_Station[Gare de King's Cross (0.95 - TODO - Citation)]
 
 * Si vous le voulez, à votre prochain tour, votre déplacement vous mènera directement à la case opposée à la votre sur le plateau.
+
+* Citation :
+* Image : {lieuxdir}/king_cross_station.jpg
 
 
 
@@ -123,6 +186,6 @@
 
 = Idées
 
-=== La cabane hurlante
+=== http://harrypotter.wikia.com/wiki/Shrieking_Shack[La cabane hurlante]
 
 ** [Malus de portée quand on vous attaque dans ce lieu ?]
