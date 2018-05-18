@@ -8,99 +8,106 @@
 
 = Lieux
 
-== Banque de Gringotts
+== Soins
 
-** Vous permet de stocker jusqu'à deux équipement ou cartes de votre main.
-** Vous pouvez retirer jusqu'à deux équipements ou cartes de votre main lorsque vous arrivez sur ce lieu.
+=== Taverne de la Tête du Sanglier
 
-== Taverne de la Tête du Sanglier
+* Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger ou donner des cartes.
 
-** Chaque personne déjà révélée ou voulant se reveler peut venir y boire une bière au beurre (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger / donner des cartes.
+=== Hôpital Ste-Mangouste
 
-== La Forêt Interdite
+* Interdit aux Antagonistes
+* Chaque personnage au seuil de la mort peut être soigné de 1 blessure.
+* Vous pouvez être soigné de 2 blessures.
 
-** Rencontre aléatoire
+== Récupération de cartes
 
-== Azkaban
+=== http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers]
 
-** Vous désignez un autre personnage que vous, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
-** Il doit faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
-** Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libéré de prison.
+* Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" dans la pile, mélangez la pile après ça.
 
-== Hôpital Ste Mangouste
+=== http://harrypotter.wikia.com/wiki/Twilfitt_and_Tattings[Tissard et Brodette]
 
-** Interdit aux Antagonistes
-** Chaque Protagoniste / Neutre au seuil de la mort peut être soigné de 1 blessure.
-** Vous pouvez être soigné de 2 blessures.
+* Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" de qualité "Rare" dans la pile, mélangez la pile après ça.
 
-== Echoppe de Gregorovith
+=== Potage cauldron shop
 
-** Vous permet de regagner jusqu'à 2 charges sur l'équipement de votre choix.
+* [Piocher, payer des cartes consommables]
 
-== La salle sur demande
+=== Boutique de Fred et Georges
 
-** Vous permet d'avoir l'effet de la case que vous souhaitez.
+* Achat de friandes aux différents effets
 
-== La coupe de feu
+== Equipements
 
-** Tout le monde peut y participer à condition d'être à moins de 3 blessures du seuil de la mort.
-** La coupe sélectionne aléatoirement une personne de chaque alignement disponible.
-** Celui qui finit avec le plus de PDB disponible au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
-** Une fois la coupe remportée, défausser définitivement ce lieu.
+=== http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk]
 
-== Le terrier ?
+* Vous pouvez récupérer une charge sur l'équipement de votre choix, 2 charges si vous êtes un Antagoniste.
+* Pour deux points d'équipement, vous pouvez acheter la _Main de la gloire_ directement depuis la pile d'Equipement. Mélangez la pile ensuite.
 
-* dsds
+=== http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe]
 
-== Un lieu antagoniste où ils pourront librement parler / échanger leurs cartes (manoir Malefoy) ?
+* Vous permet de regagner jusqu'à 2 charges sur l'équipement de votre choix.
 
-** Pareil pour les Protagonistes
 
-== Chemin de traverse
 
-** [Tout le monde peut acheter s'il était sur la case marchand d'or. Uniquement le joueur qui l'active ? Peu d'intérêt, ça remplace juste la case, mauvaise idée uniquement le joueur.]
-** [Ordre d'achat régit comment ? Dans l'ordre du tour]
+== Evènements
 
-== Madam Malkin robe
+=== La Forêt Interdite
 
-** Récupérer la première carte équipement de "Corps" dans la pile, mélangez la pile après ça.
-** [Twiltting and tatting] Récupérer la première carte équipement de "Corps" de qualité "Rare" dans la pile, mélangez la pile après ça.
+* Rencontre aléatoire
 
-== Potage cauldron shop
+=== Azkaban
 
-** [Piocher, payer des cartes consommables]
+* Vous désignez un autre personnage que vous à votre portée, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
+* Il doit faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
+* Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libéré de prison.
 
-== Boutique de Fred et Georges
+=== Salle de la coupe de feu
 
-** Achat de friandes aux différents effets
+* Chaque personnage peut y participer à condition d'être à moins de 3 blessures du seuil de la mort.
+* La coupe sélectionne aléatoirement un personnage de chaque alignement disponible.
+* Celui qui finit avec le moins de Blessures subies au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
+* Une fois la coupe remportée, défausser définitivement ce lieu.
 
-== Honeyduke ?
+=== Tribunal magique
 
-== Station de train
+* Vous pouvez dénoncer un autre personnage en indiquant ce que vous pensez être sa quête. Le personnage devra indiquer si vous dites vrai ou non, il ne peut mentir.
 
-** [Permet d'aller à la case opposée sans l'activer, ou alors la case désiré (autre que celle-ci) sans l'activer ?]
-** [Thibault : Si déplacement sur la case de notre choix ou opposée = sert à multiplier le nombre de jet de dé possible pour aller ou l'on souhaite.
-Ex: Case que l'on veut à 5, gare à 3. ça permet de faire soit 3 ou 5 pour accéder à ce que l'on veut.
+=== Poudlard Express (Le prisonnier d'Azkaban)
 
-Jouer sur le déplacement avec un tour d'écart ?
-Interet: Cibler une case moins convoité par les gens en espérant qu'elle soit vide/libre le tour suivant ?
-Récompenser une bonne vision de jeu mais peut s'avérer inutile si la case à changé / si quelqu'un y est allé etc...]
+** *Rencontre avec un détraqueur :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case du Lieu doit affronter un détraqueur. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
 
-== Dervish and banges
+== Autres
 
-** Récupérer une charge sur l'équipement de votre choix.
-** Réservé aux Antagonistes : récupérer deux charge sur l'équipement de votre choix.
+=== La salle sur demande
 
-== Mad m pudiffot ?
+* Vous permet d'avoir l'effet de la case que vous souhaitez.
 
-== link:http://harrypotter.wikia.com/wiki/Veil[Veil]
+=== Banque de Gringotts
 
-** Actif jusqu'à [la fin] de votre prochain tour de jeu.
-** Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort tant que ce lieu est actif.
+* Vous permet de stocker / reprendre jusqu'à deux cartes de votre main.
 
-== La cabane hurlante
+=== http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier]
 
-** [Malus de portée quand on vous attaque dans ce lieu ?]
+* *Doux foyer :* vous ne pouvez attaquer personne et personne ne peut vous attaquer tant que vous vous trouvez dans ce lieu.
+
+* Cohérence du pouvoir avec le lieu ?
+
+=== Chemin de traverse
+
+* En commençant par celui qui a découvert le _Chemin de traverse_, et dans l'ordre de jeu, chaque personnage peut acheter un équipement comme s'il était sur la case marchand d'or.
+
+=== http://harrypotter.wikia.com/wiki/Veil[Le voile]
+
+* Actif pour tous les joueurs jusqu'à la fin de votre prochain tour de jeu.
+* Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort.
+
+=== Station de train
+
+* Si vous le voulez, à votre prochain tour, votre déplacement vous mènera directement à la case opposée à la votre sur le plateau.
+
+
 
 = Ressources
 
@@ -116,4 +123,6 @@ Récompenser une bonne vision de jeu mais peut s'avérer inutile si la case à c
 
 = Idées
 
-* Rencontre avec les détraqueurs et perdrent un objet aléatoire ?
+=== La cabane hurlante
+
+** [Malus de portée quand on vous attaque dans ce lieu ?]
