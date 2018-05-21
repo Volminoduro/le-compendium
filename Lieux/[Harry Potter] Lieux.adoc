@@ -44,22 +44,15 @@
 * Citation :
 * Image : {lieuxdir}/twilfitt_and_tattings.jpg
 
-=== Potage cauldron shop
-
-* [Piocher, payer des cartes consommables]
-
-* Citation :
-* Image :
-
 === http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges (0.70 - TODO - Effets - Citation)]
 
-* *Goûteur dévoué :* par sympathie, vous gouttez la nouvelle dragées surprise des frères Weasleys. Lancez les deux dés :
-** 2 : piocher une carte retournement
+* *Goûteur dévoué :* par sympathie, vous goûtez la nouvelle dragées surprise des frères Weasleys. Lancez les deux dés :
+** 2 : piocher une carte retournement.
 ** 3 : votre prochain jet de dé sera le score minimum possible.
 ** 4 : subissez une blessure, soignez-vous 2 blessures au début de votre prochaine tour.
-** 5 : []
-** 6 : []
-** 7 : vous goûter deux nouvelles dragées, quelle gourmandise !
+** 5 : vous regagnez une charge sur une de vos compétences.
+** 6 : jusqu'à que vous subissiez une nouvelle blessure, vous pourrez lancer deux fois les dés et choisir le jet vous intéressant pour vous déplacer.
+** 7 : vous goûtez deux nouvelles dragées, quelle gourmandise !
 
 * Citation :
 * Image : {lieuxdir}/weasleys_wizard_wheezes.jpg
@@ -74,7 +67,6 @@
 * Citation :
 * Image : {lieuxdir}/borgin_and_burkes.jpg
 
-
 === http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe (0.95 - TODO - Citation)]
 
 * Vous permet de regagner jusqu'à 2 charges sur l'équipement de votre choix.
@@ -86,8 +78,14 @@
 
 === http://harrypotter.wikia.com/wiki/Forbidden_Forest[La Forêt Interdite (0.95 - TODO - Citation)]
 
-* Lancez [] les dés pour un effet aléatoire :
-** sds
+* Lancez les dés une rencontre aléatoire :
+** *2 - Colonie d'Aragog :* si vous n'êtes pas Aragog vous-même, attaquer à plus de [3] 3 fois. Subissez une blessure ou un équipement, selon votre choix, par échec.
+** *3 - Ford Anglia détraquée :* lancez les deux dés, si vous faites moins de 4, vous subissez une blessure. Si vous avez fait 7, la _Ford Anglia_ vous emmène à la case adjacente du Lieu de votre choix.
+** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un dé à 3 faces pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un équipement et une carte de votre main. Si vous êtes Firenze, soignez-vous d'une blessure, gagnez un consommable et un équipement.
+** *5 - Gibier :* vous pouvez attaquer, si vous faites plus de 2, guérissez-vous d'une blessure.
+** *6 - Sentier mal balisé :* relancez les dés pour une autre rencontre aléatoire.
+** *7 - Touffu [Un peu trop fort ?] :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous ne disposez pas d'équipement à perdre, cela se répercute sur vos cartes en main, sinon sur vos points de vie. Vous pouvez en décéder.
+* Si vous rencontrez des difficultés, vous pouvez demander de l'aide à un autre personnage à une case de distance de ce lieu. Il peut remplir les conditions de victoire à votre place. Il aura le droit de négocier son aide.
 
 * Citation :
 * Image : {lieuxdir}/forbidden_forest.jpg
@@ -109,9 +107,9 @@
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
 * Citation :
-* Image :
+* Image : {lieuxdir}/goblet_of_fire.jpg
 
-=== http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique [peut être amélioré un peu] (0.85 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique (0.85 - TODO - peut être amélioré un peu - Citation)]
 
 * Vous pouvez dénoncer un autre personnage en indiquant ce que vous pensez être sa quête. Le personnage devra indiquer si vous dites vrai ou non, il ne peut mentir.
 
@@ -124,6 +122,13 @@
 
 * Citation :
 * Image : {lieuxdir}/dementors_hogwarts_express.jpg
+
+=== http://harrypotter.wikia.com/wiki/Knockturn_Alley[L'allée des embrumes (0.95 - TODO - Citation)]
+
+* *Quartier mal famé* : [Pas de défense possible] vos objets équipés vous sont retirés et sont remis dans la pile du marchand d'or.
+
+* Citation :
+* Image : {lieuxdir}/knockturn_alley.jpg
 
 == Autres
 
