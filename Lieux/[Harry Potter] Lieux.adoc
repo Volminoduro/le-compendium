@@ -44,7 +44,7 @@
 * Citation :
 * Image : {lieuxdir}/twilfitt_and_tattings.jpg
 
-=== http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges (0.70 - TODO - Effets - Citation)]
+=== http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges (0.95 - TODO - Citation)]
 
 * *Goûteur dévoué :* par sympathie, vous goûtez la nouvelle dragées surprise des frères Weasleys. Lancez les deux dés :
 ** 2 : piocher une carte retournement.
