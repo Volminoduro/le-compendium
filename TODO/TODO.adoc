@@ -17,10 +17,8 @@
 
 === Pion îcone pour reconnaître les personnages sur le plateau ? Préférable au code couleur, car cela sera très utilisé ailleurs.
 
-=== Attention aux placements cases Marchands, à côté des +1 ou -1 pour éviter l'abus
+=== Attention aux placements cases Marchands, à côté des +1 ou -1 pour éviter l'abus /!\
 
 === Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
-=== Pourcentage de complétion d'une extension (calcul)
-
-* Pour une carte, il faut son nom (5 %), les blessures (5 %) son effet (80 %), son image (5 %), sa citation (5%).
+=== Pourcentage de complétion d'une extension (calcul) - En cours, voir HP pour étalonnage
