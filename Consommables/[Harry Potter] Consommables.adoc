@@ -6,109 +6,128 @@
 :toc:
 :numbered:
 
+:consommablesdir: /ressources/images/Harry_Potter/Consommables/
+
 = Consommables
 
 == Soins
 
-=== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Whisky Pur Feu]
+=== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Whisky Pur Feu Blishen (3 exemplaires) (0.95 - TODO - Citation)]
 
-* Exemplaires : 3
 * Utilisable à tout moment.
 * *Effet(s) :*
 ** Soignez-vous immédiatement de 1 blessure.
 ** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
 ** *Alcool fort (1 tour) :* Vous ne pouvez utiliser une autre carte vous conférant l'effet Alcool fort.
 
-=== http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre]
+* Citation :
+* Image : {consommablesdir}/fire_whisky.jpg
 
-* Exemplaires : 5
+=== http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre (5 exemplaires) (0.95 - TODO - Citation)]
+
 * Utilisable à tout moment.
 * *Effet(s) :*
-** Soignez-vous 1 blessure.
-** *Alcool léger (1 tour) :* Si vous cumulez 2 effets d'Alcool léger ou plus, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
+** Soignez-vous immédiatement 1 blessure.
+** *Alcool léger (1 tour) :* Si vous cumulez 3 effets d'Alcool léger ou plus, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
 
-=== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne]
+* Citation :
+* Image : {consommablesdir}/butterbeer.jpg
 
-* Exemplaire : 1
+=== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne (1 exemplaire) (0.95 - TODO - Citation)]
+
 * Utilisable à tout moment
-* Vous pouvez échapper à la mort une fois.
-* *Maudit (jusqu'à la fin de la partie) :* vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
-* Vous ne pourrez consommer un autre Sang de licorne.
+* *Effet(s) :*
+** Vous pouvez échapper à la mort une fois.
+** *Maudit (jusqu'à la fin de la partie) :* vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
+** Vous ne pourrez consommer un autre Sang de licorne tout au long de la partie.
 
-=== Nombre d'exemplaire total : 9
+* Citation :
+* Image : {consommablesdir}/unicorn_blood.jpg
 
+== Déplacement
 
-= Déplacement
+=== http://harrypotter.wikia.com/wiki/Floo_Powder[Poudre de cheminette (3 exemplaires) (0.95 - TODO - Citation)]
 
-=== http://harrypotter.wikia.com/wiki/Floo_Powder[Poudre de cheminette]
+* Utilisable lors de votre phase de déplacement.
+* *Effet(s) :*
+** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez vous aléatoirement d'une case sur le côté de la destination.
 
-* Exemplaires : 4
-* Utilisable à la place de votre déplacement.
-** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez d'une case en avant par rapport à la destination.
+* Citation :
+* Image : {consommablesdir}/floo_powder.jpg
 
-=== http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître]
+=== http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires) (0.95 - TODO - Citation)]
 
-* Exemplaires : 2
 * Utilisable durant votre tour.
-* Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
-* Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les emprunter lorsqu'ils arrivent sur la case en question de se rendre à l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
+* *Effet(s) :*
+** Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
+** Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les utiliser lorsqu'ils arrivent sur la case en question afin de se rendre sur l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
 
-=== Nombre d'exemplaire total : 6
-
+* Citation :
+* Image : {consommablesdir}/vanishing_cabinet.jpg
 
 == Protection
 
-=== http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Peruvian_Instant_Darkness_Powder]
+=== http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Poudre d'Obscurité Instantanée du Pérou (3 exemplaires) (0.95 - TODO - Citation)]
 
-* Exemplaires : 2
 * Utilisable à tout moment.
-* Vous permets de fuir une attaque.
+* *Effet(s) :*
+** Vous permets de fuir une attaque.
 
-=== http://harrypotter.wikia.com/wiki/Dungbomb[Dungbomb]
+* Citation :
+* Image : {consommablesdir}/peruvian_powder_darkness.jpg
 
-* Exemplaires : 3
+=== http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (3 exemplaires) (0.95 - TODO - Citation)]
+
 * Utilisable uniquement durant le tour des autres joueurs.
-* Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
+* *Effet(s) :*
+** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
-=== Nombre d'exemplaire total : 5
-
+* Citation :
+* Image : {consommablesdir}/dungbomb.jpg
 
 == Autres
 
-=== Potion de Felix Felicis
+=== http://harrypotter.wikia.com/wiki/Felix_Felicis[Potion de Felix Felicis (2 exemplaires) (0.95 - TODO - Citation)]
 
-* Exemplaires : 2
-* Catégorie : Influence du hasard
 * Utilisable à tout moment
+* *Effet(s) :*
 ** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
 
-=== http://harrypotter.wikia.com/wiki/Amortentia[Amortentia]
+* Citation :
+* Image : {consommablesdir}/felix_felicis.jpg
+* Catégorie : Influence du hasard
 
-* Exemplaires : 1
+=== http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire) (0.95 - TODO - Citation)]
+
 * Utilisable durant votre tour
-* Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
-* Si la cible de son amour venait à mourir, il se suicidera.
-* L'effet peut-être annulé à l'aide d'un philtre de haine.
+* *Effet(s) :*
+** Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
+** Si la cible de son amour venait à mourir, il se suicidera. Son cadavre sera inexploitable.
+** L'effet peut-être annulé à l'aide d'un philtre de haine.
 
-=== Philtre de haine
+* Citation :
+* Image : {consommablesdir}/amortentia.jpg
 
-* Exemplaires : 2
+=== http://harrypotter.wikia.com/wiki/Hate_Potion[Potion de haine (2 exemplaires) (0.95 - TODO - Citation)]
+
 * Utilisable durant votre tour
-* [Effet]
-* [Effet]
-* L'effet peut-être annulé à l'aide de l'Amortentia.
+* *Effet(s) :*
+** Vous pouvez attaquer deux fois par tour le personnage désigné.
+** L'effet peut-être annulé à l'aide de l'Amortentia.
 
-=== http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Nose-Biting_Teacup]
+* Citation :
+* Image : {consommablesdir}/hate_potion.jpg
+* Catégorie : Attaque
 
-* Catégorie : Attaque / Contre
-* Exemplaires : 2
+=== http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Tasse à thé mordeuse (2 exemplaires) (0.95 - TODO - Citation)]
+
 * Utilisable à tout moment
+* *Effet(s) :*
 * Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
 
-=== Nombre d'exemplaire total : 6
-
-== Nombre total d'exemplaire 26
-
+* Citation :
+* Image : {consommablesdir}/nose_biting_teacup.jpg
+* Catégorie : Attaque / Contre
 
 == Ressources
 
@@ -124,6 +143,4 @@
 == Idées
 
 * Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
-* Retourneur de temps
 * Bézoard
-* Carte du maraudeur
