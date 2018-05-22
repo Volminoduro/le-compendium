@@ -6,6 +6,8 @@
 :toc:
 :numbered:
 
+:equipementsdir: /ressources/images/Harry_Potter/Equipements/
+
 = Equipements
 
 == Accessoires
@@ -66,42 +68,42 @@
 
 ==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire)]
 
-** *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
-** *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums, se limite à [X] effets par cible.
-** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
+* *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
+* *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums, se limite à [X] effets par cible.
+* *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 
 ==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (2 Exemplaires)]
 
-** *Monture de mauvaise augure :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
-** *Allo ? :* peut porter des charges très lourdes : vous permet d'avoir une carte de plus dans votre main.
-** *Odeur du sang :* lors de votre phase de déplacement, vous pouvez vous approcher d'une case supplémentaire vers un personnage blessé s'il est à votre portée.
-** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
+* *Monture de mauvaise augure :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
+* *Allo ? :* peut porter des charges très lourdes : vous permet d'avoir une carte de plus dans votre main.
+* *Odeur du sang :* lors de votre phase de déplacement, vous pouvez vous approcher d'une case supplémentaire vers un personnage blessé s'il est à votre portée.
+* *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 ==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
 
-** Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
+* Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 ==== Main de la gloire
 
-** L'effet de la Peruvian_Instant_Darkness_Powder est annulé sur les cibles que vous attaquez.
+* L'effet de la Peruvian_Instant_Darkness_Powder est annulé sur les cibles que vous attaquez.
 
 === Légendaire
 
 ==== Pierre philosophale
 
-** Génération d'un filtre qui "soignerait"
-** Obligation d'en boire à un intervalle régulier sinon la mort ou malus
+* Génération d'un filtre qui "soignerait"
+* Obligation d'en boire à un intervalle régulier sinon la mort ou malus
 
 ==== Pierre de Résurrection (1 exemplaire)
 
-** Vous pouvez communiquer librement avec les personnages décédés lors de la partie. [Meilleur effet à trouver]
-** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
-** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+* Vous pouvez communiquer librement avec les personnages décédés lors de la partie. [Meilleur effet à trouver]
+* Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
+* Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 ==== Retourneur de temps (1 exemplaire)
 
-** *Un petit tour :* Retour à l'état du début du tour.
+* *Un petit tour :* Retour à l'état du début du tour.
 
 === Total : 20
 
@@ -117,16 +119,16 @@
 
 ==== Baguette de sureau
 
-** Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
-** Double tous vos bonus de dégâts, qu'ils soient actifs ou passifs.
-** Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
-** Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+* Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
+* Double tous vos bonus de dégâts, qu'ils soient actifs ou passifs.
+* Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
+* Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 ==== Epée de Godric Griffondor (1 exemplaire, 1 portée)
 
-** Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
-** A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
-** + 1 dégâts.
+* Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
+* A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
+* + 1 dégâts.
 
 === Total : 2
 
@@ -138,10 +140,9 @@
 
 ==== Cape d'Invisibilité standard
 
-** Invisibilité dégradative (2 charges)
-*** Utilisable uniquement durant votre tour, dure 1 tour.
-*** On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
-
+* Invisibilité dégradative (2 charges)
+** Utilisable uniquement durant votre tour, dure 1 tour.
+** On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
 === Epique
 
@@ -149,10 +150,10 @@
 
 ==== Cape d'Invisibilité
 
-** [On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.]
-** [Résister aux effets négatifs ?]
-** Peut-être équipé avec la Pierre de Résurrection et la Baguette de Sureau.
-** Si vous avez équipé dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+* [On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.]
+* [Résister aux effets négatifs ?]
+* Peut-être équipé avec la Pierre de Résurrection et la Baguette de Sureau.
+* Si vous avez équipé dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 === Total : 2
 
@@ -160,18 +161,33 @@
 
 === Commune
 
+==== http://harrypotter.wikia.com/wiki/Spectrespecs[Lorgnospectres (2 exemplaires)]
+
+* *Détecteur de Joncheruine :* vous pouvez voir les joncheruines autour de la tête des personnages. Cela ne sert à rien [pouvoir contre la cape d'Invisibilité ?].
+
+* Citation :
+* Image : {equipementsdir}/spectrespecs.jpg
+
 === Rare
+
+==== http://harrypotter.wikia.com/wiki/Luna_Lovegood%27s_lion_hat[Chapeau lion de Luna Lovegood (0.95 - TODO - Citation)]
+
+* Vous octroie 1 de défense.
+* *Rugissement effrayant (2 charges d'utilisation)* : les personnages autour de votre case reculent d'une case sans l'activer.
+
+* Citation :
+* Image : {equipementsdir}/chapeau_lion.jpg
 
 === Epique
 
 ==== http://harrypotter.wikia.com/wiki/Alastor_Moody%27s_magical_eye[Oeil magique du professeur Maugrey]
 
-** Pendant votre tour, vous pouvez choisir un joueur, celui-ci devra vous réveler sa main, et uniquement à vous.
+* Pendant votre tour, vous pouvez choisir un joueur, celui-ci devra vous réveler sa main, et uniquement à vous.
 
 ==== Le Choixpeau magique (1 exemplaire)
 
-** (Réservé aux Protagonistes) Lorsque vous êtes attaqués avec 2 PDS ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor [(retourner la carte)] et ce même si un autre joueur la possédait déjà.
-** *Legilimency chapelière (3 charges d'utilisation) :* Le joueur ciblé doit dire son identité et sa quête à haute voix. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir.
+* (Réservé aux Protagonistes) Lorsque vous êtes attaqué à Blessures de la mort, vous pouvez obtenir l'arme Epée de Godric Griffondor, qu'importe la pile dans laquelle elle se trouve et même un autre joueur la possédait déjà.
+* *Legilimency chapelière (3 charges d'utilisation) :* Le joueur ciblé doit indiqué son identité et sa quête aux autres joueurs. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir [tirer les dés face cachés ?].
 
 === Légendaire
 
@@ -188,5 +204,5 @@
 
 = Idées
 
-* Un équipement valant moins de points, ou plus de points à la vente
+* Un équipement valant moins de points, ou plus de points à la vente.
 * Une arme qui ferait un d'attaque de plus pour chaque tentative consécutive réussie sur une cible
