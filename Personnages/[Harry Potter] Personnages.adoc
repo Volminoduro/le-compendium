@@ -181,14 +181,14 @@
   * *Citation :* _"C'est de la force des convictions que dépend la réussite, pas du nombre de partisan."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
   * Image :
 
-=== http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (0.05 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Luna_Lovegood[Luna Lovegood (0.65 - TODO)]
 
-  * [red]*4 Blessures ?*
-  * Un pouvoir pour voir les cartes dans les mains des autres personnes (activation, limite ?)
-  * <TODO>
-  * Accoutrement loufoque : si elle décide de se réveler lors de son premier tour, Luna a accès à tel ou tel item, la coiffe tête de lion et les lunettes, ou son cartable (comme ça Tête + Corps).
-  * *Magizoologiste :* les accessoires des autres personnages ayant la capacité _Compagnon_ ne vous font aucun effet.
+  * [red]*4 Blessures*
+  * *Accoutrement loufoque :* vous pouvez équiper jusqu'à deux objets de Têtes et de Corps.
+  * *Magizoologiste (Pas de raison que cela lui soit propre) :* les accessoires des autres personnages ayant la capacité _Compagnon_ ne vous font aucun effet.
+  * Si vous révelez votre identité dès le premier tour, équipez vous directement du _Chapeau lion de Luna Lovegood_, _Lorgnospectres_ qu'importe la pile dans laquelle ils se trouvent.
   * Il faudrait un pouvoir un peu tout au long de la partie.
+  * Patronus Corporel ? (Pas de raison que cela lui soit propre)
 
   * Citation :
   * Image :

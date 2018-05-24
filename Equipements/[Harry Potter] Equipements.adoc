@@ -51,8 +51,15 @@
 
 ==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (X Exemplaires)]
 
+* Réservé aux Antagonistes
 ** Ne peut être défaussé, ni vendu.
 ** Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
+
+==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (X Exemplaires)]
+
+* Réservé aux Protagonistes [et aux Neutres].
+** Ne peut être vendu.
+** Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 ==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (2 exemplaires)]
 
@@ -161,7 +168,7 @@
 
 === Commune
 
-==== http://harrypotter.wikia.com/wiki/Spectrespecs[Lorgnospectres (2 exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Spectrespecs[Lorgnospectres (2 exemplaires) (0.80 - TODO - Citation)]
 
 * *Détecteur de Joncheruine :* vous pouvez voir les joncheruines autour de la tête des personnages. Cela ne sert à rien [pouvoir contre la cape d'Invisibilité ?].
 
