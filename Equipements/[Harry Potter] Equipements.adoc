@@ -198,7 +198,14 @@
 
 === Légendaire
 
-=== Total : 2
+==== http://harrypotter.wikia.com/wiki/Rowena_Ravenclaw%27s_diadem[Diadème de Rowena Serdaigle (0.30 - TODO - Effets - Citation)]
+
+* [ça octroie de l'intelligence à son porteur].
+
+* Citation :
+* Image : {equipementsdir}/ravenclaw_diadem.jpg
+
+=== Total : 5
 
 = Ressources
 

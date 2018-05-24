@@ -37,7 +37,7 @@
 
 * Utilisable à tout moment
 * *Effet(s) :*
-** Vous pouvez échapper à la mort une fois.
+** Vous pouvez échapper à la mort une fois, pendant le tour.
 ** *Maudit (jusqu'à la fin de la partie) :* vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 ** Vous ne pourrez consommer un autre Sang de licorne tout au long de la partie.
 
@@ -71,14 +71,15 @@
 
 * Utilisable à tout moment.
 * *Effet(s) :*
-** Vous permets de fuir une attaque.
+** Vous permets de fuir une attaque, cela fonctionne contre les joueurs ou les Lieux.
 
 * Citation :
 * Image : {consommablesdir}/peruvian_powder_darkness.jpg
 
-=== http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (3 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (3 exemplaires) (0.90 - TODO - Citation)]
 
 * Utilisable uniquement durant le tour des autres joueurs.
+* [Avant ou après le déplacement des joueurs ?]
 * *Effet(s) :*
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
@@ -112,7 +113,7 @@
 
 * Utilisable durant votre tour
 * *Effet(s) :*
-** Vous pouvez attaquer deux fois par tour le personnage désigné.
+** Vous pouvez attaquer deux fois par tour le personnage désigné, pendant un tour.
 ** L'effet peut-être annulé à l'aide de l'Amortentia.
 
 * Citation :
@@ -123,7 +124,7 @@
 
 * Utilisable à tout moment
 * *Effet(s) :*
-* Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place. Cela ne peut achever un joueur.
+* Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place et en annulera les effets. Cela ne peut achever un joueur.
 
 * Citation :
 * Image : {consommablesdir}/nose_biting_teacup.jpg

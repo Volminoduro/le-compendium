@@ -81,10 +81,10 @@
 * Lancez les dés une rencontre aléatoire :
 ** *2 - Colonie d'Aragog :* si vous n'êtes pas Aragog vous-même, attaquer à plus de [3] 3 fois. Subissez une blessure ou un équipement, selon votre choix, par échec.
 ** *3 - Ford Anglia détraquée :* lancez les deux dés, si vous faites moins de 4, vous subissez une blessure. Si vous avez fait 7, la _Ford Anglia_ vous emmène à la case adjacente du Lieu de votre choix.
-** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un dé à 3 faces pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un équipement et une carte de votre main. Si vous êtes Firenze, soignez-vous d'une blessure, gagnez un consommable et un équipement.
+** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un dé à 3 faces pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un équipement et une carte de votre main. Si vous êtes Firenze, gagnez un consommable et un équipement.
 ** *5 - Gibier :* vous pouvez attaquer, si vous faites plus de 2, guérissez-vous d'une blessure.
 ** *6 - Sentier mal balisé :* relancez les dés pour une autre rencontre aléatoire.
-** *7 - Touffu [Un peu trop fort ?] :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous ne disposez pas d'équipement à perdre, cela se répercute sur vos cartes en main, sinon sur vos points de vie. Vous pouvez en décéder.
+** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous ne disposez pas d'équipement à perdre, cela se répercute sur vos cartes en main, sinon sur vos points de vie. Vous pouvez en décéder.
 * Si vous rencontrez des difficultés, vous pouvez demander de l'aide à un autre personnage à une case de distance de ce lieu. Il peut remplir les conditions de victoire à votre place. Il aura le droit de négocier son aide.
 
 * Citation :
@@ -93,8 +93,7 @@
 === http://harrypotter.wikia.com/wiki/Azkaban[Azkaban (0.95 - TODO - Citation)]
 
 * Vous désignez un autre personnage que vous à votre portée, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
-* Il doit faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement.
-* Lorsque le personnage n'a plus d'équipement ou de cartes en main, il est libéré de prison.
+* A son prochain tour, il devra faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement, et ainsi de suite jusqu'à qu'il n'ait plus d'équipements et de cartes en main. Ensuite, il commencera son tour normalement.
 
 * Citation :
 * Image : {lieuxdir}/azkaban.jpg
@@ -102,7 +101,7 @@
 === http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu (0.95 - TODO - Citation)]
 
 * Chaque personnage peut y participer à condition d'être à moins de 3 blessures du seuil de la mort.
-* La coupe sélectionne aléatoirement un personnage de chaque alignement disponible.
+* La coupe sélectionne aléatoirement un personnage de chaque alignement disponible, il faut 3 personnages participants minimum.
 * Celui qui finit avec le moins de Blessures subies au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
@@ -116,16 +115,16 @@
 * Citation :
 * Image : {lieuxdir}/council_magical.jpg
 
-=== http://harrypotter.wikia.com/wiki/Hogwarts_Express[Poudlard Express (Le prisonnier d'Azkaban) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean (0.95 - TODO - Citation)]
 
-** *Rencontre avec un détraqueur :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case de distance du Lieu doit affronter un détraqueur. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
+** *Rencontre avec les rafleurs :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case de distance du Lieu doit affronter un groupe de rafleurs. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
 
 * Citation :
-* Image : {lieuxdir}/dementors_hogwarts_express.jpg
+* Image : {lieuxdir}/forest_of_dean.jpg
 
 === http://harrypotter.wikia.com/wiki/Knockturn_Alley[L'allée des embrumes (0.95 - TODO - Citation)]
 
-* *Quartier mal famé* : [Pas de défense possible] vos objets équipés vous sont retirés et sont remis dans la pile du marchand d'or.
+* *Quartier mal famé* : Pas de défense possible, vos 3 objets équipés les plus qualitatifs (dans l'ordre décroissant) vous sont retirés et sont remis dans la pile du marchand d'or.
 
 * Citation :
 * Image : {lieuxdir}/knockturn_alley.jpg
@@ -149,6 +148,7 @@
 === http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier (0.90 - TODO - Cohérence du pouvoir avec le lieu ? - Citation)]
 
 * *Doux foyer :* vous ne pouvez attaquer personne et personne ne peut vous attaquer tant que vous vous trouvez dans ce lieu.
+* *Madame Weasley :* vous
 
 * Citation :
 * Image : {lieuxdir}/burrow.jpg
