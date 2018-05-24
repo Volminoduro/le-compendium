@@ -20,7 +20,8 @@
 
 == 2 cases "Lieux" :
 
-* Ces deux cases permettent de piocher une carte de la pile "Lieux".
+* Ces deux cases permettent de piocher la carte _Lieux_ adjacente à la case.
+** Lorsque cela est fait, vous devez remettre une carte de la pile de façon à ce qu'elle soit adjacente à la case.
 * Code couleur ? (TODO)
 
 == 2 cases "Marchand" :

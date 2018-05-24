@@ -14,7 +14,7 @@
 
 === http://harrypotter.wikia.com/wiki/Hog%27s_Head_Inn[Taverne de la Tête du Sanglier (0.95 - TODO - Citation)]
 
-* Chaque personnage déjà révélée, ou voulant s'y révélant, peut venir y boire une _Bièraubeurre_ (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger ou donner des cartes.
+* Chaque personnage déjà révélée, ou voulant s'y révélant, peut venir y boire une _Bièraubeurre_ (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger / donner des cartes.
 
 * Citation :
 * Image : {lieuxdir}/hogshead.jpg

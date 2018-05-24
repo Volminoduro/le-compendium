@@ -22,10 +22,9 @@
 
 == Choix des extensions
 
-* Vous devrez ensuite choisir une ou plusieurs extension(s). A savoir qu'une extension est conçue pour être utilisée par 6 joueurs au maximum.
 * Les extensions sont des packs de cartes ayant un thème commun et conçues selon un certain esprit de jeu.
 ** Par exemple, le thème des Contes est très facile d'accès et n'est pas très punitif envers les joueurs. A contrario, le thème Horreur est plutôt pensé pour des joueurs très expérimentés avec un réel désir de difficulté.
-
+* Vous devrez ensuite choisir une ou plusieurs extension(s). A savoir qu'une extension est conçue pour être utilisée par 6 joueurs au maximum.
 
 == Attribution des personnages
 
@@ -33,12 +32,10 @@
 * Nous vous conseillons de sélectionner des personnages qui sont sur un pied d'égalité de puissance, afin que l'équilibre des forces soit présent dans la partie.
 * Une fois que vous avez choisi les personnages joués pour la partie, vous les mélangez puis les distribuez aléatoirement à chaque joueur face cachée (à l'exception du Meneur de jeu).
 
-
 * Pour ajouter du piment dans votre partie, voici un mélange où l'aléatoire a pleinement son importance :
 ** Au lieu de prendre le nombre indiqué de personnages par alignement, vous en prenez davantage.
 ** Vous faites un tas des cartes sélectionnées par alignement. Puis, cartes faces cachées, vous retirez aléatoirement le nombre de cartes nécessaires jusqu'à obtenir le nombre de personnages désirés pour l'alignement en question.
 ** Ensuite, comme usuellement, vous mélangez les tas avec les cartes restants puis vous distribuez l'intégralité des personnages à chaque face cachée (à l'exception du Meneur de jeu).
-
 
 === Attribution alignement selon le nombre de joueurs
 

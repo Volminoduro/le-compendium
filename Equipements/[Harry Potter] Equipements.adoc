@@ -135,7 +135,7 @@
 
 * Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
 * A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
-* + 1 dégâts.
+* + 1 attaque.
 
 === Total : 2
 
@@ -147,7 +147,7 @@
 
 ==== Cape d'Invisibilité standard
 
-* Invisibilité dégradative (2 charges)
+* *Invisibilité dégradative (2 charges) :*
 ** Utilisable uniquement durant votre tour, dure 1 tour.
 ** On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
@@ -168,7 +168,7 @@
 
 === Commune
 
-==== http://harrypotter.wikia.com/wiki/Spectrespecs[Lorgnospectres (2 exemplaires) (0.80 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Spectrespecs[Lorgnospectres (2 exemplaires) (0.85 - TODO - Citation)]
 
 * *Détecteur de Joncheruine :* vous pouvez voir les joncheruines autour de la tête des personnages. Cela ne sert à rien [pouvoir contre la cape d'Invisibilité ?].
 
