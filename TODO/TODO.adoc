@@ -22,3 +22,5 @@
 === Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
 === Pourcentage de complétion d'une extension (calcul) - En cours, voir HP pour étalonnage
+
+=== Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
