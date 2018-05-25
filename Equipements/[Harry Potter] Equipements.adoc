@@ -200,7 +200,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Rowena_Ravenclaw%27s_diadem[Diadème de Rowena Serdaigle (0.30 - TODO - Effets - Citation)]
 
-* [ça octroie de l'intelligence à son porteur].
+* *Sagesse :* pendant votre tour, vous avez le droit de revenir sur une de vos actions (déplacement, attaque, utilisation d'une compétence, etc.) pour en annuler l'effet et les conséquences. [Vous pourrez recommencer cette action si vous le souhaitez.]
 
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
