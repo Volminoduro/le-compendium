@@ -78,8 +78,7 @@
 
 === http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (2 exemplaires) (0.90 - TODO - Citation)]
 
-* Utilisable uniquement durant le tour des autres joueurs.
-* [Avant ou après le déplacement des joueurs ?]
+* Utilisable uniquement durant le tour des autres joueurs, avant leur phase de déplacement
 * *Effet(s) :*
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 

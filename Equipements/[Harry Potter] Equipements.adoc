@@ -14,7 +14,7 @@
 
 === Commune
 
-==== Glace à l'ennemi (2 exemplaire) [A passer en consommable ?]
+==== http://harrypotter.wikia.com/wiki/Foe-Glass[Glace à l'ennemi (2 exemplaire) (0.70 - TODO - Effets - Citation)]
 
 ** *Détecteur de magie noire (1 charge) :* Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre ou non.
 ** [Formulation limpide et concise à trouver]
@@ -29,14 +29,14 @@
 **** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/Foe_glass.jpg
 
-==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire) (0.95 - TODO - Citation)]
 
 ** Vous pouvez vous déplacer d'une case, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/cleansweep_11.jpg
 
 === Rare
 
@@ -49,69 +49,69 @@
 * Citation :
 * Image : {equipementsdir}/jinx_off.jpg
 
-==== Miss Teigne (1 exemplaire)
+==== http://harrypotter.wikia.com/wiki/Mrs_Norris[Miss Teigne (1 exemplaire) (0.95 - TODO - Citation)]
 
 ** *Regard perçant :* Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
 ** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/miss_teigne.jpg
 
-==== http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé]
+==== http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé (1 exemplaire) (0.30 - TODO - Effets - Citation)]
 
 ** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
 *** sdds
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/advanced_potion_making.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires) (0.95 - TODO - Citation)]
 
 * Réservé aux Antagonistes
 ** Ne peut être défaussé, ni vendu.
 ** Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/dark_mark.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (3 Exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (3 exemplaires) (0.95 - TODO - Citation)]
 
 * Interdit aux Antagonistes.
 ** Ne peut être vendu.
 ** Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/dumbledore_army_coin.jpg
 
-==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire) (0.95 - TODO - Citation)]
 
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/nimbus_2001.jpg
 
-==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire) (0.95 - TODO - Citation)]
 
 ** *Envol :* vous rajoute 1 de portée.
 ** *Loyauté :* vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
 ** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/buckbeak.jpg
 
 === Epique
 
-==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire) (0.95 - TODO - Citation)]
 
 * *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
 * *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums, se limite à [X] effets par cible.
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/thestral.jpg
 
 
-==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (1 Exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (1 exemplaire) (0.95 - TODO - Citation)]
 
 * *Monture de mauvaise augure :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
 * *Squelette musclé :* vous permet d'avoir une carte de plus dans votre main.
@@ -119,36 +119,36 @@
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/thestral.jpg
 
-==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire) (0.95 - TODO - Citation)]
 
 * Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
 * Vos attaquants ont -1 de portée.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/firebolt.jpg
 
-==== Main de la gloire
+==== http://harrypotter.wikia.com/wiki/Hand_of_Glory[Main de la gloire (1 exemplaire) (0.65 - TODO - Effets - Citation)]
 
 * L'effet de la _Poudre d'Obscurité Instantanée du Pérou_ est annulé lorsque vous attaquez.
 * [effet supplémentaire ?]
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/hand_of_glory.jpg
 
 === Légendaire
 
-==== Pierre de Résurrection (1 exemplaire)
+==== http://harrypotter.wikia.com/wiki/Resurrection_Stone[Pierre de Résurrection (1 exemplaire) (0.30 - TODO - Effets - Citation)]
 
 * Vous pouvez communiquer librement avec les personnages décédés lors de la partie. [Meilleur effet à trouver]
 * Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/resurrection_stone.jpg
 
-=== Total : 21
+=== Total : 18
 
 == Armes
 
@@ -160,7 +160,7 @@
 
 === Légendaire
 
-==== Baguette de sureau
+==== http://harrypotter.wikia.com/wiki/Elder_Wand[Baguette de sureau (1 exemplaire) (0.70 - TODO - Effets - Citation)]
 
 * Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
 * Double tous vos bonus d'attaque, qu'ils soient actifs ou passifs.
@@ -168,16 +168,16 @@
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/elder_wand.jpg
 
-==== Epée de Godric Griffondor (1 exemplaire, 1 portée)
+==== http://harrypotter.wikia.com/wiki/Sword_of_Gryffindor[Epée de Godric Griffondor (1 exemplaire) (0.70 - TODO - Effets - Citation)]
 
 * + 1 attaque.
 * Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
 * A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
 
 * Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}/godrics_sword.jpg
 
 === Total : 2
 
@@ -196,7 +196,7 @@
 * Citation :
 * Image : {equipementsdir}/jinx_off.jpg
 
-==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard]
+==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard (1 exemplaire) (0.95 - TODO - Citation)]
 
 * *Invisibilité dégradative (2 charges) :*
 ** Utilisable uniquement durant votre tour, dure 1 tour.
@@ -209,7 +209,7 @@
 
 === Légendaire
 
-==== http://harrypotter.wikia.com/wiki/Cloak_of_Invisibility[Cape d'Invisibilité]
+==== http://harrypotter.wikia.com/wiki/Cloak_of_Invisibility[Cape d'Invisibilité (1 exemplaire) (0.80 - TODO - Effets - Citation)]
 
 * [On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.]
 * [Résister aux effets négatifs ?]
