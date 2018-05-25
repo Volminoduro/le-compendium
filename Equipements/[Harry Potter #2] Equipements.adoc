@@ -1,0 +1,102 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+:equipementsdir: /ressources/images/Harry_Potter/Equipements/
+
+= Equipements
+
+== Accessoires
+
+=== Commune
+
+=== Rare
+
+==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1 exemplaire)]
+
+** Vous permet de connaître l'identité des joueurs à votre portée d'attaque, pendant votre tour, avant et après votre déplacement.
+** Incohérent par rapport au pouvoir de la carte du maraudeur, bon effet quand même.
+
+* Citation :
+* Image : {equipementsdir}/ravenclaw_diadem.jpg
+
+=== Epique
+
+=== Légendaire
+
+==== Pierre philosophale
+
+* Génération d'un filtre qui "soignerait"
+* Obligation d'en boire à un intervalle régulier sinon la mort ou malus
+
+* Citation :
+* Image : {equipementsdir}/ravenclaw_diadem.jpg
+
+
+==== Retourneur de temps (1 exemplaire)
+
+* *Un petit tour :* Retour à l'état du début du tour.
+
+* Citation :
+* Image : {equipementsdir}/ravenclaw_diadem.jpg
+
+=== Total : 0
+
+== Armes
+
+=== Commune
+
+=== Rare
+
+=== Epique
+
+=== Légendaire
+
+=== Total : 0
+
+== Corps
+
+=== Commune
+
+=== Rare
+
+=== Epique
+
+=== Légendaire
+
+=== Total : 0
+
+== Tête
+
+=== Commune
+
+=== Rare
+
+=== Epique
+
+=== Légendaire
+
+=== Total : 0
+
+= Ressources
+
+* http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand
+* Faire le tour des animaux qui existent dans l'univers
+* http://harrypotter.wikia.com/wiki/Wand_core
+* http://harrypotter.wikia.com/wiki/Wand_wood
+* http://harrypotter.wikia.com/wiki/Wand
+* http://harrypotter.wikia.com/wiki/Wandlore
+* http://harrypotter.wikia.com/wiki/Category:Objects
+
+* http://harrypotter.wikia.com/wiki/Dragon-skin_coat
+
+* Set : http://harrypotter.wikia.com/wiki/Jinx-Off
+
+* Tête
+** http://harrypotter.wikia.com/wiki/Earmuffs
+
+= Idées

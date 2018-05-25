@@ -5,7 +5,7 @@
 :toc:
 :numbered:
 
-=== Avancer de cases serait avancer de "Pages" en pages dans le jeu.
+== Design
 
 === D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
@@ -17,10 +17,18 @@
 
 === Pion îcone pour reconnaître les personnages sur le plateau ? Préférable au code couleur, car cela sera très utilisé ailleurs.
 
-=== Attention aux placements cases Marchands, à côté des +1 ou -1 pour éviter l'abus /!\
-
 === Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
+== Plateau
+
+=== Attention aux placements cases Marchands, à côté des +1 ou -1 pour éviter l'abus /!\
+
+== Autres
+
+=== Avancer de cases serait avancer de "Pages" en pages dans le jeu.
+
 === Pourcentage de complétion d'une extension (calcul) - En cours, voir HP pour étalonnage
+
+=== Réflexion autour du nombre de cartes équipements avec le stock du marchand
 
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires

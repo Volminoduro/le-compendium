@@ -162,7 +162,7 @@
 
 === http://harrypotter.wikia.com/wiki/Veil[Le voile (0.95 - TODO - Citation)]
 
-* Actif pour tous les joueurs jusqu'à la fin de votre prochain tour de jeu.
+* Actif pour tous les joueurs jusqu'à la fin de votre prochain tour de jeu [, pendant plusieurs tours ?].
 * Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort.
 
 * Citation :
@@ -174,8 +174,6 @@
 
 * Citation :
 * Image : {lieuxdir}/king_cross_station.jpg
-
-
 
 = Ressources
 

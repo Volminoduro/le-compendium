@@ -23,7 +23,7 @@
 * Citation :
 * Image : {consommablesdir}/fire_whisky.jpg
 
-=== http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre (5 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre (4 exemplaires) (0.95 - TODO - Citation)]
 
 * Utilisable à tout moment.
 * *Effet(s) :*
@@ -33,7 +33,7 @@
 * Citation :
 * Image : {consommablesdir}/butterbeer.jpg
 
-=== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne (1 exemplaire) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne (2 exemplaire) (0.95 - TODO - Citation)]
 
 * Utilisable à tout moment
 * *Effet(s) :*
@@ -67,7 +67,7 @@
 
 == Protection
 
-=== http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Poudre d'Obscurité Instantanée du Pérou (3 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Poudre d'Obscurité Instantanée du Pérou (2 exemplaires) (0.95 - TODO - Citation)]
 
 * Utilisable à tout moment.
 * *Effet(s) :*
@@ -76,7 +76,7 @@
 * Citation :
 * Image : {consommablesdir}/peruvian_powder_darkness.jpg
 
-=== http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (3 exemplaires) (0.90 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (2 exemplaires) (0.90 - TODO - Citation)]
 
 * Utilisable uniquement durant le tour des autres joueurs.
 * [Avant ou après le déplacement des joueurs ?]
@@ -88,7 +88,7 @@
 
 == Autres
 
-=== http://harrypotter.wikia.com/wiki/Felix_Felicis[Potion de Felix Felicis (2 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Felix_Felicis[Potion de Felix Felicis (1 exemplaires) (0.95 - TODO - Citation)]
 
 * Utilisable à tout moment
 * *Effet(s) :*

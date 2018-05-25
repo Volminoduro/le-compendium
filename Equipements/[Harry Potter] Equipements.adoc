@@ -14,7 +14,7 @@
 
 === Commune
 
-==== Glace à l'ennemi (3 exemplaire) [A passer en consommable ?]
+==== Glace à l'ennemi (2 exemplaire) [A passer en consommable ?]
 
 ** *Détecteur de magie noire (1 charge) :* Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre ou non.
 ** [Formulation limpide et concise à trouver]
@@ -40,18 +40,19 @@
 
 === Rare
 
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Gants de démalédiction (1 exemplaire) (0.95 - TODO - Citation)]
+
+* Vous octroie 1 de défense.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_, chaque objet vous octroie de 2 défense au lieu de 1. Les effets *Ensemble complet de démalédiction* ne peuvent se cumuler.
+* *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+
+* Citation :
+* Image : {equipementsdir}/jinx_off.jpg
+
 ==== Miss Teigne (1 exemplaire)
 
 ** *Regard perçant :* Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
 ** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
-
-* Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
-
-==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1 exemplaire)]
-
-** Vous permet de connaître l'identité des joueurs à votre portée d'attaque, pendant votre tour, avant et après votre déplacement.
-** Incohérent par rapport au pouvoir de la carte du maraudeur, bon effet quand même.
 
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
@@ -64,7 +65,7 @@
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (X Exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires)]
 
 * Réservé aux Antagonistes
 ** Ne peut être défaussé, ni vendu.
@@ -73,16 +74,16 @@
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (X Exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (3 Exemplaires)]
 
-* Réservé aux Protagonistes [et aux Neutres].
+* Interdit aux Antagonistes.
 ** Ne peut être vendu.
 ** Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
-==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (2 exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire)]
 
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
@@ -110,10 +111,10 @@
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
 
-==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (2 Exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (1 Exemplaire)]
 
 * *Monture de mauvaise augure :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
-* *Allo ? :* peut porter des charges très lourdes : vous permet d'avoir une carte de plus dans votre main.
+* *Squelette musclé :* vous permet d'avoir une carte de plus dans votre main.
 * *Odeur du sang :* lors de votre phase de déplacement, vous pouvez vous approcher d'une case supplémentaire vers un personnage blessé s'il est à votre portée.
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
@@ -123,26 +124,20 @@
 ==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
 
 * Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
+* Vos attaquants ont -1 de portée.
 
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
 ==== Main de la gloire
 
-* L'effet de la Peruvian_Instant_Darkness_Powder est annulé sur les cibles que vous attaquez.
+* L'effet de la _Poudre d'Obscurité Instantanée du Pérou_ est annulé lorsque vous attaquez.
+* [effet supplémentaire ?]
 
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
 === Légendaire
-
-==== Pierre philosophale
-
-* Génération d'un filtre qui "soignerait"
-* Obligation d'en boire à un intervalle régulier sinon la mort ou malus
-
-* Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
 
 ==== Pierre de Résurrection (1 exemplaire)
 
@@ -153,14 +148,7 @@
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
-==== Retourneur de temps (1 exemplaire)
-
-* *Un petit tour :* Retour à l'état du début du tour.
-
-* Citation :
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
-
-=== Total : 20
+=== Total : 21
 
 == Armes
 
@@ -199,6 +187,15 @@
 
 === Rare
 
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Cape de démalédiction (1 exemplaire) (0.95 - TODO - Citation)]
+
+* Vous octroie 1 de défense.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_, chaque objet vous octroie de 2 défense au lieu de 1. Les effets *Ensemble complet de démalédiction* ne peuvent se cumuler.
+* *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+
+* Citation :
+* Image : {equipementsdir}/jinx_off.jpg
+
 ==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard]
 
 * *Invisibilité dégradative (2 charges) :*
@@ -222,7 +219,7 @@
 * Citation :
 * Image : {equipementsdir}/invisbility_cloak.jpg
 
-=== Total : 2
+=== Total : 3
 
 == Tête
 
@@ -237,20 +234,35 @@
 
 ==== http://harrypotter.wikia.com/wiki/Narcissa_Malfoy%27s_spider_earrings[Narcissa_Malfoy%27s_spider_earrings (1 exemplaire)]
 
-* *Bijou de sang-pur :* cet équipement peut être vendu pour 3 points d'équipements.
+* *Bijou de sang-pur :* cet équipement peut être vendu comme équipement de qualité Epique.
 
 * Citation :
 * Image : {equipementsdir}/spider_earrings.jpg
+
+==== http://harrypotter.wikia.com/wiki/Quidditch_helmet[Casque de Quidditch (1 exemplaire)]
+
+* Vous octroie 1 de défense, 1 de défense de plus si vous êtes attaqué au corps-à-corps.
+
+* Image : {equipementsdir}/quidditch_helmet.jpg
 
 === Rare
 
 ==== http://harrypotter.wikia.com/wiki/Luna_Lovegood%27s_lion_hat[Chapeau lion de Luna Lovegood (1 exemplaire) (0.95 - TODO - Citation)]
 
 * Vous octroie 1 de défense.
-* *Rugissement effrayant (2 charges d'utilisation)* : les personnages autour de votre case reculent d'une case sans l'activer.
+* *Rugissement effrayant (2 charges d'utilisation) :* les personnages autour de votre case reculent d'une case sans l'activer.
 
 * Citation :
 * Image : {equipementsdir}/chapeau_lion.jpg
+
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Coiffe de démalédiction (1 exemplaire) (0.95 - TODO - Citation)]
+
+* Vous octroie 1 de défense.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_, chaque objet vous octroie de 2 défense au lieu de 1. Les effets *Ensemble complet de démalédiction* ne peuvent se cumuler.
+* *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+
+* Citation :
+* Image : {equipementsdir}/jinx_off.jpg
 
 === Epique
 
@@ -261,7 +273,7 @@
 * Citation :
 * Image : {equipementsdir}/magical_eye_moody.jpg
 
-==== http://harrypotter.wikia.com/wiki/Sorting_Hat[Le Choixpeau magique (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Sorting_Hat[Le Choixpeau magique (1 exemplaire) (0.95 - TODO - Citation)]
 
 * (Réservé aux Protagonistes) Lorsque vous êtes attaqué à 2 Blessures de la mort ou moins, vous pouvez obtenir l'arme Epée de Godric Griffondor, qu'importe la pile dans laquelle elle se trouve et même un autre joueur la possédait déjà.
 * *Legilimency chapelière (2 charges d'utilisation) :* Le joueur ciblé doit indiqué son identité et sa quête aux autres joueurs. Il peut lancez les deux dés, s'il fait [5 ou plus], il a le droit de mentir.
@@ -278,7 +290,7 @@
 * Citation :
 * Image : {equipementsdir}/ravenclaw_diadem.jpg
 
-=== Total : 7
+=== Total : 8
 
 = Ressources
 
@@ -289,5 +301,12 @@
 * http://harrypotter.wikia.com/wiki/Wand
 * http://harrypotter.wikia.com/wiki/Wandlore
 * http://harrypotter.wikia.com/wiki/Category:Objects
+
+* http://harrypotter.wikia.com/wiki/Dragon-skin_coat
+
+* Set : http://harrypotter.wikia.com/wiki/Jinx-Off
+
+* Tête
+** http://harrypotter.wikia.com/wiki/Earmuffs
 
 = Idées
