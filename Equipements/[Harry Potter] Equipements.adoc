@@ -141,8 +141,8 @@
 
 ==== http://harrypotter.wikia.com/wiki/Resurrection_Stone[Pierre de Résurrection (1 exemplaire) (0.30 - TODO - Effets - Citation)]
 
-* Vous pouvez communiquer librement avec les personnages décédés lors de la partie. [Meilleur effet à trouver]
-* Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
+* Vous pouvez demander au dernier joueur décédé de regarder toutes les mains des autres joueurs afin de vous en informer. Il n'est pas obligé de dire la vérité.
+* Peut être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation :
