@@ -154,6 +154,17 @@
 
 === Commune
 
+==== http://harrypotter.wikia.com/wiki/Rubeus_Hagrid%27s_crossbow[Arbalète de Rubeus Hagrid]
+
+* +1 d'attaque.
+* +2 de portée.
+* [Un tour de cd dû au rechargement ?]
+
+==== http://harrypotter.wikia.com/wiki/Replica_of_the_Sword_of_Gryffindor[dssd]
+
+* ?
+* [Peu d'armes existent pr le moment, vraiment pertinent d'en mettre une "inutile" ?]
+
 === Rare
 
 === Epique
@@ -162,8 +173,9 @@
 
 ==== http://harrypotter.wikia.com/wiki/Elder_Wand[Baguette de sureau (1 exemplaire) (0.70 - TODO - Effets - Citation)]
 
+* Double tous vos bonus d'attaque , qu'ils soient actifs ou passifs.
+* *Maîtrise :* [condition], double tous vos bonus de défense.
 * Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
-* Double tous vos bonus d'attaque, qu'ils soient actifs ou passifs.
 * Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
@@ -299,7 +311,6 @@
 = Ressources
 
 * http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand
-* Faire le tour des animaux qui existent dans l'univers
 * http://harrypotter.wikia.com/wiki/Wand_core
 * http://harrypotter.wikia.com/wiki/Wand_wood
 * http://harrypotter.wikia.com/wiki/Wand
@@ -307,6 +318,71 @@
 * http://harrypotter.wikia.com/wiki/Category:Weapons
 * http://harrypotter.wikia.com/wiki/Category:Objects
 
+* Faire le tour des animaux qui existent dans l'univers
+
 * http://harrypotter.wikia.com/wiki/Dragon-skin_coat
 
 = Idées
+
+== Conception de baguettes
+
+=== Coeur
+
+=== Bois
+
+==== http://harrypotter.wikia.com/wiki/Acacia[Acacia]
+
+* Un jet pour savoir si cela fonctionne, plus l'on le réussit, plus on maîtrise cet aspect jusqu'à ce que ça n'existe plus.
+* Pvr assez puissant
+* La maîtrise annulerait de l'alaétoire ? Quelle condition de maîtrise ?
+
+==== http://harrypotter.wikia.com/wiki/Alder[Alder] ou http://harrypotter.wikia.com/wiki/Willow
+
+* Baguette de heal ?
+
+==== http://harrypotter.wikia.com/wiki/Beech[Beech]
+
+* Choix aléatoire de la cible, plein effet si le choix a été aléatoire.
+
+==== http://harrypotter.wikia.com/wiki/Blackthorn[Blackthorn]
+
+* Renforcer le côté belliqueux d'un personnage.
+* maîtrise suite à bcp de combats / blessures engagés ?
+
+==== http://harrypotter.wikia.com/wiki/Cherry_(tree)
+
+* A voir ?
+
+==== http://harrypotter.wikia.com/wiki/Chestnut_(tree)[Chestnut]
+
+* Baguette contre les compagnons ?
+
+==== http://harrypotter.wikia.com/wiki/Laurel[Laurel]
+
+* Bonus absent si pour achever un personnage ?
+
+==== http://harrypotter.wikia.com/wiki/Mahogany[Mahogany] ou http://harrypotter.wikia.com/wiki/Rowan[Rowar]
+
+* Fort bonus de déf
+
+==== http://harrypotter.wikia.com/wiki/Maple[Erable]
+
+* Bonus à voir avec les lieux
+
+==== http://harrypotter.wikia.com/wiki/Silver_lime[Silver lime]
+
+* Fort en legilymency, donc peut-être voir la main de l'adversaire qu'on blesse ?
+
+==== http://harrypotter.wikia.com/wiki/Swamp_mayhaw
+
+* Bois classique. Rien de particulier, stat de base.
+
+==== http://harrypotter.wikia.com/wiki/Walnut_(tree)[Walnut]
+
+* Bonus de versatilité, en changeant d'adversaire.
+
+==== http://harrypotter.wikia.com/wiki/Yew[Yew]
+
+* Bonus de létalité
+
+=== Taille, pertinent ?
