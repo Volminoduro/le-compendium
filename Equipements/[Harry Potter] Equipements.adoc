@@ -185,6 +185,10 @@
 
 === Commune
 
+===== http://harrypotter.wikia.com/wiki/Shield_Cloak[Manteau bouclier]
+
+* Encaisser une seule attaque ?
+
 === Rare
 
 ==== http://harrypotter.wikia.com/wiki/Jinx-Off[Cape de démalédiction (1 exemplaire) (0.95 - TODO - Citation)]
@@ -300,13 +304,9 @@
 * http://harrypotter.wikia.com/wiki/Wand_wood
 * http://harrypotter.wikia.com/wiki/Wand
 * http://harrypotter.wikia.com/wiki/Wandlore
+* http://harrypotter.wikia.com/wiki/Category:Weapons
 * http://harrypotter.wikia.com/wiki/Category:Objects
 
 * http://harrypotter.wikia.com/wiki/Dragon-skin_coat
-
-* Set : http://harrypotter.wikia.com/wiki/Jinx-Off
-
-* Tête
-** http://harrypotter.wikia.com/wiki/Earmuffs
 
 = Idées
