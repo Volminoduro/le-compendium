@@ -328,6 +328,39 @@
 
 === Coeur
 
+===== http://harrypotter.wikia.com/wiki/Dragon_heartstring[Dragon heartstring]
+
+* Classique et très puissant, apprends vite et tend à appartenir au plus puissant.
+* More powerfull with Cherry and Chestnut.
+
+==== http://harrypotter.wikia.com/wiki/Phoenix_feather[Plume de phénix]
+
+* Très puissant, mais sélective de son porteur. Apprécie les prises d'initiatives.
+
+==== http://harrypotter.wikia.com/wiki/Unicorn_hair[Unicorn hair]
+
+* Très fiable, ne peut faire des Dark Arts, loyale. Mélancolique.
+
+==== http://harrypotter.wikia.com/wiki/Kneazle[Kneazle]
+
+* pas très puissant
+
+==== http://harrypotter.wikia.com/wiki/Dittany[Dittany]
+
+* Pour se soigner
+
+==== http://harrypotter.wikia.com/wiki/Thunderbird_tail_feather[Thunderbird_tail_feather]
+
+* Peut sentir le danger autour de soi et répondre de soi-même. Difficile à maitriser.
+
+==== http://harrypotter.wikia.com/wiki/Rougarou_hair[Poil de Rougarou]
+
+* Affinité envers les Dark Arts.
+
+==== http://harrypotter.wikia.com/wiki/Horned_Serpent_horn[Corne de Serpent cornu]
+
+* Très puissante, apprécie le Fourchelangue, capable d'émettre en son en présence d'ennemi autour de soi.
+
 === Bois
 
 ==== http://harrypotter.wikia.com/wiki/Acacia[Acacia]
