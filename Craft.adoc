@@ -1,0 +1,40 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+= Fabrication du matériel de jeu
+
+== Plateau de jeu
+
+* Comment ?
+
+== Dés
+
+* Je possède déjà un d4 et d3. Réfléchir à un design pour un proto plus avancé.
+* Il faudrait une petite boite, style alumettes pour les stocker.
+
+== Pions
+
+* Comment les stocker ?
+
+== Cartes à jouer
+
+=== Cartes petit format (quête + retournement)
+
+* Quel est le format ?
+
+=== Cartes moyen format (Personnages, Equipements, Consommables, Lieux)
+
+* Quel est le format ?
+
+== Deck-box pour contenir les cartes
+
+* Design ? Matière ? Motif ?
+
+== Feuillet de règles ?
+
+* Quelle taille ?
