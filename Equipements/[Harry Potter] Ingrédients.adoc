@@ -1,0 +1,63 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+= Ingrédients utilisés
+
+== Wand core
+
+===== http://harrypotter.wikia.com/wiki/Dragon_heartstring[Dragon heartstring]
+
+* Classique et très puissant, apprends vite et tend à appartenir au plus puissant.
+* More powerfull with Cherry and Chestnut.
+
+==== http://harrypotter.wikia.com/wiki/Phoenix_feather[Plume de phénix]
+
+* Très puissant, mais sélective de son porteur. Apprécie les prises d'initiatives.
+
+==== http://harrypotter.wikia.com/wiki/Unicorn_hair[Unicorn hair]
+
+* Très fiable, ne peut faire des Dark Arts, loyale. Mélancolique.
+
+==== http://harrypotter.wikia.com/wiki/Thunderbird_tail_feather[Thunderbird_tail_feather]
+
+* Peut sentir le danger autour de soi et répondre de soi-même. Difficile à maitriser.
+
+==== http://harrypotter.wikia.com/wiki/Rougarou_hair[Poil de Rougarou]
+
+* Affinité envers les Dark Arts.
+
+==== http://harrypotter.wikia.com/wiki/Horned_Serpent_horn[Corne de Serpent cornu]
+
+* Très puissante, apprécie le Fourchelangue, capable d'émettre en son en présence d'ennemi autour de soi.
+
+== Wand wood
+
+==== http://harrypotter.wikia.com/wiki/Yew[Yew]
+
+* Bonus de létalité
+
+==== http://harrypotter.wikia.com/wiki/Maple[Erable]
+
+* Bonus à voir avec les lieux
+
+==== http://harrypotter.wikia.com/wiki/Silver_lime[Silver lime]
+
+* Fort en legilymency, donc peut-être voir la main de l'adversaire qu'on blesse ?
+
+==== http://harrypotter.wikia.com/wiki/Chestnut_(tree)[Chestnut]
+
+* Baguette contre les compagnons ?
+
+==== http://harrypotter.wikia.com/wiki/Beech[Beech]
+
+* Choix aléatoire de la cible, plein effet si le choix a été aléatoire.
+
+==== http://harrypotter.wikia.com/wiki/Blackthorn[Blackthorn]
+
+* Renforcer le côté belliqueux d'un personnage.
+* maîtrise suite à bcp de combats / blessures engagés ?

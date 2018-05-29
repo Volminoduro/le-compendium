@@ -154,27 +154,43 @@
 
 === Commune
 
-==== http://harrypotter.wikia.com/wiki/Rubeus_Hagrid%27s_crossbow[Arbalète de Rubeus Hagrid]
+==== http://harrypotter.wikia.com/wiki/Rubeus_Hagrid%27s_crossbow[Arbalète de Rubeus Hagrid (0.80 - TODO - Image - Citation)]
 
 * +1 d'attaque.
 * +2 de portée.
-* [Un tour de cd dû au rechargement ?]
+* *Rechargement :* si vous avez attaquer à distance, nous ne pourrez bénéficier des bonus de cette arme lors de votre attaque le tour prochain.
 
-==== http://harrypotter.wikia.com/wiki/Replica_of_the_Sword_of_Gryffindor[dssd]
-
-* ?
-* [Peu d'armes existent pr le moment, vraiment pertinent d'en mettre une "inutile" ?]
+* Citation :
+* Image : {equipementsdir}/elder_wand.jpg
 
 === Rare
 
+==== Bois de Beech, coeur de Plume de phénix, Taille (0.70 - TODO - Effets - Citation)
+
+* +1 de portée et +2 ATK.
+* *Belliqueuse :* +1 d'ATK si vous avez une cible pour la première fois (lieux comme personnages).
+* *Maîtrise :* après avoir blessé au moins la moitié des autres joueurs toujours en vie, votre bonus de _Belliqueuse_ passe à 2 d'ATK au lieu de 1. Vous disposez désormais d'un bonus de DEF de 2 si un joueur que vous avez blessé vous attaque.
+* Le bonus de maîtrise n'existe tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
+
 === Epique
+
+==== [Bois de Blackthorne, coeur de Rougarou, Taille (0.80 - TODO - Nom - Effets - Image)]
+
+* +1 de portée et +2 ATK.
+* *Belliqueuse :* +1 d'ATK si vous avez une cible pour la première fois (lieux comme personnages).
+* *Maîtrise :* après avoir blessé au moins la moitié des autres joueurs toujours en vie, votre bonus de _Belliqueuse_ passe à 2 d'ATK au lieu de 1. [Vous disposez désormais d'un bonus de DEF de 2 si un joueur que vous avez blessé vous attaque.]
+* Le bonus de maîtrise n'existe tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
+
+* Image : {equipementsdir}/elder_wand.jpg
 
 === Légendaire
 
 ==== http://harrypotter.wikia.com/wiki/Elder_Wand[Baguette de sureau (1 exemplaire) (0.70 - TODO - Effets - Citation)]
 
+* +1 de portée, +1 ATK et +1 DEF.
 * Double tous vos bonus d'attaque , qu'ils soient actifs ou passifs.
 * *Maîtrise :* [condition], double tous vos bonus de défense.
+* Le bonus de maîtrise n'existe tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 * Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
 * Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
@@ -323,99 +339,3 @@
 * http://harrypotter.wikia.com/wiki/Dragon-skin_coat
 
 = Idées
-
-== Conception de baguettes
-
-=== Coeur
-
-===== http://harrypotter.wikia.com/wiki/Dragon_heartstring[Dragon heartstring]
-
-* Classique et très puissant, apprends vite et tend à appartenir au plus puissant.
-* More powerfull with Cherry and Chestnut.
-
-==== http://harrypotter.wikia.com/wiki/Phoenix_feather[Plume de phénix]
-
-* Très puissant, mais sélective de son porteur. Apprécie les prises d'initiatives.
-
-==== http://harrypotter.wikia.com/wiki/Unicorn_hair[Unicorn hair]
-
-* Très fiable, ne peut faire des Dark Arts, loyale. Mélancolique.
-
-==== http://harrypotter.wikia.com/wiki/Kneazle[Kneazle]
-
-* pas très puissant
-
-==== http://harrypotter.wikia.com/wiki/Dittany[Dittany]
-
-* Pour se soigner
-
-==== http://harrypotter.wikia.com/wiki/Thunderbird_tail_feather[Thunderbird_tail_feather]
-
-* Peut sentir le danger autour de soi et répondre de soi-même. Difficile à maitriser.
-
-==== http://harrypotter.wikia.com/wiki/Rougarou_hair[Poil de Rougarou]
-
-* Affinité envers les Dark Arts.
-
-==== http://harrypotter.wikia.com/wiki/Horned_Serpent_horn[Corne de Serpent cornu]
-
-* Très puissante, apprécie le Fourchelangue, capable d'émettre en son en présence d'ennemi autour de soi.
-
-=== Bois
-
-==== http://harrypotter.wikia.com/wiki/Acacia[Acacia]
-
-* Un jet pour savoir si cela fonctionne, plus l'on le réussit, plus on maîtrise cet aspect jusqu'à ce que ça n'existe plus.
-* Pvr assez puissant
-* La maîtrise annulerait de l'alaétoire ? Quelle condition de maîtrise ?
-
-==== http://harrypotter.wikia.com/wiki/Alder[Alder] ou http://harrypotter.wikia.com/wiki/Willow
-
-* Baguette de heal ?
-
-==== http://harrypotter.wikia.com/wiki/Beech[Beech]
-
-* Choix aléatoire de la cible, plein effet si le choix a été aléatoire.
-
-==== http://harrypotter.wikia.com/wiki/Blackthorn[Blackthorn]
-
-* Renforcer le côté belliqueux d'un personnage.
-* maîtrise suite à bcp de combats / blessures engagés ?
-
-==== http://harrypotter.wikia.com/wiki/Cherry_(tree)
-
-* A voir ?
-
-==== http://harrypotter.wikia.com/wiki/Chestnut_(tree)[Chestnut]
-
-* Baguette contre les compagnons ?
-
-==== http://harrypotter.wikia.com/wiki/Laurel[Laurel]
-
-* Bonus absent si pour achever un personnage ?
-
-==== http://harrypotter.wikia.com/wiki/Mahogany[Mahogany] ou http://harrypotter.wikia.com/wiki/Rowan[Rowar]
-
-* Fort bonus de déf
-
-==== http://harrypotter.wikia.com/wiki/Maple[Erable]
-
-* Bonus à voir avec les lieux
-
-==== http://harrypotter.wikia.com/wiki/Silver_lime[Silver lime]
-
-* Fort en legilymency, donc peut-être voir la main de l'adversaire qu'on blesse ?
-
-==== http://harrypotter.wikia.com/wiki/Swamp_mayhaw
-
-* Bois classique. Rien de particulier, stat de base.
-
-==== http://harrypotter.wikia.com/wiki/Walnut_(tree)[Walnut]
-
-* Bonus de versatilité, en changeant d'adversaire.
-
-==== http://harrypotter.wikia.com/wiki/Yew[Yew]
-
-* Bonus de létalité
-
-=== Taille, pertinent ?

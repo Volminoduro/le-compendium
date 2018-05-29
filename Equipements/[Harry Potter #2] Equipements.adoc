@@ -100,3 +100,49 @@
 ** http://harrypotter.wikia.com/wiki/Earmuffs
 
 = Idées
+
+== Conception de baguettes
+
+=== Coeur
+
+==== http://harrypotter.wikia.com/wiki/Kneazle[Kneazle]
+
+* pas très puissant
+
+==== http://harrypotter.wikia.com/wiki/Dittany[Dittany]
+
+* Pour se soigner
+
+=== Bois
+
+==== http://harrypotter.wikia.com/wiki/Acacia[Acacia]
+
+* Un jet pour savoir si cela fonctionne, plus l'on le réussit, plus on maîtrise cet aspect jusqu'à ce que ça n'existe plus.
+* Pvr assez puissant
+* La maîtrise annulerait de l'alaétoire ? Quelle condition de maîtrise ?
+
+==== http://harrypotter.wikia.com/wiki/Alder[Alder] ou http://harrypotter.wikia.com/wiki/Willow
+
+* Baguette de heal ?
+
+==== http://harrypotter.wikia.com/wiki/Cherry_(tree)
+
+* A voir ?
+
+==== http://harrypotter.wikia.com/wiki/Laurel[Laurel]
+
+* Bonus absent si pour achever un personnage ?
+
+==== http://harrypotter.wikia.com/wiki/Mahogany[Mahogany] ou http://harrypotter.wikia.com/wiki/Rowan[Rowar]
+
+* Fort bonus de déf
+
+==== http://harrypotter.wikia.com/wiki/Swamp_mayhaw
+
+* Bois classique. Rien de particulier, stat de base.
+
+==== http://harrypotter.wikia.com/wiki/Walnut_(tree)[Walnut]
+
+* Bonus de versatilité, en changeant d'adversaire.
+
+=== Taille, pertinent ?

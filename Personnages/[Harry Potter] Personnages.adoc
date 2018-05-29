@@ -54,7 +54,7 @@
   * [red]*6 Blessures.*
   * *Lycanthropie :* Tous les [3] tours, après votre déplacement, vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
     ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
-    ** Lorsque vous êtes attaqué, vous réduisez les dégâts de deux.
+    ** +3 ATK, +2 DEF. Votre arme ne peut pas être utilisé et n'a aucun effet.
     ** Si vous êtes attaqué, si le résultat n'est pas strictement à l'avantage de l'attaquant, vous lui infliger une blessure en représailles (cela peut achever un personnage).
     ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
   * *Préparation sélène :* Lors de votre déplacement précédant votre _Lycanthropie_, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous avancez de deux cases supplémentaires vers un autre personnage de votre choix.
@@ -169,7 +169,7 @@
   * [red]*5 Blessures.*
   * *Lycanthropie :* Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
     ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
-    ** Vous réduisez les dégâts de deux.
+    ** +3 ATK, +2 DEF. Votre arme ne peut pas être utilisé et n'a aucun effet.
     ** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
     ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
   * *Duelliste talentueux...*

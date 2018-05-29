@@ -140,7 +140,7 @@
 
 === http://harrypotter.wikia.com/wiki/Gringotts_Wizarding_Bank[Banque de Gringotts (0.95 - TODO - Citation)]
 
-* Vous permet de stocker / reprendre jusqu'à deux cartes de votre main.
+* Vous permet de stocker / reprendre jusqu'à deux cartes de votre main face cachées.
 
 * Citation :
 * Image : {lieuxdir}/gringotts.jpg
