@@ -172,7 +172,7 @@
 
 * Si vous le voulez, à votre prochain tour, votre déplacement vous mènera directement à la case opposée à la votre sur le plateau.
 
-* Citation :
+* Citation : _"La gare est pleine de Moldus, il fallait s'y attendre."_, (TODO).
 * Image : {lieuxdir}/king_cross_station.jpg
 
 = Ressources
