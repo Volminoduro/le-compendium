@@ -14,11 +14,11 @@
 |Type de cartes |Nombre souhaité minimum |Harry Potter (score de complétion)
 |Personnages |18 |17 (8.1)
 |Consommables |24 |24 (22.8 - Citation)
-|Lieux |10 |19 (17.9 - Citation)
+|Lieux |18 |18 (17.9 - Citation)
 |Equipement : Tête |9 |9 (8.65 - Citation)
 |Equipement : Corps |9 |3 (still TODO)
 |Equipement : Accessoires |18 |21 (still TODO)
-|Equipement : Arme |9 |2 (still TODO)
+|Equipement : Arme |9 |9 (still TODO)
 |=======
 
 = Formules de calcul
@@ -40,7 +40,7 @@
 == Lieux
 
 * Certains peuvent rester actifs pendant un ou plusieurs tours.
-* 10 est un critère arbitraire et cela serait bien d'avoir une meilleure justification.
+* 18 lieux, car il y a deux cases Lieux. Et il y a 6 joueurs, en exagérant on peut imaginer que les joueurs font tous les lieux en 2 tours. Il faut donc un peu de rotation possible, mais pas trop pour éviter de composer avec tellement de Lieux que leur apparition paraît unique. [Chiffre à revoir après beta-test.]
 
 == Equipement : Tête, Corps, Accessoires et Armes.
 

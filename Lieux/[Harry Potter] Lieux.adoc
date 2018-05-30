@@ -17,7 +17,7 @@
 * Chaque personnage déjà révélée, ou voulant s'y révélant, peut venir y boire une _Bièraubeurre_ (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger / donner des cartes.
 
 * Citation :
-* Image : {lieuxdir}/hogshead.jpg
+* Image : {lieuxdir}hogshead.jpg
 
 === http://harrypotter.wikia.com/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries[Hôpital Ste-Mangouste (0.95 - TODO - Citation)]
 
@@ -26,7 +26,7 @@
 * Vous pouvez être soigné de 2 blessures.
 
 * Citation :
-* Image : {lieuxdir}/st_mungo.jpg
+* Image : {lieuxdir}st_mungo.jpg
 
 == Récupération de cartes
 
@@ -35,14 +35,7 @@
 * Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" dans la pile, mélangez la pile après ça.
 
 * Citation :
-* Image :
-
-=== http://harrypotter.wikia.com/wiki/Twilfitt_and_Tattings[Tissard et Brodette (0.95 - TODO - Citation)]
-
-* Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" de qualité "Rare" dans la pile, mélangez la pile après ça.
-
-* Citation :
-* Image : {lieuxdir}/twilfitt_and_tattings.jpg
+* Image : {lieuxdir}madam_malkin.jpg
 
 === http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges (0.95 - TODO - Citation)]
 
@@ -55,7 +48,7 @@
 ** 7 : vous goûtez deux nouvelles dragées, quelle gourmandise !
 
 * Citation :
-* Image : {lieuxdir}/weasleys_wizard_wheezes.jpg
+* Image : {lieuxdir}weasleys_wizard_wheezes.jpg
 
 == Equipements
 
@@ -65,14 +58,16 @@
 * Pour deux points d'équipement, vous pouvez acheter la _Main de la gloire_ directement depuis la pile d'Equipement. Mélangez la pile ensuite.
 
 * Citation :
-* Image : {lieuxdir}/borgin_and_burkes.jpg
+* Image : {lieuxdir}borgin_and_burkes.jpg
 
-=== http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe]
 
-* Vous permet de regagner jusqu'à 2 charges sur l'équipement de votre choix.
+* Vous permet de regagner jusqu'à 1 charge sur l'équipement de votre choix.
+* Vous pouvez regagner 1 charge supplémentaire pour 1 points d'équipement, utilisable plusieurs fois sur plusieurs équipements.
+* Vous ne pouvez tenter cette action que si vous êtes le premier à le faire : si la _Baguette de Sureau_ n'est pas en possession d'un joueur, vous pouvez tenter d'attaquer Gregorovitch. Si le résultat est supérieur à 5, emparez-vous de l'arme. Les effets de ce Lieu sera annulé pour vous jusqu'à la fin de la partie.
 
 * Citation :
-* Image : {lieuxdir}/gregorovitch_workshop.jpg
+* Image : {lieuxdir}gregorovitch_workshop.jpg
 
 == Evènements
 
@@ -88,7 +83,7 @@
 * Si vous rencontrez des difficultés, vous pouvez demander de l'aide à un autre personnage à une case de distance de ce lieu. Il peut remplir les conditions de victoire à votre place. Il aura le droit de négocier son aide.
 
 * Citation :
-* Image : {lieuxdir}/forbidden_forest.jpg
+* Image : {lieuxdir}forbidden_forest.jpg
 
 === http://harrypotter.wikia.com/wiki/Azkaban[Azkaban (0.95 - TODO - Citation)]
 
@@ -96,7 +91,7 @@
 * A son prochain tour, il devra faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement, et ainsi de suite jusqu'à qu'il n'ait plus d'équipements et de cartes en main. Ensuite, il commencera son tour normalement.
 
 * Citation :
-* Image : {lieuxdir}/azkaban.jpg
+* Image : {lieuxdir}azkaban.jpg
 
 === http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu (0.95 - TODO - Citation)]
 
@@ -106,44 +101,43 @@
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
 * Citation :
-* Image : {lieuxdir}/goblet_of_fire.jpg
+* Image : {lieuxdir}goblet_of_fire.jpg
 
 === http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique (0.85 - TODO - peut être amélioré un peu - Citation)]
 
 * Vous pouvez dénoncer un autre personnage en indiquant ce que vous pensez être sa quête. Le personnage devra indiquer si vous dites vrai ou non, il ne peut mentir.
 
 * Citation :
-* Image : {lieuxdir}/council_magical.jpg
+* Image : {lieuxdir}council_magical.jpg
 
-=== http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean]
 
 ** *Rencontre avec les rafleurs :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case de distance du Lieu doit affronter un groupe de rafleurs. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
 
-* Citation :
-* Image : {lieuxdir}/forest_of_dean.jpg
+* Image : {lieuxdir}forest_of_dean.jpg
 
-=== http://harrypotter.wikia.com/wiki/Knockturn_Alley[L'allée des embrumes (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Knockturn_Alley[L'allée des embrumes]
 
-* *Quartier mal famé* : Pas de défense possible, vos 3 objets équipés les plus qualitatifs (dans l'ordre décroissant) vous sont retirés et sont remis dans la pile du marchand d'or.
+* *Quartier très malfamé* : Pas de défense possible, vos 3 objets équipés les plus qualitatifs (dans l'ordre décroissant de qualité) vous sont retirés et sont remis dans la pile du marchand d'or.
 
-* Citation :
-* Image : {lieuxdir}/knockturn_alley.jpg
+* Citation : _"C'est un endroit très malfamé. Il ne faut surtout pas que quelqu'un te voie là-bas."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
+* Image : {lieuxdir}knockturn_alley.jpg
 
 == Autres
 
-=== http://harrypotter.wikia.com/wiki/Room_of_Requirement[La salle sur demande (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Room_of_Requirement[La salle sur demande]
 
 * Vous permet d'avoir l'effet de la case que vous souhaitez.
 
-* Citation :
-* Image : {lieuxdir}/room_of_requirement.jpg
+* Citation : _"Si vous devez demander, jamais vous ne saurez. Si vous savez, il suffit de demander."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
+* Image : {lieuxdir}room_of_requirement.jpg
 
-=== http://harrypotter.wikia.com/wiki/Gringotts_Wizarding_Bank[Banque de Gringotts (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Gringotts_Wizarding_Bank[Banque de Gringotts]
 
 * Vous permet de stocker / reprendre jusqu'à deux cartes de votre main face cachées.
 
-* Citation :
-* Image : {lieuxdir}/gringotts.jpg
+* Citation : _"Gringotts est l'endroit le plus sûr du monde. À part Poudlard, peut-être."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
+* Image : {lieuxdir}gringotts.jpg
 
 === http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier (0.90 - TODO - Cohérence du pouvoir avec le lieu ? - Citation)]
 
@@ -151,29 +145,22 @@
 * *Madame Weasley :* vous
 
 * Citation :
-* Image : {lieuxdir}/burrow.jpg
+* Image : {lieuxdir}burrow.jpg
 
 === http://harrypotter.wikia.com/wiki/Diagon_Alley[Chemin de traverse (0.95 - TODO - Citation)]
 
-* En commençant par celui qui a découvert le _Chemin de traverse_, et dans l'ordre de jeu, chaque personnage peut acheter un équipement comme s'il était sur la case marchand d'or.
+* En commençant par celui qui a découvert le _Chemin de traverse_, et dans l'ordre de jeu, chaque personnage peut acheter des équipements comme s'il était sur la case marchand d'or.
 
 * Citation :
-* Image : {lieuxdir}/diagon_alley.jpg
+* Image : {lieuxdir}diagon_alley.jpg
 
-=== http://harrypotter.wikia.com/wiki/Veil[Le voile (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Veil[Le voile]
 
-* Actif pour tous les joueurs jusqu'à la fin de votre prochain tour de jeu [, pendant plusieurs tours ?].
+* Actif pour tous les joueurs pendant 2 tours de jeu globaux.
 * Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort.
 
-* Citation :
-* Image : {lieuxdir}/veil.jpg
-
-=== http://harrypotter.wikia.com/wiki/King%27s_Cross_Station[Gare de King's Cross (0.95 - TODO - Citation)]
-
-* Si vous le voulez, à votre prochain tour, votre déplacement vous mènera directement à la case opposée à la votre sur le plateau.
-
-* Citation : _"La gare est pleine de Moldus, il fallait s'y attendre."_, (TODO).
-* Image : {lieuxdir}/king_cross_station.jpg
+* Citation : _"[...] il n'allait pas tarder à réapparaître de l'autre côté... Sirius, pourtant, ne réapparaissait pas."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
+* Image : {lieuxdir}veil.jpg
 
 = Ressources
 
@@ -189,6 +176,20 @@
 * http://harrypotter.wikia.com/wiki/Gladrags_Wizardwear
 
 = Idées
+
+=== http://harrypotter.wikia.com/wiki/Twilfitt_and_Tattings[Tissard et Brodette (0.95 - TODO - Citation)]
+
+* Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" de qualité "Rare" dans la pile, mélangez la pile après ça.
+
+* Citation :
+* Image : {lieuxdir}twilfitt_and_tattings.jpg
+
+=== http://harrypotter.wikia.com/wiki/King%27s_Cross_Station[Gare de King's Cross (0.95 - TODO - Citation)]
+
+* Si vous le voulez, à votre prochain tour, votre déplacement vous mènera directement à la case opposée à la votre sur le plateau.
+
+* Citation : _"La gare est pleine de Moldus, il fallait s'y attendre."_, (TODO).
+* Image : {lieuxdir}/king_cross_station.jpg
 
 === http://harrypotter.wikia.com/wiki/Shrieking_Shack[La cabane hurlante]
 
