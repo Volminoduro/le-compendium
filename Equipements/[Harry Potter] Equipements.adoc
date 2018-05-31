@@ -29,14 +29,14 @@
 **** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
 * Citation :
-* Image : {equipementsdir}/Foe_glass.jpg
+* Image : {equipementsdir}Foe_glass.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire) (0.95 - TODO - Citation)]
 
 ** Vous pouvez vous déplacer d'une case, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Citation :
-* Image : {equipementsdir}/cleansweep_11.jpg
+* Image : {equipementsdir}cleansweep_11.jpg
 
 === Rare
 
@@ -47,7 +47,7 @@
 * *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
 
 * Citation :
-* Image : {equipementsdir}/jinx_off.jpg
+* Image : {equipementsdir}jinx_off.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Mrs_Norris[Miss Teigne (1 exemplaire) (0.95 - TODO - Citation)]
 
@@ -55,7 +55,7 @@
 ** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
 
 * Citation :
-* Image : {equipementsdir}/miss_teigne.jpg
+* Image : {equipementsdir}miss_teigne.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé (1 exemplaire) (0.30 - TODO - Effets - Citation)]
 
@@ -63,7 +63,7 @@
 *** sdds
 
 * Citation :
-* Image : {equipementsdir}/advanced_potion_making.jpg
+* Image : {equipementsdir}advanced_potion_making.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires) (0.95 - TODO - Citation)]
 
@@ -72,7 +72,7 @@
 ** Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 * Citation :
-* Image : {equipementsdir}/dark_mark.jpg
+* Image : {equipementsdir}dark_mark.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (3 exemplaires) (0.95 - TODO - Citation)]
 
@@ -81,14 +81,14 @@
 ** Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 * Citation :
-* Image : {equipementsdir}/dumbledore_army_coin.jpg
+* Image : {equipementsdir}dumbledore_army_coin.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire) (0.95 - TODO - Citation)]
 
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Citation :
-* Image : {equipementsdir}/nimbus_2001.jpg
+* Image : {equipementsdir}nimbus_2001.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire) (0.95 - TODO - Citation)]
 
@@ -97,7 +97,7 @@
 ** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Citation :
-* Image : {equipementsdir}/buckbeak.jpg
+* Image : {equipementsdir}buckbeak.jpg
 
 === Epique
 
@@ -108,7 +108,7 @@
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Citation :
-* Image : {equipementsdir}/thestral.jpg
+* Image : {equipementsdir}thestral.jpg
 
 
 ==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (1 exemplaire) (0.95 - TODO - Citation)]
@@ -119,7 +119,7 @@
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Citation :
-* Image : {equipementsdir}/thestral.jpg
+* Image : {equipementsdir}thestral.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire) (0.95 - TODO - Citation)]
 
@@ -127,7 +127,7 @@
 * Vos attaquants ont -1 de portée.
 
 * Citation :
-* Image : {equipementsdir}/firebolt.jpg
+* Image : {equipementsdir}firebolt.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Hand_of_Glory[Main de la gloire (1 exemplaire) (0.65 - TODO - Effets - Citation)]
 
@@ -135,7 +135,7 @@
 * [effet supplémentaire ?]
 
 * Citation :
-* Image : {equipementsdir}/hand_of_glory.jpg
+* Image : {equipementsdir}hand_of_glory.jpg
 
 === Légendaire
 
@@ -146,7 +146,7 @@
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation :
-* Image : {equipementsdir}/resurrection_stone.jpg
+* Image : {equipementsdir}resurrection_stone.jpg
 
 === Total : 18
 
@@ -161,7 +161,7 @@
 * *Rechargement :* si vous avez attaquer à distance, nous ne pourrez bénéficier des bonus de cette arme lors de votre attaque le tour prochain.
 
 * Citation :
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 === Rare
 
@@ -173,7 +173,7 @@
 * *Maîtrise :* [condition], votre bonus d'_Initiative_ passe à 2 d'attaque et de défense au lieu de 1, et l'ancienneté de l'attaque peut remonter à 2 tours. Votre bonus de _Favorable à l'indécision_ passe à 2 d'attaque.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 ==== [Bois de Chestnut, crin de Licorne, Taille (0.70 - TODO - Nom -  Effets - Citation)]
 
@@ -183,7 +183,7 @@
 * *Maîtrise :* [après détruit un accessoire adverse disposant de la compétence _Compagnon_], votre bonus de _[?]_ passe à 2 d'attaque et de défense au lieu de 1. [Un autre bonus ?]
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 ==== [Bois de Maple, Thunder, Taille (0.70 - TODO - Nom -  Effets - Citation)]
 
@@ -193,7 +193,7 @@
 * *Maîtrise :* [après vous êtes défendu 3 fois avec succès ou après avoir visité 3 _Lieux_ différents], votre bonus d'_Explorateur_ passe à 3 d'attaque et de défense au lieu de 2 et cela fonctionne à une case adjacente de la case _Lieux_. L'effet _Vigilance_ vous permet désormais de contreattaquer l'adversaire [limiter ça contre l'alignement adverse ?].
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 === Epique
 
@@ -204,7 +204,7 @@
 * *Maîtrise :* après avoir blessé au moins la moitié des autres joueurs toujours en vie, votre bonus de _Belliqueuse_ passe à 2 d'attaque au lieu de 1. [Vous disposez désormais d'un bonus de défense de 2 si un joueur que vous avez blessé vous attaque.]
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 ==== [Bois de Yew, Dragon heart, Taille (0.40 - TODO - Nom - Effets - Image)]
 
@@ -213,7 +213,7 @@
 * *Opportuniste :* lorsque vous êtes vaincu lors d'une attaque par un personnage ayant moins de blessures actuelles que vous, l'arme parvient en sa possession.
 * *Maîtrise :* après avoir achevé définitivement un autre personnage, désormais, vos blessures amenant des personnages au seuil de la Mort les tue directement à la place.
 
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 ==== [Bois de Silver lime,Serpent cornu, Taille (0.40 - TODO - Nom - Effets - Image)]
 
@@ -222,7 +222,7 @@
 * Autre capacité à trouver, allant vers de la détection [effet constant du _Miroir à l'ennemi_ ?].
 * *Maîtrise :* après avoir confondu un autre personnage au _Tribunal magique_ avec succès [ou en ayant révélé plus de 6 cartes d'adversaires], [].
 
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 === Légendaire
 
@@ -237,7 +237,7 @@
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation :
-* Image : {equipementsdir}/elder_wand.jpg
+* Image : {equipementsdir}elder_wand.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Sword_of_Gryffindor[Epée de Godric Griffondor (1 exemplaire) (0.70 - TODO - Effets - Citation)]
 
@@ -246,7 +246,7 @@
 * A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
 
 * Citation :
-* Image : {equipementsdir}/godrics_sword.jpg
+* Image : {equipementsdir}godrics_sword.jpg
 
 === Total : 2
 
@@ -267,7 +267,7 @@
 * *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
 
 * Citation :
-* Image : {equipementsdir}/jinx_off.jpg
+* Image : {equipementsdir}jinx_off.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard (1 exemplaire) (0.95 - TODO - Citation)]
 
@@ -276,7 +276,7 @@
 ** On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
 * Citation :
-* Image : {equipementsdir}/invisbility_cloak_standard.jpg
+* Image : {equipementsdir}invisbility_cloak_standard.jpg
 
 === Epique
 
@@ -290,7 +290,7 @@
 * Si vous avez équipé dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation :
-* Image : {equipementsdir}/invisbility_cloak.jpg
+* Image : {equipementsdir}invisbility_cloak.jpg
 
 === Total : 3
 
@@ -302,7 +302,7 @@
 
 * *Détecteur de Joncheruine :* vous pouvez voir les joncheruines autour de la tête des personnages. Cela ne sert à rien.
 
-* Image : {equipementsdir}/spectrespecs.jpg
+* Image : {equipementsdir}spectrespecs.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Narcissa_Malfoy%27s_spider_earrings[Boucles d'oreilles de Narcissa Malefoy (1 exemplaire)]
 
@@ -341,7 +341,7 @@
 * Pendant votre tour, vous pouvez choisir un joueur, celui-ci devra vous réveler sa main, et uniquement à vous.
 * La _Cape d'Invisibilité standard_ et la _Cape d'Invisibilité_ n'ont aucun effets sur vous.
 
-* Image : {equipementsdir}/magical_eye_moody.jpg
+* Image : {equipementsdir}magical_eye_moody.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Sorting_Hat[Choixpeau magique (1 exemplaire)]
 
@@ -357,7 +357,7 @@
 
 * *Sagesse :* pendant votre tour, vous avez le droit de revenir une fois sur une de vos actions (déplacement, attaque, utilisation d'une compétence, etc.) pour en annuler l'effet et les conséquences. Vous pourrez recommencer cette action si vous le souhaitez.
 
-* Image : {equipementsdir}/ravenclaw_diadem.jpg
+* Image : {equipementsdir}ravenclaw_diadem.jpg
 
 === Total : 8
 

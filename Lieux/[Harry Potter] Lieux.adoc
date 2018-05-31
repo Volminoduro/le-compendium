@@ -12,32 +12,31 @@
 
 == Soins
 
-=== http://harrypotter.wikia.com/wiki/Hog%27s_Head_Inn[Taverne de la Tête du Sanglier (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Hog%27s_Head_Inn[Taverne de la Tête du Sanglier]
 
 * Chaque personnage déjà révélée, ou voulant s'y révélant, peut venir y boire une _Bièraubeurre_ (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger / donner des cartes.
 
-* Citation :
+* Citation : _"Je crois que l'endroit est un peu... comment dire... un peu louche..."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
 * Image : {lieuxdir}hogshead.jpg
 
-=== http://harrypotter.wikia.com/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries[Hôpital Ste-Mangouste (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries[Hôpital Ste-Mangouste]
 
 * Interdit aux Antagonistes
 * Chaque personnage au seuil de la mort peut être soigné de 1 blessure.
 * Vous pouvez être soigné de 2 blessures.
 
-* Citation :
+* Citation : _"Des médecins ? Tu veux dire ces Moldus cinglés qui coupent les gens en morceaux ? Non, eux, ce sont des guérisseurs."_, Harry Potter, J.K Rowling.
 * Image : {lieuxdir}st_mungo.jpg
 
 == Récupération de cartes
 
-=== http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers]
 
 * Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" dans la pile, mélangez la pile après ça.
 
-* Citation :
 * Image : {lieuxdir}madam_malkin.jpg
 
-=== http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges]
 
 * *Goûteur dévoué :* par sympathie, vous goûtez la nouvelle dragées surprise des frères Weasleys. Lancez les deux dés :
 ** 2 : piocher une carte retournement.
@@ -47,7 +46,7 @@
 ** 6 : jusqu'à que vous subissiez une nouvelle blessure, vous pourrez lancer deux fois les dés et choisir le jet vous intéressant pour vous déplacer.
 ** 7 : vous goûtez deux nouvelles dragées, quelle gourmandise !
 
-* Citation :
+* Citation : _"Vous avez peur de Vous-Savez-Qui ? Craignez plutôt POUSSE-RIKIKI..."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {lieuxdir}weasleys_wizard_wheezes.jpg
 
 == Equipements
@@ -66,7 +65,6 @@
 * Vous pouvez regagner 1 charge supplémentaire pour 1 points d'équipement, utilisable plusieurs fois sur plusieurs équipements.
 * Vous ne pouvez tenter cette action que si vous êtes le premier à le faire : si la _Baguette de Sureau_ n'est pas en possession d'un joueur, vous pouvez tenter d'attaquer Gregorovitch. Si le résultat est supérieur à 5, emparez-vous de l'arme. Les effets de ce Lieu sera annulé pour vous jusqu'à la fin de la partie.
 
-* Citation :
 * Image : {lieuxdir}gregorovitch_workshop.jpg
 
 == Evènements
@@ -85,12 +83,12 @@
 * Citation :
 * Image : {lieuxdir}forbidden_forest.jpg
 
-=== http://harrypotter.wikia.com/wiki/Azkaban[Azkaban (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Azkaban[Azkaban]
 
 * Vous désignez un autre personnage que vous à votre portée, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
 * A son prochain tour, il devra faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement, et ainsi de suite jusqu'à qu'il n'ait plus d'équipements et de cartes en main. Ensuite, il commencera son tour normalement.
 
-* Citation :
+* Citation : _"Ils sont enfermés dans leur propre tête, incapables d'avoir la moindre pensée agréable."_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
 * Image : {lieuxdir}azkaban.jpg
 
 === http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu (0.95 - TODO - Citation)]
@@ -103,11 +101,11 @@
 * Citation :
 * Image : {lieuxdir}goblet_of_fire.jpg
 
-=== http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique (0.85 - TODO - peut être amélioré un peu - Citation)]
+=== http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique]
 
 * Vous pouvez dénoncer un autre personnage en indiquant ce que vous pensez être sa quête. Le personnage devra indiquer si vous dites vrai ou non, il ne peut mentir.
 
-* Citation :
+* Citation : _"Barry Croupton Junior !"_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
 * Image : {lieuxdir}council_magical.jpg
 
 === http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean]
@@ -189,7 +187,7 @@
 * Si vous le voulez, à votre prochain tour, votre déplacement vous mènera directement à la case opposée à la votre sur le plateau.
 
 * Citation : _"La gare est pleine de Moldus, il fallait s'y attendre."_, (TODO).
-* Image : {lieuxdir}/king_cross_station.jpg
+* Image : {lieuxdir}king_cross_station.jpg
 
 === http://harrypotter.wikia.com/wiki/Shrieking_Shack[La cabane hurlante]
 
