@@ -51,12 +51,11 @@
 
 == Equipements
 
-=== http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk]
 
 * Vous pouvez récupérer une charge sur l'équipement de votre choix, 2 charges si vous êtes un Antagoniste.
 * Pour deux points d'équipement, vous pouvez acheter la _Main de la gloire_ directement depuis la pile d'Equipement. Mélangez la pile ensuite.
 
-* Citation :
 * Image : {lieuxdir}borgin_and_burkes.jpg
 
 === http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe]
@@ -69,7 +68,7 @@
 
 == Evènements
 
-=== http://harrypotter.wikia.com/wiki/Forbidden_Forest[La Forêt Interdite (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Forbidden_Forest[La Forêt Interdite]
 
 * Lancez les dés une rencontre aléatoire :
 ** *2 - Colonie d'Aragog :* si vous n'êtes pas Aragog vous-même, attaquer à plus de [3] 3 fois. Subissez une blessure ou un équipement, selon votre choix, par échec.
@@ -80,7 +79,7 @@
 ** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous ne disposez pas d'équipement à perdre, cela se répercute sur vos cartes en main, sinon sur vos points de vie. Vous pouvez en décéder.
 * Si vous rencontrez des difficultés, vous pouvez demander de l'aide à un autre personnage à une case de distance de ce lieu. Il peut remplir les conditions de victoire à votre place. Il aura le droit de négocier son aide.
 
-* Citation :
+* Citation : _"Il y a des tas de bestioles là-dedans, même des loups-garous d'après ce qu'on m'a dit."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {lieuxdir}forbidden_forest.jpg
 
 === http://harrypotter.wikia.com/wiki/Azkaban[Azkaban]
@@ -91,14 +90,13 @@
 * Citation : _"Ils sont enfermés dans leur propre tête, incapables d'avoir la moindre pensée agréable."_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
 * Image : {lieuxdir}azkaban.jpg
 
-=== http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu]
 
 * Chaque personnage peut y participer à condition d'être à moins de 3 blessures du seuil de la mort.
 * La coupe sélectionne aléatoirement un personnage de chaque alignement disponible, il faut 3 personnages participants minimum.
 * Celui qui finit avec le moins de Blessures subies au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
-* Citation :
 * Image : {lieuxdir}goblet_of_fire.jpg
 
 === http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique]
@@ -137,19 +135,17 @@
 * Citation : _"Gringotts est l'endroit le plus sûr du monde. À part Poudlard, peut-être."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {lieuxdir}gringotts.jpg
 
-=== http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier (0.90 - TODO - Cohérence du pouvoir avec le lieu ? - Citation)]
+=== http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier]
 
 * *Doux foyer :* vous ne pouvez attaquer personne et personne ne peut vous attaquer tant que vous vous trouvez dans ce lieu.
-* *Madame Weasley :* vous
+* *Madame Weasley, mère au foyer :* Interdit aux Antagonistes, vous êtes soigné d'une blessure.
 
-* Citation :
 * Image : {lieuxdir}burrow.jpg
 
-=== http://harrypotter.wikia.com/wiki/Diagon_Alley[Chemin de traverse (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Diagon_Alley[Chemin de traverse]
 
 * En commençant par celui qui a découvert le _Chemin de traverse_, et dans l'ordre de jeu, chaque personnage peut acheter des équipements comme s'il était sur la case marchand d'or.
 
-* Citation :
 * Image : {lieuxdir}diagon_alley.jpg
 
 === http://harrypotter.wikia.com/wiki/Veil[Le voile]

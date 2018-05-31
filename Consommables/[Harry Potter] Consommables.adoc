@@ -12,7 +12,7 @@
 
 == Soins
 
-=== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Whisky Pur Feu Blishen (3 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Whisky Pur Feu Blishen (3 exemplaires)]
 
 * Utilisable à tout moment.
 * *Effet(s) :*
@@ -20,20 +20,19 @@
 ** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
 ** *Alcool fort (1 tour) :* Vous ne pouvez utiliser une autre carte vous conférant l'effet Alcool fort.
 
-* Citation :
 * Image : {consommablesdir}fire_whisky.jpg
 
-=== http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre (4 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre (4 exemplaires)]
 
 * Utilisable à tout moment.
 * *Effet(s) :*
 ** Soignez-vous immédiatement 1 blessure.
 ** *Alcool léger (1 tour) :* Si vous cumulez 3 effets d'Alcool léger ou plus, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
 
-* Citation :
+* Citation : _"Pas de plus grand bonheur que la Bièraubeurre !"_, Publicité pour la Bièraubeurre0
 * Image : {consommablesdir}butterbeer.jpg
 
-=== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne (2 exemplaire) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne (2 exemplaire)]
 
 * Utilisable à tout moment
 * *Effet(s) :*
@@ -41,63 +40,61 @@
 ** *Maudit (jusqu'à la fin de la partie) :* vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 ** Vous ne pourrez consommer un autre Sang de licorne tout au long de la partie.
 
-* Citation :
+* Citation : _"Le sang de licorne permet de survivre, même si on est sur le point de mourir, mais à un prix terrible."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {consommablesdir}unicorn_blood.jpg
 
 == Déplacement
 
-=== http://harrypotter.wikia.com/wiki/Floo_Powder[Poudre de cheminette (3 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Floo_Powder[Poudre de cheminette (3 exemplaires)]
 
 * Utilisable lors de votre phase de déplacement.
 * *Effet(s) :*
 ** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez vous aléatoirement d'une case sur le côté de la destination.
 
-* Citation :
+* Citation : _"CHEMIN DE TRAVERS !"_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
 * Image : {consommablesdir}floo_powder.jpg
 
-=== http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires)]
 
 * Utilisable durant votre tour.
 * *Effet(s) :*
 ** Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
 ** Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les utiliser lorsqu'ils arrivent sur la case en question afin de se rendre sur l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
 
-* Citation :
 * Image : {consommablesdir}vanishing_cabinet.jpg
 
 == Protection
 
-=== http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Poudre d'Obscurité Instantanée du Pérou (2 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Poudre d'Obscurité Instantanée du Pérou (2 exemplaires)]
 
 * Utilisable à tout moment.
 * *Effet(s) :*
 ** Vous permets de fuir une attaque, cela fonctionne contre les joueurs ou les Lieux.
 
-* Citation :
+* Citation : _"On a tout essayé, Lumos, Incendio. Pas moyen d'obtenir la moindre lueur."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}peruvian_powder_darkness.jpg
 
-=== http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (2 exemplaires) (0.90 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (2 exemplaires)]
 
 * Utilisable uniquement durant le tour des autres joueurs, avant leur phase de déplacement
 * *Effet(s) :*
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
-* Citation :
 * Image : {consommablesdir}dungbomb.jpg
 
 == Autres
 
-=== http://harrypotter.wikia.com/wiki/Felix_Felicis[Potion de Felix Felicis (1 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Felix_Felicis[Potion de Felix Felicis (1 exemplaires)]
 
 * Utilisable à tout moment
 * *Effet(s) :*
 ** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
 
-* Citation :
+* Citation : _"[...] on s'aperçoit que tout ce qu'on entreprend est couronné de succès... en tout cas jusqu'à ce que ses effets se dissipent."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}felix_felicis.jpg
 * Catégorie : Influence du hasard
 
-=== http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire)]
 
 * Utilisable durant votre tour
 * *Effet(s) :*
@@ -105,27 +102,25 @@
 ** Si la cible de son amour venait à mourir, il se suicidera. Son cadavre sera inexploitable.
 ** L'effet peut-être annulé à l'aide d'un philtre de haine.
 
-* Citation :
+* Citation : _"Non, elle produit simplement une forte attirance ou une obsession."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}amortentia.jpg
 
-=== http://harrypotter.wikia.com/wiki/Hate_Potion[Potion de haine (2 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Hate_Potion[Potion de haine (2 exemplaires)]
 
 * Utilisable durant votre tour
 * *Effet(s) :*
 ** Vous pouvez attaquer deux fois par tour le personnage désigné, pendant un tour.
 ** L'effet peut-être annulé à l'aide de l'Amortentia.
 
-* Citation :
 * Image : {consommablesdir}hate_potion.jpg
 * Catégorie : Attaque
 
-=== http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Tasse à thé mordeuse (2 exemplaires) (0.95 - TODO - Citation)]
+=== http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Tasse à thé mordeuse (2 exemplaires)]
 
 * Utilisable à tout moment
 * *Effet(s) :*
 * Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place et en annulera les effets. Cela ne peut achever un joueur.
 
-* Citation :
 * Image : {consommablesdir}nose_biting_teacup.jpg
 * Catégorie : Attaque / Contre
 
@@ -144,3 +139,5 @@
 
 * Un autre véhicule ? Magicobus, Poudlard Express, Voiture volante, Portoloin, Moto volante, Tapis Volant
 * Bézoard
+
+* Le polynectar pour avoir l'alignement d'un autre
