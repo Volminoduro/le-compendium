@@ -146,101 +146,99 @@
 
 === Commune
 
-==== http://harrypotter.wikia.com/wiki/Rubeus_Hagrid%27s_crossbow[Arbalète de Rubeus Hagrid (0.80 - TODO - Image - Citation)]
+==== http://harrypotter.wikia.com/wiki/Rubeus_Hagrid%27s_crossbow[Arbalète de Rubeus Hagrid (1 exemplaire)]
 
 * +1 d'attaque.
 * +2 de portée.
-* *Rechargement :* si vous avez attaquer à distance, nous ne pourrez bénéficier des bonus de cette arme lors de votre attaque le tour prochain.
+* *Rechargement :* si vous avez attaqué à distance, nous ne pourrez bénéficier des bonus de cette arme lors de votre attaque le tour prochain.
 
-* Citation :
-* Image : {equipementsdir}elder_wand.jpg
+* Image : {equipementsdir}hagrid_crossbow.jpg
 
 === Rare
 
-==== [Bois de Beech, coeur de Plume de phénix, Taille (0.60 - TODO - Nom - Effets - Condition - Citation)]
+==== Bois d'hêtre, 35,1 centimètres, plume de phénix (1 exemplaire)
 
 * +1 de portée, +1 d'attaque.
-* *Initiative :* +1 d'attaque et +1 de défense si vous avez attaquer un autre personnage durant le tour dernier.
+* *Initiative :* +1 d'attaque et +1 de défense si vous avez attaqué un autre personnage durant le tour dernier.
 * *Favorable à l'indécision :* si vous avez au moins 2 cibles possibles à attaquer, choisissez-en une aléatoirement et gagner un bonus de +1 d'attaque.
-* *Maîtrise :* [condition], votre bonus d'_Initiative_ passe à 2 d'attaque et de défense au lieu de 1, et l'ancienneté de l'attaque peut remonter à 2 tours. Votre bonus de _Favorable à l'indécision_ passe à 2 d'attaque.
+* *Maîtrise :* si vous avez bénéficier 3 fois de l'effet _Favorable à l'indécision_ ou 5 fois de l'_Initiative_, votre bonus d'_Initiative_ passe à 2 d'attaque et de défense au lieu de 1, et l'ancienneté de l'attaque peut remonter à 2 tours. Votre bonus de _Favorable à l'indécision_ passe à 2 d'attaque.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}elder_wand.jpg
+* Image : {equipementsdir}wand_hetre.jpg
 
-==== [Bois de Chestnut, crin de Licorne, Taille (0.70 - TODO - Nom -  Effets - Citation)]
+==== Bois de châtaignier, 27,4 centimètres, crin de Licorne (1 exemplaire)
 
-* +1 de portée, +1 d'attaque et +1 de défense.
-* *[?] :* bonus de +1 d'attaque et de défense si l'ennemi possède un accessoire avec la compétence _Compagnon_.
+* +1 de portée, +2 d'attaque et +2 de défense.
+* *Spécisme :* bonus de +1 d'attaque et de défense si l'ennemi possède un accessoire avec la compétence _Compagnon_.
 * *Endeuillement :* malus de -1 d'attaque et de défense si un autre personnage de votre alignement est décédé pendant la partie.
-* *Maîtrise :* [après détruit un accessoire adverse disposant de la compétence _Compagnon_], votre bonus de _[?]_ passe à 2 d'attaque et de défense au lieu de 1. [Un autre bonus ?]
+* *Maîtrise :* après détruit un accessoire adverse disposant de la compétence _Compagnon_, votre bonus de _Spécisme_ passe à 2 d'attaque et de défense au lieu de 1.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}elder_wand.jpg
+* Image : {equipementsdir}wand_chataignier.jpg
 
-==== [Bois de Maple, Thunder, Taille (0.70 - TODO - Nom -  Effets - Citation)]
+==== Bois d'érable, 41,8 centimètres, plume d'oiseau-tonnerre (1 exemplaire)
 
 * +1 de portée.
 * *Explorateur :* bonus de +2 d'attaque et de défense si vous êtes sur une case _Lieux_.
 * *Vigilance :* bonus de +1 de défense si un personnage de l'alignement adverse est à 1 case de la votre.
-* *Maîtrise :* [après vous êtes défendu 3 fois avec succès ou après avoir visité 3 _Lieux_ différents], votre bonus d'_Explorateur_ passe à 3 d'attaque et de défense au lieu de 2 et cela fonctionne à une case adjacente de la case _Lieux_. L'effet _Vigilance_ vous permet désormais de contreattaquer l'adversaire [limiter ça contre l'alignement adverse ?].
+* *Maîtrise :* après vous êtes défendu 3 fois avec succès ou après avoir visité 3 _Lieux_ différents, votre bonus d'_Explorateur_ passe à 3 d'attaque et de défense au lieu de 2 et cela fonctionne à une case adjacente de la case _Lieux_. L'effet _Vigilance_ vous permet désormais également de contre-attaquer l'adversaire.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}elder_wand.jpg
+* Image : {equipementsdir}wand_erable.jpg
 
 === Epique
 
-==== [Bois de Blackthorne, coeur de Rougarou de Licorne, Taille (0.40 - TODO - Nom - Effets - Image)]
+==== Bois de prunellier, 26 centimètres, poil de Rougarou (1 exemplaire)
 
 * +1 de portée et +2 d'attaque.
-* *Belliqueuse :* +1 d'attaque si vous avez une cible pour la première fois (lieux comme personnages).
-* *Maîtrise :* après avoir blessé au moins la moitié des autres joueurs toujours en vie, votre bonus de _Belliqueuse_ passe à 2 d'attaque au lieu de 1. [Vous disposez désormais d'un bonus de défense de 2 si un joueur que vous avez blessé vous attaque.]
+* *Belliqueuse :* +1 d'attaque si vous attaquez une cible pour la première fois (lieux comme personnages).
+* *Maîtrise :* après avoir blessé au moins la moitié des autres joueurs toujours en vie, votre bonus de _Belliqueuse_ passe à 2 d'attaque au lieu de 1. Vous disposez désormais d'un bonus de défense de 2 en vous défendant contre un joueur que vous avez blessé.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
-* Image : {equipementsdir}elder_wand.jpg
+* Image : {equipementsdir}wand_prunellier.jpg
 
-==== [Bois de Yew, Dragon heart, Taille (0.40 - TODO - Nom - Effets - Image)]
+==== Bois d'if, 29,1 centimètres, ventricule de dragon (1 exemplaire)
 
-* +1 de portée, +2 d'attaque et +1 de défense.
+* +1 de portée, +2 d'attaque et +2 de défense.
 * *Bourreau :* +1 d'attaque contre les personnages au seuil de la mort.
 * *Opportuniste :* lorsque vous êtes vaincu lors d'une attaque par un personnage ayant moins de blessures actuelles que vous, l'arme parvient en sa possession.
 * *Maîtrise :* après avoir achevé définitivement un autre personnage, désormais, vos blessures amenant des personnages au seuil de la Mort les tue directement à la place.
 
-* Image : {equipementsdir}elder_wand.jpg
+* Image : {equipementsdir}wand_if.jpg
 
-==== [Bois de Silver lime,Serpent cornu, Taille (0.40 - TODO - Nom - Effets - Image)]
+==== Bois de tilleul argenté, 21,9 centimètres, corne de Serpent cornu (1 exemplaire)
 
 * +1 de portée, +2 d'attaque et +1 de défense.
 * *Affinité envers la Legilimency :* si une attaque à un autre personnage lui inflige des blessures, il doit vous révéler sa main.
-* Autre capacité à trouver, allant vers de la détection [effet constant du _Miroir à l'ennemi_ ?].
-* *Maîtrise :* après avoir confondu un autre personnage au _Tribunal magique_ avec succès [ou en ayant révélé plus de 6 cartes d'adversaires], [].
+* *Détection serpentine :* pendant leur tour, les autres joueurs se déplaçant à une case de vous déclenche les mêmes effets de détection que le _Miroir à l'ennemi_.
+* *Maîtrise :* après avoir confondu un autre personnage au _Tribunal magique_ avec succès ou en ayant révélé plus de 6 cartes d'adversaires grâce à l'_Affinité envers la Legilimency_, l'_Affinité envers la Legilimency_ vous permet, selon votre choix, de réveler la carte personnage de l'adversaire ou de lui voler une carte de sa main.
 
-* Image : {equipementsdir}elder_wand.jpg
+* Image : {equipementsdir}wand_tilleul_argente.jpg
 
 === Légendaire
 
-==== http://harrypotter.wikia.com/wiki/Elder_Wand[Baguette de sureau (1 exemplaire) (0.70 - TODO - Effets - Citation)]
+==== http://harrypotter.wikia.com/wiki/Elder_Wand[Baguette de sureau (1 exemplaire)]
 
 * +1 de portée, +1 d'attaque et +1 de défense.
-* Double tous vos bonus d'attaque , qu'ils soient actifs ou passifs.
-* *Maîtrise :* [condition], double également tous vos bonus de défense.
+* *Duplicateur de puissance :* Double tous vos bonus d'attaque , qu'ils soient actifs ou passifs.
+* *Maîtrise :* [si sortez victorieux d'un combat contre tous les autres joueurs de la partie (que ce soit en se défendant ou en attaquant)], l'effet _Duplicateur de puissance_ double également tous vos bonus de défense.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
-* Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
+* *Allégeance intéressée :* Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
 * Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
-* Citation :
+* Citation : _"[...] les humains ont le don de jeter leur dévolu sur les choses qui, précisément, leur font le plus de mal."_ Harry Potter, J.K Rowling.
 * Image : {equipementsdir}elder_wand.jpg
 
-==== http://harrypotter.wikia.com/wiki/Sword_of_Gryffindor[Epée de Godric Griffondor (1 exemplaire) (0.70 - TODO - Effets - Citation)]
+==== http://harrypotter.wikia.com/wiki/Sword_of_Gryffindor[Epée de Godric Griffondor (1 exemplaire)]
 
 * +1 d'attaque.
 * Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
-* A chaque fois que vous attaquez un adversaire, si la différence de dégât en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
+* A chaque fois que vous attaquez un adversaire, si la différence en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
 
-* Citation :
 * Image : {equipementsdir}godrics_sword.jpg
 
-=== Total : 2
+=== Total : 9
 
 == Corps
 
