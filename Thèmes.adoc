@@ -12,13 +12,13 @@
 
 |=======
 |Type de cartes |Nombre souhaité minimum |Harry Potter (score de complétion)
-|Personnages |18 |17 (8.1)
+|Personnages |18 |18 (8.1)
 |Consommables |24 |24 (24)
 |Lieux |18 |18 (18)
 |Equipement : Tête |9 |9 (9)
 |Equipement : Corps |9 |3 (still TODO)
 |Equipement : Accessoires |18 |18 (17.30 - TODO - Le Manuel de potions du prince de sang-mêlé)
-|Equipement : Arme |9 |9 (still TODO)
+|Equipement : Arme |9 |9
 |=======
 
 = Formules de calcul
