@@ -14,10 +14,9 @@
 
 === Commune
 
-==== http://harrypotter.wikia.com/wiki/Foe-Glass[Glace à l'ennemi (2 exemplaire) (0.70 - TODO - Effets - Citation)]
+==== http://harrypotter.wikia.com/wiki/Foe-Glass[Glace à l'ennemi (2 exemplaires)]
 
 ** *Détecteur de magie noire (1 charge) :* Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre ou non.
-** [Formulation limpide et concise à trouver]
 *** Si vous êtes Antagoniste :
 **** Si la cible est Protagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
 **** Si la cible est Antagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
@@ -28,124 +27,117 @@
 **** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
 **** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
-* Citation :
+* Citation : _"Tu les vois, là, qui rôdent tout autour ? Je ne risque pas grand-chose tant que je ne vois pas le blanc de leurs yeux."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
 * Image : {equipementsdir}Foe_glass.jpg
 
-==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire)]
 
 ** Vous pouvez vous déplacer d'une case, dans le sens que vous voulez, au lieu de lancer les dés.
 
-* Citation :
 * Image : {equipementsdir}cleansweep_11.jpg
 
 === Rare
 
-==== http://harrypotter.wikia.com/wiki/Jinx-Off[Gants de démalédiction (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Gants de démalédiction (1 exemplaire)]
 
 * Vous octroie 1 de défense.
 * *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_, chaque objet vous octroie de 2 défense au lieu de 1. Les effets *Ensemble complet de démalédiction* ne peuvent se cumuler.
 * *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
 
-* Citation :
 * Image : {equipementsdir}jinx_off.jpg
 
-==== http://harrypotter.wikia.com/wiki/Mrs_Norris[Miss Teigne (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Mrs_Norris[Miss Teigne (1 exemplaire)]
 
 ** *Regard perçant :* Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
 ** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
 
-* Citation :
 * Image : {equipementsdir}miss_teigne.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé (1 exemplaire) (0.30 - TODO - Effets - Citation)]
 
-** [Vous pouvez sacrifier 2 consommables pour avoir un des effets suivants :]
+** *Fabrication de potions :* sacrifiez 2 consommables pour avoir un effet aléatoire suivants :
 *** sdds
 
-* Citation :
 * Image : {equipementsdir}advanced_potion_making.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires)]
 
 * Réservé aux Antagonistes
 ** Ne peut être défaussé, ni vendu.
 ** Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
-* Citation :
+* Citation : _"Je te montre la mienne si tu me montres la tienne."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
 * Image : {equipementsdir}dark_mark.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (3 exemplaires) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (3 exemplaires)]
 
 * Interdit aux Antagonistes.
 ** Ne peut être vendu.
 ** Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
-* Citation :
 * Image : {equipementsdir}dumbledore_army_coin.jpg
 
-==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire)]
 
 ** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Citation :
 * Image : {equipementsdir}nimbus_2001.jpg
 
-==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire)]
 
 ** *Envol :* vous rajoute 1 de portée.
 ** *Loyauté :* vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
 ** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
-* Citation :
 * Image : {equipementsdir}buckbeak.jpg
 
 === Epique
 
-==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire)]
 
 * *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
 * *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums, se limite à [X] effets par cible.
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
-* Citation :
+* Citation : _"Nagini, mange."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
 * Image : {equipementsdir}thestral.jpg
 
 
-==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (1 exemplaire)]
 
 * *Monture de mauvaise augure :* vous ne pouvez équiper le Sombral que si vous avez été au seuil de la mort au moins une fois.
 * *Squelette musclé :* vous permet d'avoir une carte de plus dans votre main.
 * *Odeur du sang :* lors de votre phase de déplacement, vous pouvez vous approcher d'une case supplémentaire vers un personnage blessé s'il est à votre portée.
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
-* Citation :
+* Citation : _"Ils sont juste un peu... différents."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
 * Image : {equipementsdir}thestral.jpg
 
-==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
 
 * Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
 * Vos attaquants ont -1 de portée.
 
-* Citation :
+* Citation : _"Gryffondor mène par quatre-vingts points à zéro et regardez un peu les performances de l'Éclair de Feu !"_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
 * Image : {equipementsdir}firebolt.jpg
 
-==== http://harrypotter.wikia.com/wiki/Hand_of_Glory[Main de la gloire (1 exemplaire) (0.65 - TODO - Effets - Citation)]
+==== http://harrypotter.wikia.com/wiki/Hand_of_Glory[Main de la gloire (1 exemplaire)]
 
+* *Déverrouillage (3 charges d'utilisation) :* vous pouvez annulez les effets d'un Lieu dont vous seriez la cible.
 * L'effet de la _Poudre d'Obscurité Instantanée du Pérou_ est annulé lorsque vous attaquez.
-* [effet supplémentaire ?]
 
-* Citation :
 * Image : {equipementsdir}hand_of_glory.jpg
 
 === Légendaire
 
-==== http://harrypotter.wikia.com/wiki/Resurrection_Stone[Pierre de Résurrection (1 exemplaire) (0.30 - TODO - Effets - Citation)]
+==== http://harrypotter.wikia.com/wiki/Resurrection_Stone[Pierre de Résurrection (1 exemplaire)]
 
 * Vous pouvez demander au dernier joueur décédé de regarder toutes les mains des autres joueurs afin de vous en informer. Il n'est pas obligé de dire la vérité.
 * Peut être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
 * Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
-* Citation :
+* Citation : _"Si on pouvait faire revenir les morts[...] Mais si on en croit Beedle le Barde, ils n'auraient pas eu envie de revenir."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
 * Image : {equipementsdir}resurrection_stone.jpg
 
 === Total : 18
@@ -310,11 +302,10 @@
 
 * Image : {equipementsdir}spider_earrings.jpg
 
-==== http://harrypotter.wikia.com/wiki/Quidditch_helmet[Casque de Quidditch (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Quidditch_helmet[Casque de Quidditch (1 exemplaire)]
 
 * +1 de défense, +1 de défense en plus si vous êtes attaqué au corps-à-corps.
 
-* Citation :
 * Image : {equipementsdir}quidditch_helmet.jpg
 
 === Rare
@@ -376,3 +367,6 @@
 * http://harrypotter.wikia.com/wiki/Dragon-skin_coat
 
 = Idées
+
+
+== Acces
