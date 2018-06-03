@@ -161,7 +161,7 @@
 * +1 de portée, +1 d'attaque.
 * *Initiative :* +1 d'attaque et +1 de défense si vous avez attaqué un autre personnage durant le tour dernier.
 * *Favorable à l'indécision :* si vous avez au moins 2 cibles possibles à attaquer, choisissez-en une aléatoirement et gagner un bonus de +1 d'attaque.
-* *Maîtrise :* si vous avez bénéficier 3 fois de l'effet _Favorable à l'indécision_ ou 5 fois de l'_Initiative_, votre bonus d'_Initiative_ passe à 2 d'attaque et de défense au lieu de 1, et l'ancienneté de l'attaque peut remonter à 2 tours. Votre bonus de _Favorable à l'indécision_ passe à 2 d'attaque.
+* *Maîtrise :* si vous avez bénéficié 4 fois de l'effet _Favorable à l'indécision_ et / ou l'_Initiative_ (les deux se cumulant), votre bonus d'_Initiative_ passe à 2 d'attaque et de défense au lieu de 1, et l'ancienneté de l'attaque peut remonter à 2 tours. Votre bonus de _Favorable à l'indécision_ passe à 2 d'attaque.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
 * Image : {equipementsdir}wand_hetre.jpg
@@ -171,7 +171,7 @@
 * +1 de portée, +2 d'attaque et +2 de défense.
 * *Spécisme :* bonus de +1 d'attaque et de défense si l'ennemi possède un accessoire avec la compétence _Compagnon_.
 * *Endeuillement :* malus de -1 d'attaque et de défense si un autre personnage de votre alignement est décédé pendant la partie.
-* *Maîtrise :* après détruit un accessoire adverse disposant de la compétence _Compagnon_, votre bonus de _Spécisme_ passe à 2 d'attaque et de défense au lieu de 1.
+* *Maîtrise :* après avoir détruit un accessoire adverse disposant de la compétence _Compagnon_, votre bonus de _Spécisme_ passe à 2 d'attaque et de défense au lieu de 1.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
 * Image : {equipementsdir}wand_chataignier.jpg
@@ -192,7 +192,7 @@
 
 * +1 de portée et +2 d'attaque.
 * *Belliqueuse :* +1 d'attaque si vous attaquez une cible pour la première fois (lieux comme personnages).
-* *Maîtrise :* après avoir blessé au moins la moitié des autres joueurs toujours en vie, votre bonus de _Belliqueuse_ passe à 2 d'attaque au lieu de 1. Vous disposez désormais d'un bonus de défense de 2 en vous défendant contre un joueur que vous avez blessé.
+* *Maîtrise :* après avoir blessé au moins la moitié supérieure des autres joueurs toujours en vie, votre bonus de _Belliqueuse_ octroie également un bonus de défense de 2 en vous défendant contre un joueur que vous avez blessé. Vous débloquez aussi l'effet *Furie sanguinaire :* vous avez actuellement +1 d'attaque pour chaque joueur encore en vie que vous avez blessé dans la partie.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 
 * Image : {equipementsdir}wand_prunellier.jpg
@@ -202,7 +202,7 @@
 * +1 de portée, +2 d'attaque et +2 de défense.
 * *Bourreau :* +1 d'attaque contre les personnages au seuil de la mort.
 * *Opportuniste :* lorsque vous êtes vaincu lors d'une attaque par un personnage ayant moins de blessures actuelles que vous, l'arme parvient en sa possession.
-* *Maîtrise :* après avoir achevé définitivement un autre personnage, désormais, vos blessures amenant des personnages au seuil de la Mort les tue directement à la place.
+* *Maîtrise :* après avoir achevé définitivement un autre personnage, désormais, vos blessures amenant des personnages au seuil de la Mort les tuent directement à la place. Vous débloquez également la compétence *Moissoneur de vie :* tous les deux personnages que vous avez achevé définitivement vous confère +1 d'attaque et de défense (mettez leurs cartes _Personnages_ en dessous de la votre).
 
 * Image : {equipementsdir}wand_if.jpg
 
@@ -232,9 +232,9 @@
 
 ==== http://harrypotter.wikia.com/wiki/Sword_of_Gryffindor[Epée de Godric Griffondor (1 exemplaire)]
 
-* +1 d'attaque.
+* +2 d'attaque et +1 de défense.
 * Cette épée garde ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
-* A chaque fois que vous attaquez un adversaire, si la différence en votre faveur est égal ou supérieur à 4, l'arme adverse est brisée et la votre gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les armes sont défaussées éternellement, placez-les sous la carte de l'Epée).
+* A chaque fois que vous attaquez un adversaire, si la différence en votre faveur est égal ou supérieur à 4, un équipement adverse est brisé et l'_Epée de Godric Griffondor_ gagne systématiquement ses effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les équipements sont défaussées éternellement, placez-les sous la carte de l'_Epée de Godric Griffondor_).
 
 * Image : {equipementsdir}godrics_sword.jpg
 
@@ -274,8 +274,8 @@
 
 ==== http://harrypotter.wikia.com/wiki/Cloak_of_Invisibility[Cape d'Invisibilité (1 exemplaire) (0.80 - TODO - Effets - Citation)]
 
-* [On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.]
-* [Résister aux effets négatifs ?]
+* *Invisibilité :* On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+* *[Nom] :* Vous ne pouvez être la cible d'effets directs vous infligeant des blessures de la part d'autres joueurs (charges d'équipements, consommables, capacités de personnages, etc.).
 * Peut être équipé avec la _Pierre de Résurrection_ et la _Baguette de Sureau_.
 * Si vous avez aussi équipé dans la partie la _Pierre de Résurrection_ et la _Baguette de Sureau_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
