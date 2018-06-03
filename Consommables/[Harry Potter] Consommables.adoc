@@ -119,7 +119,7 @@
 
 * Utilisable à tout moment
 * *Effet(s) :*
-* Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place et en annulera les effets. Cela ne peut achever un joueur.
+** Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place et en annulera les effets. Cela ne peut achever un joueur.
 
 * Image : {consommablesdir}nose_biting_teacup.jpg
 * Catégorie : Attaque / Contre

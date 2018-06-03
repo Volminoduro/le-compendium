@@ -9,5 +9,6 @@ https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9p%C3%A9es_de_fiction
   ** Augmente ses dégâts de 1 à chaque personnage adverse achevé.
   ** Boost dégâts, contrainte : obligé d'attaquer un personnage à chaque tour sinon vous inflige 1 blessure.
   ** Arme qui rajoute des points de charge au pouvoir de personnage ?
+  ** Arme : quand on attaque pas dnas le otur, gagne +1 de dgt, consommé à la prochaien attaque
 
 * Jouer son tour quand on veut entre deux tours du meneur de jeu

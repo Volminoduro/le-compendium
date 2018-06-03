@@ -16,23 +16,23 @@
 
 ==== http://harrypotter.wikia.com/wiki/Foe-Glass[Glace à l'ennemi (2 exemplaires)]
 
-** *Détecteur de magie noire (1 charge) :* Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre ou non.
-*** Si vous êtes Antagoniste :
-**** Si la cible est Protagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
-**** Si la cible est Antagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
-*** Si vous êtes Protagoniste :
-**** Si la cible est Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
-**** Si la cible est Protagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
-*** Si vous êtes Neutre :
-**** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
-**** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+* *Détecteur de magie noire (1 charge) :* Le joueur ayant joué avant vous et celui devant joué après vous doivent vous dire à l'oreille s'ils sont d'un alignement contraire au vôtre ou non.
+** Si vous êtes Antagoniste :
+*** Si la cible est Protagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+*** Si la cible est Antagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+** Si vous êtes Protagoniste :
+*** Si la cible est Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+*** Si la cible est Protagoniste ou Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
+** Si vous êtes Neutre :
+*** Si la cible est Protagoniste ou Antagoniste, elle doit vous dire qu'elle est d'un alignement contraire au vôtre.
+*** Si la cible est Neutre, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
 * Citation : _"Tu les vois, là, qui rôdent tout autour ? Je ne risque pas grand-chose tant que je ne vois pas le blanc de leurs yeux."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
 * Image : {equipementsdir}Foe_glass.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire)]
 
-** Vous pouvez vous déplacer d'une case, dans le sens que vous voulez, au lieu de lancer les dés.
+* Lors de votre phase de déplacement, vous pouvez vous déplacer d'une case, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Image : {equipementsdir}cleansweep_11.jpg
 
@@ -48,47 +48,47 @@
 
 ==== http://harrypotter.wikia.com/wiki/Mrs_Norris[Miss Teigne (1 exemplaire)]
 
-** *Regard perçant :* Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
-** *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
+* *Regard perçant :* Annule les malus de portée d'un adversaire de combat s'il est à 1 de portée ou moins de vous.
+* *Compagnon* : Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
 
 * Image : {equipementsdir}miss_teigne.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé (1 exemplaire) (0.30 - TODO - Effets - Citation)]
 
-** *Fabrication de potions :* sacrifiez 2 consommables pour avoir un effet aléatoire suivants :
-*** sdds
+* *Fabrication de potions :* sacrifiez 2 consommables pour avoir un effet aléatoire suivants :
+** sdds
 
 * Image : {equipementsdir}advanced_potion_making.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires)]
 
 * Réservé aux Antagonistes
-** Ne peut être défaussé, ni vendu.
-** Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
+* Ne peut être vendu, ne peut être défaussé si équipé.
+* Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 * Citation : _"Je te montre la mienne si tu me montres la tienne."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
 * Image : {equipementsdir}dark_mark.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Pièce de l'Armée de Dumbledore (3 exemplaires)]
+==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Gallion de l'Armée de Dumbledore (3 exemplaires)]
 
 * Interdit aux Antagonistes.
-** Ne peut être vendu.
-** Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
+* Ne peut être vendu.
+* Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
 
 * Image : {equipementsdir}dumbledore_army_coin.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire)]
 
-** Vous pouvez vous déplacer jusqu'à deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
+* Lors de votre phase de déplacement, vous pouvez vous déplacer de deux cases, dans le sens que vous voulez, au lieu de lancer les dés.
 
 * Citation :
 * Image : {equipementsdir}nimbus_2001.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire)]
 
-** *Envol :* vous rajoute 1 de portée.
-** *Loyauté :* vous ne pouvez bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
-** *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
+* *Envol :* vous rajoute 1 de portée.
+* *Loyauté :* vous ne pouvez pas bénéficier du bonus de cet équipement pour attaquer un de ses anciens propriétaires.
+* *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Image : {equipementsdir}buckbeak.jpg
 
@@ -97,7 +97,7 @@
 ==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire)]
 
 * *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
-* *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums, se limite à [X] effets par cible.
+* *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums que vous pouvez subir.
 * *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 2 blessures).
 
 * Citation : _"Nagini, mange."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
@@ -116,8 +116,8 @@
 
 ==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
 
-* Vous pouvez vous déplacer jusqu'à trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
-* Vos attaquants ont -1 de portée.
+* Lors de votre phase de déplacement, vous pouvez vous déplacer de trois cases, dans le sens que vous voulez, au lieu de lancer les dés.
+* Vos attaquants ont -1 de portée lorsqu'ils vous ciblent.
 
 * Citation : _"Gryffondor mène par quatre-vingts points à zéro et regardez un peu les performances de l'Éclair de Feu !"_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
 * Image : {equipementsdir}firebolt.jpg
@@ -125,7 +125,7 @@
 ==== http://harrypotter.wikia.com/wiki/Hand_of_Glory[Main de la gloire (1 exemplaire)]
 
 * *Déverrouillage (3 charges d'utilisation) :* vous pouvez annulez les effets d'un Lieu dont vous seriez la cible.
-* L'effet de la _Poudre d'Obscurité Instantanée du Pérou_ est annulé lorsque vous attaquez.
+* Lorsque vous attaquez un autre personnage, la _Poudre d'Obscurité Instantanée du Pérou_ ne pourra lui faire fuir le combat.
 
 * Image : {equipementsdir}hand_of_glory.jpg
 
@@ -134,8 +134,8 @@
 ==== http://harrypotter.wikia.com/wiki/Resurrection_Stone[Pierre de Résurrection (1 exemplaire)]
 
 * Vous pouvez demander au dernier joueur décédé de regarder toutes les mains des autres joueurs afin de vous en informer. Il n'est pas obligé de dire la vérité.
-* Peut être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
-* Si vous avez équipé dans la partie la Cape d'Invisibilité et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+* Peut être équipé avec la _Cape d'Invisibilité_ et _Baguette de Sureau_.
+* Si vous avez aussi équipé dans la partie la _Cape d'Invisibilité_ et la _Baguette de Sureau_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation : _"Si on pouvait faire revenir les morts[...] Mais si on en croit Beedle le Barde, ils n'auraient pas eu envie de revenir."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
 * Image : {equipementsdir}resurrection_stone.jpg
@@ -221,11 +221,11 @@
 
 * +1 de portée, +1 d'attaque et +1 de défense.
 * *Duplicateur de puissance :* Double tous vos bonus d'attaque , qu'ils soient actifs ou passifs.
-* *Maîtrise :* [si sortez victorieux d'un combat contre tous les autres joueurs de la partie (que ce soit en se défendant ou en attaquant)], l'effet _Duplicateur de puissance_ double également tous vos bonus de défense.
+* *Maîtrise :* [si sortez victorieux d'un combat contre tous les autres joueurs de la partie encore en vie (que ce soit en se défendant ou en attaquant)], l'effet _Duplicateur de puissance_ double également tous vos bonus de défense.
 * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maitrise.
 * *Allégeance intéressée :* Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de votre assaillant.
-* Peut-être équipé avec la Pierre de Résurrection et la Cape d'Invisibilité.
-* Si vous avez équipé dans la partie la Cape d'Invisibilité et la Pierre de Résurrection, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+* Peut être équipé avec la _Pierre de Résurrection_ et la _Cape d'Invisibilité_.
+* Si vous avez aussi équipé dans la partie la _Cape d'Invisibilité_ et la _Pierre de Résurrection_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation : _"[...] les humains ont le don de jeter leur dévolu sur les choses qui, précisément, leur font le plus de mal."_ Harry Potter, J.K Rowling.
 * Image : {equipementsdir}elder_wand.jpg
@@ -276,8 +276,8 @@
 
 * [On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.]
 * [Résister aux effets négatifs ?]
-* Peut-être équipé avec la Pierre de Résurrection et la Baguette de Sureau.
-* Si vous avez équipé dans la partie la Pierre de Résurrection et la Baguette de Sureau, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+* Peut être équipé avec la _Pierre de Résurrection_ et la _Baguette de Sureau_.
+* Si vous avez aussi équipé dans la partie la _Pierre de Résurrection_ et la _Baguette de Sureau_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
 * Citation :
 * Image : {equipementsdir}invisbility_cloak.jpg

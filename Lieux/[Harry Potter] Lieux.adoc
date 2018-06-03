@@ -108,7 +108,7 @@
 
 === http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean]
 
-** *Rencontre avec les rafleurs :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case de distance du Lieu doit affronter un groupe de rafleurs. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
+* *Rencontre avec les rafleurs :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case de distance du Lieu doit affronter un groupe de rafleurs. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
 
 * Image : {lieuxdir}forest_of_dean.jpg
 
