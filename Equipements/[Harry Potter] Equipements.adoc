@@ -53,13 +53,6 @@
 
 * Image : {equipementsdir}miss_teigne.jpg
 
-==== http://harrypotter.wikia.com/wiki/Severus_Snape%27s_copy_of_Advanced_Potion-Making[Livre de potions du Prince de Sang-Mêlé (1 exemplaire) (0.30 - TODO - Effets - Citation)]
-
-* *Fabrication de potions :* sacrifiez 2 consommables pour avoir un effet aléatoire suivants :
-** sdds
-
-* Image : {equipementsdir}advanced_potion_making.jpg
-
 ==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires)]
 
 * Réservé aux Antagonistes
@@ -130,6 +123,17 @@
 * Image : {equipementsdir}hand_of_glory.jpg
 
 === Légendaire
+
+==== http://harrypotter.wikia.com/wiki/House-elf[Elfe de maison (1 exemplaire)]
+
+* *Magie elfe :* +2 d'attaque et de défense.
+* *Esclave dévoué :* si une blessure de combat devrait vous faire passer au _Seuil de la mort_, cette carte se défaussera éternellement à la place.
+* *Transplanage elfe :* au tour suivant, l'_Elfe de maison_ se rendra sur la case désirée et en activera l'effet pour vous. Vous ne pourrez bénéficier de ses autres effets pendant ce tour.
+* *LIBRE, mais reconnaissant :* si un joueur (y compris vous), à portée de vous, est le premier à confier un équipement de tête ou de corps à l'_Elfe de maison_ (celle-ci vient donc en dessous de cette carte), il en acquiert la possession et s'en équipe.
+* *Compagnon :* Peut être ciblé par un adversaire pour subir les conséquences d'un combat à votre place (est défaussé définitivement s'il subit 1 blessure).
+
+* Citation : _"Les elfes de maison n'ont pas à s'amuser, Harry Potter. Les elfes de maison doivent faire ce qu'on leur dit de faire."_ Harry Potter, J.K Rowling.
+* Image : {equipementsdir}house_elf.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Resurrection_Stone[Pierre de Résurrection (1 exemplaire)]
 
@@ -386,11 +390,3 @@
 * http://harrypotter.wikia.com/wiki/Lizard_Belt
 
 = Idées
-
-==== Elfe de maison
-
-* +2 d'attaque et de défense.
-* Peut se tp à une autre case pour déclencher l'effet pour vous (mais absence des bonus).
-* Se sacrifiera pour que vous ne soyez pas au seuil de la mort.
-* Par contre, un joueur (y compris vous), s'il est le premier à le faire et qu'il est à sa portée, peut lui offrir un équipement de tête ou de corps (celle-ci vient donc en dessous de la carte elfe et sera défaussée en même temps que lui) afin d'en avoir le contrôle.
-* Compagnon : meurt s'il subit 1 blessure.
