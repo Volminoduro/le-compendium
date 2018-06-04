@@ -12,3 +12,6 @@ https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9p%C3%A9es_de_fiction
   ** Arme : quand on attaque pas dnas le otur, gagne +1 de dgt, consommé à la prochaien attaque
 
 * Jouer son tour quand on veut entre deux tours du meneur de jeu
+
+* Accessoire :
+  ** Chien de guerre : attaque à votre place pour une valeur fixe de 3 d'attaque.

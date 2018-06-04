@@ -62,7 +62,7 @@
 
 * Vous permet de regagner jusqu'à 1 charge sur l'équipement de votre choix.
 * Vous pouvez regagner 1 charge supplémentaire pour 1 points d'équipement, utilisable plusieurs fois sur plusieurs équipements.
-* Vous ne pouvez tenter cette action que si vous êtes le premier à le faire : si la _Baguette de Sureau_ n'est pas en possession d'un joueur, vous pouvez tenter d'attaquer Gregorovitch. Si le résultat est supérieur à 5, emparez-vous de l'arme. Les effets de ce Lieu sera annulé pour vous jusqu'à la fin de la partie.
+* Vous ne pouvez tenter cette action que si vous êtes le premier à le faire : si la _Baguette de Sureau_ n'est pas en possession d'un joueur, vous pouvez tenter d'attaquer Gregorovitch. Si le résultat est supérieur à 5, emparez-vous de l'arme. Les effets de ce Lieu sera annulé pour vous jusqu'à la fin de la partie, peu importe le résultat.
 
 * Image : {lieuxdir}gregorovitch_workshop.jpg
 

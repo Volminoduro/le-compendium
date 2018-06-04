@@ -8,7 +8,7 @@
 
 
 * Vous pouvez équiper / défausser vos objets que durant votre tour.
-* Vous ne pouvez pas vous déséquiper de vos objets pour les récupérer dans votre main.
+* Vous ne pouvez pas vous déséquiper de vos objets pour les récupérer dans votre main, mais seulement pour les défausser.
 * Les équipements ont plusieurs rangs de rareté : Commun, Rare, Épique et Légendaire.
 * Les personnages ne peuvent porter qu'un seul équipement légendaire à la fois (sauf exception).
 * Les équipements sont attribués à des emplacements : Tête, corps, arme et accessoire.

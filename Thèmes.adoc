@@ -16,7 +16,7 @@
 |Consommables |24 |24 (24)
 |Lieux |18 |18 (18)
 |Equipement : Tête |9 |9 (9)
-|Equipement : Corps |9 |3 (still TODO)
+|Equipement : Corps |9 |8 (7.70 - TODO - Effets Cape en écailles de dragon - Need un équipement en plus)
 |Equipement : Accessoires |18 |18 (17.30 - TODO - Le Manuel de potions du prince de sang-mêlé)
 |Equipement : Arme |9 |9
 |=======

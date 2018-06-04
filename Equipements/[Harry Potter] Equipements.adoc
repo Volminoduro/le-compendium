@@ -244,35 +244,48 @@
 
 === Commune
 
-===== http://harrypotter.wikia.com/wiki/Shield_Cloak[Manteau bouclier (2 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Shield_Cloak[Manteau bouclier (2 exemplaire)]
 
-* *Bouclier contre-tout, mais pas si puissant... :* la prochaine attaque reçu devant vous infliger une blessure ne vous infligera pas une blessure mais détruirera cet objet à la place. Cela ne fonctionne pas lorsque vous êtes au seuil de la mort.
+* *Bouclier contre-tout, mais pas si puissant... :* la prochaine attaque reçu devant vous infliger une blessure ne vous infligera pas une blessure mais détruirera cet objet à la place. Cela ne fonctionne pas lorsque vous êtes au Seuil de la Mort.
 
 * Image : {equipementsdir}shield_cloak.jpg
 
+
+==== http://harrypotter.wikia.com/wiki/Porcupine_Robe[Robe porc-épine (1 exemplaire)]
+
+* +2 de défense.
+* *Qui s'y frotte, s'y pique (3 charges d'utilisation) :* lors d'une défense d'une attaque au corps-à-corps, si le résultat est en votre faveur (l'égalité attaque / défense ne compte pas), vous infligez une blessure à votre assaillant, cela peut le tuer.
+
+* Image : {equipementsdir}porcupine_robe.jpg
+
 === Rare
 
-==== http://harrypotter.wikia.com/wiki/Jinx-Off[Cape de démalédiction (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Cape de démalédiction (1 exemplaire)]
 
-* Vous octroie 1 de défense.
+* +1 de défense.
 * *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_, chaque objet vous octroie de 2 défense au lieu de 1. Les effets *Ensemble complet de démalédiction* ne peuvent se cumuler.
 * *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
 
-* Citation :
 * Image : {equipementsdir}jinx_off.jpg
 
-==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard (1 exemplaire) (0.95 - TODO - Citation)]
+==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard (1 exemplaire)]
 
-* *Invisibilité dégradative (2 charges) :*
-** Utilisable uniquement durant votre tour, dure 1 tour.
-** On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+* *Invisibilité dégradative (2 charges) :* Pendant 1 tour, on ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
-* Citation :
 * Image : {equipementsdir}invisbility_cloak_standard.jpg
 
 === Epique
 
-==== http://harrypotter.wikia.com/wiki/Dragon-skin_coat[Cape en écailles de dragon (1 exemplaire)]
+==== http://harrypotter.wikia.com/wiki/Beautifying_robes[Robe enjolivante (1 exemplaire)]
+
+* *Beauté bluffante :*
+** vous pouvez annuler la première fois qu'un autre personnage vous attaque.
+** votre premier achat au marchand d'or ne vous coûte que 1.
+** votre premier achat au marchand de sang ne vous coûte que 1.
+
+* Image : {equipementsdir}beautifying_robe.jpg
+
+==== http://harrypotter.wikia.com/wiki/Dragon-skin_coat[Cape en écailles de dragon (1 exemplaire) (0.70 - TODO - Effets)]
 
 * +3 de défense.
 * [Effet supplémentaire].
@@ -282,17 +295,16 @@
 
 === Légendaire
 
-==== http://harrypotter.wikia.com/wiki/Cloak_of_Invisibility[Cape d'Invisibilité (1 exemplaire) (0.80 - TODO - Effets - Citation)]
+==== http://harrypotter.wikia.com/wiki/Cloak_of_Invisibility[Cape d'Invisibilité (1 exemplaire)]
 
 * *Invisibilité :* On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
-* *[Nom] :* Vous ne pouvez être la cible d'effets directs vous infligeant des blessures de la part d'autres joueurs (charges d'équipements, consommables, capacités de personnages, etc.).
+* Vous ne pouvez être la cible d'effets directs vous infligeant des blessures de la part d'autres joueurs (charges d'équipements, consommables, capacités de personnages, etc.).
 * Peut être équipé avec la _Pierre de Résurrection_ et la _Baguette de Sureau_.
 * Si vous avez aussi équipé dans la partie la _Pierre de Résurrection_ et la _Baguette de Sureau_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
 
-* Citation :
 * Image : {equipementsdir}invisbility_cloak.jpg
 
-=== Total : 5
+=== Total : 9
 
 == Tête
 
@@ -362,7 +374,6 @@
 
 = Ressources
 
-* http://harrypotter.wikia.com/wiki/Peter_Pettigrew's_wand
 * http://harrypotter.wikia.com/wiki/Wand_core
 * http://harrypotter.wikia.com/wiki/Wand_wood
 * http://harrypotter.wikia.com/wiki/Wand
@@ -372,10 +383,14 @@
 
 * Faire le tour des animaux qui existent dans l'univers
 
-* http://harrypotter.wikia.com/wiki/Dragon-skin_coat
+* http://harrypotter.wikia.com/wiki/Lizard_Belt
 
 = Idées
 
-* Sac à main d'hermione pour stocker plus d'objet ? Carte commune + 1 emplacement de carte en main 
+==== Elfe de maison
 
-== Acces
+* +2 d'attaque et de défense.
+* Peut se tp à une autre case pour déclencher l'effet pour vous (mais absence des bonus).
+* Se sacrifiera pour que vous ne soyez pas au seuil de la mort.
+* Par contre, un joueur (y compris vous), s'il est le premier à le faire et qu'il est à sa portée, peut lui offrir un équipement de tête ou de corps (celle-ci vient donc en dessous de la carte elfe et sera défaussée en même temps que lui) afin d'en avoir le contrôle.
+* Compagnon : meurt s'il subit 1 blessure.
