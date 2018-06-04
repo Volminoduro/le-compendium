@@ -244,9 +244,11 @@
 
 === Commune
 
-===== http://harrypotter.wikia.com/wiki/Shield_Cloak[Manteau bouclier]
+===== http://harrypotter.wikia.com/wiki/Shield_Cloak[Manteau bouclier (2 exemplaire)]
 
-* Encaisser une seule attaque ?
+* *Bouclier contre-tout, mais pas si puissant... :* la prochaine attaque reçu devant vous infliger une blessure ne vous infligera pas une blessure mais détruirera cet objet à la place. Cela ne fonctionne pas lorsque vous êtes au seuil de la mort.
+
+* Image : {equipementsdir}shield_cloak.jpg
 
 === Rare
 
@@ -270,6 +272,14 @@
 
 === Epique
 
+==== http://harrypotter.wikia.com/wiki/Dragon-skin_coat[Cape en écailles de dragon (1 exemplaire)]
+
+* +3 de défense.
+* [Effet supplémentaire].
+* *Extrêmement rare :* peut être vendu comme étant de qualité Légendaire.
+
+* Image : {equipementsdir}dragon_cloak.jpg
+
 === Légendaire
 
 ==== http://harrypotter.wikia.com/wiki/Cloak_of_Invisibility[Cape d'Invisibilité (1 exemplaire) (0.80 - TODO - Effets - Citation)]
@@ -282,7 +292,7 @@
 * Citation :
 * Image : {equipementsdir}invisbility_cloak.jpg
 
-=== Total : 3
+=== Total : 5
 
 == Tête
 
@@ -366,5 +376,6 @@
 
 = Idées
 
+* Sac à main d'hermione pour stocker plus d'objet ? Carte commune + 1 emplacement de carte en main 
 
 == Acces
