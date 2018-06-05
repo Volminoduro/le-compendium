@@ -18,7 +18,7 @@
 |Equipement : Tête |9 |9 (9)
 |Equipement : Corps |9 |8 (7.70 - TODO - Effets Cape en écailles de dragon - Need un équipement en plus)
 |Equipement : Accessoires |18 |18 (18)
-|Equipement : Arme |9 |9
+|Equipement : Arme |9 |9 (9)
 |=======
 
 = Formules de calcul
