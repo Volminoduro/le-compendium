@@ -138,11 +138,11 @@
 
 == Protagoniste
 
-=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (0.75 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter]
 
   * [red]*5 Blessures.*
   * [*La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.]
-  * *Accio (1 utilisation tous les 2 tours):* Pendant votre tour, vous pouvez récuperer une carte de la pile Consommables ou Equipements [Voir pour nommer la carte)].
+  * *Accio (1 utilisation tous les 2 tours):* Pendant votre tour, nommez une carte de la pile Consommables ou Equipements, si celle-ci se trouve dans les 3 prochaines cartes, récupérez-la. Puis, placez les autres cartes révélées sous le dessous de la pile.
   * *Expelliarmus (1 utilisation disponible tous les 2 joueurs dans la partie) :* lors d'un combat, désactivez toutes les armes équipées de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul de l'attaque / défense. Si le résultat du combat est en la faveur d'Harry, toutes les armes équipées de l'adversaire lui reviennent.
 
   * Citation : _"Je suis un... quoi ?"_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
@@ -155,6 +155,7 @@
   * *Sectum sempra (1 utilisation tous les 2 tours) :* au lieu d'attaquer directement une cible, vous lui infliger 1 blessure puis 1 blessure au début de son prochain tour.
   * *Maître des potions :* vous pouvez défausser 2 consommables pour avoir l'un des effets suivants :
   ** Il faudrait une liste un peu des potions etc.
+  ** Placez le marqueur du joueur ciblé à 3 de Blessures ?
 
   * Citation : _"A jamais."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
   * Image : {personnagesdir}severus_rogue.jpg
