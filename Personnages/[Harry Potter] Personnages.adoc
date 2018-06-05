@@ -42,13 +42,15 @@
   * Citation : _"Vous êtes un peu trop curieux pour vivre bien longtemps, Potter."_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}quirinus_quirell.jpg
 
-=== http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald (0.05 - TODO) - Réservé ça pour une extension Animaux Fantastiques ?]
+=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage (0.45 - TODO)]
 
-  * [red]*X Blessures.*
-  * <TODO>
+    * [red]*4 Blessures.*
+    * *Incarcerem :* [empêcher un joueur d'attaquer / se déplacer ?]
+    * *Membre du ministère :* [?]
+    * *Corruptible :* les cibles que vous attaquez peuvent vous payer 3 points d'équipements pour éviter l'attaque.
 
-  * Citation :
-  * Image :
+    * Citation : _"J’ai hâte de vous connaître tous et je suis sûre que nous deviendrons vite de très bons amis !"_, Harry Potter et l’Ordre du Phénix, J.K Rowling, 2003.
+    * Image : {personnagesdir}dolores_umbridge.jpg
 
 === http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback]
 
@@ -112,15 +114,14 @@
   * Citation :
   * Image :
 
-=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage (0.45 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Peeves[Peeves (0.20 - TODO)]
 
-  * [red]*4 Blessures.*
-  * *Incarcerem :* [empêcher un joueur d'attaquer / se déplacer ?]
-  * *Membre du ministère :* [?]
-  * *Corruptible :* [demander des consos / equipements aux cibles pour ne pas qu'elles se fassent attaquer.]
+* [red]*X Blessures.*
+* *Ectoplasme ? :*
+* *Invisibilité :*
 
-  * Citation : _"J’ai hâte de vous connaître tous et je suis sûre que nous deviendrons vite de très bons amis !"_, Harry Potter et l’Ordre du Phénix, J.K Rowling, 2003.
-  * Image : {personnagesdir}dolores_umbridge.jpg
+* Citation : _"Je dirai quelque chose quand on me dira s’il te plaît. [...] QUELQUE CHOSE ! Ha ! Ha ! Ha ! Je vous avais prévenu."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
+* Image : {personnagesdir}peeves.jpg
 
 === http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander]
 
@@ -138,7 +139,7 @@
   * *Récupérateur :* au lieu d'attaquer, vous pouvez récupérer la dernière carte dans la défausse des consommables.
   * *Refourgueur :* vos consommables valent 1 point d'équipement et peuvent être vendus en tant que tels.
   * *Réseau d'informateurs intéressés :* Pendant votre tour, vous pouvez sacrifier 2 points d'équipement pour regarder la carte personnage ou quête d'un autre personnage. Peut être fait plusieurs fois par tour.
-  * *Négociateur :* pour chaque auprès du _Marchand d'or_, vous pouvez lancer les deux dés, si le résultat est supérieur à 4, cela ne vous coutera que 1 point d'équipement.
+  * *Négociateur :* pour chaque auprès du _Marchand d'or_, vous pouvez lancer les deux dés, si le résultat est supérieur à 4, cela ne vous coutera que 2 points d'équipements.
   * *Couardise :* vous ne pouvez attaquer si vous êtes à une blessure du seuil de la Mort.
 
   * Citation : _"C’est Mondingus, il a été arrêté et envoyé à Azkaban ! Il s’est fait passer pour un Inferius au cours d’une tentative de cambriolage…"_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
@@ -242,3 +243,11 @@
 * http://harrypotter.wikia.com/wiki/Unbreakable_Vow
 * Delphini
 * Lucius Malfoy ?
+
+== http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald (0.05 - TODO) - Réservé ça pour une extension Animaux Fantastiques ?]
+
+  * [red]*X Blessures.*
+  * <TODO>
+
+  * Citation :
+  * Image :
