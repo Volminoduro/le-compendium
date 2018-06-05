@@ -12,23 +12,25 @@
 
 == Antagoniste
 
-=== http://harrypotter.wikia.com/wiki/Tom_Riddle[Voldemort (0.80 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Tom_Riddle[Tom Jedusor (0.80 - TODO - Prophétie)]
 
   * [red]*5 Blessures.*
   * *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut se cumuler plusieurs fois.
-  * *La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu (Ou doubler les dégâts de l'un à l'autre ?).
-  * Une capacité ou un défaut en plus ?
+  * *Feudeymon (1 fois dans la partie) :* tous les personnages subissent 1 blessures, si cela achève un personnage, le sort se relance autant de fois que nécessaire.
+  * [*La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu (Ou doubler les dégâts de l'un à l'autre ?).]
 
-  * Citation : _"Allons, il faut respecter les usages… [...] Incline-toi devant la mort, Harry…"_, Harry Potter et la Coupe de Feu, J.K Rowling, 2000.
+  * Citation : _"Il n’y a pas de bien ni de mal, il n’y a que le pouvoir, et ceux qui sont trop faibles pour le rechercher…"_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}Voldemort.jpg
 
-=== http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Queue-De-Ver (0.35 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Peter Pettigrow (0.90 - TODO - Effets)]
 
-  * [red]*X Blessures.*
-  * *Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au seuil de la mort.
+  * [red]*4 Blessures.*
+  * *Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au _Seuil de la mort_.
+  * *Main d'argent :* +2 d'attaque tant que vous n'avez pas d'arme. [empêcher la trahison, pas droit d'être avec des prota ?]
+  * *Queudver :* Vous vous transformez en Animagus, vous ne pourrez plus agir pour le reste du tour. Sous cette forme, lancez que le dé à 4 faces pour se déplacer, -2 de portée adverse, vous ne pouvez attaquer d'autres personnages et au début de votre tour, vous pouvez voir la carte _Lieux_ la plus proche de vous. Vous pouvez réactiver cette compétence pour en annuler les effets.
 
-  * Citation :
-  * Image :
+  * Citation : _"Ta dévotion n'est rien d'autre que de la couardise. Tu ne serais pas ici si tu avais un autre endroit où aller."_, Harry Potter et la Coupe de Feu, J.K Rowling, 2000.
+  * Image : {personnagesdir}peter_pettigrew.jpg
 
 === http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirinus Quirrell]
 
@@ -48,7 +50,7 @@
   * Citation :
   * Image :
 
-=== http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback (0.90 - TODO - Effets)]
+=== http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback]
 
   * [red]*6 Blessures.*
   * *Lycanthropie :* Tous les 4 tours, après votre déplacement, vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
@@ -57,19 +59,21 @@
     ** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
     ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
   * *Préparation sélène :* Lors de votre déplacement précédant votre _Lycanthropie_, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous avancez de deux cases supplémentaires vers un autre personnage de votre choix.
-  * *Chef des rafleurs :* se rapprocher d'une cible, la racketter, gagner des golds en cas de capture ?.
+  * *Chef des rafleurs :* lors d'une attaque réussie, vous pouvez voler un objet équipé à votre cible plutôt que lui infliger une blessure.
 
   * Citation : _"Tu sais à quel point j’aime les enfants, Dumbledore."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
   * Image : {personnagesdir}fenrir_greyback.jpg
 
-=== [Bellastrix Lestrange (0.10 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Bellatrix_Lestrange[Bellastrix Lestrange]
 
-  * [red]*X Blessures.*
-  * *Cruauté :* chaque attaque consécutive envers un personnage vous donne +1 d'attaque, peut se cumuler jusqu'à [3] fois. Changer de cible fait repartir l'effet de zéro.
-  * <TODO>
+  * [red]*5 Blessures.*
+  * *Cruauté :* chaque attaque consécutive envers un personnage vous donne +1 d'attaque, peut se cumuler jusqu'à 3 fois. Changer de cible fait repartir l'effet de zéro.
+  * *Duelliste exceptionnelle :* Si vous avez attaqué avec succès au tour précédent, vous gagnez +2 d'attaque, +2 de défense et annuler l'effet d'_Orgueil mal placé_.
+  * *Orgueil mal placé :* si vous ne réussissez pas une attaque ou échouer une défense, baisse votre bonus de _Duelliste exceptionnelle_ de 1. Peut se cumuler jusqu'à vous conférer -2 d'attaque et -2 de défense.
+  * *Tortionnaire :* chaque blessure de combat que vous infligez à un autre personnage vous permet de gagner une unité de _Sang_. Le _Sang_ peut être utilisé comme monnaie auprès du _Marchand de sang_.
 
-  * Citation :
-  * Image :
+  * Citation : _"J'ai tué Sirius Black ! J'ai tué Sirius Black ! J'ai tué Sirius Black ! Essaies de m'attraper !"_, Harry Potter et l’Ordre du Phénix, J.K Rowling, 2003.
+  * Image : {personnagesdir}bellatrix_lestrange.jpg
 
 == Neutre
 
@@ -98,7 +102,7 @@
 
   * [red]*X Blessures.*
   * *Escroc :* Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage affecté par votre compétence _Oubliettes_. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence.
-  * *Oubliettes :* Pendant votre tour, ciblez un personnage autre que vous, lancez les deux dés.
+  * *Oubliettes :* Pendant votre tour, ciblez un personnage autre que vous, cela ne peut pas être deux fois la même cible consécutivement. Lancez les deux dés.
     ** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête ET ne pourra plus utiliser aucune de ses capacités de personnages.
     ** Si le résultat est 6, la cible ne gagnera pas de points s'il accomplit sa quête.
     ** Si le résultat est 3, vous ne gagnerez aucun points d'acomplissement de votre quête, ni de celle des autres.
@@ -138,7 +142,7 @@
 
 == Protagoniste
 
-=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter]
+=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (0.90 - TODO - La prophétie)]
 
   * [red]*5 Blessures.*
   * [*La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.]
@@ -179,10 +183,8 @@
     ** +3 d'attaque et +2 de défense. Votre arme ne peut pas être utilisée et n'a aucun effet.
     ** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
     ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
-  * *Duelliste talentueux...*
-    ** Si vous avez attaqué avec succès au tour précédent, vous gagnez un point d'attaque, peut être cumulé 2 fois.
-  * *...nécessitant de l'entretien.*
-    ** Si vous n'avez pas attaqué avec succès pendant les 2 derniers tours, vous perdez vos effets de Duelliste talentueux.
+  * *Duelliste talentueux... :* Si vous avez attaqué avec succès au tour précédent, vous gagnez +1 d'attaque et +1 de défense, peut être cumulé 2 fois.
+  * *...nécessitant de l'entretien. :* Si vous n'avez pas attaqué avec succès pendant les 2 derniers tours, vous perdez vos effets de Duelliste talentueux.
 
   * *Citation :* _"C'est de la force des convictions que dépend la réussite, pas du nombre de partisan."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
   * Image : {personnagesdir}remus_lupin.jpg
