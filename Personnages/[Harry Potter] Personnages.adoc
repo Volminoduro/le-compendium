@@ -112,21 +112,25 @@
   * Citation :
   * Image :
 
-=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage (0.05 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage (0.45 - TODO)]
 
-  * [red]*X Blessures.*
-  * <TODO>
+  * [red]*4 Blessures.*
+  * *Incarcerem :* [empêcher un joueur d'attaquer / se déplacer ?]
+  * *Membre du ministère :* [?]
+  * *Corruptible :* [demander des consos / equipements aux cibles pour ne pas qu'elles se fassent attaquer.]
 
-  * Citation :
-  * Image :
+  * Citation : _"J’ai hâte de vous connaître tous et je suis sûre que nous deviendrons vite de très bons amis !"_, Harry Potter et l’Ordre du Phénix, J.K Rowling, 2003.
+  * Image : {personnagesdir}dolores_umbridge.jpg
 
-=== http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander (0.05 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander]
 
-  * [red]*X Blessures.*
-  * <TODO>
+  * [red]*4 Blessures.*
+  * *Maître des baguettes :* vous débloquer directement la compétence _Maîtrise_ des baguettes dès que vous les équipez.
+  * *Mémoire eidétique :* une fois qu'une pile de défausse vient remplacer une pile actuelle, vous êtes libre de consulter cette nouvelle pile pendant votre tour, vous pouvez voir les 5 premières cartes.
+  * *Conjureur doué (1 utilisation tous les 3 tours) :* vous pouvez piocher une carte Consommable.
 
-  * Citation :
-  * Image :
+  * Citation : _"La baguette choisit son sorcier."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
+  * Image : {personnagesdir}garrick_ollivander.jpg
 
 === http://harrypotter.wikia.com/wiki/Mundungus_Fletcher[Mondungus Fletcher]
 
