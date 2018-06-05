@@ -12,7 +12,7 @@
 
 |=======
 |Type de cartes |Nombre souhaité minimum |Harry Potter (score de complétion)
-|Personnages |18 |18 (13.95 - TODO)
+|Personnages |18 |18 (14.25 - TODO)
 |Consommables |24 |24 (24)
 |Lieux |18 |18 (18)
 |Equipement : Tête |9 |9 (9)

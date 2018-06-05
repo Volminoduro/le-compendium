@@ -12,12 +12,12 @@
 
 == Antagoniste
 
-=== http://harrypotter.wikia.com/wiki/Tom_Riddle[Tom Jedusor (0.80 - TODO - Prophétie)]
+=== http://harrypotter.wikia.com/wiki/Tom_Riddle[Tom Jedusor]
 
   * [red]*5 Blessures.*
   * *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut se cumuler plusieurs fois.
   * *Feudeymon (1 fois dans la partie) :* tous les personnages subissent 1 blessures, si cela achève un personnage, le sort se relance autant de fois que nécessaire.
-  * [*La prophétie :* ne peut mourir définitivement (les Horcruxes ne comptent pas) que de la main d'Harry Potter, si celui-ci est en vie et en jeu (Ou doubler les dégâts de l'un à l'autre ?).]
+  * *La prophétie :* accomplir votre quête ne termine pas la partie si Harry Potter est en jeu et toujours en vie.
 
   * Citation : _"Il n’y a pas de bien ni de mal, il n’y a que le pouvoir, et ceux qui sont trop faibles pour le rechercher…"_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}Voldemort.jpg
@@ -142,10 +142,10 @@
 
 == Protagoniste
 
-=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter (0.90 - TODO - La prophétie)]
+=== http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter]
 
   * [red]*5 Blessures.*
-  * [*La prophétie :* ne peut mourir définitivement que de la main de Voldemort, si celui-ci est en vie et en jeu.]
+  * * *La prophétie :* accomplir votre quête ne termine pas la partie si Tom Jedusor est en jeu et toujours en vie.
   * *Accio (1 utilisation tous les 2 tours):* Pendant votre tour, nommez une carte de la pile Consommables ou Equipements, si celle-ci se trouve dans les 3 prochaines cartes, récupérez-la. Puis, placez les autres cartes révélées sous le dessous de la pile.
   * *Expelliarmus (1 utilisation disponible tous les 2 joueurs dans la partie) :* lors d'un combat, désactivez toutes les armes équipées de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul de l'attaque / défense. Si le résultat du combat est en la faveur d'Harry, toutes les armes équipées de l'adversaire lui reviennent.
 
