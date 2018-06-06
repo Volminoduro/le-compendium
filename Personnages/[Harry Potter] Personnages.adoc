@@ -42,12 +42,15 @@
   * Citation : _"Vous êtes un peu trop curieux pour vivre bien longtemps, Potter."_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}quirinus_quirell.jpg
 
-=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage (0.45 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage (0.80 - TODO - Idée règles)]
 
     * [red]*4 Blessures.*
-    * *Incarcerem :* [empêcher un joueur d'attaquer / se déplacer ?]
-    * *Membre du ministère :* [?]
+    * *Incarcerem (1 utilisation disponible tous les 3 joueurs dans la partie) :* un autre personnage ciblé ne pourra attaquer, se défendre (il ne pourra utiliser pas les dés pour se défendre ni son arme) ou se déplacer à son prochain tour. A son prochain tour, s'il fait un score d'attaque de plus de 4, il s'en libère et pourra agir normalement.
     * *Corruptible :* les cibles que vous attaquez peuvent vous payer 3 points d'équipements pour éviter l'attaque.
+    * *Sous-secrétaire d'État auprès du Ministère de la Magie (1 fois par tour) :* A la place de piocher une carte retournement quand vous le pouvez ou en payant 7 points d'équipements, vous pouvez édicter un _Amendement du Ministère_. L'_Amendement du Ministère_ est une règle que vous décidez arbitrairement d'appliquer dans la liste ci-dessous, plusieurs _Amendement du Ministère_ peuvent être actifs en même temps. Vous ne pouvez choisir deux fois la même règle. Les règles s'appliquent obligatoirement à tous les autres joueurs, sauf vous.
+    ** Sera une carte à part.
+    ** *Non-mixité des genres (sert juste d'exemple) :* les personnages de sexe féminins ne peuvent plus échanger de cartes avec les personnages de sexe masculins.
+    ** *La politesse s'impose :* [annoncer qui on doit attaquer ? plus chiant qu'autre chose ?]
 
     * Citation : _"J’ai hâte de vous connaître tous et je suis sûre que nous deviendrons vite de très bons amis !"_, Harry Potter et l’Ordre du Phénix, J.K Rowling, 2003.
     * Image : {personnagesdir}dolores_umbridge.jpg
@@ -95,24 +98,24 @@
   * *Venin acromantulère :* si vous blessez une cible lors d'une attaque, au prochain tour, la cible ne se déplacera qu'avec le dé à 3 faces et ses bonus d'attaque et de défense seront réduits à la moitié inférieure.
   * *Ponte de Mosag :* A tout moment, lorsqu'il reçoit un soin excèdentaire (lorsque vous avez 0 blessure subie), il génère un _Membre de la couvée_.
   * *Patriache de colonie :* Vous pouvez sacrifier des _Membres de la couvée_ pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez.
-  * *Cannibalisme opportun :* lorsque vous êtes au _Seuil de la mort_ avec des _Membres de la couvée_, vous décédez directement.
+  * *Cannibalisme opportun :* lorsque vous êtes au _Seuil de la mort_ avec des _Membres de la couvée_ encore actifs, vous décédez directement.
 
   * Citation : _"Des humains. [...] Alors, tuez-les. J'étais en train de dormir."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
   * Image : {personnagesdir}aragog.jpg
 
-=== http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart (0.45 - TODO)] :
+=== http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart] :
 
-  * [red]*X Blessures.*
-  * *Escroc :* Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage affecté par votre compétence _Oubliettes_. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes grâce à cette compétence.
+  * [red]*4 Blessures.*
+  * *Brackium Emendo (1 utilisation tous les 2 tours) :* ciblez un personnage à votre portée (cela peut être vous), et lancez les deux dés. Si le résultat est au moins 6, la cible est soigné d'une blessure, sinon, son _Arme_ devient inactive pendant 2 tours (retourner la carte pour symboliser son inactivité).
+  * *Escroc :* Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage affecté par votre compétence _Oubliettes_. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes en même temps grâce à cette compétence.
   * *Oubliettes :* Pendant votre tour, ciblez un personnage autre que vous, cela ne peut pas être deux fois la même cible consécutivement. Lancez les deux dés.
-    ** Si le résultat est 7, la cible ne gagnera pas de points s'il accomplit sa quête ET ne pourra plus utiliser aucune de ses capacités de personnages.
-    ** Si le résultat est 6, la cible ne gagnera pas de points s'il accomplit sa quête.
-    ** Si le résultat est 3, vous ne gagnerez aucun points d'acomplissement de votre quête, ni de celle des autres.
-    ** Si le résultat est 2, vous ne gagnerez aucun points d'acomplissement de votre quête, ni de celle des autres, et vous ne pourrez plus utiliser la compétences "Oubliettes".
-  * <TODO> : le pb de ce personnage est qu'il nécessite l'application des points de quête.
+    ** Si le résultat est 7, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête. La cible ne pourra plus utiliser aucune de ses capacités de personnages.
+    ** Si le résultat est 6, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête.
+    ** Si le résultat est 3, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres.
+    ** Si le résultat est 2, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres, et vous ne pourrez plus utiliser la compétences _Escroc_, _Oubliettes_ ni _Backrium Emendo_.
 
-  * Citation :
-  * Image :
+  * Citation : _"Et si j’avais voulu vous en empêcher, je n’aurais eu aucun mal à le faire."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
+  * Image : {personnagesdir}gilderoy_lockhart.jpg
 
 === http://harrypotter.wikia.com/wiki/Peeves[Peeves (0.20 - TODO)]
 
@@ -164,6 +167,7 @@
   * *Agent double :* peut se faire passer pour un Antagoniste tout le long de la partie (comme avec l'effet de la glace à l'ennemi par exemple) et utiliser ce qui leur est exclusif.
   * *Sectum sempra (1 utilisation tous les 2 tours) :* au lieu d'attaquer directement une cible, vous lui infliger 1 blessure puis 1 blessure au début de son prochain tour.
   * *Maître des potions :* vous pouvez défausser 2 consommables pour avoir l'un des effets suivants :
+  ** Sera une carte à part.
   ** Il faudrait une liste un peu des potions etc.
   ** Placez le marqueur du joueur ciblé à 3 de Blessures ?
 

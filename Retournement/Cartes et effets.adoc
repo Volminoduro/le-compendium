@@ -28,3 +28,11 @@
 == Lorsqu'un personnage utilise une capacité à utilisation unique :
 
 === Annule les effets de la capacité
+
+== Lorsqu'un personnage attaque un autre
+
+== Lorsqu'un personnage découvre un _Lieux_
+
+== Lorsqu'un personnage achète auprès du _Marchand d'or_ ou du _Marchand de sang_
+
+== 
