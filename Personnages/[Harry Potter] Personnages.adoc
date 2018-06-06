@@ -117,12 +117,18 @@
   * Citation : _"Et si j’avais voulu vous en empêcher, je n’aurais eu aucun mal à le faire."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
   * Image : {personnagesdir}gilderoy_lockhart.jpg
 
-=== http://harrypotter.wikia.com/wiki/Peeves[Peeves (0.20 - TODO)]
+=== http://harrypotter.wikia.com/wiki/Peeves[Peeves]
 
-* [red]*X Blessures.*
-* *Ectoplasme ? :*
-* *Invisibilité :*
-* *Agent du chaos :* malus d'attaque si c'est la même cible qu'auparavant.
+* [red]*1 Blessures.*
+* *Amortel :* vous ne pouvez être tué. Si vous subissez une blessure alors que vous êtes au _Seuil de la Mort_, vous ne pourrez pas vous déplacer au prochain tour.
+* *Invisibilité :* -2 de portée pour vos attaquants, on ne peut vous cibler directement que ce soit avec un _Consommable_ ou une compétence d'_Arme_ ou de _Personnage_. Attaquer quelqu'un pendant votre tour vous annule l'_Invisibilité_ jusqu'à votre prochain tour.
+* *A peine physique :* -3 d'attaque.
+* *Esprit du chaos (1 action par tour) :*
+** Si deux joueurs sont à votre portée, vous pouvez échanger jusqu'à 2 cartes de leurs mains et / ou de leurs équipements. Nécessite l'_Invisibilité_.
+** Si un joueur se situe entre vous et la case _Lieux_, vous pouvez l'attaquez, si l'attaque est réussi, il ne subit pas de blessure et va sur la case _Lieux_ et l'active.
+** Au lieu de piocher un _Consommable_ ou un _Equipement_, vous pouvez regarder les trois prochaines cartes et les reposer dans l'ordre que vous voulez.
+** Vous pouvez alimenter une carte de votre choix de la défausse d'_Equipement_ pour la mettre à la fin de la pile du _Marchand_ de votre choix.
+** *(pendant le tour des autres joueurs)* Si vous êtes sur une case entre deux personnes s'affrontant, vous pouvez prendre le résultat de l'attaque à la place du défenseur. Vous ne pourrez utiliser _Esprit du chaos_ au tour prochain.
 
 * Citation : _"Je dirai quelque chose quand on me dira s’il te plaît. [...] QUELQUE CHOSE ! Ha ! Ha ! Ha ! Je vous avais prévenu."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {personnagesdir}peeves.jpg
@@ -248,11 +254,4 @@
 * http://harrypotter.wikia.com/wiki/Unbreakable_Vow
 * Delphini
 * Lucius Malfoy ?
-
-== http://harrypotter.wikia.com/wiki/Gellert_Grindelwald[Gellert Grindelwald (0.05 - TODO) - Réservé ça pour une extension Animaux Fantastiques ?]
-
-  * [red]*X Blessures.*
-  * <TODO>
-
-  * Citation :
-  * Image :
+* Gellert Grindelwald
