@@ -119,6 +119,7 @@
 * [red]*X Blessures.*
 * *Ectoplasme ? :*
 * *Invisibilité :*
+* *Agent du chaos :* malus d'attaque si c'est la même cible qu'auparavant.
 
 * Citation : _"Je dirai quelque chose quand on me dira s’il te plaît. [...] QUELQUE CHOSE ! Ha ! Ha ! Ha ! Je vous avais prévenu."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {personnagesdir}peeves.jpg
