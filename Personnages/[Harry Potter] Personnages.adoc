@@ -179,8 +179,10 @@
   * *Sectum sempra (1 utilisation tous les 2 tours) :* au lieu d'attaquer directement une cible, vous lui infliger 1 blessure puis 1 blessure au début de son prochain tour.
   * *Maître des potions :* vous pouvez défausser 2 consommables pour avoir l'un des effets suivants :
   ** Sera une carte à part.
-  ** Il faudrait une liste un peu des potions etc.
+  ** *Veritaserum :* posez 3 questions à quelqu'un et lui devra répondre la vérité ?
   ** Placez le marqueur du joueur ciblé à 3 de Blessures ?
+  ** http://harrypotter.wikia.com/wiki/List_of_potions
+  ** http://harrypotter.wikia.com/wiki/Antidote
 
   * Citation : _"A jamais."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
   * Image : {personnagesdir}severus_rogue.jpg
