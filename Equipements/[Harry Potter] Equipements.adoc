@@ -292,7 +292,7 @@
 ==== http://harrypotter.wikia.com/wiki/Dragon-skin_coat[Cape en écailles de dragon (1 exemplaire) (0.70 - TODO - Effets)]
 
 * +3 de défense.
-* [Effet supplémentaire].
+* *Déflecteur de sort :* les compétences actives des personnages et des équipements (y compris les votres) n'ont aucun effets sur vous.
 * *Extrêmement rare :* peut être vendu comme étant de qualité Légendaire.
 
 * Image : {equipementsdir}dragon_cloak.jpg

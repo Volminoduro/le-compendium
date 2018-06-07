@@ -26,7 +26,7 @@
 
   * [red]*4 Blessures.*
   * *Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au _Seuil de la mort_.
-  * *Main d'argent :* +2 d'attaque tant que vous n'avez pas d'arme. [empêcher la trahison, pas droit d'être avec des prota ?]
+  * *Main d'argent :* +2 d'attaque tant que vous n'avez pas d'arme. S'il vous est possible d'achever un _Protagoniste_ après votre déplacement, vous devez le faire, sans quoi vous subissez une blessure.
   * *Queudver :* Vous vous transformez en Animagus, vous ne pourrez plus agir pour le reste du tour. Sous cette forme, lancez que le dé à 4 faces pour se déplacer, -2 de portée adverse, vous ne pouvez attaquer d'autres personnages et au début de votre tour, vous pouvez voir la carte _Lieux_ la plus proche de vous. Vous pouvez réactiver cette compétence pour en annuler les effets.
 
   * Citation : _"Ta dévotion n'est rien d'autre que de la couardise. Tu ne serais pas ici si tu avais un autre endroit où aller."_, Harry Potter et la Coupe de Feu, J.K Rowling, 2000.
