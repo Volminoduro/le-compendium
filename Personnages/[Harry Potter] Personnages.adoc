@@ -172,17 +172,19 @@
   * Citation : _"Je suis un... quoi ?"_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}harry_potter.jpg
 
-=== http://harrypotter.wikia.com/wiki/Severus_Snape[Severus Rogue (0.75 - TODO - Effets)]
+=== http://harrypotter.wikia.com/wiki/Severus_Snape[Severus Rogue]
 
   * [red]*5 Blessures.*
-  * *Agent double :* peut se faire passer pour un Antagoniste tout le long de la partie (comme avec l'effet de la glace à l'ennemi par exemple) et utiliser ce qui leur est exclusif.
-  * *Sectum sempra (1 utilisation tous les 2 tours) :* au lieu d'attaquer directement une cible, vous lui infliger 1 blessure puis 1 blessure au début de son prochain tour.
-  * *Maître des potions :* vous pouvez défausser 2 consommables pour avoir l'un des effets suivants :
-  ** Sera une carte à part.
-  ** *Veritaserum :* posez 3 questions à quelqu'un et lui devra répondre la vérité ?
-  ** Placez le marqueur du joueur ciblé à 3 de Blessures ?
-  ** http://harrypotter.wikia.com/wiki/List_of_potions
-  ** http://harrypotter.wikia.com/wiki/Antidote
+  * *Agent double :* peut se faire passer pour un Antagoniste tout le long de la partie (comme avec l'effet de la _Glace à l'ennemi_ par exemple) et utiliser ce qui leur est exclusif.
+  * *Sectum sempra (1 utilisation tous les 2 tours) :* au lieu d'attaquer directement une cible à votre portée, vous lui infliger 1 blessure puis 1 blessure au début de son prochain tour.
+  * *Maître des potions (1 utilisation par tour):* vous pouvez défausser 2 consommables pour concoter une potion et l'administrer à un personnage à votre portée (cela peut être vous). Si la cible n'est pas consentante, vous pouvez l'attaquer et lui infliger l'effet de la potion à la place de la blessure.
+  ** http://harrypotter.wikia.com/wiki/Veritaserum[*Veritaserum :*] Posez 3 questions à la cible, les réponses ne pourront être des mensonges.
+  ** http://harrypotter.wikia.com/wiki/Blood-Replenishing_Potion[*Potion de Régénération sanguine :*] La cible retourne au nombre de Blessures qui était le sien à la fin de son tour précédent.
+  ** http://harrypotter.wikia.com/wiki/Weakness_Potion[*Potion_affaiblissante :*] La cible a son attaque et sa défense divisé par 2 (bonus y compris), arrondi à la moitié inférieure, pendant 1 tour.
+  ** http://harrypotter.wikia.com/wiki/Wolfsbane_Potion[*Potion Tue-loup :*] La cible sous l'effet de _Lycanthropie_ n'est pas obligé d'attaquer une cible, dure jusqu'au début de son prochain tour.
+  ** http://harrypotter.wikia.com/wiki/Alihotsy_Draught[*Goutte désopilante :*] La cible devra attaquer le personnage le plus proche, sinon elle s'inflige elle-même 1 blessure, dure jusqu'au début de son prochain tour.
+  ** http://harrypotter.wikia.com/wiki/Bulgeye_Potion[*Potion bomboeil :*] La cible reçoit un malus de -2 de portée jusqu'au début de son prochain tour.
+  ** http://harrypotter.wikia.com/wiki/Armadillo_Bile_Mixture[*Mixture de bile de tatou :*] Un des équipements choisi de la cible est défaussée éternellement.
 
   * Citation : _"A jamais."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
   * Image : {personnagesdir}severus_rogue.jpg
@@ -264,6 +266,8 @@
 * Lucius Malfoy ?
 * Gellert Grindelwald
 
+* Pour Rogue :
+** http://harrypotter.wikia.com/wiki/Draught_of_Living_Death[*Philtre de Mort Vivante :*] La cible est étourdie jusqu'à la fin de son prochain tour. Elle ne peut se déplacer, utiliser une compétence active, attaquer ou se défendre.
 
 * http://harrypotter.wikia.com/wiki/List_of_potions
 * http://harrypotter.wikia.com/wiki/Antidote
