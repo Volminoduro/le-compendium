@@ -28,10 +28,14 @@
 === Cartes petit format (quête + retournement)
 
 * Quel est le format ?
+* Longueur ?
+* Largeur ?
 
 === Cartes moyen format (Personnages, Equipements, Consommables, Lieux)
 
 * Quel est le format ?
+* Longueur ?
+* Largeur ?
 
 == Deck-box pour contenir les cartes
 

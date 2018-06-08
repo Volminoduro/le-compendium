@@ -20,7 +20,7 @@
 4+^.^|{set:cellbgcolor:none}
 Fenrir Greyback .5+|
 {set:cellbgcolor:red}
-4+^.^|{set:cellbgcolor:none} image:{personnagesdir}/Fenrir_Greyback_dimension.jpg['']
+4+^.^|{set:cellbgcolor:none} image:{personnagesdir}/Fenrir_Greyback.jpg['']
 3+|Personnage : Antagoniste
 ^.^|7 Blessures
 4+a|
