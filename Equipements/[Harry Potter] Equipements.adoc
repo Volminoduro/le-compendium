@@ -254,6 +254,13 @@
 
 * Image : {equipementsdir}shield_cloak.jpg
 
+==== http://harrypotter.wikia.com/wiki/Quidditch_uniform[Plastron de Quidditch (1 exemplaire)]
+
+* +1 de défense, +1 de défense en plus si vous êtes attaqué au corps-à-corps.
+
+* Image : {equipementsdir}quidditch_chestgear.jpg
+
+=== Rare
 
 ==== http://harrypotter.wikia.com/wiki/Porcupine_Robe[Robe porc-épine (1 exemplaire)]
 
@@ -261,8 +268,6 @@
 * *Qui s'y frotte, s'y pique (3 charges d'utilisation) :* lors d'une défense d'une attaque au corps-à-corps, si le résultat est en votre faveur (l'égalité attaque / défense ne compte pas), vous infligez une blessure à votre assaillant, cela peut le tuer.
 
 * Image : {equipementsdir}porcupine_robe.jpg
-
-=== Rare
 
 ==== http://harrypotter.wikia.com/wiki/Jinx-Off[Cape de démalédiction (1 exemplaire)]
 
@@ -289,7 +294,7 @@
 
 * Image : {equipementsdir}beautifying_robe.jpg
 
-==== http://harrypotter.wikia.com/wiki/Dragon-skin_coat[Cape en écailles de dragon (1 exemplaire) (0.70 - TODO - Effets)]
+==== http://harrypotter.wikia.com/wiki/Dragon-skin_coat[Cape en écailles de dragon (1 exemplaire)]
 
 * +3 de défense.
 * *Déflecteur de sort :* les compétences actives des personnages et des équipements (y compris les votres) n'ont aucun effets sur vous.

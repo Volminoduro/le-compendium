@@ -10,10 +10,15 @@
 
 == Matériel
 
-* 1 plateau de jeu
-* 12 petites cases
-* 1 boîte à dé, 1 dé à 3 faces et 1 dé à 4 faces.
-* 1 jeu de carte d'une extension
+* 1 plateau de jeu.
+** 12 cases.
+* 1 boîte à dé.
+** 1 dé à 3 faces et 1 dé à 4 faces.
+* 1 jeu de carte par extension (105 cartes).
+** 18 cartes _Personnages_.
+** 24 cartes _Consommables_.
+** 18 cartes _Lieux_.
+** 45 cartes _Equipement_.
 
 
 == Infos
@@ -24,4 +29,4 @@
 
 == But du jeu
 
-* dssd
+* [?]
