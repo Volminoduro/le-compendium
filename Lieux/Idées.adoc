@@ -1,3 +1,14 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+:nbTotal: 0
+:toc:
+:numbered:
+
+:lieuxdir: /ressources/images/?/Lieux/
+
+
 Pouvoir :
 
 * Tout le monde soigne 1 blessure

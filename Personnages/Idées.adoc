@@ -1,12 +1,12 @@
-*  Il serait bon que chaque extension dispose de 4 - 5 personnages pour chaque alignement
-** Ce chiffre permet de faire le choix entre 2 - 3 personnages par alignement, soit un total de 6 - 9 personnages de l'extension.
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
 
-Liste personnages cools à envisager :
-- Gatsby le magnifique
-- Dieu
-- Oskar Shell
+:toc:
+:numbered:
 
-
+:personnagesdir: /ressources/images/?/Personnages/
 
 
 * Pouvoir
@@ -22,16 +22,19 @@ Liste personnages cools à envisager :
   * Désignez un autre personnage que vous, vous pouvez annuler un de ces pouvoirs au choix.
   * Contreattaquer si on est à partir d'un certain nombre de Blessures.
   * Placer le marqueur de blessure sur 3.
-  * Mépris des faibles : les personnages à une blessure du seuil de la mort ne peuvent pas vous attaquer.
+  * Mépris des faibles : les personnages à une blessure du _Seuil de la Mort_ ne peuvent pas vous attaquer.
   * Sacrification belliqueuse : vous subissez une blessure, la cible de votre choix, autre que vous, subit également une Blessure. Peut être fait à volonté pendant votre tour. Ne peut achever la cible ni vous tuer vous-même.
-
 
 * X
   ** Les équipements n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
   ** Vous pouvez lancez les deux dés pour attaquer ou vous défendre.
 * X
-  ** Vous ne pouvez pas être soigné ou augmenter votre limite de Blessures de la partie.
-  ** Chaque mort que vous subissez baisse votre limite de Blessures de 1 et vous ramène à 0 blessures.
+  ** Vous ne pouvez pas être soigné ou augmenter votre nombre de Blessures maximales de la partie.
+  ** Chaque mort que vous subissez baisse votre limite de Blessures maximales de 1 et vous ramène à 0 Blessures.
+
+* X
+  ** Vous ne pouvez pas être soigné ou augmenter votre nombre de Blessures maximales de la partie.
+  ** Chaque personnage que vous tué vous ramène à 0 Blessures.
 
 
 Liste lecture :
@@ -39,30 +42,7 @@ Liste lecture :
 - 1984 ?
 - tales of two cities
 
-
-
-Pouvoir issu de Shadow vs Hunters :
-
-Hunter :
-- Au début de votre tour, lancez un d6 de blessure sur un joueur (Utilisation unique).
-- Au début de votre tour, lancez un d4 de blessure sur un joueur (Utilisation unique).
-- Au début de tour, désignez un joueur, il perd son pouvoir jusqu'à la fin de la partie (Utilisation unique).
-- Au début de tour, placez le marqueur de blessures d'un joueur sur 7 (Utilisation unique).
-- Pour vous déplacer, vous pouvez normalement les dés ou vous déplacer sur la carte Lieu adjacente.
-- A la fin de votre tour, lors de l'activation du pouvoir, vous ne subissez aucune blessure jusqu'au début de votre prochain tour (Utilisation unique).
-
-Neutre :
-- A la mort définitive d'un personnage, vous récupérez tous ses équipements (au lieu d'un seul).
-- Lorsque vous infligez 2 blessures de combat à un personnage, vous pouvez lui voler une carte équipement au lieu d'infliger des blessures.
-- Récuperer une carte de la défausse de la pile équipement.
-- Soignez toutes les blessures.
-- Après votre attaque, vous pouvez vous infliger 2 blessures afin d'attaquer de nouveau le même joueur.
-- Guérissez de 1 au début de votre tour.
-
-Shadow :
-- Au début de votre tour, vous pouvez infliger 3 blessures à un joueur présent dans le Lieu Porte de l'Outremonde.
-- Si vous infligez des blessures de combat, soignez immédiatement 2 de vos blessures.
-- Vous pouvez rejouer autant de fois qu'il y a de personnages morts (Utilisation unique).
-- Après avoir subi l'attaque d'un joueur, vous pouvez contre-attaquer immédiatement.
-- Vous pouvez mentir au carte vision.
-- Quand vous attaquer, lancez seulement le dé 4 pour les dgt.
+Liste personnages cools à envisager :
+- Gatsby le magnifique
+- Dieu
+- Oskar Shell

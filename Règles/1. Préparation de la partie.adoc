@@ -8,34 +8,36 @@
 
 = Préparation de la partie
 
-
 == Attribution du meneur de jeu
 
-* A chaque partie, un meneur de jeu est choisi. Son mode de sélection est libre aux joueurs. Il peut être se désigné lui-même, être choisi aléatoirement, être élu à la majorité, etc.
-* Le personnage du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le personnage dispose déjà de 7 Blessures maximum).
+* A chaque partie, un meneur de jeu est choisi. Sa sélection est libre aux joueurs. Il peut être se désigné lui-même, être choisi aléatoirement, être élu à la majorité, etc.
+* Le personnage du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le personnage dispose déjà de 7 Blessures maximales).
 * Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront après lui.
+* On appelle un "tour de jeu global" le laps de temps entre deux tours du meneur de jeu.
 
 == Placement des cases
 
-* Le tableau de jeu est composé de 12 emplacement de cases vides.
+* Le tableau de jeu est composé de 12 emplacement de cases vides (cf. Cases).
 * Vous êtes libre de placer les cases comme vous le souhaitez, à condition de placer chaque case à l'opposé de celle qui aura le même bord coloré qu'elle.
 
 == Choix des extensions
 
 * Les extensions sont des packs de cartes ayant un thème commun et conçues selon un certain esprit de jeu.
 ** Par exemple, le thème des Contes est très facile d'accès et n'est pas très punitif envers les joueurs. A contrario, le thème Horreur est plutôt pensé pour des joueurs très expérimentés avec un réel désir de difficulté.
-* Vous devrez ensuite choisir une ou plusieurs extension(s). A savoir qu'une extension est conçue pour être utilisée par 6 joueurs au maximum.
+* Vous devez choisir une ou plusieurs extension(s) pour jouer. A savoir qu'une extension est conçue pour être utilisée par 6 joueurs au maximum. Vous restez libre de ne pas respecter cette indication.
+* Une fois les extensions choisies, sortez les différents paquets de carte _Equipements_, _Consommables_, _Lieux_, _Retournement_ et _Quête_ de celles-ci.
+** Les cartes _Retournement_ et _Quête_ font aussi partie d'un socle commun à toutes les extensions, en plus de celles spécifiques à l'extension choisie.
 
 == Attribution des personnages
 
-* Une fois que vous avez choisi la ou les extensions de jeu, vous devrez sélectionner vos personnages. Pour savoir quelle est la répartition d'Antagoniste / Neutre / Protagoniste à respecter pour une partie équilibrée, référez-vous à la sous-partie ci-dessous.
+* Une fois que vous avez choisi la ou les extensions de jeu, vous devrez choisir vos personnages (cf. Personnages). Pour savoir qu'elle est la répartition d'Antagoniste / Neutre / Protagoniste à respecter pour une partie équilibrée, référez-vous à la sous-partie _Attribution alignement selon le nombre de joueurs_.
 * Nous vous conseillons de sélectionner des personnages qui sont sur un pied d'égalité de puissance, afin que l'équilibre des forces soit présent dans la partie.
 * Une fois que vous avez choisi les personnages joués pour la partie, vous les mélangez puis les distribuez aléatoirement à chaque joueur face cachée (à l'exception du Meneur de jeu).
 
 * Pour ajouter du piment dans votre partie, voici un mélange où l'aléatoire a pleinement son importance :
 ** Au lieu de prendre le nombre indiqué de personnages par alignement, vous en prenez davantage.
-** Vous faites un tas des cartes sélectionnées par alignement. Puis, cartes faces cachées, vous retirez aléatoirement le nombre de cartes nécessaires jusqu'à obtenir le nombre de personnages désirés pour l'alignement en question.
-** Ensuite, comme usuellement, vous mélangez les tas avec les cartes restants puis vous distribuez l'intégralité des personnages à chaque face cachée (à l'exception du Meneur de jeu).
+** Vous faites un tas des cartes sélectionnées par alignement. Puis, cartes faces cachées, mélangez et retirez le nombre de cartes nécessaires jusqu'à obtenir le nombre de personnages désirés pour l'alignement en question.
+** Ensuite, faites comme décrit plus haut.
 
 === Attribution alignement selon le nombre de joueurs
 
@@ -58,4 +60,10 @@
 
 == Attribution des quêtes
 
-* dssd
+* Le but du jeu est de remplir pour chaque joueur est de remplir sa quête. Les quêtes sont des objectifs à accomplir pendant la partie. Lorsqu'une quête est réussie, la partie se termine (cf. Fin de la partie).
+* Les cartes de quêtes doivent être choisies selon le type de partie que vous voulez faire. Si vous débutez ou que vous n'avez pas d'idée, fiez-vous au tableau des _Archétypes de parties_.
+** Par exemple, si vous choisissez que tous les joueurs ont des quêtes différentes, cela risque d'être difficile pour des débutants à suivre mais ça permettra aussi d'avoir des interactions très variées.
+
+* La distribution des quêtes s'opère aléatoirement et face cachée, comme les _Personnages_.
+
+* [TODO] Archétypes de parties

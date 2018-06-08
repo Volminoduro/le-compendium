@@ -10,14 +10,12 @@
 * Vous pouvez équiper / défausser vos objets que durant votre tour.
 * Vous ne pouvez pas vous déséquiper de vos objets pour les récupérer dans votre main, mais seulement pour les défausser.
 * Les équipements ont plusieurs rangs de rareté : Commun, Rare, Épique et Légendaire.
-* Les personnages ne peuvent porter qu'un seul équipement légendaire à la fois (sauf exception).
+* Les personnages ne peuvent porter qu'un seul équipement Légendaire à la fois (sauf exception).
 * Les équipements sont attribués à des emplacements : Tête, corps, arme et accessoire.
 * On ne peut équiper un emplacement qu'avec un seul objet, sauf les accessoires qui sont limités à 2 objets.
 
-* Lorsque vous piochez un équipement, vous pouvez : l'équiper, l'échanger / donner à un autre joueur, le défausser (même si vous n'avez pas atteint la taille maximale de votre main) ou le conserver en main.
-* Lorsque vous piochez un équipement légendaire, vous devrez le défausser directement si vous en possédez déjà un dans votre main ou équipé (sauf exception), vous ne pouvez pas l'échanger.
+* Lorsque vous piochez un équipement, vous pouvez : l'équiper, l'échanger / donner à un autre joueur, le défausser ou le conserver en main.
+* Lorsque vous piochez un équipement Légendaire, vous devrez l'équiper ou le défausser.
 
-* Certains équipements disposent de charges d'utilisations en plus de leurs effets. Une charge est consommée par utilisation et lorsque le compteur de charge arrive à zéro, l'objet est détruit et envoyé en défausse.
-** Pour utiliser les effets d'un objet, il doit être équipé.
-
-* [A placer ailleurs] Concernant l'échange / le don de carte, cela ne peut se faire que durant votre tour. Cela peut se faire avec des cartes Equipements ou Consommables.
+* Pour bénéficier de ces effets ou de ces compétences, l'objet doit être équipé.
+* Certains équipements disposent de compétences avec charges d'utilisations. Une charge est consommée par utilisation de la compétence et lorsque le compteur de charge arrive à zéro, l'objet est détruit et envoyé en défausse.
