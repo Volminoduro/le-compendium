@@ -105,7 +105,7 @@
   * *Patriache de colonie :* Vous pouvez sacrifier des _Membres de la couvée_ pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez.
   * *Cannibalisme opportun :* lorsque vous êtes au _Seuil de la mort_ avec des _Membres de la couvée_ encore actifs, vous décédez directement.
 
-  * Citation : _"Des humains. [...] Alors, tuez-les. J'étais en train de dormir."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
+  * Citation : _"Des humains. [...] Alors, tuez-les. J'étais en train de dormir."_, Harry Potter et la Chambre des Secrets, J.K Rowling, 1998.
   * Image : {personnagesdir}aragog.jpg
 
 === http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart] :
@@ -117,9 +117,9 @@
     ** Si le résultat est 7, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête. La cible ne pourra plus utiliser aucune de ses capacités de personnages.
     ** Si le résultat est 6, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête.
     ** Si le résultat est 3, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres.
-    ** Si le résultat est 2, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres, et vous ne pourrez plus utiliser la compétences _Escroc_, _Oubliettes_ ni _Backrium Emendo_.
+    ** Si le résultat est 2, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres, et vous ne pourrez plus utiliser vos compétences_.
 
-  * Citation : _"Et si j’avais voulu vous en empêcher, je n’aurais eu aucun mal à le faire."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
+  * Citation : _"Et si j’avais voulu vous en empêcher, je n’aurais eu aucun mal à le faire."_, Harry Potter et la Chambre des Secrets, J.K Rowling, 1998.
   * Image : {personnagesdir}gilderoy_lockhart.jpg
 
 === http://harrypotter.wikia.com/wiki/Peeves[Peeves]

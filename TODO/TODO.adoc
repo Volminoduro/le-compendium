@@ -32,3 +32,8 @@
 === Réflexion autour du nombre de cartes équipements avec le stock du marchand
 
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
+
+
+=== Glossaire
+
+* Terme pour attaque en faveur de l'attaquant, en faveur de la défense, et l'égalité.

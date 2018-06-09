@@ -22,15 +22,16 @@ Fenrir Greyback .5+|
 {set:cellbgcolor:red}
 4+^.^|{set:cellbgcolor:none} image:{personnagesdir}/Fenrir_Greyback.jpg['']
 3+|Personnage : Antagoniste
-^.^|7 Blessures
+^.^|6 Blessures
 4+a|
 [small]
-** *Lycanthropie :* Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
-  *** Vous êtes obligé d'attaquer n'importe quel autre personnage non-Loup-Garou qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
-  *** Vous réduisez les dégâts de deux.
-  *** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
-  *** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
-** *[Préparation avant la pleine lune (sélène)] :* Lors de votre déplacement précédant votre transformation en Loup-Garou, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous déplacer de deux cases supplémentaires vers un autre personnage de votre choix.
+* *Lycanthropie :* Tous les 4 tours, après votre déplacement, vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
+  ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
+  ** +3 d'attaque et +2 de défense. Votre arme ne peut pas être utilisée et n'a aucun effet.
+  ** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
+  ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
+* *Préparation sélène :* Lors de votre déplacement précédant votre _Lycanthropie_, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous avancez de deux cases supplémentaires vers un autre personnage de votre choix.
+* *Chef des rafleurs :* lors d'une attaque réussie, vous pouvez voler un objet équipé à votre cible plutôt que lui infliger une blessure.
 3+a|[small]_"Your boyfriend's going to have worse than that done to him if he's on my list"_
 
 [small]*Les Reliques de la Mort, J.K Rowling (2007).*
