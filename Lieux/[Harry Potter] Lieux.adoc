@@ -14,7 +14,7 @@
 
 === http://harrypotter.wikia.com/wiki/Hog%27s_Head_Inn[Taverne de la Tête du Sanglier]
 
-* Chaque personnage déjà révélée, ou voulant s'y révélant, peut venir y boire une _Bièraubeurre_ (soin de 1 Blessure, malus si 2 effets d'Alcool léger) et échanger / donner des cartes.
+* Chaque personnage déjà révélée, ou se révélant, peut venir y boire une _Bièraubeurre_ et échanger / donner des cartes.
 
 * Citation : _"Je crois que l'endroit est un peu... comment dire... un peu louche..."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
 * Image : {lieuxdir}hogshead.jpg
@@ -32,18 +32,18 @@
 
 === http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers]
 
-* Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" dans la pile, mélangez la pile après ça.
+* Vous pouvez récupérer la première carte de "Corps" ou "Tête" de la pile _Equipement_, puis mélangez la pile.
 
 * Image : {lieuxdir}madam_malkin.jpg
 
 === http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges]
 
-* *Goûteur dévoué :* par sympathie, vous goûtez la nouvelle dragées surprise des frères Weasleys. Lancez les deux dés :
+* *Goûteur dévoué :* Lancez les deux dés :
 ** 2 : piocher une carte retournement.
 ** 3 : votre prochain jet de dé sera le score minimum possible.
 ** 4 : subissez une blessure, soignez-vous 2 blessures au début de votre prochaine tour.
-** 5 : vous regagnez une charge sur une de vos compétences.
-** 6 : jusqu'à que vous subissiez une nouvelle blessure, vous pourrez lancer deux fois les dés et choisir le jet vous intéressant pour vous déplacer.
+** 5 : vous regagnez une charge sur une de vos compétences de _Personnages_.
+** 6 : jusqu'à que vous subissiez une blessure, vous pourrez lancer deux fois les dés pour vous déplacer.
 ** 7 : vous goûtez deux nouvelles dragées, quelle gourmandise !
 
 * Citation : _"Vous avez peur de Vous-Savez-Qui ? Craignez plutôt POUSSE-RIKIKI..."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
@@ -53,16 +53,19 @@
 
 === http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk]
 
-* Vous pouvez récupérer une charge sur l'équipement de votre choix, 2 charges si vous êtes un Antagoniste.
-* Pour deux points d'équipement, vous pouvez acheter la _Main de la gloire_ directement depuis la pile d'Equipement. Mélangez la pile ensuite.
+* Vous pouvez récupérer une charge sur l'_Equipement_ de votre choix, 2 charges si vous êtes un Antagoniste.
+* Pour deux points d'_Equipement_, vous pouvez acheter la _Main de la gloire_ depuis la pile d'_Equipement_, puis mélangez la pile.
 
 * Image : {lieuxdir}borgin_and_burkes.jpg
 
 === http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe]
 
-* Vous permet de regagner jusqu'à 1 charge sur l'équipement de votre choix.
-* Vous pouvez regagner 1 charge supplémentaire pour 1 points d'équipement, utilisable plusieurs fois sur plusieurs équipements.
-* Vous ne pouvez tenter cette action que si vous êtes le premier à le faire : si la _Baguette de Sureau_ n'est pas en possession d'un joueur, vous pouvez tenter d'attaquer Gregorovitch. Si le résultat est supérieur à 5, emparez-vous de l'arme. Les effets de ce Lieu sera annulé pour vous jusqu'à la fin de la partie, peu importe le résultat.
+* Vous pouvez récupérer une charge sur l'_Equipement_ de votre choix.
+* Vous pouvez regagner 1 charge supplémentaire pour 1 points d'_Equipement_, utilisable plusieurs fois sur plusieurs _Equipements_.
+* *Assaut de Gregorovitch :*
+** Vous ne pouvez tenter cette action que si vous êtes le premier à le faire.
+** Attaquez Gregorovitch. Si l'attaque est supérieur à 5, emparez-vous de la _Baguette de Sureau_ dans les piles _Equipement_ et _Marchand_, puis mélangez les piles fouillées.
+** Les effets de ce Lieu sera annulé pour vous jusqu'à la fin de la partie.
 
 * Image : {lieuxdir}gregorovitch_workshop.jpg
 
@@ -70,29 +73,29 @@
 
 === http://harrypotter.wikia.com/wiki/Forbidden_Forest[La Forêt Interdite]
 
-* Lancez les dés une rencontre aléatoire :
-** *2 - Colonie d'Aragog :* si vous n'êtes pas Aragog vous-même, attaquer à plus de [3] 3 fois. Subissez une blessure ou un équipement, selon votre choix, par échec.
-** *3 - Ford Anglia détraquée :* lancez les deux dés, si vous faites moins de 4, vous subissez une blessure. Si vous avez fait 7, la _Ford Anglia_ vous emmène à la case adjacente du Lieu de votre choix.
-** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un dé à 3 faces pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un équipement et une carte de votre main. Si vous êtes Firenze, gagnez un consommable et un équipement.
+* Lancez les dés :
+** *2 - Colonie d'Aragog :* si vous n'êtes pas _Aragog_, attaquer à plus de 3 3 fois. Subissez une blessure ou un équipement, par échec.
+** *3 - Ford Anglia détraquée :* lancez les deux dés, si moins de 4, vous subissez une blessure. Si c'est 7, la _Ford Anglia_ vous emmène à la case adjacente de votre choix.
+** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un d3 pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un équipement et une carte de votre main. Si vous êtes Firenze, gagnez un consommable et un équipement.
 ** *5 - Gibier :* vous pouvez attaquer, si vous faites plus de 2, guérissez-vous d'une blessure.
 ** *6 - Sentier mal balisé :* relancez les dés pour une autre rencontre aléatoire.
-** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous ne disposez pas d'équipement à perdre, cela se répercute sur vos cartes en main, sinon sur vos points de vie. Vous pouvez en décéder.
-* Si vous rencontrez des difficultés, vous pouvez demander de l'aide à un autre personnage à une case de distance de ce lieu. Il peut remplir les conditions de victoire à votre place. Il aura le droit de négocier son aide.
+** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous ne disposez pas d'équipement à perdre, perdez vos autant de cartes en main, sinon autant de points de vie.
+* Vous pouvez demander de l'aide à un autre _Personnage_ à une case de ce _Lieu_. Il peut remplir les conditions de victoire à votre place et négocier son aide.
 
 * Citation : _"Il y a des tas de bestioles là-dedans, même des loups-garous d'après ce qu'on m'a dit."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {lieuxdir}forbidden_forest.jpg
 
 === http://harrypotter.wikia.com/wiki/Azkaban[Azkaban]
 
-* Vous désignez un autre personnage que vous à votre portée, si vous le battez lors d'un combat singulier, il sera enfermé en prison (il ne subira pas de blessure du combat).
-* A son prochain tour, il devra faire un double ou 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement, et ainsi de suite jusqu'à qu'il n'ait plus d'équipements et de cartes en main. Ensuite, il commencera son tour normalement.
+* Vous pouvez attaquer un autre personnage à votre portée, en cas de victoire, il sera enfermé et ne subira pas de blessure.
+* A son prochain tour, il devra faire un double ou un 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement, et ainsi de suite. Si il n'a plus rien, il commencera son tour normalement.
 
 * Citation : _"Ils sont enfermés dans leur propre tête, incapables d'avoir la moindre pensée agréable."_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
 * Image : {lieuxdir}azkaban.jpg
 
 === http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu]
 
-* Chaque personnage peut y participer à condition d'être à moins de 3 blessures du seuil de la mort.
+* Chaque personnage à moins de 3 Blessures peut participer. Il faut .
 * La coupe sélectionne aléatoirement un personnage de chaque alignement disponible, il faut 3 personnages participants minimum.
 * Celui qui finit avec le moins de Blessures subies au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
 * Une fois la coupe remportée, défausser définitivement ce lieu.
@@ -101,7 +104,7 @@
 
 === http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique]
 
-* Vous pouvez dénoncer un autre personnage en indiquant ce que vous pensez être sa quête. Le personnage devra indiquer si vous dites vrai ou non, il ne peut mentir.
+* Vous pouvez indiquez ce que vous pensez être la quête d'un autre personnage. L'accusé devra indiquer si vous dites vrai ou non, il ne peut mentir.
 
 * Citation : _"Barry Croupton Junior !"_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
 * Image : {lieuxdir}council_magical.jpg

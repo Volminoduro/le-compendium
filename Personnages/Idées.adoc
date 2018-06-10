@@ -37,6 +37,10 @@
   ** Chaque personnage que vous tué vous ramène à 0 Blessures.
 
 
+* Un personnage qui se scarifie pour gagner un _Sang_.
+
+* Un personnage qui se spécialise dans la défense ?
+
 Liste lecture :
 - Bel Ami ?
 - 1984 ?

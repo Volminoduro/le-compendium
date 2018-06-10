@@ -37,3 +37,5 @@
 === Glossaire
 
 * Terme pour attaque en faveur de l'attaquant, en faveur de la défense, et l'égalité.
+
+=== Faire des scénarios

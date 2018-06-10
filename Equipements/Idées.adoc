@@ -22,3 +22,6 @@ https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9p%C3%A9es_de_fiction
 
 * Accessoire :
   ** Chien de guerre : attaque à votre place pour une valeur fixe de 3 d'attaque.
+
+* Set :
+  * Idée Thib : 4 objets (3 coiffe + 1 Arme par exemple), bonus à partir de 2 pièces. Donc possibilité de générer du conflit pour avoir l'arme.

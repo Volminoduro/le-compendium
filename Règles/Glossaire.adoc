@@ -1,0 +1,17 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+* *Corps-à-corps :*
+* *A distance :*
+* *Maîtrise :* renforcement ou ajout de bonus supplémentaires à votre équipement si vous avez rempli certaines conditions.
+** * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maîtrise.
+
+* *Seuil de la Mort (SdM) :*
+
+* *d4 :*
+* *d3 :*

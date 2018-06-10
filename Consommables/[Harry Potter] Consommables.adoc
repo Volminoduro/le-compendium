@@ -17,7 +17,7 @@
 * Utilisable à tout moment.
 * *Effet(s) :*
 ** Soignez-vous immédiatement de 1 blessure.
-** Augmente votre défense de 1 jusqu'au début de votre prochain tour.
+** +1 de défense jusqu'au début de votre prochain tour.
 ** *Alcool fort (1 tour) :* Vous ne pouvez utiliser une autre carte vous conférant l'effet Alcool fort.
 
 * Image : {consommablesdir}fire_whisky.jpg
@@ -27,7 +27,7 @@
 * Utilisable à tout moment.
 * *Effet(s) :*
 ** Soignez-vous immédiatement 1 blessure.
-** *Alcool léger (1 tour) :* Si vous cumulez 3 effets d'Alcool léger ou plus, votre prochain déplacement se fera uniquement avec le dé à 4 faces.
+** *Alcool léger (1 tour) :* Si vous cumulez plus de 2 effets d'Alcool léger, votre prochain déplacement se fera avec le d4.
 
 * Citation : _"Pas de plus grand bonheur que la Bièraubeurre !"_, Publicité pour la Bièraubeurre0
 * Image : {consommablesdir}butterbeer.jpg
@@ -38,7 +38,7 @@
 * *Effet(s) :*
 ** Vous pouvez échapper à la mort une fois, pendant le tour.
 ** *Maudit (jusqu'à la fin de la partie) :* vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
-** Vous ne pourrez consommer un autre Sang de licorne tout au long de la partie.
+** Vous ne pourrez consommer un autre Sang de licorne tout du long de la partie.
 
 * Citation : _"Le sang de licorne permet de survivre, même si on est sur le point de mourir, mais à un prix terrible."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {consommablesdir}unicorn_blood.jpg
@@ -47,9 +47,9 @@
 
 === http://harrypotter.wikia.com/wiki/Floo_Powder[Poudre de cheminette (3 exemplaires)]
 
-* Utilisable lors de votre phase de déplacement.
+* Utilisable lors de votre déplacement.
 * *Effet(s) :*
-** Vous pouvez rendre sur la case de votre choix, si vous énoncez mal le nom, décalez vous aléatoirement d'une case sur le côté de la destination.
+** Rendez vous sur la case de votre choix, si vous énoncez mal le nom, décalez-vous aléatoirement d'une case de la destination.
 
 * Citation : _"CHEMIN DE TRAVERS !"_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
 * Image : {consommablesdir}floo_powder.jpg
@@ -58,8 +58,8 @@
 
 * Utilisable durant votre tour.
 * *Effet(s) :*
-** Placez cette carte en-dessous de la case où vous vous trouvez de manière à pouvoir les lire la carte et la case.
-** Si les deux Armoire à disparaître sont placées sur le plateau, les joueurs sont libre de les utiliser lorsqu'ils arrivent sur la case en question afin de se rendre sur l'autre case de l'armoire à disparaître, activant cette dernière case uniquement.
+** Placez cette carte en bas de votre case actuelle.
+** Quand les deux _Armoire à disparaître_ sont placées, les joueurs peuvent les utiliser lorsqu'ils arrivent sur la case en question afin de se rendre à l'autre l'_Armoire à disparaître_, activant la case de cette dernière uniquement.
 
 * Image : {consommablesdir}vanishing_cabinet.jpg
 
@@ -69,14 +69,14 @@
 
 * Utilisable à tout moment.
 * *Effet(s) :*
-** Vous permets de fuir une attaque, cela fonctionne contre les joueurs ou les Lieux.
+** Vous permets de fuir une attaque, cela fonctionne contre les _Personnages_ ou les _Lieux_.
 
 * Citation : _"On a tout essayé, Lumos, Incendio. Pas moyen d'obtenir la moindre lueur."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}peruvian_powder_darkness.jpg
 
 === http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (2 exemplaires)]
 
-* Utilisable uniquement durant le tour des autres joueurs, avant leur phase de déplacement
+* Utilisable uniquement durant le tour des autres joueurs, avant leur déplacement
 * *Effet(s) :*
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
@@ -88,7 +88,7 @@
 
 * Utilisable à tout moment
 * *Effet(s) :*
-** Le prochain tirage de dé du joueur ciblé atteindra forcément la valeur maximale.
+** Votre prochain tirage de dé atteindra la valeur maximale.
 
 * Citation : _"[...] on s'aperçoit que tout ce qu'on entreprend est couronné de succès... en tout cas jusqu'à ce que ses effets se dissipent."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}felix_felicis.jpg
@@ -98,9 +98,9 @@
 
 * Utilisable durant votre tour
 * *Effet(s) :*
-** Le personnage ciblé, autre que vous, tombe fou amoureux de celui qui lui administre le philtre pendant 2 tours.
-** Si la cible de son amour venait à mourir, il se suicidera. Son cadavre sera inexploitable.
-** L'effet peut-être annulé à l'aide d'un philtre de haine.
+** Ciblez un autre personnage, il tombe fou amoureux de vous pendant 2 tours.
+** Si vous mourrez, il se suicidera. Son cadavre sera inexploitable.
+** L'effet peut-être annulé à l'aide d'un philtre de haine (l'un ne remplace pas l'autre).
 
 * Citation : _"Non, elle produit simplement une forte attirance ou une obsession."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}amortentia.jpg
@@ -109,8 +109,8 @@
 
 * Utilisable durant votre tour
 * *Effet(s) :*
-** Vous pouvez attaquer deux fois par tour le personnage désigné, pendant un tour.
-** L'effet peut-être annulé à l'aide de l'Amortentia.
+** Vous pouvez attaquer deux fois par tour le personnage désigné, pendant 2 tours.
+** L'effet peut-être annulé à l'aide de l'Amortentia (l'un ne remplace pas l'autre).
 
 * Image : {consommablesdir}hate_potion.jpg
 * Catégorie : Attaque
@@ -119,7 +119,8 @@
 
 * Utilisable à tout moment
 * *Effet(s) :*
-** Le prochain consommable (ou celui en cours) utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place et en annulera les effets. Cela ne peut achever un joueur.
+** Le consommable utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place et en annulera les effets.
+** Cela ne peut achever un joueur.
 
 * Image : {consommablesdir}nose_biting_teacup.jpg
 * Catégorie : Attaque / Contre

@@ -13,7 +13,7 @@
 * A chaque partie, un meneur de jeu est choisi. Sa sélection est libre aux joueurs. Il peut être se désigné lui-même, être choisi aléatoirement, être élu à la majorité, etc.
 * Le personnage du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le personnage dispose déjà de 7 Blessures maximales).
 * Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront après lui.
-* On appelle un "tour de jeu global" le laps de temps entre deux tours du meneur de jeu.
+* On appelle un "tour de jeu global" le laps de temps entre deux tours du meneur de jeu [formulation].
 
 == Placement des cases
 
@@ -31,7 +31,6 @@
 == Attribution des personnages
 
 * Une fois que vous avez choisi la ou les extensions de jeu, vous devrez choisir vos personnages (cf. Personnages). Pour savoir qu'elle est la répartition d'Antagoniste / Neutre / Protagoniste à respecter pour une partie équilibrée, référez-vous à la sous-partie _Attribution alignement selon le nombre de joueurs_.
-* Nous vous conseillons de sélectionner des personnages qui sont sur un pied d'égalité de puissance, afin que l'équilibre des forces soit présent dans la partie.
 * Une fois que vous avez choisi les personnages joués pour la partie, vous les mélangez puis les distribuez aléatoirement à chaque joueur face cachée (à l'exception du Meneur de jeu).
 
 * Pour ajouter du piment dans votre partie, voici un mélange où l'aléatoire a pleinement son importance :
@@ -62,7 +61,7 @@
 
 * Le but du jeu est de remplir pour chaque joueur est de remplir sa quête. Les quêtes sont des objectifs à accomplir pendant la partie. Lorsqu'une quête est réussie, la partie se termine (cf. Fin de la partie).
 * Les cartes de quêtes doivent être choisies selon le type de partie que vous voulez faire. Si vous débutez ou que vous n'avez pas d'idée, fiez-vous au tableau des _Archétypes de parties_.
-** Par exemple, si vous choisissez que tous les joueurs ont des quêtes différentes, cela risque d'être difficile pour des débutants à suivre mais ça permettra aussi d'avoir des interactions très variées.
+** Par exemple, si vous choisissez que tous les joueurs aient des quêtes différentes, cela risque d'être difficile à suivre pour des débutants mais permettrait aussi d'avoir des interactions très variées.
 
 * La distribution des quêtes s'opère aléatoirement et face cachée, comme les _Personnages_.
 
