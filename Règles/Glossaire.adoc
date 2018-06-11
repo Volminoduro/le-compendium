@@ -11,7 +11,25 @@
 * *Maîtrise :* renforcement ou ajout de bonus supplémentaires à votre équipement si vous avez rempli certaines conditions.
 ** * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maîtrise.
 
+* bonus
+* effets
+* compétences
+
 * *Seuil de la Mort (SdM) :*
 
 * *d4 :*
 * *d3 :*
+
+* *Compagnon :*
+
+* Ennemi : table Antagoniste, Protagoniste, Neutre
+
+* *défense :* défense réussie
+* égalité
+* attaque
+
+
+==== Harry Potter
+
+* Les reliques de la mort : Peut être équipé avec la _Cape d'Invisibilité_ et _Baguette de Sureau_.
+* Si vous avez aussi équipé dans la partie la _Cape d'Invisibilité_ et la _Baguette de Sureau_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.

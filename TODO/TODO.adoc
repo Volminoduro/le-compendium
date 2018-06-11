@@ -38,4 +38,6 @@
 
 * Terme pour attaque en faveur de l'attaquant, en faveur de la défense, et l'égalité.
 
+* Code visuel pour les bonus, les effets et les compétences ?
+
 === Faire des scénarios
