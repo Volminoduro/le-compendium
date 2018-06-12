@@ -27,10 +27,6 @@
 
 === Avancer de cases serait avancer de "Pages" en pages dans le jeu.
 
-=== Pourcentage de complétion d'une extension (calcul) - En cours, voir HP pour étalonnage
-
-=== Réflexion autour du nombre de cartes équipements avec le stock du marchand
-
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
 
 
@@ -38,6 +34,6 @@
 
 * Terme pour attaque en faveur de l'attaquant, en faveur de la défense, et l'égalité.
 
-* Code visuel pour les bonus, les effets et les compétences ?
-
 === Faire des scénarios
+
+=== Variable projet pour les Personnages, Lieux, Cases, Personnages, etc ?

@@ -16,7 +16,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Foe-Glass[Glace à l'ennemi (2 exemplaires)]
 
-* *Détecteur de magie noire (1 charge) :*
+* [underline]*Détecteur de magie noire (1 charge) :*
 ** S'applique à vos deux voisins de jeu : si la cible est Neutre ou de votre alignement, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
 * Citation : _"Tu les vois, là, qui rôdent tout autour ? Je ne risque pas grand-chose tant que je ne vois pas le blanc de leurs yeux."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
@@ -34,13 +34,13 @@
 
 * +1 de défense.
 * *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, le bonus de défense passe à 2 au lieu de 1.
-* *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+* *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez annuler ça en lui octroyant une charge d'utilisation.
 
 * Image : {equipementsdir}jinx_off.jpg
 
 ==== http://harrypotter.wikia.com/wiki/Mrs_Norris[Miss Teigne (1 exemplaire)]
 
-* *Regard perçant :* Annule les malus de portée subies si le défenseur est à 1 de portée ou moins de vous.
+* *Regard perçant :* Annule les malus de portée subis si le défenseur est à 1 de portée ou moins de vous.
 * *Compagnon (1 blessure)*
 
 * Image : {equipementsdir}miss_teigne.jpg
@@ -80,7 +80,7 @@
 ==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire)]
 
 * *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
-* *Venin :* Les blessures de combat que vous infligez baissent également les Blessures maximums de la cible.
+* *Venin :* Les blessures d'attaque que vous infligez baissent également les Blessures maximums du défenseur.
 * *Compagnon (2 blessures)*
 
 * Citation : _"Nagini, mange."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
@@ -107,7 +107,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Hand_of_Glory[Main de la gloire (1 exemplaire)]
 
-* *Déverrouillage (3 charges d'utilisation) :* En arrivant sur un _Lieux_, vous pouvez en annulez les effets.
+* [underline]*Déverrouillage (3 charges d'utilisation) :* En arrivant sur un _Lieux_, vous pouvez en annulez les effets.
 * En attaquant, la _Poudre d'Obscurité Instantanée du Pérou_ n'a aucun effet contre vous.
 
 * Image : {equipementsdir}hand_of_glory.jpg
@@ -118,8 +118,8 @@
 
 * *Magie elfe :* +2 d'attaque et de défense.
 * *Esclave dévoué :* si une attaque doit vous faire passer au _SdM_, cette carte se défaussera éternellement à la place.
-* *Transplanage elfe :* pendant le tour suivant, l'_Elfe de maison_ se rendra sur la case désirée et en activera l'effet pour vous et vous ne pourrez bénéficier de ses autres compétences.
 * *LIBRE, mais reconnaissant :* un joueur à portée peut s'en emparer en offrant en premier un _Equipement_ de _Tête_ ou de _Corps_ à l'_Elfe de maison_.
+* [underline]*Transplanage elfe :* pendant le tour suivant, l'_Elfe de maison_ se rendra sur la case désirée et en activera l'effet pour vous et vous ne pourrez bénéficier de ses autres compétences.
 * *Compagnon (1 blessure)*
 
 * Citation : _"Les elfes de maison n'ont pas à s'amuser, Harry Potter. Les elfes de maison doivent faire ce qu'on leur dit de faire."_ Harry Potter, J.K Rowling.
@@ -155,8 +155,8 @@
 * *Initiative :* +1 d'attaque et +1 de défense si vous avez attaqué un autre personnage durant le tour dernier.
 * *Favorable à l'indécision :* si vous avez au moins 2 cibles possibles à attaquer, choisissez-en une aléatoirement et gagnez +1 d'attaque.
 * *Maîtrise :* si vous avez bénéficié 4 fois de l'effet _Favorable à l'indécision_ et / ou l'_Initiative_ (les deux se cumulant).
-** L'effet _Initiative_ passe à 2 d'attaque et de défense au lieu de 1, [et l'ancienneté de l'attaque peut remonter à 2 tours (tout reformuler)].
-** L'effet  _Favorable à l'indécision_ passe à 2 d'attaque au lieu de 1.
+** L'effet _Initiative_ passe à *2* d'attaque et de défense au lieu de 1, si vous avez attaqué un autre personnage durant les *2* tours derniers.
+** L'effet  _Favorable à l'indécision_ passe à *2* d'attaque au lieu de 1.
 
 * Image : {equipementsdir}wand_hetre.jpg
 
@@ -166,7 +166,7 @@
 * *Spécisme :* +1 d'attaque et de défense si l'ennemi possède un _Accessoire_ avec la compétence _Compagnon_.
 * *Endeuillement :* malus de -1 d'attaque et de défense si un autre _Personnage_ de votre alignement est décédé pendant la partie.
 * *Maîtrise :* si vous avez détruit un _Accessoire_ adverse avec la compétence _Compagnon_.
-** L'effet _Spécisme_ passe à 2 d'attaque et de défense au lieu de 1.
+** L'effet _Spécisme_ passe à *2* d'attaque et de défense au lieu de 1.
 
 * Image : {equipementsdir}wand_chataignier.jpg
 
@@ -176,7 +176,7 @@
 * *Explorateur :* +2 d'attaque et de défense si vous êtes sur une case _Lieux_.
 * *Vigilance :* +1 de défense si un _Ennemi_ révélé est à 1 case.
 * *Maîtrise :* après si vous vous êtes défendu 3 fois avec succès ou après avoir visité 3 _Lieux_ différents.
-** L'effet _Explorateur_ passe à 3 d'attaque et de défense au lieu de 2 et cela fonctionne à une case adjacente de la case _Lieux_.
+** L'effet _Explorateur_ passe à *3* d'attaque et de défense au lieu de 2 et cela fonctionne aussi à une case adjacente de la case _Lieux_.
 ** L'effet _Vigilance_ vous permet également de contre-attaquer l'adversaire.
 
 
@@ -233,7 +233,7 @@
 
 * +2 d'attaque et +1 de défense.
 * Cette épée garde toutes ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
-* *Ce qui ne me tue pas... :* Sur chacunes de vos attaques réussies, si la différence est au moins de 4, brisez un _Equipement_ adverse de votre choix et l'_Epée de Godric Griffondor_ gagne systématiquement les effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les _Equipements_ sont défaussés éternellement, placez-les sous la carte de l'_Epée de Godric Griffondor_).
+* *Ce qui ne me tue pas... :* Sur chacunes de vos attaques réussies, si la différence est au moins de 4, brisez un _Equipement_ adverse de votre choix et l'_Epée de Godric Griffondor_ gagne systématiquement les effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les _Equipements_ sont défaussés éternellement, placez-les en-dessous la carte de l'_Epée de Godric Griffondor_).
 
 * Image : {equipementsdir}godrics_sword.jpg
 
@@ -285,7 +285,7 @@
 * *Beauté bluffante :*
 ** Si un autre personnage vous attaque pour la première fois, vous pouvez éviter le combat.
 ** Votre prochain achat au marchand d'or ne vous coûte que 1, ne fonctionne qu'une fois.
-** Votre prochain achat au marchand de sang ne vous coûte que 1, ne fonctionne qu'une fois..
+** Votre prochain achat au marchand de sang ne vous coûte que 1, ne fonctionne qu'une fois.
 
 * Image : {equipementsdir}beautifying_robe.jpg
 
@@ -303,8 +303,7 @@
 
 * *Invisibilité :* On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 * Vous ne pouvez être la cible de compétences directes vous infligeant des blessures.
-* Peut être équipé avec la _Pierre de Résurrection_ et la _Baguette de Sureau_.
-* Si vous avez aussi équipé dans la partie la _Pierre de Résurrection_ et la _Baguette de Sureau_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
+* *Les Reliques de la Mort*
 
 * Image : {equipementsdir}invisbility_cloak.jpg
 

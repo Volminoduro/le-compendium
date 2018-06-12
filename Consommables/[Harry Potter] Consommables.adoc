@@ -33,7 +33,7 @@
 === http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne (2 exemplaire)]
 
 * Utilisable à tout moment
-** Vous pouvez échapper à la mort une fois, pendant le tour.
+** Vous pouvez échapper à la mort une fois, jusqu'à votre prochain tour.
 ** *Maudit (jusqu'à la fin de la partie) :* vous ne pourrez plus vous déplacer et attaquer dans le même tour, cela sera l'un ou l'autre.
 ** Vous ne pourrez consommer un autre Sang de licorne tout du long de la partie.
 
@@ -53,7 +53,7 @@
 === http://harrypotter.wikia.com/wiki/Vanishing_Cabinet[Armoire à disparaître (2 exemplaires)]
 
 * Utilisable durant votre tour.
-** Placez cette carte en bas de votre case actuelle.
+** Placez cette carte au-dessous de votre case actuelle.
 ** Quand les deux _Armoire à disparaître_ sont placées, les joueurs peuvent les utiliser lorsqu'ils arrivent sur la case en question afin de se rendre à l'autre l'_Armoire à disparaître_, activant la case de cette dernière uniquement.
 
 * Image : {consommablesdir}vanishing_cabinet.jpg
@@ -70,7 +70,7 @@
 
 === http://harrypotter.wikia.com/wiki/Dungbomb[Bombabouse (2 exemplaires)]
 
-* Utilisable uniquement avant le déplacement des autres joueurs.
+* Utilisable avant le déplacement des autres joueurs.
 ** Votre case devient inaccessible aux autres joueurs jusqu'à votre prochain tour. Ils reculent d'une case au lieu de se poser dessus.
 
 * Image : {consommablesdir}dungbomb.jpg
@@ -90,7 +90,7 @@
 
 * Utilisable durant votre tour
 ** Ciblez un autre personnage, il tombe fou amoureux de vous pendant 2 tours.
-** Si vous mourrez, il se suicidera. Son cadavre sera inexploitable.
+** Si vous mourrez, il mourra définitivement aussi. Son cadavre sera inexploitable.
 ** L'effet peut-être annulé à l'aide d'un philtre de haine (l'un ne remplace pas l'autre).
 
 * Citation : _"Non, elle produit simplement une forte attirance ou une obsession."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.

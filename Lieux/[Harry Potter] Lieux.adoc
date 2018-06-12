@@ -22,7 +22,7 @@
 === http://harrypotter.wikia.com/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries[Hôpital Ste-Mangouste]
 
 * Interdit aux Antagonistes
-* Chaque personnage au seuil de la mort peut être soigné de 1 blessure.
+* Chaque personnage au _SdM_ peut être soigné de 1 blessure.
 * Vous pouvez être soigné de 2 blessures.
 
 * Citation : _"Des médecins ? Tu veux dire ces Moldus cinglés qui coupent les gens en morceaux ? Non, eux, ce sont des guérisseurs."_, Harry Potter, J.K Rowling.
@@ -32,18 +32,18 @@
 
 === http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers]
 
-* Vous pouvez récupérer la première carte de "Corps" ou "Tête" de la pile _Equipement_, puis mélangez la pile.
+* Vous pouvez récupérer la première carte "Corps" ou "Tête" de la pile _Equipement_, puis mélangez la pile.
 
 * Image : {lieuxdir}madam_malkin.jpg
 
 === http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges]
 
 * *Goûteur dévoué :* Lancez les deux dés :
-** 2 : piocher une carte retournement.
+** 2 : piocher une carte _Retournement_.
 ** 3 : votre prochain jet de dé sera le score minimum possible.
-** 4 : subissez une blessure, soignez-vous 2 blessures au début de votre prochaine tour.
-** 5 : vous regagnez une charge sur une de vos compétences de _Personnages_.
-** 6 : jusqu'à que vous subissiez une blessure, vous pourrez lancer deux fois les dés pour vous déplacer.
+** 4 : subissez une blessure, puis soignez-vous 2 blessures au début de votre prochaine tour.
+** 5 : vous regagnez une charge sur la compétence de _Personnages_ de votre choix.
+** 6 : [jusqu'à que vous subissiez une blessure, vous pourrez lancer deux fois les dés pour vous déplacer. - TODO]
 ** 7 : vous goûtez deux nouvelles dragées, quelle gourmandise !
 
 * Citation : _"Vous avez peur de Vous-Savez-Qui ? Craignez plutôt POUSSE-RIKIKI..."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
@@ -53,19 +53,19 @@
 
 === http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk]
 
-* Vous pouvez récupérer une charge sur l'_Equipement_ de votre choix, 2 charges si vous êtes un Antagoniste.
+* Vous pouvez récupérer une charge sur la compétence de l'_Equipement_ de votre choix, 2 charges si vous êtes un Antagoniste.
 * Pour deux points d'_Equipement_, vous pouvez acheter la _Main de la gloire_ depuis la pile d'_Equipement_, puis mélangez la pile.
 
 * Image : {lieuxdir}borgin_and_burkes.jpg
 
 === http://harrypotter.wikia.com/wiki/Gregorovitch_Zauberst%C3%A4be[Gregorovith Zauberstäbe]
 
-* Vous pouvez récupérer une charge sur l'_Equipement_ de votre choix.
+* Vous pouvez récupérer une charge sur la compétence de l'_Equipement_ de votre choix.
 * Vous pouvez regagner 1 charge supplémentaire pour 1 points d'_Equipement_, utilisable plusieurs fois sur plusieurs _Equipements_.
-* *Assaut de Gregorovitch :*
-** Vous ne pouvez tenter cette action que si vous êtes le premier à le faire.
-** Attaquez Gregorovitch. Si l'attaque est supérieur à 5, emparez-vous de la _Baguette de Sureau_ dans les piles _Equipement_ et _Marchand_, puis mélangez les piles fouillées.
-** Les effets de ce Lieu sera annulé pour vous jusqu'à la fin de la partie.
+* [underline]*Assaut de Gregorovitch :*
+** Vous ne pouvez tenter ceci que si vous êtes le premier à le faire.
+** Attaquez Gregorovitch. Si l'attaque est supérieur à 5, emparez-vous de la _Baguette de Sureau_ dans les piles _Equipement_ et / ou _Marchand_, puis mélangez les piles fouillées.
+** Les effets de ce Lieu seront annulés pour vous jusqu'à la fin de la partie.
 
 * Image : {lieuxdir}gregorovitch_workshop.jpg
 
@@ -79,25 +79,25 @@
 ** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un d3 pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un équipement et une carte de votre main. Si vous êtes Firenze, gagnez un consommable et un équipement.
 ** *5 - Gibier :* vous pouvez attaquer, si vous faites plus de 2, guérissez-vous d'une blessure.
 ** *6 - Sentier mal balisé :* relancez les dés pour une autre rencontre aléatoire.
-** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous ne disposez pas d'équipement à perdre, perdez vos autant de cartes en main, sinon autant de points de vie.
-* Vous pouvez demander de l'aide à un autre _Personnage_ à une case de ce _Lieu_. Il peut remplir les conditions de victoire à votre place et négocier son aide.
+** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous n'avez pas d'équipement à perdre, perdez vos autant de cartes en main, sinon subir autant de blessures.
+* Vous pouvez demander de l'aide à un autre _Personnage_ à une case de ce _Lieu_. Il peut remplir les conditions de victoire à votre place et négocier son aide, il subira aussi la défaite.
 
 * Citation : _"Il y a des tas de bestioles là-dedans, même des loups-garous d'après ce qu'on m'a dit."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {lieuxdir}forbidden_forest.jpg
 
 === http://harrypotter.wikia.com/wiki/Azkaban[Azkaban]
 
-* Vous pouvez attaquer un autre personnage à votre portée, en cas de victoire, il sera enfermé et ne subira pas de blessure.
-* A son prochain tour, il devra faire un double ou un 7 en lançant les dés pour en sortir, sinon, il perds un équipement ou une carte de sa main aléatoirement, et ainsi de suite. Si il n'a plus rien, il commencera son tour normalement.
+* Vous pouvez attaquer un autre _Personnage_ à votre portée, en cas de victoire, il sera enfermé et ne subira pas de blessure.
+* A son prochain tour, il devra faire un double ou un 7 en lançant les dés pour en sortir, sinon, il perds un _Equipement_ ou une carte de sa main aléatoirement, et ainsi de suite. S'il n'a plus rien, il commencera son tour normalement.
 
 * Citation : _"Ils sont enfermés dans leur propre tête, incapables d'avoir la moindre pensée agréable."_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
 * Image : {lieuxdir}azkaban.jpg
 
 === http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu]
 
-* Chaque personnage à moins de 3 Blessures peut participer. Il faut .
-* La coupe sélectionne aléatoirement un personnage de chaque alignement disponible, il faut 3 personnages participants minimum.
-* Celui qui finit avec le moins de Blessures subies au bout de 3 tours remporte la coupe [(5 points dans le comptage final)], et 3 équipements et 2 consommables.
+* Chaque _Personnage_ à moins de 3 Blessures peut participer.
+* il faut 3 _Personnage_ participants minimum, dont au moins 2 alignements différents. La coupe sélectionne aléatoirement un _Personnage_ de chaque alignement disponible.
+* Au bout de 3 tours, le participant le moins blessé remporte la coupe (5 points dans le comptage final), et 3 _Equipements_ et 2 _Consommables_.
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
 * Image : {lieuxdir}goblet_of_fire.jpg
@@ -111,13 +111,13 @@
 
 === http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean]
 
-* *Rencontre avec les rafleurs :* en commençant par le personnage qui a découvert ce lieu puis selon l'ordre de jeu, chaque joueur à une case de distance du Lieu doit affronter un groupe de rafleurs. Défendez-vous de la même façon qu'un combat ordinaire, si votre défense n'est pas supérieur à 3, vous perdez une carte aléatoirement (de votre main ou de vos équipements).
+* *Rencontre avec les rafleurs :* en commençant par le _Personnage_ qui a découvert ce lieu puis selon l'ordre de jeu, chaque _Personnage_ doit se défendre contre un groupe de rafleurs, si la défense est inférieure à 4, il perds une carte aléatoirement (de votre main ou de vos équipements).
 
 * Image : {lieuxdir}forest_of_dean.jpg
 
 === http://harrypotter.wikia.com/wiki/Knockturn_Alley[L'allée des embrumes]
 
-* *Quartier très malfamé* : Pas de défense possible, vos 3 objets équipés les plus qualitatifs (dans l'ordre décroissant de qualité) vous sont retirés et sont remis dans la pile du marchand d'or.
+* *Quartier très malfamé* : Vos 3 objets équipés les plus qualitatifs (dans l'ordre décroissant de qualité) vous sont retirés et sont remis dans la pile du _Marchand d'or_.
 
 * Citation : _"C'est un endroit très malfamé. Il ne faut surtout pas que quelqu'un te voie là-bas."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
 * Image : {lieuxdir}knockturn_alley.jpg
@@ -126,34 +126,34 @@
 
 === http://harrypotter.wikia.com/wiki/Room_of_Requirement[La salle sur demande]
 
-* Vous permet d'avoir l'effet de la case que vous souhaitez.
+* Vous permet d'avoir l'effet de la _Case_ que vous souhaitez.
 
 * Citation : _"Si vous devez demander, jamais vous ne saurez. Si vous savez, il suffit de demander."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
 * Image : {lieuxdir}room_of_requirement.jpg
 
 === http://harrypotter.wikia.com/wiki/Gringotts_Wizarding_Bank[Banque de Gringotts]
 
-* Vous permet de stocker / reprendre jusqu'à deux cartes de votre main face cachées.
+* Vous permet de stocker face cachées / reprendre jusqu'à deux cartes de votre main.
 
 * Citation : _"Gringotts est l'endroit le plus sûr du monde. À part Poudlard, peut-être."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {lieuxdir}gringotts.jpg
 
 === http://harrypotter.wikia.com/wiki/The_Burrow[Le terrier]
 
-* *Doux foyer :* vous ne pouvez attaquer personne et personne ne peut vous attaquer tant que vous vous trouvez dans ce lieu.
+* *Doux foyer :* Jusqu'à votre prochain tour, personne ne peut vous attaquer, vous ne pouvez attaquer personne.
 * *Madame Weasley, mère au foyer :* Interdit aux Antagonistes, vous êtes soigné d'une blessure.
 
 * Image : {lieuxdir}burrow.jpg
 
 === http://harrypotter.wikia.com/wiki/Diagon_Alley[Chemin de traverse]
 
-* En commençant par celui qui a découvert le _Chemin de traverse_, et dans l'ordre de jeu, chaque personnage peut acheter des équipements comme s'il était sur la case marchand d'or.
+* En commençant par celui qui a découvert le _Chemin de traverse_, puis dans l'ordre de jeu, chaque _Personnage_ peut acheter comme s'il était sur la case marchand d'or.
 
 * Image : {lieuxdir}diagon_alley.jpg
 
 === http://harrypotter.wikia.com/wiki/Veil[Le voile]
 
-* Actif pour tous les joueurs pendant 2 tours de jeu globaux.
+* Actif pendant 2 tours de jeu globaux.
 * Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort.
 
 * Citation : _"[...] il n'allait pas tarder à réapparaître de l'autre côté... Sirius, pourtant, ne réapparaissait pas."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
