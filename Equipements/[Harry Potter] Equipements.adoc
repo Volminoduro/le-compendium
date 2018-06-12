@@ -33,7 +33,7 @@
 ==== http://harrypotter.wikia.com/wiki/Jinx-Off[Gants de démalédiction (1 exemplaire)]
 
 * +1 de défense.
-* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_, chaque objet vous octroie +2 de défense au lieu de 1. Les effets *Ensemble complet de démalédiction* ne peuvent se cumuler.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, le bonus de défense passe à 2 au lieu de 1.
 * *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
 
 * Image : {equipementsdir}jinx_off.jpg
@@ -198,10 +198,10 @@
 
 * +1 de portée, +2 d'attaque et +2 de défense.
 * *Bourreau :* +1 d'attaque contre les personnages au _SdM_.
-* *Opportuniste :* lorsque vous êtes vaincu lors d'une attaque par un _Personnage_ moins blessé que vous, l'arme parvient en sa possession.
+* *Opportuniste :* si un _Personnage_ moins blessé que vous vous attaque avec succès, l'arme parvient en sa possession.
 * *Maîtrise :* si vous avez achevé définitivement un autre personnage.
-** *Létale :* vos attaques amenant des personnages au _SdM_ les tuent directement à la place.
-** *Moissoneur de vie :* tous les deux personnages que vous avez achevé définitivement vous confère +1 d'attaque et de défense (mettez leurs cartes _Personnages_ en dessous de la votre).
+** *Létale :* vos attaques amenant au _SdM_ tuent directement à la place.
+** *Moissoneur de vie :* tous les deux personnages que vous avez achevé définitivement au cours de la partie vous confère +1 d'attaque et de défense (mettez leurs cartes _Personnages_ en dessous de la votre).
 
 * Image : {equipementsdir}wand_if.jpg
 
@@ -209,9 +209,9 @@
 
 * +1 de portée, +2 d'attaque et +1 de défense.
 * *Affinité envers la Legilimency :* en cas d'attaque réussie, le défenseur doit vous révéler sa main.
-* *Détection serpentine :* pendant leur tour, les autres joueurs s'arrêtant à une case de vous déclenchent les mêmes effets que _Détecteur de magie noire_ du _Miroir à l'ennemi_.
+* *Détection serpentine :* pendant leur tour, les autres joueurs s'arrêtant à une case de vous déclenchent le même effet que _Détecteur de magie noire_ du _Miroir à l'ennemi_.
 * *Maîtrise :* après avoir confondu un autre personnage au _Tribunal magique_ avec succès ou en ayant révélé plus de 6 cartes d'adversaires grâce à l'_Affinité envers la Legilimency_.
-** L'effet _Affinité envers la Legilimency_ vous permet aussi, selon votre choix, de réveler la carte personnage de l'adversaire ou de lui voler une carte de sa main.
+** L'effet _Affinité envers la Legilimency_ vous permet aussi, de réveler la carte personnage de l'adversaire ou de lui voler une carte de sa main.
 
 * Image : {equipementsdir}wand_tilleul_argente.jpg
 
@@ -221,8 +221,8 @@
 
 * +1 de portée, +1 d'attaque et +1 de défense.
 * *Duplicateur de puissance :* Double tous vos bonus d'attaque, qu'ils soient actifs ou passifs.
-* *Allégeance intéressée :* Si vous êtes battu lors d'une attaque, la Baguette de Sureau rentre en possession de l'attaque.
-* *Maîtrise :* si vous avez réussi à vous défendre ou à attaquer tous les autres joueurs de la partie encore en vie.
+* *Allégeance intéressée :* Si on vous attaque avec succès, la _Baguette de Sureau_ rentre en possession de l'attaquant.
+* *Maîtrise :* si vous avez réussi à vous défendre ou à attaquer avec succès tous les autres joueurs de la partie encore en vie.
 ** L'effet _Duplicateur de puissance_ double également tous vos bonus de défense.
 * *Les Reliques de la Mort*
 
@@ -267,8 +267,8 @@
 ==== http://harrypotter.wikia.com/wiki/Jinx-Off[Cape de démalédiction (1 exemplaire)]
 
 * +1 de défense.
-* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_, chaque objet vous octroie de 2 défense au lieu de 1. Les effets *Ensemble complet de démalédiction* ne peuvent se cumuler.
-* *Equipement fragile :* Si vous passez au _Seuil de la Mort_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, le bonus de défense passe à 2 au lieu de 1.
+* *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
 
 * Image : {equipementsdir}jinx_off.jpg
 
@@ -345,8 +345,8 @@
 ==== http://harrypotter.wikia.com/wiki/Jinx-Off[Coiffe de démalédiction (1 exemplaire)]
 
 * +1 de défense.
-* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, chaque objet vous octroie de 2 défense au lieu de 1. Les effets d'*Ensemble complet de démalédiction* ne peuvent se cumuler.
-* *Equipement fragile :* Si vous passez au Seuil de la Mort avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, le bonus de défense passe à 2 au lieu de 1.
+* *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
 
 * Image : {equipementsdir}jinx_off.jpg
 
@@ -361,7 +361,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Sorting_Hat[Choixpeau magique (1 exemplaire)]
 
-* *Héritier de Griffondor (Réservé aux Protagonistes) :* Lorsque vous êtes attaqué à 2 Blessures de la mort ou moins, vous pouvez obtenir l'arme _Epée de Godric Griffondor_, qu'importe où elle se trouve.
+* *Héritier de Griffondor (Réservé aux Protagonistes) :* Lorsque vous êtes attaqué à 1 Blessures ou moins du _SdM_, vous pouvez obtenir l'arme _Epée de Godric Griffondor_, qu'importe où elle se trouve.
 * *Legilimancie chapelière (2 charges d'utilisation) :* Le joueur ciblé doit indiqué son identité et sa quête aux autres joueurs. Il peut lancez les deux dés, s'il fait au moins 5, il aura le droit de mentir.
 
 * Citation : _"Pas à Serpentard ? [...] Tu es sûr ?"_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
@@ -371,7 +371,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Rowena_Ravenclaw%27s_diadem[Diadème de Rowena Serdaigle (1 exemplaire)]
 
-* *Sagesse :* pendant votre tour, vous avez le droit de revenir une fois sur une de vos actions (déplacement, attaque, utilisation d'une compétence, etc.) pour en annuler l'effet et les conséquences. Vous pourrez recommencer cette action si vous le souhaitez.
+* *Sagesse :* pendant votre tour, vous avez le droit de revenir une fois sur une de vos actions (déplacement, attaque, utilisation d'une compétence, etc.) pour en annuler les conséquences.
 
 * Image : {equipementsdir}ravenclaw_diadem.jpg
 

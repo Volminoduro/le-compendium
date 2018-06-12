@@ -11,9 +11,9 @@
 * *Maîtrise :* renforcement ou ajout de bonus supplémentaires à votre équipement si vous avez rempli certaines conditions.
 ** * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maîtrise.
 
-* bonus
-* effets
-* compétences
+* bonus : bonus de stats
+* effets : action qui se déclenche d'elle-même lorsque les conditions en sont réunies, ne nécessite une action explicite contrairement à la compétence
+* compétences : compétence à activer soi-même
 
 * *Seuil de la Mort (SdM) :*
 
