@@ -6,12 +6,7 @@
 :toc:
 :numbered:
 
-include::/Règles/Glossaire.adoc[]
-
-
 :personnagesdir: /images/Personnages/
-
-
 
 = Personnages
 
@@ -19,11 +14,10 @@ include::/Règles/Glossaire.adoc[]
 
 === http://harrypotter.wikia.com/wiki/Tom_Riddle[Tom Jedusor]
 
-  * {personnage}
   * [red]*5 Blessures.*
-  * *Horcruxe :* chaque personnage qu'il achève lui-même permet de résister à une mort définitive supplémentaire, peut se cumuler plusieurs fois.
-  * [underline]*Feudeymon (1 fois dans la partie) :* tous les personnages subissent 1 blessure, si cela achève un personnage, le sort se relance autant de fois que nécessaire.
-  * *La prophétie :* accomplir votre quête ne termine pas la partie si Harry Potter est en jeu et toujours en vie.
+  * *La prophétie :* accomplir votre _Quête_ ne termine pas la partie si _Harry Potter_ est toujours en vie.
+  * *Horcruxe :* tous les _Personnages_ que vous achevez vous permettent de résister à une mort définitive supplémentaire, peut se cumuler plusieurs fois.
+  * [underline]*Feudeymon (1 fois dans la partie) :* tous les _Personnages_ subissent 1 blessure, si cela achève un _Personnage_, le sort se relance autant de fois que cela se produit.
 
   * Citation : _"Il n’y a pas de bien ni de mal, il n’y a que le pouvoir, et ceux qui sont trop faibles pour le rechercher…"_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}Voldemort.jpg
@@ -31,9 +25,10 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Peter_Pettigrew[Peter Pettigrow]
 
   * [red]*4 Blessures.*
-  * *Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au _SdM_.
-  * *Main d'argent :* +2 d'attaque tant que vous n'avez pas d'arme. S'il vous est possible d'achever un _Protagoniste_ après votre déplacement, vous devez le faire, sans quoi vous subissez une blessure.
-  * [underline]*Queudver :* Vous vous transformez en Animagus, votre tour est fini. Sous cette forme, lancez que le dé à 4 faces pour se déplacer, -2 de portée adverse, vous ne pouvez attaquer d'autres personnages et au début de votre tour, vous pouvez voir la carte _Lieux_ la plus proche de vous. Vous pouvez réactiver cette compétence pour en annuler les effets.
+  * *Main d'argent :* +2 d'attaque tant que vous n'avez pas d'_Arme_. S'il vous est possible d'achever un _Protagoniste_ après votre déplacement, vous devez le faire, sans quoi vous subissez une _Blessure_.
+  * [underline]*Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au _SdM_.
+  * [underline]*Animagus :* Vous activez / annuler votre transformation en _Queudver_, votre tour est fini.
+  * *Queudver :* Au début de votre tour, vous pouvez regarder la carte _Lieux_ la plus proche de vous. Déplacez qu'avec le d4, -2 de portée adverse, vous ne pouvez attaquer d'autres _Personnages_.
 
   * Citation : _"Ta dévotion n'est rien d'autre que de la couardise. Tu ne serais pas ici si tu avais un autre endroit où aller."_, Harry Potter et la Coupe de Feu, J.K Rowling, 2000.
   * Image : {personnagesdir}peter_pettigrew.jpg
@@ -41,9 +36,9 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirinus Quirrell]
 
   * [red]*5 Blessures.*
-  * *Esprit influençable :* une seule fois par partie, vous pouvez oublier votre quête afin de vous consacrer à celle d'un autre personnage, sous son accord. Sa quête devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
-  * [underline]*Possession :* vous pouvez accueillir l'esprit d'un personnage décédé dans votre corps. Il peut toujours accomplir sa quête et vous la vôtre. Ceci vous inflige 1 blessure à chaque début de votre tour, tous les 2 tours, vous pouvez en mourir. Désormais, _Esprit influençable_ vous donnera l'intégralité des points d'accomplissement.
-  * *"Cessez de vous moquer de moi !" :* gagnez +2 d'attaque et +1 de défense tant que vous êtes le personnage le plus de blessé de la partie.
+  * [underline]*Esprit influençable (une seule utilisation / partie) :* vous pouvez oublier votre _Quête_ afin de vous consacrer à celle d'un autre _Personnage_, avec son accord. Sa _Quête_ devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
+  * [underline]*Possession :* vous pouvez accueillir l'esprit d'un _Personnage_ décédé dans votre corps. Il peut toujours accomplir sa _Quête_ et vous la vôtre. Ceci vous inflige 1 _Blessure_ à chaque début de votre tour, tous les 2 tours. Désormais, _Esprit influençable_ vous donne l'intégralité des points d'accomplissement.
+  * *"Cessez de vous moquer de moi !" :* gagnez +2 d'attaque et +1 de défense tant que vous êtes le _Personnage_ en vie le plus de blessé de la partie.
 
   * Citation : _"Vous êtes un peu trop curieux pour vivre bien longtemps, Potter."_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}quirinus_quirell.jpg
@@ -51,16 +46,17 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Dolores_Umbridge[Dolores Ombrage]
 
     * [red]*4 Blessures.*
-    * [underline]*Incarcerem (1 utilisation disponible tous les 3 joueurs dans la partie) :* un autre personnage ciblé ne pourra attaquer, se défendre (il ne pourra utiliser pas les dés pour se défendre ni son arme) ou se déplacer à son prochain tour. A son prochain tour, s'il fait un score d'attaque de plus de 4, il s'en libère et pourra agir normalement.
-    * *Corruptible :* les cibles que vous attaquez peuvent vous payer 3 points d'équipements pour éviter l'attaque.
-    * [underline]*Sous-secrétaire d'État auprès du Ministère de la Magie (1 fois par tour) :* A la place de piocher une carte retournement quand vous le pouvez ou en payant 7 points d'équipements, vous pouvez édicter un _Amendement du Ministère_. L'_Amendement du Ministère_ est une règle que vous décidez arbitrairement d'appliquer dans la liste ci-dessous, plusieurs _Amendement du Ministère_ peuvent être actifs en même temps. Vous ne pouvez choisir deux fois la même règle. Les règles s'appliquent obligatoirement à tous les autres joueurs, sauf vous. [Les _Amendements du Ministère_ continuent d'exister même après votre mort]. Vous pouvez décider d'abroger un _Amendement du Ministère_ à tout moment.
+    * [underline]*Incarcerem (1 utilisation / tous les 3 joueurs dans la partie) :* un autre _Personnage_ ciblé devient _Entravé_ jusqu'au début de son deuxième prochain tour. Au début de son prochain tour, s'il fait un score d'attaque de plus de 4, il s'en libère et pourra agir normalement.
+    * *Corruptible :* les défenseurs peuvent vous payer 3 points d'_Equipements_ pour éviter l'attaque.
+    * [underline]*Sous-secrétaire d'État auprès du Ministère de la Magie (1 utilisation / tour) :* A la place de piocher une carte _Retournement_ quand vous le pouvez ou en payant 7 points d'_Equipements_, vous pouvez édicter un _Amendement du Ministère_. Les _Amendement du Ministère_ ne s'appliquent pas à vous. Vous pouvez décider d'abroger un _Amendement du Ministère_ à tout moment.
+
     ** Sera une carte à part.
-    ** *Vase clos :* il est interdit à toutes personnes de communiquer à l'alignement ennemi des informations qui pourraient leur être utiles [à voir ou autre ?].
-    ** *Prohibition :* Il est interdit de disposer ou d'utiliser d'un _Consommable_ disposant d'un effet avec _Alcool_ dans son nom. Si tel est le cas, défaussez-vous en sur le champ.
-    ** *Désarmement :* Les _Armes_ de type _Baguettes_ ne peuvent plus être utilisés en combat entre les joueurs.
-    ** *L'éducation avant tout :* La _Boutique de Fred et Georges_ est interdite d'accès, l'utilisation de la _Bombabouse_ est interdite, l'équipement ou la possession de _Lorgnospectres_.
+    ** *Vase clos :* il est interdit à toutes personnes de communiquer à l'alignement ennemi des informations qui pourraient leur être utiles [à voir ou autre ? interdire d'échange ? - TODO].
+    ** *Prohibition :* il est interdit de posséder ou d'utiliser d'un _Consommable_ disposant d'un effet avec _Alcool_ dans son nom. Défaussez-vous immédiatement.
+    ** *Désarmement :* les _Armes_ de type _Baguettes_ ne peuvent plus être utilisés en combat entre les joueurs.
+    ** *L'éducation avant tout :* la _Boutique de Fred et Georges_ est interdite d'accès, l'utilisation de la _Bombabouse_ est interdite, l'équipement ou la possession de _Lorgnospectres_ également.
     ** *Lutte contrebandière :* chaque carte piochée ou échangée (à l'exception de la _Taverne de la Tête du Sanglier_) doit être montrée à _Dolores Ombrage_.
-    ** *Pas de Quidditch, pas de balais :* les _Accessoires_ étant des balais doivent sont interdits et doivent être défaussés sur le champ.
+    ** *Pas de Quidditch, pas de balais :* il est interdit de posséder ou d'équiper des _Accessoires_ de type des balais. Défaussez-vous immédiatement.
     ** *Organisation illégale :* Vous ne pouvez être plus de 2 joueurs sur la même case, si tel devait être le cas, reculez d'une case, autant de fois que nécessaire.
 
     * Citation : _"J’ai hâte de vous connaître tous et je suis sûre que nous deviendrons vite de très bons amis !"_, Harry Potter et l’Ordre du Phénix, J.K Rowling, 2003.
@@ -69,13 +65,9 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Fenrir_Greyback[Fenrir Greyback]
 
   * [red]*6 Blessures.*
-  * *Lycanthropie :* Tous les 4 tours, après votre déplacement, vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
-    ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
-    ** +3 d'attaque et +2 de défense. Votre arme ne peut pas être utilisée et n'a aucun effet.
-    ** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
-    ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
-  * [underline]*Préparation sélène :* Lors de votre déplacement précédant votre _Lycanthropie_, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous avancez de deux cases supplémentaires vers un autre personnage de votre choix.
-  * *Chef des rafleurs :* lors d'une attaque réussie, vous pouvez voler un objet équipé à votre cible plutôt que lui infliger une blessure.
+  * *Lycanthropie :* Tous les 4 tours, après votre déplacement, vous vous transformez en _Loup-Garou_ jusqu'au début de votre prochain tour.
+  * [underline]*Préparation sélène :* Vous pouvez avancer jusqu'à deux cases supplémentaires lors de votre déplacement précédant votre _Lycanthropie_.
+  * [*Chef des rafleurs :* lors d'une attaque réussie, vous pouvez voler un objet équipé à votre cible plutôt que lui infliger une blessure - TODO]
 
   * Citation : _"Tu sais à quel point j’aime les enfants, Dumbledore."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
   * Image : {personnagesdir}fenrir_greyback.jpg
@@ -83,10 +75,10 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Bellatrix_Lestrange[Bellastrix Lestrange]
 
   * [red]*5 Blessures.*
-  * *Cruauté :* chaque attaque consécutive envers un personnage vous donne +1 d'attaque, peut se cumuler jusqu'à 3 fois. Changer de cible fait repartir l'effet de zéro.
+  * *Cruauté :* chaque attaque consécutive envers un personnage vous donne +1 d'attaque, peut se cumuler jusqu'à 3 fois. Changer de cible fait repartir le bonus de zéro.
   * *Duelliste exceptionnelle :* Si vous avez attaqué avec succès au tour précédent, vous gagnez +2 d'attaque, +2 de défense et annuler l'effet d'_Orgueil mal placé_.
   * *Orgueil mal placé :* si vous ne réussissez pas une attaque ou échouer une défense, baisse votre bonus de _Duelliste exceptionnelle_ de 1. Peut se cumuler jusqu'à vous conférer -2 d'attaque et -2 de défense.
-  * *Tortionnaire :* chaque blessure de combat que vous infligez à un autre personnage vous permet de gagner une unité de _Sang_. Le _Sang_ peut être utilisé comme monnaie auprès du _Marchand de sang_.
+  * *Tortionnaire :* Infligez des blessures lors d'une attaque vous octroie une unité de _Sang_.
 
   * Citation : _"J'ai tué Sirius Black ! J'ai tué Sirius Black ! J'ai tué Sirius Black ! Essaies de m'attraper !"_, Harry Potter et l’Ordre du Phénix, J.K Rowling, 2003.
   * Image : {personnagesdir}bellatrix_lestrange.jpg
@@ -97,8 +89,8 @@ include::/Règles/Glossaire.adoc[]
 
   * [red]*4 Blessures.*
   * *Sadisme :* +1 d'attaque contre un personnage plus blessé que lui.
-  * *Expertise gobeline :* lors d'un achat auprès du _Marchand d'or_, si la valeur de l'objet échangé est en-dessous de la votre, vous pouvez annuler l'échange, l'équipement retourne sur le dessus de la pile. [le multi échange ?]
-  * *Ancien employé :* Gripsec peut retirer ses objets de Gringotts sans avoir tirer cette carte _Lieux_. Virtuellement, vous avez donc 2 emplacements de carte en main supplémentaires.
+  * *Expertise gobeline :* lors d'un achat auprès du _Marchand d'or_, si la valeur de(s) l'objet(s) échangé(s) est en-dessous de la votre, vous pouvez annuler l'échange, l(es)'_Equipement(s)_ retourne(nt) sur le dessus de la pile.
+  * *Ancien employé :* vous pouvez retirer vos objets de la _Banque de Gringotts_ sans avoir tirer cette carte _Lieux_. Virtuellement, vous avez donc 2 emplacements de carte en main supplémentaires.
 
   * Citation : _"Les gobelins et les elfes ne sont guère accoutumés à la solidarité ou au respect..."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
   * Image : {personnagesdir}griphook.jpg
@@ -106,10 +98,10 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Aragog[Aragog] :
 
   * [red]*7 Blessures.*
-  * *Venin acromantulère :* si vous blessez une cible lors d'une attaque, au prochain tour, la cible ne se déplacera qu'avec le dé à 3 faces et ses bonus d'attaque et de défense seront réduits à la moitié inférieure.
-  * *Ponte de Mosag :* A tout moment, lorsqu'il reçoit un soin excèdentaire (lorsque vous avez 0 blessure subie), il génère un _Membre de la couvée_.
-  * [underline]*Patriache de colonie :* Vous pouvez sacrifier des _Membres de la couvée_ pour modifier le calcul des dégâts lors d'un combat, 1 "Membre de la couvée" sacrifié vous rapporte +1 d'attaque ou de défense, selon du côté où vous vous trouvez.
-  * *Cannibalisme opportun :* lorsque vous êtes au _SdM_ avec des _Membres de la couvée_ encore actifs, vous décédez directement.
+  * *Venin acromantulère :* après une attaque réussie, au prochain tour, la cible ne se déplacera qu'avec le d3 et ses bonus d'attaque et de défense seront réduits à la moitié inférieure.
+  * *Ponte de Mosag :* A tout moment, lorsque vous recevrez un soin excèdentaire (lorsque vous avez 0 blessure subie), vous générez un _Membre de la couvée_.
+  * [underline]*Patriache de colonie :* Vous pouvez sacrifier des _Membres de la couvée_ pour modifier le calcul lors d'un combat, 1 _Membre de la couvée_ sacrifié vous rapporte +1 d'attaque ou de défense, au choix.
+  * *Cannibalisme opportun :* si vous êtes au _SdM_ avec des _Membres de la couvée_ encore actifs, vous décédez directement.
 
   * Citation : _"Des humains. [...] Alors, tuez-les. J'étais en train de dormir."_, Harry Potter et la Chambre des Secrets, J.K Rowling, 1998.
   * Image : {personnagesdir}aragog.jpg
@@ -117,13 +109,13 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart] :
 
   * [red]*4 Blessures.*
-  * [underline]*Brackium Emendo (1 utilisation tous les 2 tours) :* ciblez un personnage à votre portée (cela peut être vous), et lancez les deux dés. Si le résultat est au moins 6, la cible est soigné d'une blessure, sinon, son _Arme_ devient inactive pendant 2 tours (retourner la carte pour symboliser son inactivité).
-  * *Escroc :* Vous pouvez vous attribuer l'accomplissement d'une quête d'un personnage affecté par votre compétence _Oubliettes_. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes en même temps grâce à cette compétence.
-  * [underline]*Oubliettes :* Pendant votre tour, ciblez un personnage autre que vous, cela ne peut pas être deux fois la même cible consécutivement. Lancez les deux dés.
-    ** Si le résultat est 7, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête. La cible ne pourra plus utiliser aucune de ses capacités de personnages.
+  * [underline]*Brackium Emendo (1 utilisation tous les 2 tours) :* ciblez un _Personnage_ à votre portée, et lancez les deux dés. Si le résultat est au moins 6, la cible est soigné d'une blessure, sinon, son _Arme_ devient inactive pendant 2 tours.
+  * *Escroc :* Vous pouvez gagnez par l'accomplissement d'une quête d'un personnage affecté par votre compétence _Oubliettes_. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes en même temps grâce à cette compétence.
+  * [underline]*Oubliettes :* Pendant votre tour, ciblez un autre _Personnage_, cela ne peut pas être deux fois la même cible consécutivement. Lancez les deux dés.
+    ** Si le résultat est 7, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête. La cible ne pourra plus utiliser aucune de ses _compétences_ de _Personnage_.
     ** Si le résultat est 6, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête.
     ** Si le résultat est 3, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres.
-    ** Si le résultat est 2, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres, et vous ne pourrez plus utiliser vos compétences.
+    ** Si le résultat est 2, vous ne gagnerez aucun points et la partie ne se terminera pas si vous finissez votre quête ou celle des autres, et vous ne pourrez plus utiliser vos _compétences_.
 
   * Citation : _"Et si j’avais voulu vous en empêcher, je n’aurais eu aucun mal à le faire."_, Harry Potter et la Chambre des Secrets, J.K Rowling, 1998.
   * Image : {personnagesdir}gilderoy_lockhart.jpg
@@ -132,9 +124,9 @@ include::/Règles/Glossaire.adoc[]
 
 * [red]*1 Blessures.*
 * *Amortel :* vous ne pouvez être tué. Si vous subissez une blessure alors que vous êtes au _SdM_, vous ne pourrez pas vous déplacer au prochain tour.
-* *Invisibilité :* -2 de portée pour vos attaquants, on ne peut vous cibler directement que ce soit avec un _Consommable_ ou une compétence d'_Arme_ ou de _Personnage_. Attaquer quelqu'un pendant votre tour vous annule l'_Invisibilité_ jusqu'à votre prochain tour.
 * *A peine physique :* -3 d'attaque.
-* [underline]*Esprit du chaos (1 action par tour global de jeu) :*
+* *Invisibilité :* -2 de portée pour vos attaquants, on ne peut vous cibler directement que ce soit avec un _Consommable_ ou une compétence d'_Arme_ ou de _Personnage_. Attaquer quelqu'un vous annule l'_Invisibilité_ jusqu'à votre prochain tour.
+* [underline]*Esprit du chaos (1 action / tour global de jeu) :*
 ** Si deux joueurs sont à votre portée, vous pouvez échanger jusqu'à 2 cartes de leurs mains et / ou de leurs équipements. Nécessite l'_Invisibilité_.
 ** Si un joueur se situe entre vous et la case _Lieux_, vous pouvez l'attaquez, si l'attaque est réussi, il ne subit pas de blessure et va sur la case _Lieux_ et l'active.
 ** Au lieu de piocher un _Consommable_ ou un _Equipement_, vous pouvez regarder les trois prochaines cartes et les reposer dans l'ordre que vous voulez.
@@ -171,7 +163,7 @@ include::/Règles/Glossaire.adoc[]
 === http://harrypotter.wikia.com/wiki/Harry_Potter[Harry Potter]
 
   * [red]*5 Blessures.*
-  * *La prophétie :* accomplir votre quête ne termine pas la partie si Tom Jedusor est en jeu et toujours en vie.
+  * *La prophétie :* accomplir votre quête ne termine pas la partie si _Tom Jedusor_ est toujours en vie.
   * [underline]*Accio (1 utilisation tous les 2 tours):* Pendant votre tour, nommez une carte de la pile Consommables ou Equipements, si celle-ci se trouve dans les 3 prochaines cartes, récupérez-la. Puis, placez les autres cartes révélées sous le dessous de la pile.
   * [underline]*Expelliarmus (1 utilisation disponible tous les 2 joueurs dans la partie) :* lors d'un combat, désactivez toutes les armes équipées de l'adversaire (pas d'utilisation, pas d'effet) avant le calcul de l'attaque / défense. Si le résultat du combat est en la faveur d'Harry, toutes les armes équipées de l'adversaire lui reviennent.
 
