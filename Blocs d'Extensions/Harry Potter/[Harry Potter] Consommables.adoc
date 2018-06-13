@@ -6,7 +6,7 @@
 :toc:
 :numbered:
 
-:consommablesdir: /ressources/images/Harry_Potter/Consommables/
+:consommablesdir: /images/Consommables/
 
 = Consommables
 

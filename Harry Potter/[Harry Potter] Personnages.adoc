@@ -6,12 +6,9 @@
 :toc:
 :numbered:
 
-include:: /Règles/Glossaire.adoc[]
+include::/Règles/Glossaire.adoc[]
 
-
-:personnagesdir: /ressources/images/Harry_Potter/Personnages/
-
-
+:personnagesdir: /images/Personnages/
 
 = Personnages
 

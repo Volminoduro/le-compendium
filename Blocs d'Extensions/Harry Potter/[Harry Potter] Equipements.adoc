@@ -6,7 +6,7 @@
 :toc:
 :numbered:
 
-:equipementsdir: /ressources/images/Harry_Potter/Equipements/
+:equipementsdir: /images/Equipements/
 
 = Equipements
 

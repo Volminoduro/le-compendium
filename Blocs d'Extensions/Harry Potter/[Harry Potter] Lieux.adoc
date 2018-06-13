@@ -6,7 +6,7 @@
 :toc:
 :numbered:
 
-:lieuxdir: /ressources/images/Harry_Potter/Lieux/
+:lieuxdir: /images/Lieux/
 
 = Lieux
 
