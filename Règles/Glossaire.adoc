@@ -13,8 +13,8 @@
 == Attaque
 
 * *A distance :* se dit d'une attaque à plus d'une case de distance.
-* *Attaque :* ation d'aggresser dans le but de battre la cible. Cela se fait à l'aide de nos différents bonus d'attaque + un lancer de *d4* qui s'ajoute à ce total. Une attaque est réussie si le total de attaque est supérieur à celui de la défense. Si c'est équivalent, on dit que c'est à *égalité*.
-* *Contre-attaque :* action d'attaquer immédiatement après avoir subi une attaque.
+* *Attaque :* action d'engager envers la cible. Cela se fait à l'aide de nos différents bonus d'attaque + un lancer de *d4* qui s'ajoute à ce total. Une attaque est réussie si le total de attaque est supérieur à celui de la défense. Si c'est équivalent, on dit que c'est à *égalité*.
+* *Contre-attaque :* action d'attaquer immédiatement après avoir subi une attaque. Vous ne pouvez contre-attaquer une contre-attaque.
 * *Corps-à-corps :* se dit d'une attaque à une case de distance ou moins.
 
 == Défense
@@ -23,33 +23,33 @@
 
 = Effets
 
-* *Loup-Garou :* effet déclenchant les changements suivants :
-** Vous êtes obligé d'attaquer n'importe quel autre _Personnage_ qui ne serait pas un *Loup-Garou*. Si plusieurs _Personnages_ sont à portée, choisissez la cible.
+* *Loup-Garou :*
+** Vous êtes obligé d'attaquer n'importe quel autre _Personnage_ à portée qui ne serait pas un *Loup-Garou*. Si plusieurs _Personnages_ sont à portée, choisissez la cible.
 ** +3 d'attaque et +2 de défense. Votre arme est *inactive* jusqu'à votre prochain tour.
 ** Si on vous attaque sans succès, vous infligez une Blessure en représailles.
 ** Vos attaques réussies infligent 2 Blessures.
 
 = Equipement
 
-* *Compagnon :* effet qui signifie que l'_Equipement_ peut être ciblé à la place du _Personnage_ lors d'une attaque et subir un certain nombre de blessures.
-* *Inactive :* état d'un _Equipement_ qui ne confère ni effets, ni compétences, ni bonus.
-* *Inutilisable :* état d'un _Equipement_ qui ne confère plus effets et ne peut plus utiliser ses compétences, les bonus restent actifs.
-* *Maîtrise :* renforcement ou ajout d'effets ou de bonus à votre _Equipement_ si vous avez rempli certaines conditions.
-** Les conditions de *Maîtrise* ne peuvent être remplies par des actions antérieures à l'acquisition de l'_Equipement_. Les effets de *Maîtrise* n'existe que tant que l'objet est équipé. Cependant, perdre cet objet puis le retrouver plus tard ne fait pas disparaître la *Maîtrise*.
+* *Compagnon :* effet qui signifie que l'_Equipement_ peut être ciblé à la place du _Personnage_ lors d'une attaque et subir un certain nombre de blessures. Une fois à sa limite de Blessure atteinte, l'_Equipement_ se défausse éternellement.
+* *Inactif :* état d'un _Equipement_ qui ne confère ni effets, ni compétences, ni bonus [deux noms plus distincts avec *Inutilisable*].
+* *Inutilisable :* état d'un _Equipement_ qui ne confère plus effets et ne peut plus utiliser ses compétences, les bonus restent actifs [deux noms plus distincts avec *Inactif*].
+* *Maîtrise :* renforcement ou ajout d'effets, de compétences ou de bonus à votre _Equipement_ si vous avez rempli certaines conditions.
+** Seules les actions postérieures à l'équipement de l'objet compteront. Les effets de *Maîtrise* ne s'appliquent que tant que l'objet est équipé. Cependant, perdre cet objet puis le retrouver plus tard ne fait pas disparaître la *Maîtrise*.
 
 = Personnages
 
-* *Ennemi :* rapport d'adversité qui se définit par l'alignement d'un autre Personnage. Pour un Protagoniste, c'est l'Antagoniste (et inversement). Pour le Neutre, c'est le Protagoniste et l'Antagoniste.
-* *Entravé :* état d'un _Personnage_ qui ne peut pas attaquer, se défendre, ou se déplacer ou utiliser ses compétences.
+* *Ennemi :* rapport d'adversité qui se définit par l'alignement d'un autre _Personnage_. Pour un Protagoniste, c'est l'Antagoniste (et inversement). Pour le Neutre, c'est le Protagoniste et l'Antagoniste.
+* *Entravé :* état d'un _Personnage_ qui ne peut pas attaquer, se défendre, se déplacer, ou utiliser ses compétences.
 * *Seuil de la Mort (SdM) :* état dans lequel où un Personnage ne peut pas attaquer et subir une Blessure supplémentaire le ferait mourir. Se soigner d'une Blessure permet de quitter cet état.
 
 = Autres
 
-* *Bonus :* renforcement brut de certaines de vos statistiques (portée, attaque, etc.).
-* [underline]*Compétence :* compétence à activer soi-même à un temps donné, ne pouvant souvent se faire qu'une fois par tour, une [underline]*compétence* est décrite ainsi.
+* Bonus / Malus : changement brut de certaines statistiques (portée, attaque, etc.). Un bonus est décrit ainsi.
+* [underline]*Compétence :* action à activer soi-même à un temps donné, une [underline]*compétence* est décrite ainsi.
 * *d3 :* dé à 3 faces.
 * *d4 :* dé à 4 faces.
-* *Effets :* action qui se déclenche d'elle-même lorsque les conditions en sont réunies, ne nécessite pas une action explicite contrairement à la compétence, un *effet* est décrit ainsi.
+* *Effets :* action qui se déclenche d'elle-même lorsque les conditions en sont réunies, ne nécessite pas une action explicite contrairement à la [underline]*compétence*, un *effet* est décrit ainsi.
 * *Sang :* unité d'échange pour le _Marchand de Sang_ utilisée à la place des Blessures.
 
 = Harry Potter

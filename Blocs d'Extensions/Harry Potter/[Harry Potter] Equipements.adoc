@@ -174,10 +174,10 @@
 
 * +1 de portée.
 * *Explorateur :* +2 d'attaque et de défense si vous êtes sur une case _Lieux_.
-* *Vigilance :* +1 de défense si un _Ennemi_ révélé est à 1 case.
+* *Vigilance :* +1 de défense si un _Ennemi_ révélé est à 1 case de vous.
 * *Maîtrise :* après si vous vous êtes défendu 3 fois avec succès ou après avoir visité 3 _Lieux_ différents.
 ** L'effet _Explorateur_ passe à *3* d'attaque et de défense au lieu de 2 et cela fonctionne aussi à une case adjacente de la case _Lieux_.
-** L'effet _Vigilance_ vous permet également de contre-attaquer l'adversaire.
+** L'effet _Vigilance_ vous permet également de contre-attaquer l'_Ennemi_.
 
 
 * Image : {equipementsdir}wand_erable.jpg
@@ -260,7 +260,7 @@
 ==== http://harrypotter.wikia.com/wiki/Porcupine_Robe[Robe porc-épine (1 exemplaire)]
 
 * +2 de défense.
-* *Qui s'y frotte, s'y pique (3 charges d'utilisation) :* lors d'une défense au corps-à-corps, en cas d'égalité ou de défense réussie, vous infligez une blessure à l'attaquant.
+* *Qui s'y frotte, s'y pique (3 charges d'utilisation) :* lors d'une défense au corps-à-corps, en cas d'égalité ou de défense réussie, vous infligez une Blessure à l'attaquant.
 
 * Image : {equipementsdir}porcupine_robe.jpg
 
@@ -274,7 +274,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard (1 exemplaire)]
 
-* *Invisibilité dégradative (2 charges d'utilisation) :* Jusqu'à votre prochain tour, on ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+* [underline]*Invisibilité dégradative (2 charges d'utilisation) :* Jusqu'à votre prochain tour, on ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
 * Image : {equipementsdir}invisbility_cloak_standard.jpg
 

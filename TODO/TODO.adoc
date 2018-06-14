@@ -21,8 +21,6 @@
 
 == Plateau
 
-=== Attention aux placements cases Marchands, à côté des +1 ou -1 pour éviter l'abus /!\
-
 == Autres
 
 === Avancer de cases serait avancer de "Pages" en pages dans le jeu.
@@ -37,3 +35,7 @@
 === Faire des scénarios
 
 === Variable projet pour les Personnages, Lieux, Cases, Personnages, etc ?
+
+=== Moment d'utilisation des compétences ?
+
+=== Idée d'AoE au cas où pour éviter trop de babysit ?
