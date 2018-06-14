@@ -7,7 +7,6 @@
 :numbered:
 
 
-* La partie se termine lorsque'un personnage a accompli sa quête. Si cela arrive alors que tous les joueurs n'ont pas joué le même nombre de tours, ceux-ci font leur tour normalement jusqu'à cela devienne à nouveau le tour du meneur de jeu.
+* Si un joueur accompli sa quête, la partie se termine à la fin du tour de jeu global. Ce joueur remporte la partie.
 * Il est possible que plusieurs accomplissements de quêtes coïncident pendant le même tour de jeu global, alors chacun est considéré comme accompli, indépendamment les uns des autres.
-** Si vous jouez avec les règles "Basiques", le vainqueur est désigné simplement par celui qui a accompli sa quête. Il peut y avoir plusieurs vainqueurs à la fois si plusieurs quêtes ont été accomplies pendant le même tour de jeu global.
-** Si vous jouez avec les règles "Avancées", procédez au comptage des points et celui qui en a le plus remporte la partie. En cas d'égalité, les joueurs ex-aequo aux points sont considérés comme vainqueurs.
+** Si vous jouez avec les règles "Avancées", procédez au comptage des points et celui qui en a le plus remporte la partie. En cas d'égalité, le _Personnage_ le plus éloigne du _SdM_.

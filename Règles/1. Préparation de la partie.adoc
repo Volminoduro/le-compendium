@@ -11,7 +11,7 @@
 == Attribution du meneur de jeu
 
 * A chaque partie, un meneur de jeu est choisi. Sa sélection est libre aux joueurs. Il peut être se désigné lui-même, être choisi aléatoirement, être élu à la majorité, etc.
-* Le personnage du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le personnage dispose déjà de 7 Blessures maximales).
+* Le _Personnage_ du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le _Personnage_ dispose déjà de 7 Blessures maximales).
 * Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront après lui.
 * On appelle un "tour de jeu global" le laps de temps entre deux tours du meneur de jeu [formulation].
 

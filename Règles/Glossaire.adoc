@@ -8,48 +8,52 @@
 
 :personnage: Personnages
 
-* *Corps-à-corps :*
-* *A distance :*
-* *Maîtrise :* renforcement ou ajout de bonus supplémentaires à votre équipement si vous avez rempli certaines conditions.
-** * Les conditions de maîtrise ne peuvent être remplies par des actions antérieures à l'acquisition de l'arme. Le bonus de maîtrise n'existe que tant que vous avez l'arme équipée. Cependant, perdre cette arme puis la retrouver plus tard ne fait pas disparaître la maîtrise.
+= Attaque / Défense
 
-* bonus : bonus de stats
-* *effets :* action qui se déclenche d'elle-même lorsque les conditions en sont réunies, ne nécessite une action explicite contrairement à la compétence, un *effet*
-* [underline]*compétences :* compétence à activer soi-même, une [underline]*compétence*.
+== Attaque
 
-* contre-attaque
+* *A distance :* se dit d'une attaque à plus d'une case de distance.
+* *Attaque :* ation d'aggresser dans le but de battre la cible. Cela se fait à l'aide de nos différents bonus d'attaque + un lancer de *d4* qui s'ajoute à ce total. Une attaque est réussie si le total de attaque est supérieur à celui de la défense. Si c'est équivalent, on dit que c'est à *égalité*.
+* *Contre-attaque :* action d'attaquer immédiatement après avoir subi une attaque.
+* *Corps-à-corps :* se dit d'une attaque à une case de distance ou moins.
 
-* *Seuil de la Mort (SdM) :*
+== Défense
 
-* inactive : pas d'effets ni de compétence, bonus toujours présents. Retourner la carte.
+* *Défense :* ation de résister à une attaque. Cela se fait à l'aide de nos différents bonus de défense + un lancer de *d3* qui s'ajoute à ce total. Une défense est réussie si le total de défense est supérieur à celui de l'attaque. Si c'est équivalent, on dit que c'est à *égalité*.
 
-* *d4 :*
-* *d3 :*
+= Effets
 
-* Entravé : peut pas attaquer, se défendre ou se déplacer, ni utiliser ses compétences (bénéficie quand même des effets).
+* *Loup-Garou :* effet déclenchant les changements suivants :
+** Vous êtes obligé d'attaquer n'importe quel autre _Personnage_ qui ne serait pas un *Loup-Garou*. Si plusieurs _Personnages_ sont à portée, choisissez la cible.
+** +3 d'attaque et +2 de défense. Votre arme est *inactive* jusqu'à votre prochain tour.
+** Si on vous attaque sans succès, vous infligez une Blessure en représailles.
+** Vos attaques réussies infligent 2 Blessures.
 
-* *Compagnon :*
+= Equipement
 
-* Sang : unité d'échange pour le _Marchand de Sang_.
+* *Compagnon :* effet qui signifie que l'_Equipement_ peut être ciblé à la place du _Personnage_ lors d'une attaque et subir un certain nombre de blessures.
+* *Inactive :* état d'un _Equipement_ qui ne confère ni effets, ni compétences, ni bonus.
+* *Inutilisable :* état d'un _Equipement_ qui ne confère plus effets et ne peut plus utiliser ses compétences, les bonus restent actifs.
+* *Maîtrise :* renforcement ou ajout d'effets ou de bonus à votre _Equipement_ si vous avez rempli certaines conditions.
+** Les conditions de *Maîtrise* ne peuvent être remplies par des actions antérieures à l'acquisition de l'_Equipement_. Les effets de *Maîtrise* n'existe que tant que l'objet est équipé. Cependant, perdre cet objet puis le retrouver plus tard ne fait pas disparaître la *Maîtrise*.
 
-* Ennemi : table Antagoniste, Protagoniste, Neutre
+= Personnages
 
-* *défense :* défense réussie
-* égalité
-* attaque
+* *Ennemi :* rapport d'adversité qui se définit par l'alignement d'un autre Personnage. Pour un Protagoniste, c'est l'Antagoniste (et inversement). Pour le Neutre, c'est le Protagoniste et l'Antagoniste.
+* *Entravé :* état d'un _Personnage_ qui ne peut pas attaquer, se défendre, ou se déplacer ou utiliser ses compétences.
+* *Seuil de la Mort (SdM) :* état dans lequel où un Personnage ne peut pas attaquer et subir une Blessure supplémentaire le ferait mourir. Se soigner d'une Blessure permet de quitter cet état.
 
- * *Loup-Garou :*
- ** Vous êtes obligé d'attaquer n'importe quel autre personnage, autre qu'un autre Loup-Garou et autre que vous, qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
- ** +3 d'attaque et +2 de défense. Votre arme ne peut pas être utilisée et n'a aucun effet.
- ** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
- ** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
+= Autres
 
+* *Bonus :* renforcement brut de certaines de vos statistiques (portée, attaque, etc.).
+* [underline]*Compétence :* compétence à activer soi-même à un temps donné, ne pouvant souvent se faire qu'une fois par tour, une [underline]*compétence* est décrite ainsi.
+* *d3 :* dé à 3 faces.
+* *d4 :* dé à 4 faces.
+* *Effets :* action qui se déclenche d'elle-même lorsque les conditions en sont réunies, ne nécessite pas une action explicite contrairement à la compétence, un *effet* est décrit ainsi.
+* *Sang :* unité d'échange pour le _Marchand de Sang_ utilisée à la place des Blessures.
 
-==== Harry Potter
+= Harry Potter
 
-* Les reliques de la mort : Peut être équipé avec la _Cape d'Invisibilité_ et _Baguette de Sureau_.
-* Si vous avez aussi équipé dans la partie la _Cape d'Invisibilité_ et la _Baguette de Sureau_, vous devenez le Maître de la Mort. Mourir ne vous fera perdre aucun point.
-
-* Animagus : transformation pour débloqueur un effet , passe son tour, on ne démarre pas comme ça.
-
-* Amendement du Ministère :  L'_Amendement du Ministère_ est une règle que vous décidez arbitrairement d'appliquer dans la liste ci-dessous, plusieurs _Amendement du Ministère_ peuvent être actifs en même temps. Vous ne pouvez choisir deux fois la même règle. [Les _Amendements du Ministère_ continuent d'exister même après votre mort].
+* [underline]*Animagus :* il s'agit d'une compétence qui vous octroie l'*effet* de l'animal transformé ou vous l'enlève si vous étiez déjà transformé. Cela passe également votre tour. Vous ne pouvez démarrer la partie avec l'effet de l'animal transformé.
+* *Amendement du Ministère :* L'_Amendement du Ministère_ est une règle décidée arbitrairement parmi une la liste, plusieurs _Amendement du Ministère_ peuvent être actifs en même temps. On ne peut choisir deux fois la même règle. Les _Amendements du Ministère_ continuent d'exister même après la mort du _Personnage_ qui les a mis en place.
+* *Les Reliques de la mort :* Permet d'équiper en même temps la _Cape d'Invisibilité_, la _Baguette de Sureau_ et la _Pierre de Résurrection_. Si vous avez équipé ces 3 objets durant la partie, vous devenez le Maître de la Mort. Mourir ne vous empêchera d'accomplir votre quete et ne vous fera perdre aucun point.

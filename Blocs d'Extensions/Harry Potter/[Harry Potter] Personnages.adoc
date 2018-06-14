@@ -17,7 +17,7 @@
   * [red]*5 Blessures*
   * *La prophétie :* accomplir votre _Quête_ ne termine pas la partie si _Harry Potter_ est toujours en vie.
   * *Horcruxe :* tous les _Personnages_ que vous achevez vous permettent de résister à une mort définitive supplémentaire, peut se cumuler plusieurs fois.
-  * [underline]*Feudeymon (1 fois dans la partie) :* tous les _Personnages_ subissent 1 blessure, si cela achève un _Personnage_, le sort se relance autant de fois que cela se produit.
+  * [underline]*Feudeymon (1 utilisation / partie) :* tous les _Personnages_ subissent 1 blessure, si cela achève un _Personnage_, le sort se relance autant de fois que cela se produit.
 
   * Citation : _"Il n’y a pas de bien ni de mal, il n’y a que le pouvoir, et ceux qui sont trop faibles pour le rechercher…"_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
   * Image : {personnagesdir}Voldemort.jpg
@@ -36,7 +36,7 @@
 === http://harrypotter.wikia.com/wiki/Quirinus_Quirrell[Quirinus Quirrell]
 
   * [red]*5 Blessures*
-  * [underline]*Esprit influençable (une seule utilisation / partie) :* vous pouvez oublier votre _Quête_ afin de vous consacrer à celle d'un autre _Personnage_, avec son accord. Sa _Quête_ devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
+  * [underline]*Esprit influençable (1 utilisation / partie) :* vous pouvez oublier votre _Quête_ afin de vous consacrer à celle d'un autre _Personnage_, avec son accord. Sa _Quête_ devient également la vôtre. Néanmoins, vous ne gagnez que la moitié des points de cet accomplissement.
   * [underline]*Possession :* vous pouvez accueillir l'esprit d'un _Personnage_ décédé dans votre corps. Il peut toujours accomplir sa _Quête_ et vous la vôtre. Ceci vous inflige 1 _Blessure_ à chaque début de votre tour, tous les 2 tours. Désormais, _Esprit influençable_ vous donne l'intégralité des points d'accomplissement.
   * *"Cessez de vous moquer de moi !" :* gagnez +2 d'attaque et +1 de défense tant que vous êtes le _Personnage_ en vie le plus de blessé de la partie.
 

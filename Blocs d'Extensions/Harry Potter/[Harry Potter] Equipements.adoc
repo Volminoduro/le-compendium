@@ -16,7 +16,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Foe-Glass[Glace à l'ennemi (2 exemplaires)]
 
-* [underline]*Détecteur de magie noire (1 charge) :*
+* [underline]*Détecteur de magie noire (1 utilisation) :*
 ** S'applique à vos deux voisins de jeu : si la cible est Neutre ou de votre alignement, elle doit vous dire qu'elle n'est pas d'un alignement contraire au vôtre.
 
 * Citation : _"Tu les vois, là, qui rôdent tout autour ? Je ne risque pas grand-chose tant que je ne vois pas le blanc de leurs yeux."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
@@ -274,7 +274,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard (1 exemplaire)]
 
-* *Invisibilité dégradative (2 charges) :* Jusqu'à votre prochain tour, on ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+* *Invisibilité dégradative (2 charges d'utilisation) :* Jusqu'à votre prochain tour, on ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
 
 * Image : {equipementsdir}invisbility_cloak_standard.jpg
 
