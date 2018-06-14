@@ -6,6 +6,6 @@
 :toc:
 :numbered:
 
-* Les personnages sont divisés en 3 camps : les Protagonistes, les Antagonistes et les Neutres.
-* Pour bénéficier de ses effets ou de ses capacités, un personnage doit réveler son identité. Lors de sa mort, un personnage révèle également son identité. Attaquer un autre personnage ne fait pas réveler son personnage.
+* Les _Personnages_ sont divisés en 3 camps : les Protagonistes, les Antagonistes et les Neutres.
+* Pour bénéficier de ses effets ou de ses compétences, un _Personnage_ doit réveler son identité. Lors de sa mort, un _Personnage_ révèle également son identité. Attaquer un autre _Personnage_ ne fait pas réveler son _Personnage_.
 * Les _Personnages_ disposent d'un certain nombre de points de _Blessures_, cela désigne leur capacité à prendre des dégâts. Lorsque vous parvenez à votre nombre maximale de _Blessures_, vous êtes au _Seuil de la Mort_ (cf. Attaque et défense). Pour quitter cet état, il lui suffit de vous soigner un point de _Blessure_.
