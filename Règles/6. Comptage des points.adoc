@@ -16,6 +16,8 @@
 ** Votre personnage est mort lors de la partie : - 5 points
 ** [Vous avez des Blessures restantes sur votre personnage : + 1 point par PDB (bonus d'équipement exclu)]
 
+
+* [TODO]
 * Alignement :
 ** Le meneur de jeu meurt :
   *** Si vous

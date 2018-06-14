@@ -14,7 +14,7 @@
 
 === http://harrypotter.wikia.com/wiki/Hog%27s_Head_Inn[Taverne de la Tête du Sanglier]
 
-* Chaque personnage déjà révélée, ou se révélant, peut venir y boire une _Bièraubeurre_ et échanger / donner des cartes.
+* Chaque _Personnage_ déjà révélée, ou se révélant, peut venir y boire une _Bièraubeurre_ et échanger / donner des cartes.
 
 * Citation : _"Je crois que l'endroit est un peu... comment dire... un peu louche..."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
 * Image : {lieuxdir}hogshead.jpg
@@ -22,7 +22,7 @@
 === http://harrypotter.wikia.com/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries[Hôpital Ste-Mangouste]
 
 * Interdit aux Antagonistes
-* Chaque personnage au _SdM_ peut être soigné de 1 blessure.
+* Chaque _Personnage_ au _SdM_ peut être soigné de 1 blessure.
 * Vous pouvez être soigné de 2 blessures.
 
 * Citation : _"Des médecins ? Tu veux dire ces Moldus cinglés qui coupent les gens en morceaux ? Non, eux, ce sont des guérisseurs."_, Harry Potter, J.K Rowling.
@@ -74,12 +74,12 @@
 === http://harrypotter.wikia.com/wiki/Forbidden_Forest[La Forêt Interdite]
 
 * Lancez les dés :
-** *2 - Colonie d'Aragog :* si vous n'êtes pas _Aragog_, attaquer à plus de 3 3 fois. Subissez une blessure ou un équipement, par échec.
+** *2 - Colonie d'Aragog :* si vous n'êtes pas _Aragog_, attaquer à plus de 3 3 fois. Subissez une blessure ou un _Equipement_, par échec.
 ** *3 - Ford Anglia détraquée :* lancez les deux dés, si moins de 4, vous subissez une blessure. Si c'est 7, la _Ford Anglia_ vous emmène à la case adjacente de votre choix.
-** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un d3 pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un équipement et une carte de votre main. Si vous êtes Firenze, gagnez un consommable et un équipement.
+** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un d3 pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un _Equipement_ et une carte de votre main. Si vous êtes Firenze, gagnez un consommable et un _Equipement_.
 ** *5 - Gibier :* vous pouvez attaquer, si vous faites plus de 2, guérissez-vous d'une blessure.
 ** *6 - Sentier mal balisé :* relancez les dés pour une autre rencontre aléatoire.
-** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux équipements. Si vous n'avez pas d'équipement à perdre, perdez vos autant de cartes en main, sinon subir autant de blessures.
+** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux _Equipements_. Si vous n'avez pas d'_Equipement_ à perdre, perdez vos autant de cartes en main, sinon subir autant de blessures.
 * Vous pouvez demander de l'aide à un autre _Personnage_ à une case de ce _Lieu_. Il peut remplir les conditions de victoire à votre place et négocier son aide, il subira aussi la défaite.
 
 * Citation : _"Il y a des tas de bestioles là-dedans, même des loups-garous d'après ce qu'on m'a dit."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
@@ -96,28 +96,28 @@
 === http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu]
 
 * Chaque _Personnage_ à moins de 3 Blessures peut participer.
-* il faut 3 _Personnage_ participants minimum, dont au moins 2 alignements différents. La coupe sélectionne aléatoirement un _Personnage_ de chaque alignement disponible.
-* Au bout de 3 tours, le participant le moins blessé remporte la coupe (5 points dans le comptage final), et 3 _Equipements_ et 2 _Consommables_.
+* il faut 3 _Personnages_ participants minimum. La coupe sélectionne aléatoirement 3 _Personnages_ parmi ceux proposés.
+* Au bout de 3 tours de jeu globaux, le participant le moins blessé remporte la coupe (5 points dans le comptage final), et 3 _Equipements_ et 2 _Consommables_.
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
 * Image : {lieuxdir}goblet_of_fire.jpg
 
 === http://harrypotter.wikia.com/wiki/Council_of_Magical_Law[Tribunal magique]
 
-* Vous pouvez indiquez ce que vous pensez être la quête d'un autre personnage. L'accusé devra indiquer si vous dites vrai ou non, il ne peut mentir.
+* Vous pouvez indiquez ce que vous pensez être la quête d'un autre _Personnage_. L'accusé devra indiquer si vous dites vrai ou non, il ne peut mentir.
 
 * Citation : _"Barry Croupton Junior !"_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
 * Image : {lieuxdir}council_magical.jpg
 
 === http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean]
 
-* *Rencontre avec les rafleurs :* en commençant par le _Personnage_ qui a découvert ce lieu puis selon l'ordre de jeu, chaque _Personnage_ doit se défendre contre un groupe de rafleurs, si la défense est inférieure à 4, il perds une carte aléatoirement (de votre main ou de vos équipements).
+* *Rencontre avec les rafleurs :* en commençant par le _Personnage_ qui a découvert ce lieu puis selon l'ordre de jeu, chaque _Personnage_ doit se défendre contre un groupe de rafleurs, si la défense est inférieure à 4, il perds une carte aléatoirement (de votre main ou de vos _Equipement_s).
 
 * Image : {lieuxdir}forest_of_dean.jpg
 
 === http://harrypotter.wikia.com/wiki/Knockturn_Alley[L'allée des embrumes]
 
-* *Quartier très malfamé* : Vos 3 objets équipés les plus qualitatifs (dans l'ordre décroissant de qualité) vous sont retirés et sont remis dans la pile du _Marchand d'or_.
+* *Quartier très malfamé* : Vos 3 objets équipés les plus qualitatifs (dans l'ordre décroissant de qualité) vous sont retirés et sont insérés dans la pile du _Marchand d'or_.
 
 * Citation : _"C'est un endroit très malfamé. Il ne faut surtout pas que quelqu'un te voie là-bas."_, Harry Potter et la Chambe des Secrets, J.K Rowling, 1998.
 * Image : {lieuxdir}knockturn_alley.jpg
@@ -126,7 +126,7 @@
 
 === http://harrypotter.wikia.com/wiki/Room_of_Requirement[La salle sur demande]
 
-* Vous permet d'avoir l'effet de la _Case_ que vous souhaitez.
+* Vous permet d'avoir l'effet de la case que vous souhaitez.
 
 * Citation : _"Si vous devez demander, jamais vous ne saurez. Si vous savez, il suffit de demander."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
 * Image : {lieuxdir}room_of_requirement.jpg
@@ -154,7 +154,7 @@
 === http://harrypotter.wikia.com/wiki/Veil[Le voile]
 
 * Actif pendant 2 tours de jeu globaux.
-* Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un personnage mort.
+* Il ne sera pas possible de fouiller ou d'intéragir avec le corps d'un _Personnage_ mort.
 
 * Citation : _"[...] il n'allait pas tarder à réapparaître de l'autre côté... Sirius, pourtant, ne réapparaissait pas."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
 * Image : {lieuxdir}veil.jpg
@@ -176,7 +176,7 @@
 
 === http://harrypotter.wikia.com/wiki/Twilfitt_and_Tattings[Tissard et Brodette (0.95 - TODO - Citation)]
 
-* Vous pouvez récupérer la première carte équipement de "Corps" ou "Tête" de qualité "Rare" dans la pile, mélangez la pile après ça.
+* Vous pouvez récupérer la première carte _Equipement_ de "Corps" ou "Tête" de qualité "Rare" dans la pile, mélangez la pile après ça.
 
 * Citation :
 * Image : {lieuxdir}twilfitt_and_tattings.jpg
