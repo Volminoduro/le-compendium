@@ -6,17 +6,15 @@
 :toc:
 :numbered:
 
-* Phase de début de tour
-** Action de début de tour (pouvoir d'héros, d'objet, etc.)
-** Résolution d'effets de début de tour
-* Phase de déplacement
-** Lancez les dés à 4 et 3 faces, additionner les deux résultats, puis avancez d'autant de cases par la droite ou la gauche.
-*** Si le résultat est 7, piochez une carte Retournement ou déplacez-vous sur la case de votre choix.
-** Effet de la case (cf. Cases)
-* Phase de milieu de tour
+* Début de tour
+** Activation des *effets* de début de tour.
+* Déplacement
+** Lancez le *d4* et le *d3*, additionner les deux résultats, puis avancez d'autant de cases dans la direction souhaitée.
+*** Si le résultat est 7, piochez une carte _Retournement_ ou déplacez-vous sur la case de votre choix.
+** Activer l'effet de la case où vous arrivez (cf. Cases).
+* Phase d'action (dans n'importe quel ordre)
 ** Attaque (1 fois)
-** Utilisation d'objets, de capacité, échange de cartes Equipements / Consommables, etc. (à volonté).
-* Phase de fin de tour
-** Action de fin de tour (pouvoir d'héros, etc.)
-** Résolution d'effets de fin de tour (2 cartes en main maximum).
+** Utilisation à volonté d'objets, de [underline]*compétences*, d'échange de cartes _Equipements_ / _Consommables_, etc.
 * Fin de tour
+** Activation des *effets* en fin de tour.
+** Vous ne devez avoir que 2 cartes en main maximum.
