@@ -13,7 +13,7 @@
 == Attaque
 
 * *A distance :* se dit d'une attaque à plus d'une case de distance.
-* *Attaque :* action d'engager envers la cible. Cela se fait à l'aide de nos différents bonus d'attaque + un lancer de *d4* qui s'ajoute à ce total. Une attaque est réussie si le total de attaque est supérieur à celui de la défense. Si c'est équivalent, on dit que c'est à *égalité*.
+* *Attaque :* action d'engager un duel envers la cible (cela peut provenir d'un _Lieu_ ou d'un _Personnage_). Pour les _Personnages_, cela se fait à l'aide de nos différents bonus d'attaque + un lancer de *d4* qui s'ajoute à ce total. Une attaque est réussie si le total de attaque est supérieur à celui de la défense. Si c'est équivalent, on dit que c'est à *égalité*.
 * *Contre-attaque :* action d'attaquer immédiatement après avoir subi une attaque. Vous ne pouvez contre-attaquer une contre-attaque.
 * *Corps-à-corps :* se dit d'une attaque à une case de distance ou moins.
 
@@ -44,6 +44,8 @@
 * *Seuil de la Mort (SdM) :* état dans lequel où un Personnage ne peut pas attaquer et subir une Blessure supplémentaire le ferait mourir. Se soigner d'une Blessure permet de quitter cet état.
 
 = Autres
+
+* Un nom pour les actions que l'on ne peut tenter que si l'on est le premier à le faire ? [TODO]
 
 * Bonus / Malus : changement brut de certaines statistiques (portée, attaque, etc.). Un bonus est décrit ainsi.
 * [underline]*Compétence :* action à activer soi-même à un temps donné, une [underline]*compétence* est décrite ainsi.

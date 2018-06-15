@@ -15,9 +15,9 @@
 === http://harrypotter.wikia.com/wiki/Blishen%27s_Firewhisky[Whisky Pur Feu Blishen (3 exemplaires)]
 
 * Utilisable à tout moment.
-** Soignez-vous immédiatement de 1 blessure.
+** Soignez-vous immédiatement de 1 Blessure.
 ** +1 de défense jusqu'au début de votre prochain tour.
-** *Alcool fort (1 tour) :* Vous ne pouvez utiliser une autre carte vous conférant l'effet Alcool fort.
+** *Alcool fort (1 tour) :* Vous ne pourrez faire une action vous conférant l'effet *Alcool fort*.
 
 * Image : {consommablesdir}fire_whisky.jpg
 
@@ -25,9 +25,9 @@
 
 * Utilisable à tout moment.
 ** Soignez-vous immédiatement 1 blessure.
-** *Alcool léger (1 tour) :* Si vous cumulez plus de 2 effets d'Alcool léger, votre prochain déplacement se fera avec le d4.
+** *Alcool léger (1 tour) :* Si vous cumulez plus de 2 effets d'*Alcool léger*, votre prochain déplacement se fera avec le d4.
 
-* Citation : _"Pas de plus grand bonheur que la Bièraubeurre !"_, Publicité pour la Bièraubeurre0
+* Citation : _"Pas de plus grand bonheur que la Bièraubeurre !"_, Publicité pour la Bièraubeurre
 * Image : {consommablesdir}butterbeer.jpg
 
 === http://harrypotter.wikia.com/wiki/Unicorn_blood[Sang de licorne (2 exemplaire)]
@@ -63,7 +63,7 @@
 === http://harrypotter.wikia.com/wiki/Peruvian_Instant_Darkness_Powder[Poudre d'Obscurité Instantanée du Pérou (2 exemplaires)]
 
 * Utilisable à tout moment.
-** Vous permets de fuir une attaque, cela fonctionne contre les _Personnages_ ou les _Lieux_.
+** Vous permets de fuir une attaque.
 
 * Citation : _"On a tout essayé, Lumos, Incendio. Pas moyen d'obtenir la moindre lueur."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}peruvian_powder_darkness.jpg
@@ -80,7 +80,7 @@
 === http://harrypotter.wikia.com/wiki/Felix_Felicis[Potion de Felix Felicis (1 exemplaires)]
 
 * Utilisable à tout moment
-** Votre prochain tirage de dé atteindra la valeur maximale.
+** Jusqu'à votre prochain tour, votre prochain tirage de dé atteindra la valeur maximale.
 
 * Citation : _"[...] on s'aperçoit que tout ce qu'on entreprend est couronné de succès... en tout cas jusqu'à ce que ses effets se dissipent."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}felix_felicis.jpg
@@ -89,9 +89,9 @@
 === http://harrypotter.wikia.com/wiki/Amortentia[Amortentia (1 exemplaire)]
 
 * Utilisable durant votre tour
-** Ciblez un autre personnage, il tombe fou amoureux de vous pendant 2 tours.
+** Ciblez un autre _Personnage_, il tombe fou amoureux de vous pendant 2 tours.
 ** Si vous mourrez, il mourra définitivement aussi. Son cadavre sera inexploitable.
-** L'effet peut-être annulé à l'aide d'un philtre de haine (l'un ne remplace pas l'autre).
+** L'effet peut-être annulé à l'aide d'une _Potion de haine_ (l'un ne remplace pas l'autre).
 
 * Citation : _"Non, elle produit simplement une forte attirance ou une obsession."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
 * Image : {consommablesdir}amortentia.jpg
@@ -99,8 +99,8 @@
 === http://harrypotter.wikia.com/wiki/Hate_Potion[Potion de haine (2 exemplaires)]
 
 * Utilisable durant votre tour
-** Vous pouvez attaquer deux fois par tour le personnage désigné, pendant 2 tours.
-** L'effet peut-être annulé à l'aide de l'Amortentia (l'un ne remplace pas l'autre).
+** Pendant 2 tours, vous pouvez attaquer deux fois par tour le _Personnage_ désigné.
+** L'effet peut-être annulé à l'aide de l'_Amortentia_ (l'un ne remplace pas l'autre).
 
 * Image : {consommablesdir}hate_potion.jpg
 * Catégorie : Attaque
@@ -108,7 +108,7 @@
 === http://harrypotter.wikia.com/wiki/Nose-Biting_Teacup[Tasse à thé mordeuse (2 exemplaires)]
 
 * Utilisable à tout moment
-** Le consommable utilisé par la cible devant soigner des blessures, infligera 1 blessure à la place et en annulera les effets.
+** Le _Consommable_ utilisé par la cible devant soigner des blessures, infligera 1 Blessure à la place et en annulera les effets.
 ** Cela ne peut achever un joueur.
 
 * Image : {consommablesdir}nose_biting_teacup.jpg
