@@ -65,7 +65,7 @@
 * [underline]*Assaut de Gregorovitch :*
 ** Vous ne pouvez tenter ceci que si vous êtes le premier à le faire.
 ** Attaquez Gregorovitch. Si l'attaque est supérieure à 5, emparez-vous de la _Baguette de Sureau_ dans les piles _Equipement_ et / ou _Marchand_, puis mélangez les piles fouillées.
-** L'accès à ce Lieu vous sera interdit jusqu'à la fin de la partie.
+** Les effets de ce Lieu ne vous affecteront pas jusqu'à la fin de la partie.
 
 * Image : {lieuxdir}gregorovitch_workshop.jpg
 
@@ -74,12 +74,12 @@
 === http://harrypotter.wikia.com/wiki/Forbidden_Forest[La Forêt Interdite]
 
 * Lancez les dés :
-** *2 - Colonie d'Aragog :* si vous n'êtes pas _Aragog_, attaquer à plus de 3 3 fois. Subissez une blessure ou un _Equipement_, par échec.
+** *2 - Colonie d'Aragog :* si vous n'êtes pas _Aragog_, attaquer à plus de 3, 3 fois. Subissez une blessure ou défaussez un _Equipement_ par échec.
 ** *3 - Ford Anglia détraquée :* lancez les deux dés, si moins de 4, vous subissez une blessure. Si c'est 7, la _Ford Anglia_ vous emmène à la case adjacente de votre choix.
 ** *4 - Colonie centaure :* si vous êtes un Antagoniste, attaquer à plus de 5 ou lancer un d3 pour fuir. Si le résultat n'est pas 3, vous subissez une blessure, perdez un _Equipement_ et une carte de votre main. Si vous êtes Firenze, gagnez un consommable et un _Equipement_.
 ** *5 - Gibier :* vous pouvez attaquer, si vous faites plus de 2, guérissez-vous d'une blessure.
 ** *6 - Sentier mal balisé :* relancez les dés pour une autre rencontre aléatoire.
-** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux blessures et perdez deux _Equipements_. Si vous n'avez pas d'_Equipement_ à perdre, perdez vos autant de cartes en main, sinon subir autant de blessures.
+** *7 - Touffu :* lancez les deux dés, si vous faites moins de 6, vous subissez deux Blessures et perdez deux _Equipements_. Si vous n'avez pas d'_Equipement_ à perdre, perdez vos autant de cartes en main, sinon subir autant de blessures.
 * Vous pouvez demander de l'aide à un autre _Personnage_ à une case de ce _Lieu_. Il peut remplir les conditions de victoire à votre place et négocier son aide, il subira aussi la défaite.
 
 * Citation : _"Il y a des tas de bestioles là-dedans, même des loups-garous d'après ce qu'on m'a dit."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
@@ -88,7 +88,7 @@
 === http://harrypotter.wikia.com/wiki/Azkaban[Azkaban]
 
 * Vous pouvez attaquer un autre _Personnage_ à votre portée, en cas de victoire, il sera enfermé et ne subira pas de blessure.
-* A son prochain tour, il devra faire un double ou un 7 en lançant les dés pour en sortir, sinon, il perds un _Equipement_ ou une carte de sa main aléatoirement, et ainsi de suite. S'il n'a plus rien, il commencera son tour normalement.
+* Au début de son prochain tour, il devra faire un double ou un 7 en lançant les dés pour en sortir, sinon, il perds un _Equipement_ ou une carte de sa main aléatoirement, et ainsi de suite. S'il n'a plus rien, il poursuivra son tour normalement.
 
 * Citation : _"Ils sont enfermés dans leur propre tête, incapables d'avoir la moindre pensée agréable."_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
 * Image : {lieuxdir}azkaban.jpg
@@ -111,7 +111,7 @@
 
 === http://harrypotter.wikia.com/wiki/Forest_of_Dean[Forêt de Dean]
 
-* *Rencontre avec les rafleurs :* en commençant par le _Personnage_ qui a découvert ce lieu puis selon l'ordre de jeu, chaque _Personnage_ doit se défendre contre un groupe de rafleurs, si la défense est inférieure à 4, il perds une carte aléatoirement (de votre main ou de vos _Equipement_s).
+* *Rencontre avec les rafleurs :* en commençant par le _Personnage_ qui a découvert ce lieu puis selon l'ordre de jeu, chaque _Personnage_ doit se défendre contre un groupe de rafleurs, si la défense est inférieure à 4, il perds une carte aléatoirement (de votre main ou de vos _Equipements_).
 
 * Image : {lieuxdir}forest_of_dean.jpg
 

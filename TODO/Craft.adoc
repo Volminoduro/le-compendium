@@ -48,3 +48,7 @@
 = Allo ?
 
 * Un jeton meneur de jeu ?
+
+=== Jeton de charges d'utilisation
+
+=== Jeton de maitrise ?
