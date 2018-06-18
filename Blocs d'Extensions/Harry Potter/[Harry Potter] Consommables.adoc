@@ -6,7 +6,7 @@
 :toc:
 :numbered:
 
-:consommablesdir: /images/Consommables/
+:consommablesdir: Blocs d'Extensions/Harry Potter/Images/Consommables/
 
 = Consommables
 
@@ -19,7 +19,7 @@
 ** +1 de défense jusqu'au début de votre prochain tour.
 ** *Alcool fort (1 tour) :* Vous ne pourrez faire une action vous conférant l'effet *Alcool fort*.
 
-* Image : {consommablesdir}fire_whisky.jpg
+* Image : image:{consommablesdir}fire_whisky.jpg['']
 
 === http://harrypotter.wikia.com/wiki/Butterbeer[Bièraubeurre (4 exemplaires)]
 
