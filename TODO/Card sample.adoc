@@ -9,71 +9,26 @@
 :imagesdir: /Harry_Potter/Images/
 :personnagesdir: /ressources/images/Harry_Potter/Personnages/
 
-= Exemple carte équipement
+= Exemple carte grand format
 
-= Exemple carte personnage
-
-[cols="2%, 10%, 20%, 50%, 16%, 2%"]
+[cols="1%, 83%, 15%, 1%"]
+[width="55%"]
 |=======================
-6+|{set:cellbgcolor:red}
-.5+|
-4+^.^|{set:cellbgcolor:none}
-Peter Pettigrow .5+|
-{set:cellbgcolor:red}
-4+^.^|{set:cellbgcolor:none}
-3+|Personnage : Antagoniste
-^.^|[small]4 Blessures
-4+a|
+1.6+|{set:cellbgcolor:red}g 2+|c 1.6+|{set:cellbgcolor:red}d
+2+^|{set:cellbgcolor:none}Peter Pettigrow
+2+^.^|{set:cellbgcolor:none} [small]#Mon image#
+<.^|[small]#Personnage : Antagoniste# >.^|[small]#4 blessures#
+2+a|
 [small]
 * *Main d'argent :* +2 d'attaque tant que vous n'avez pas d'_Arme_. S'il vous est possible d'achever un _Protagoniste_ après votre déplacement, vous devez le faire, sans quoi vous subissez une _Blessure_.
 * [underline]*Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au _SdM_.
-* [underline]*Animagus :* Vous activez / annuler votre transformation en _Queudver_, votre tour est fini.
+* [underline]*Animagus :* Vous activez / annuler votre transformation en *Queudver*, votre tour est fini.
 * *Queudver :* Au début de votre tour, vous pouvez regarder la carte _Lieux_ la plus proche de vous. Déplacez qu'avec le d4, -2 de portée adverse, vous ne pouvez attaquer d'autres _Personnages_.
-3+a|
-^.^|
-6+|{set:cellbgcolor:red}
+2+|{set:cellbgcolor:red}b
 |=======================
 {set:cellbgcolor:none}
 
-= Exemple carte autre
-
-* grid attribute à passer à none pour effacer les lignes du tableau
-
-|=======================
-6+|{set:cellbgcolor:red}
-
-.5+|
-4+^.^|{set:cellbgcolor:none}
-Fenrir Greyback .5+|
-{set:cellbgcolor:red}
-
-4+^.^|{set:cellbgcolor:none}
-image:{personnagesdir}/Fenrir_Greyback_dimension.jpg['']
-
-3+|
-Personnage : Antagoniste ^.^|
-7 Blessures
-
-4+a|
-[small]
-** *Lycanthropie :* Tous les 4 tours, [après votre déplacement], vous vous transformez en loup-garou jusqu'au début de votre prochain tour.
-  *** Vous êtes obligé d'attaquer n'importe quel autre personnage non-Loup-Garou qui serait à votre portée. Si plusieurs personnages sont accessibles, choisissez la cible.
-  *** Vous réduisez les dégâts de deux.
-  *** Si vous êtes attaqué, le résultat doit forcément être à l'avantage de l'attaquant, sans quoi vous lui infliger une blessure en représailles (cela peut achever un personnage).
-  *** Vos attaques réussies infligent 2 blessures (ce qui tue quelqu'un à 1 blessure du Seuil de la Mort).
-** *[Préparation avant la pleine lune (sélène)] :* Lors de votre déplacement précédant votre transformation en Loup-Garou, au lieu de vous arrêtez simplement sur la case désignée par les dés, vous pouvez vous déplacer de deux cases supplémentaires vers un autre personnage de votre choix.
-
-3+a|
-[small]_"Your boyfriend's going to have worse than that done to him if he's on my list"_
-
-[small]*Les Reliques de la Mort, J.K Rowling (2007).* ^.^|
-image:{imagesdir}/icone.png['', 50, 50]
-
-6+|{set:cellbgcolor:red}
-|=======================
-{set:cellbgcolor:none}
-
-Quelles informations doivent être affichées et comment ?
+= Quelles informations doivent être affichées et comment ?
 
 * Il faut que la taille des encadrés reste la même peu importe le style de carte.
 
@@ -85,9 +40,9 @@ Quelles informations doivent être affichées et comment ?
 * Son extension
 
 * Pour les équipements :
-** L'emplacement (légende sous l'image)
-** La rareté
+** L'emplacement (dans la catégorie de carte)
+** La rareté (dans la catégorie de carte)
 
 * Pour les personnages :
-** L'alignement (légende sous l'image)
+** L'alignement  (dans la catégorie de carte)
 ** Le nombre de blessures encaissables

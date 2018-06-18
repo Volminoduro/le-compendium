@@ -22,11 +22,11 @@
 
 
 == Infos
-
+////
 * Jouable à partir de 3 participants.
 * Recommandé à partir de 12 ans.
 * Temps d'une partie : env. X min.
-
+////
 == But du jeu
 
 * [?]
