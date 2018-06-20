@@ -1,0 +1,392 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+:equipementsdir: /images/Equipements/
+
+= Equipements
+
+== Accessoires
+
+=== Commune
+
+==== http://harrypotter.wikia.com/wiki/Foe-Glass[Glace à l'ennemi (2 exemplaires)]
+
+* [underline]*Détecteur de magie noire (1 utilisation) :*
+** S'applique à vos deux voisins de jeu : la cible doit vous indiquer si elle est un _ennemi_.
+
+* Citation : _"Tu les vois, là, qui rôdent tout autour ? Je ne risque pas grand-chose tant que je ne vois pas le blanc de leurs yeux."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
+* Image : {equipementsdir}Foe_glass.jpg
+
+==== http://harrypotter.wikia.com/wiki/Cleansweep_Eleven[Brossdur 11 (1 exemplaire)]
+
+* Lors de votre déplacement, lancez les dés ou déplacez vous d'une case.
+
+* Image : {equipementsdir}cleansweep_11.jpg
+
+=== Rare
+
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Gants de démalédiction (1 exemplaire)]
+
+* +1 de défense.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, le bonus de défense passe à 2 au lieu de 1.
+* *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez annuler ça en lui octroyant une charge d'utilisation.
+
+* Image : {equipementsdir}jinx_off.jpg
+
+==== http://harrypotter.wikia.com/wiki/Mrs_Norris[Miss Teigne (1 exemplaire)]
+
+* *Regard perçant :* Annule les malus de portée subis si le défenseur est à 1 de portée ou moins de vous.
+* *Compagnon (1 blessure)*
+
+* Image : {equipementsdir}miss_teigne.jpg
+
+==== http://harrypotter.wikia.com/wiki/Dark_Mark[Marque des Ténèbres (2 Exemplaires)]
+
+* Réservé aux Antagonistes, ne peut être vendu, ne peut être défaussé si équipé.
+* Au lieu d'attaquer, vous pouvez activer votre _Marque des Ténèbres_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Marque des Ténèbres_ peuvent se téléporter sur votre case au lieu de se déplacer.
+
+* Citation : _"Je te montre la mienne si tu me montres la tienne."_, Harry Potter et la Coupe de feu, J.K Rowling, 2000.
+* Image : {equipementsdir}dark_mark.jpg
+
+==== http://harrypotter.wikia.com/wiki/Dumbledore%27s_Army_coin[Gallion de l'Armée de Dumbledore (3 exemplaires)]
+
+* Interdit aux Antagonistes, ne peut être vendu.
+* Au lieu d'attaquer, vous pouvez activer votre _Pièce de l'Armée de Dumbledore_. Jusqu'à votre prochain tour, tous les autres détenteurs d'une _Pièce de l'Armée de Dumbledore_ peuvent se téléporter sur votre case au lieu de se déplacer.
+
+* Image : {equipementsdir}dumbledore_army_coin.jpg
+
+==== http://harrypotter.wikia.com/wiki/Nimbus_2001[Nimbus 2001 (1 exemplaire)]
+
+* Lors de votre déplacement, lancez les dés ou déplacez-vous de deux cases.
+
+* Citation :
+* Image : {equipementsdir}nimbus_2001.jpg
+
+==== http://harrypotter.wikia.com/wiki/Buckbeak[Buck (1 exemplaire)]
+
+* *Envol :* +1 de portée.
+* *Loyauté :* le bonus d'_Envol_ s'annule contre l'avant-dernier propriétaire de l'_Equipement_.
+* *Compagnon (2 blessures)*
+
+* Image : {equipementsdir}buckbeak.jpg
+
+=== Epique
+
+==== http://harrypotter.wikia.com/wiki/Nagini[Nagini (1 exemplaire)]
+
+* *Fidélité extrême à Voldemort :* Réservé aux Antagonistes.
+* *Venin :* Les blessures d'attaque que vous infligez baissent également les Blessures maximums du défenseur.
+* *Compagnon (2 blessures)*
+
+* Citation : _"Nagini, mange."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
+* Image : {equipementsdir}nagini.jpg
+
+
+==== http://harrypotter.wikia.com/wiki/Thestral[Sombral (1 exemplaire)]
+
+* *Monture de mauvaise augure :* ne peut être equipé qu'en ayant été au _SdM_ au moins une fois.
+* *Squelette musclé :* +1 carte en main disponible.
+* *Odeur du sang :* lors de votre déplacement, vous pouvez vous approcher d'une case en plus vers un _Personnage_ blessé à votre portée.
+* *Compagnon (2 blessures)*
+
+* Citation : _"Ils sont juste un peu... différents."_, Harry Potter et l'Ordre du phénix, J.K Rowling, 2003.
+* Image : {equipementsdir}thestral.jpg
+
+==== http://harrypotter.wikia.com/wiki/Firebolt_Supreme[Eclair de feu suprême (1 exemplaire)]
+
+* Lors de votre déplacement, lancez les dés ou déplacez vous de trois cases.
+* -1 de portée à vos attaquants.
+
+* Citation : _"Gryffondor mène par quatre-vingts points à zéro et regardez un peu les performances de l'Éclair de Feu !"_, Harry Potter et le Prisonnier d'Azkaban, J.K Rowling, 1999.
+* Image : {equipementsdir}firebolt.jpg
+
+==== http://harrypotter.wikia.com/wiki/Hand_of_Glory[Main de la gloire (1 exemplaire)]
+
+* [underline]*Déverrouillage (3 charges d'utilisation) :* En arrivant sur un _Lieux_, vous pouvez en annulez les effets.
+* En attaquant, la _Poudre d'Obscurité Instantanée du Pérou_ n'a aucun effet contre vous.
+
+* Image : {equipementsdir}hand_of_glory.jpg
+
+=== Légendaire
+
+==== http://harrypotter.wikia.com/wiki/House-elf[Elfe de maison (1 exemplaire)]
+
+* *Magie elfe :* +2 d'attaque et de défense.
+* *Esclave dévoué :* si une attaque doit vous faire passer au _SdM_, cette carte se défaussera éternellement à la place.
+* *LIBRE, mais reconnaissant :* un joueur à portée peut s'en emparer en offrant en premier un _Equipement_ de _Tête_ ou de _Corps_ à l'_Elfe de maison_.
+* [underline]*Transplanage elfe :* pendant le tour suivant, l'_Elfe de maison_ se rendra sur la case désirée et en activera l'effet pour vous et vous ne pourrez bénéficier de ses *effets*.
+* *Compagnon (1 blessure)*
+
+* Citation : _"Les elfes de maison n'ont pas à s'amuser, Harry Potter. Les elfes de maison doivent faire ce qu'on leur dit de faire."_ Harry Potter, J.K Rowling.
+* Image : {equipementsdir}house_elf.jpg
+
+==== http://harrypotter.wikia.com/wiki/Resurrection_Stone[Pierre de Résurrection (1 exemplaire)]
+
+* Vous pouvez demander au dernier joueur décédé de regarder toutes les mains des autres joueurs afin de vous en informer. Il n'est pas obligé de dire la vérité.
+* *Les Reliques de la Mort*
+
+* Citation : _"Si on pouvait faire revenir les morts[...] Mais si on en croit Beedle le Barde, ils n'auraient pas eu envie de revenir."_, Harry Potter et les Reliques de la Mort, J.K Rowling, 2007.
+* Image : {equipementsdir}resurrection_stone.jpg
+
+=== Total : 18
+
+== Armes
+
+=== Commune
+
+==== http://harrypotter.wikia.com/wiki/Rubeus_Hagrid%27s_crossbow[Arbalète de Rubeus Hagrid (1 exemplaire)]
+
+* +1 d'attaque.
+* +2 de portée.
+* *Rechargement :* si vous avez attaqué à distance, nous ne pourrez bénéficier des bonus de cette arme lors de votre attaque le tour prochain.
+
+* Image : {equipementsdir}hagrid_crossbow.jpg
+
+=== Rare
+
+==== Bois d'hêtre, 35,1 centimètres, plume de phénix (1 exemplaire)
+
+* +1 de portée, +1 d'attaque.
+* *Initiative :* +1 d'attaque et +1 de défense si vous avez attaqué un autre personnage durant le tour dernier.
+* *Favorable à l'indécision :* si vous avez au moins 2 cibles possibles à attaquer, choisissez-en une aléatoirement et gagnez +1 d'attaque.
+* *Maîtrise :* si vous avez bénéficié 4 fois de l'effet _Favorable à l'indécision_ et / ou l'_Initiative_ (les deux se cumulant).
+** L'effet _Initiative_ passe à *2* d'attaque et de défense au lieu de 1, si vous avez attaqué un autre personnage durant les *2* tours derniers.
+** L'effet  _Favorable à l'indécision_ passe à *2* d'attaque au lieu de 1.
+
+* Image : {equipementsdir}wand_hetre.jpg
+
+==== Bois de châtaignier, 27,4 centimètres, crin de Licorne (1 exemplaire)
+
+* +1 de portée, +2 d'attaque et +2 de défense.
+* *Spécisme :* +1 d'attaque et de défense si l'ennemi possède un _Accessoire_ avec la compétence _Compagnon_.
+* *Endeuillement :* malus de -1 d'attaque et de défense si un autre _Personnage_ de votre alignement est décédé pendant la partie.
+* *Maîtrise :* si vous avez détruit un _Accessoire_ adverse avec la compétence _Compagnon_.
+** L'effet _Spécisme_ passe à *2* d'attaque et de défense au lieu de 1.
+
+* Image : {equipementsdir}wand_chataignier.jpg
+
+==== Bois d'érable, 41,8 centimètres, plume d'oiseau-tonnerre (1 exemplaire)
+
+* +1 de portée.
+* *Explorateur :* +2 d'attaque et de défense si vous êtes sur une case _Lieux_.
+* *Vigilance :* +1 de défense si un _Ennemi_ révélé est à 1 case de vous.
+* *Maîtrise :* après si vous vous êtes défendu 3 fois avec succès et / ou après avoir visité 3 _Lieux_ différents (les deux se cumulant).
+** L'effet _Explorateur_ passe à *3* d'attaque et de défense au lieu de 2 et cela fonctionne aussi à une case adjacente de la case _Lieux_.
+** L'effet _Vigilance_ vous permet également de contre-attaquer l'_Ennemi_.
+
+
+* Image : {equipementsdir}wand_erable.jpg
+
+=== Epique
+
+==== Bois de prunellier, 26 centimètres, poil de Rougarou (1 exemplaire)
+
+* +1 de portée et +2 d'attaque.
+* *Belliqueuse :* +1 d'attaque si vous attaquez une cible pour la première fois (_Lieux_ comme _Personnages_).
+* *Maîtrise :* après avoir blessé au moins la moitié supérieure des autres _Personnage_ toujours en vie.
+** L'effet _Belliqueuse_ octroie également un bonus +2 de défense si un _Personnage_ que vous avez blessé vous attaque.
+** *Furie sanguinaire :* vous avez actuellement +1 d'attaque pour chaque _Personnage_ encore en vie que vous avez blessé.
+
+* Image : {equipementsdir}wand_prunellier.jpg
+
+==== Bois d'if, 29,1 centimètres, ventricule de dragon (1 exemplaire)
+
+* +1 de portée, +2 d'attaque et +2 de défense.
+* *Bourreau :* +1 d'attaque contre les personnages au _SdM_.
+* *Opportuniste :* si un _Personnage_ moins blessé que vous vous attaque avec succès, l'arme parvient en sa possession.
+* *Maîtrise :* si vous avez achevé définitivement un autre _Personnage_.
+** *Létale :* vos attaques amenant au _SdM_ tuent directement à la place.
+** *Moissoneur de vie :* tous les deux _Personnages_ que vous avez achevé définitivement au cours de la partie vous confère +1 d'attaque et de défense (mettez leurs cartes _Personnages_ en dessous de la votre).
+
+* Image : {equipementsdir}wand_if.jpg
+
+==== Bois de tilleul argenté, 21,9 centimètres, corne de Serpent cornu (1 exemplaire)
+
+* +1 de portée, +2 d'attaque et +1 de défense.
+* *Affinité envers la Legilimency :* en cas d'attaque réussie, le défenseur doit vous révéler sa main.
+* *Détection serpentine :* pendant leur tour, les autres joueurs s'arrêtant à une case de vous déclenchent le même effet que _Détecteur de magie noire_ du _Miroir à l'ennemi_.
+* *Maîtrise :* après avoir confondu un autre _Personnage_ au _Tribunal magique_ avec succès ou en ayant révélé plus de 6 cartes d'adversaires grâce à l'_Affinité envers la Legilimency_.
+** L'effet _Affinité envers la Legilimency_ vous permet aussi, de réveler la carte personnage de l'adversaire ou de lui voler une carte de sa main.
+
+* Image : {equipementsdir}wand_tilleul_argente.jpg
+
+=== Légendaire
+
+==== http://harrypotter.wikia.com/wiki/Elder_Wand[Baguette de sureau (1 exemplaire)]
+
+* +1 de portée, +1 d'attaque et +1 de défense.
+* *Duplicateur de puissance :* Double tous vos bonus d'attaque, qu'ils soient actifs ou passifs.
+* *Allégeance intéressée :* Si on vous attaque avec succès, la _Baguette de Sureau_ rentre en possession de l'attaquant.
+* *Maîtrise :* si vous avez réussi à vous défendre ou à attaquer avec succès tous les autres _Personnage_ de la partie encore en vie.
+** L'effet _Duplicateur de puissance_ double également tous vos bonus de défense.
+* *Les Reliques de la Mort*
+
+* Citation : _"[...] les humains ont le don de jeter leur dévolu sur les choses qui, précisément, leur font le plus de mal."_ Harry Potter, J.K Rowling.
+* Image : {equipementsdir}elder_wand.jpg
+
+==== http://harrypotter.wikia.com/wiki/Sword_of_Gryffindor[Epée de Godric Griffondor (1 exemplaire)]
+
+* +2 d'attaque et +1 de défense.
+* Cette épée garde toutes ses caractéristiques tout au long de la partie, même si elle change de propriétaire ou qu'elle va dans la défausse.
+* *Ce qui ne me tue pas... :* Sur chacunes de vos attaques réussies, si la différence est au moins de 4, brisez un _Equipement_ adverse de votre choix et l'_Epée de Godric Griffondor_ gagne systématiquement les effets bénéfiques si ceux-ci sont plus puissants que les vôtres (les _Equipements_ sont défaussés éternellement, placez-les en-dessous la carte de l'_Epée de Godric Griffondor_).
+
+* Image : {equipementsdir}godrics_sword.jpg
+
+=== Total : 9
+
+== Corps
+
+=== Commune
+
+==== http://harrypotter.wikia.com/wiki/Shield_Cloak[Manteau bouclier (2 exemplaires)]
+
+* *Bouclier contre-tout, mais pas si puissant... :* Si vous devez subir des Blessure slors d'une défense, défausser cet _Equipement_ à la place. Cela ne fonctionne pas quand vous êtes au _SdM_.
+
+* Image : {equipementsdir}shield_cloak.jpg
+
+==== http://harrypotter.wikia.com/wiki/Quidditch_uniform[Plastron de Quidditch (1 exemplaire)]
+
+* +1 de défense, +1 de défense au corps-à-corps.
+
+* Image : {equipementsdir}quidditch_chestgear.jpg
+
+=== Rare
+
+==== http://harrypotter.wikia.com/wiki/Porcupine_Robe[Robe porc-épine (1 exemplaire)]
+
+* +2 de défense.
+* *Qui s'y frotte, s'y pique (3 charges d'utilisation) :* lors d'une défense au corps-à-corps, en cas d'égalité ou de défense réussie, vous infligez une Blessure à l'attaquant.
+
+* Image : {equipementsdir}porcupine_robe.jpg
+
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Cape de démalédiction (1 exemplaire)]
+
+* +1 de défense.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, le bonus de défense passe à 2 au lieu de 1.
+* *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+
+* Image : {equipementsdir}jinx_off.jpg
+
+==== http://harrypotter.wikia.com/wiki/Invisibility_cloak[Cape d'Invisibilité standard (1 exemplaire)]
+
+* [underline]*Invisibilité dégradative (2 charges d'utilisation) :* Jusqu'à votre prochain tour, on ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+
+* Image : {equipementsdir}invisbility_cloak_standard.jpg
+
+=== Epique
+
+==== http://harrypotter.wikia.com/wiki/Beautifying_robes[Robe enjolivante (1 exemplaire)]
+
+* *Beauté bluffante :*
+** Si un autre personnage vous attaque pour la première fois, vous pouvez éviter le combat.
+** Votre prochain achat au marchand d'or ne vous coûte que 1, ne fonctionne qu'une fois.
+** Votre prochain achat au marchand de sang ne vous coûte que 1, ne fonctionne qu'une fois.
+
+* Image : {equipementsdir}beautifying_robe.jpg
+
+==== http://harrypotter.wikia.com/wiki/Dragon-skin_coat[Cape en écailles de dragon (1 exemplaire)]
+
+* +3 de défense.
+* *Déflecteur de sort :* les [underline]*compétences* des _Personnages_ et des _Equipements_ n'ont aucun effets sur vous (y compris les votres).
+* *Extrêmement épique :* vaut 7 points d'équipement.
+
+* Image : {equipementsdir}dragon_cloak.jpg
+
+=== Légendaire
+
+==== http://harrypotter.wikia.com/wiki/Cloak_of_Invisibility[Cape d'Invisibilité (1 exemplaire)]
+
+* *Invisibilité :* On ne peut vous attaquer que si l'on est sur la même case que vous ou à une case de distance. N'interagit pas avec la portée.
+* Vous ne pouvez être la cible de compétences directes vous infligeant des Blessures.
+* *Les Reliques de la Mort*
+
+* Image : {equipementsdir}invisbility_cloak.jpg
+
+=== Total : 9
+
+== Tête
+
+=== Commune
+
+==== http://harrypotter.wikia.com/wiki/Spectrespecs[Lorgnospectres (2 exemplaires)]
+
+* *Détecteur de Joncheruine :* vous pouvez voir les joncheruines autour de la tête des personnages. Cela ne sert à rien.
+** La _Cape d'Invisibilité_ et la _Cape d'Invisibilité standard_ ne fonctionne pas contre vous.
+
+* Image : {equipementsdir}spectrespecs.jpg
+
+==== http://harrypotter.wikia.com/wiki/Narcissa_Malfoy%27s_spider_earrings[Boucles d'oreilles de Narcissa Malefoy (1 exemplaire)]
+
+* *Magnifique bijou :* c'est très beau et ça n'a aucune utilité. Mais, cet équipement peut être vendu comme étant de qualité Epique.
+
+* Image : {equipementsdir}spider_earrings.jpg
+
+==== http://harrypotter.wikia.com/wiki/Quidditch_helmet[Casque de Quidditch (1 exemplaire)]
+
+* +1 de défense, +1 de défense en plus si vous êtes attaqué au corps-à-corps.
+
+* Image : {equipementsdir}quidditch_helmet.jpg
+
+=== Rare
+
+==== http://harrypotter.wikia.com/wiki/Luna_Lovegood%27s_lion_hat[Chapeau lion de Luna Lovegood (1 exemplaire)]
+
+* +1 de défense.
+* *Rugissement effrayant (2 charges d'utilisation) :* les _Personnages_ autour de votre case reculent d'une case sans l'activer.
+
+* Image : {equipementsdir}chapeau_lion.jpg
+
+==== http://harrypotter.wikia.com/wiki/Jinx-Off[Coiffe de démalédiction (1 exemplaire)]
+
+* +1 de défense.
+* *Ensemble complet de démalédiction :* si vous avez la _Coiffe de démalédiction_, la _Cape de démalédiction_ et les _Gants de démalédiction_ équipés en même temps, le bonus de défense passe à 2 au lieu de 1.
+* *Equipement fragile :* Si vous passez au _SdM_ avec cet objet équipé, le bonus de défense est annulé. Vous pouvez réparer cet objet en lui octroyant une charge d'utilisation.
+
+* Image : {equipementsdir}jinx_off.jpg
+
+=== Epique
+
+==== http://harrypotter.wikia.com/wiki/Alastor_Moody%27s_magical_eye[Oeil magique d'Alastor Maugrey (1 exemplaire)]
+
+* Pendant votre tour, vous pouvez choisir un joueur, celui-ci devra vous réveler sa main.
+* La _Cape d'Invisibilité_ et la _Cape d'Invisibilité standard_ ne fonctionne pas contre vous.
+
+* Image : {equipementsdir}magical_eye_moody.jpg
+
+==== http://harrypotter.wikia.com/wiki/Sorting_Hat[Choixpeau magique (1 exemplaire)]
+
+* *Héritier de Griffondor (Réservé aux Protagonistes) :* Lorsque vous êtes attaqué à 1 Blessure ou moins du _SdM_, vous pouvez obtenir l'arme _Epée de Godric Griffondor_, qu'importe où elle se trouve.
+* *Legilimancie chapelière (2 charges d'utilisation) :* Le _Personnage_ ciblé doit indiqué son identité et sa quête aux autres _Personnages_. Il peut lancez les deux dés, s'il fait au moins 5, il aura le droit de mentir. [formulation car quid d'un personnage déjà révélé mais pas sa quête ? TODO]
+
+* Citation : _"Pas à Serpentard ? [...] Tu es sûr ?"_, Harry Potter à l'École des Sorciers, J.K Rowling, 1997.
+* Image : {equipementsdir}sorting_hat.jpg
+
+=== Légendaire
+
+==== http://harrypotter.wikia.com/wiki/Rowena_Ravenclaw%27s_diadem[Diadème de Rowena Serdaigle (1 exemplaire)]
+
+* *Sagesse :* pendant votre tour, vous avez le droit de revenir une fois sur une de vos actions (déplacement, attaque, utilisation d'une compétence, etc.) pour en annuler les conséquences.
+
+* Image : {equipementsdir}ravenclaw_diadem.jpg
+
+=== Total : 8
+
+= Ressources
+
+* http://harrypotter.wikia.com/wiki/Wand_core
+* http://harrypotter.wikia.com/wiki/Wand_wood
+* http://harrypotter.wikia.com/wiki/Wand
+* http://harrypotter.wikia.com/wiki/Wandlore
+* http://harrypotter.wikia.com/wiki/Category:Weapons
+* http://harrypotter.wikia.com/wiki/Category:Objects
+
+* Faire le tour des animaux qui existent dans l'univers
+
+* http://harrypotter.wikia.com/wiki/Lizard_Belt
+
+= Idées
