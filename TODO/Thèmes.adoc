@@ -6,6 +6,8 @@
 :toc:
 :numbered:
 
+= Summary
+
 = Nombre de cartes par extension
 
 * Nombre de joueurs par extension : 6 joueurs max.

@@ -6,6 +6,8 @@
 :toc:
 :numbered:
 
+= Summary
+
 = Titre
 
 = Fabrication du matériel de jeu

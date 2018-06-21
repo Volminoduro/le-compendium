@@ -9,12 +9,14 @@
 :imagesdir: /Harry_Potter/Images/
 :personnagesdir: /ressources/images/Harry_Potter/Personnages/
 
+= Summary
+
 = Exemple carte grand format
 
 [cols="1%, 83%, 15%, 1%"]
 [width="55%"]
 |=======================
-1.6+|{set:cellbgcolor:none} 2+| 1.6+|{set:cellbgcolor:none}
+1.6+|{set:cellbgcolor:red} 2+| 1.6+|{set:cellbgcolor:red}
 2+^|{set:cellbgcolor:none}Peter Pettigrow
 2+^.^|{set:cellbgcolor:none} [small]#Mon image#
 <.^|[small]#Personnage : Antagoniste# ^.^|[small]#4 blessures#
@@ -24,7 +26,7 @@
 * [underline]*Lâcheté sacrificielle :* peut s'infliger une Blessure pour fuir une attaque, ne peut le faire au _SdM_.
 * [underline]*Animagus :* Vous activez / annuler votre transformation en *Queudver*, votre tour est fini.
 * *Queudver :* Au début de votre tour, vous pouvez regarder la carte _Lieux_ la plus proche de vous. Déplacez qu'avec le d4, -2 de portée adverse, vous ne pouvez attaquer d'autres _Personnages_.
-2+|{set:cellbgcolor:none}
+2+|{set:cellbgcolor:red}
 |=======================
 {set:cellbgcolor:none}
 

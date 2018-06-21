@@ -1,10 +1,23 @@
-* 6 cartes Cimétière :
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+:toc:
+:numbered:
+
+= Summary
+
+= Cartes Cimetière
+
+* 6 cartes :
 ** 3 cartes qui ajoute 1 de dégat quand on inflige déjà des blessures
 ** 1 carte d4 pour attaquer mais attaque obligatoire
 ** 1 carte attaque à distance
 ** 1 carte qui attaque tout le monde à portée en même temps
 
-* 6 cartes Monastère :
+= Cartes Monastère
+
+* 6 cartes :
 ** 1 carte récupéré tous les équipement lorsqu'on tue
 ** Vos attaques font 1 dgt de moins et vous réduisez les blessures de 1
 ** Lancez les dés 2 fois pour se déplacer

@@ -1,6 +1,14 @@
-Pouvoir issu de Shadow vs Hunters :
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+:toc:
+:numbered:
 
-Hunter :
+= Summary
+
+= Cartes Hunter
+
 - Au début de votre tour, lancez un d6 de blessure sur un joueur (Utilisation unique).
 - Au début de votre tour, lancez un d4 de blessure sur un joueur (Utilisation unique).
 - Au début de tour, désignez un joueur, il perd son pouvoir jusqu'à la fin de la partie (Utilisation unique).
@@ -8,7 +16,8 @@ Hunter :
 - Pour vous déplacer, vous pouvez normalement les dés ou vous déplacer sur la carte Lieu adjacente.
 - A la fin de votre tour, lors de l'activation du pouvoir, vous ne subissez aucune blessure jusqu'au début de votre prochain tour (Utilisation unique).
 
-Neutre :
+= Cartes Neutre
+
 - A la mort définitive d'un personnage, vous récupérez tous ses équipements (au lieu d'un seul).
 - Lorsque vous infligez 2 blessures de combat à un personnage, vous pouvez lui voler une carte équipement au lieu d'infliger des blessures.
 - Récuperer une carte de la défausse de la pile équipement.
@@ -16,7 +25,8 @@ Neutre :
 - Après votre attaque, vous pouvez vous infliger 2 blessures afin d'attaquer de nouveau le même joueur.
 - Guérissez de 1 au début de votre tour.
 
-Shadow :
+= Cartes Shadow
+
 - Au début de votre tour, vous pouvez infliger 3 blessures à un joueur présent dans le Lieu Porte de l'Outremonde.
 - Si vous infligez des blessures de combat, soignez immédiatement 2 de vos blessures.
 - Vous pouvez rejouer autant de fois qu'il y a de personnages morts (Utilisation unique).
