@@ -1,0 +1,73 @@
+div.card {
+	width: 300px;
+	height: 450px;
+	background-color: darkred;
+	padding: 4px;
+}
+
+div.background{
+	background-color: lightgrey;
+	min-width: 98%;
+	min-height: 98%;
+	padding: 1%;
+}
+
+div.name{
+	font-family: 'Cinzel', serif;
+	text-transform: capitalize;
+	font-weight: bold;
+	height: 25px;
+	font-size: 18px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+span.icon{
+	background-color: red;
+	float: right;
+}
+
+div.image {
+	background-color: grey;
+	height:100px;
+	overflow: hidden;
+}
+
+div.image > img {
+	width: 100%;
+}
+
+div.type {
+	font-family: 'IM Fell English SC', serif;
+	font-variant: small-caps;
+	font-weight: bold;
+	height: 20px;
+}
+div.type > span {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+div.type > span:first-child{
+	width: 70%;
+}
+
+div.description {
+	font-family: 'Times New Roman', serif;
+	font-size: 13px;
+	text-align: justify;
+	background-color: white;
+	height: 270px;
+}
+
+div.description > p {
+	margin: 10px 0px;
+}
+
+div.quote {
+	background-color: lightgrey;
+	font-style: italic;
+	font-size:11px;
+	height: 20px;
+	vertical-align: middle;
+}
