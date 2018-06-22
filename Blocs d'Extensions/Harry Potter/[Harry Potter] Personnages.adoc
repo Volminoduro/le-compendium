@@ -109,7 +109,7 @@
 === http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart[Gilderoy Lockhart] :
 
   * [red]*4 Blessures*
-  * [underline]*Brackium Emendo (1 utilisation tous les 2 tours) :* ciblez un _Personnage_ à votre portée, et lancez les deux dés. Si le résultat est au moins 6, la cible est soigné d'une Nlessure, sinon, son _Arme_ devient inactive pendant 2 tours.
+  * [underline]*Brackium Emendo (1 utilisation / 2 tours) :* ciblez un _Personnage_ à votre portée, et lancez les deux dés. Si le résultat est au moins 6, la cible est soigné d'une Nlessure, sinon, son _Arme_ devient inactive pendant 2 tours.
   * *Escroc :* Vous pouvez gagnez par l'accomplissement d'une quête d'un _Personnage_ affecté par votre compétence _Oubliettes_. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes en même temps grâce à cette compétence.
   * [underline]*Oubliettes :* Pendant votre tour, ciblez un autre _Personnage_, cela ne peut pas être deux fois la même cible consécutivement. Lancez les deux dés.
     ** Si le résultat est 7, la cible ne gagnera pas de points et la partie ne se terminera pas s'il accomplit sa quête. La cible ne pourra plus utiliser aucune de ses _compétences_ de _Personnage_.
@@ -150,7 +150,7 @@
 
   * [red]*4 Blessures*
   * [underline]*Récupérateur (1 utilisation / tour):* au lieu d'attaquer, vous pouvez récupérer la dernière carte dans la défausse des _Consommables_.
-  * *Refourgueur :* vos consommables valent 1 point d'_Equipement_ et peuvent être vendus en tant que tels.
+  * *Refourgueur :* vos _Consommables_ valent 1 point d'_Equipement_ et peuvent être vendus en tant que tels.
   * [underline]*Réseau d'informateurs intéressés :* Pendant votre tour, vous pouvez sacrifier 2 points d'_Equipement_ pour regarder la carte _Personnage_ ou _Quête_ d'un autre _Personnage_. Peut être fait plusieurs fois par tour.
   * *Négociateur :* pour chaque achat auprès du _Marchand d'or_, vous pouvez lancer les deux dés, si le résultat est supérieur à 4, cela ne vous coutera que 2 points d'équipements.
   * *Couardise :* vous ne pouvez attaquer si vous êtes à une blessure du seuil de la Mort.

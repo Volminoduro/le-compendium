@@ -1,3 +1,19 @@
+#navBar {
+    width: 1750px;
+    height: 800px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #008040;
+    overflow: hidden;
+}
+
+.card {
+	width: 25%;
+	margin-left: 1px;
+    float: left;
+}
+
 div.card {
 	width: 300px;
 	height: 450px;
@@ -42,6 +58,7 @@ div.type {
 	font-variant: small-caps;
 	font-weight: bold;
 	height: 20px;
+	vertical-align: middle;
 }
 div.type > span {
 	display: inline-block;
@@ -61,6 +78,18 @@ div.description {
 }
 
 div.description > p {
+	margin: 10px 0px;
+}
+
+div.extended_description {
+	font-family: 'Times New Roman', serif;
+	font-size: 13px;
+	text-align: justify;
+	background-color: white;
+	height: 290px;
+}
+
+div.extended_description > p {
 	margin: 10px 0px;
 }
 
