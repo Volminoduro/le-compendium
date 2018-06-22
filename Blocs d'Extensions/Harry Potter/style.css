@@ -27,6 +27,7 @@ div.name{
 	text-transform: capitalize;
 	font-weight: bold;
 	height: 30px;
+	line-height: 30px;
 	font-size: 18px;
 	text-align: center;
 	vertical-align: middle;
@@ -61,8 +62,15 @@ div.name{
 }
 
 span.icon{
-	background-color: red;
 	float: right;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+}
+
+span.icon > img {
+	width: 100%;
+	height: 100%;
 }
 
 div.image {
@@ -83,7 +91,6 @@ div.type {
 	height: 20px;
 	line-height: 20px; 
 	vertical-align: middle;
-	background-color: darkred;
 }
 div.type > span {
 	display: inline-block;
@@ -108,33 +115,33 @@ div.description .d_extended {
 	background-color: red;
 }
 
-div.description > p {
-	margin: 0px 0px;
-}
-
 .liste {
-	padding: 0px;
+	padding: 0px;	
+	margin: 0px;
+	list-style-type: none;
 }
 
 .sous_liste {
-	padding: 2px;
+	padding: 0px;
 }
 
 .sous_liste > li {
-	list-style-position: inside;
-	margin-left: 5px;
+    list-style-position: inside;
+	margin-left: 10px;
 }
 
-div.description > p {
-	margin: 0px 0px;
+.sous_liste > li > span {
+	position: relative;
+	left: -10px; 
 }
+
+
 
 div.quote {
 	background-color: lightgrey;
 	font-style: italic;
 	font-size:11px;
 	height: 20px;
-	line-height: 20px; 
 	vertical-align: middle;
 	text-align: center;
 }
