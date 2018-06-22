@@ -1,24 +1,18 @@
 #navBar {
-    width: 1750px;
-    height: 800px;
+    width: 930px;
     border-width: 1px;
     border-style: solid;
-    border-radius: 10px;
-    border-color: #008040;
+    border-color: #000000;
     overflow: hidden;
 }
 
 .card {
-	width: 25%;
-	margin-left: 1px;
-    float: left;
-}
-
-div.card {
+	margin: 1px;
+	float: left;
 	width: 300px;
 	height: 450px;
 	background-color: darkred;
-	padding: 4px;
+	padding: 3px;
 }
 
 div.background{
@@ -32,10 +26,38 @@ div.name{
 	font-family: 'Cinzel', serif;
 	text-transform: capitalize;
 	font-weight: bold;
-	height: 25px;
+	height: 30px;
 	font-size: 18px;
 	text-align: center;
 	vertical-align: middle;
+}
+
+.personnage_antagoniste{
+	color: red;
+}
+
+.personnage_protagoniste{
+	color: blue;
+}
+
+.personnage_neutre{
+	color: yellow;
+}
+
+.equipement_commun{
+	color: rgb(255, 255, 255);
+}
+
+.equipement_rare{
+	color: rgb(16, 187, 209);
+}
+
+.equipement_epique{
+	color: rgb(131, 7, 161);
+}
+
+.equipement_legendaire{
+	color: rgb(255, 136, 0);
 }
 
 span.icon{
@@ -51,6 +73,7 @@ div.image {
 
 div.image > img {
 	width: 100%;
+	height: 100%;
 }
 
 div.type {
@@ -58,11 +81,13 @@ div.type {
 	font-variant: small-caps;
 	font-weight: bold;
 	height: 20px;
+	line-height: 20px; 
 	vertical-align: middle;
+	background-color: darkred;
 }
 div.type > span {
 	display: inline-block;
-	vertical-align: middle;
+	margin: 1px;
 }
 
 div.type > span:first-child{
@@ -74,23 +99,34 @@ div.description {
 	font-size: 13px;
 	text-align: justify;
 	background-color: white;
-	height: 270px;
+	height: 270px;	
+}
+
+/* class inheritance ? TODO */
+div.description .d_extended {
+	height: 290px;	
+	background-color: red;
 }
 
 div.description > p {
-	margin: 10px 0px;
+	margin: 0px 0px;
 }
 
-div.extended_description {
-	font-family: 'Times New Roman', serif;
-	font-size: 13px;
-	text-align: justify;
-	background-color: white;
-	height: 290px;
+.liste {
+	padding: 0px;
 }
 
-div.extended_description > p {
-	margin: 10px 0px;
+.sous_liste {
+	padding: 2px;
+}
+
+.sous_liste > li {
+	list-style-position: inside;
+	margin-left: 5px;
+}
+
+div.description > p {
+	margin: 0px 0px;
 }
 
 div.quote {
@@ -98,5 +134,8 @@ div.quote {
 	font-style: italic;
 	font-size:11px;
 	height: 20px;
+	line-height: 20px; 
 	vertical-align: middle;
+	text-align: center;
 }
+
