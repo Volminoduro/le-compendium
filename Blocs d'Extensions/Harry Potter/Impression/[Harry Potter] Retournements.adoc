@@ -1,3 +1,0 @@
-* Serment involiable
-** Condition ?
-** [Le joueur ciblé, autre que vous, mourra en même temps que vous.]

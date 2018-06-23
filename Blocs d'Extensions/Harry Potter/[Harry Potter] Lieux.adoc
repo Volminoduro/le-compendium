@@ -28,28 +28,13 @@
 * Citation : _"Des médecins ? Tu veux dire ces Moldus cinglés qui coupent les gens en morceaux ? Non, eux, ce sont des guérisseurs."_, Harry Potter, J.K Rowling.
 * Image : {lieuxdir}st_mungo.jpg
 
-== Récupération de cartes
+== Equipements
 
 === http://harrypotter.wikia.com/wiki/Madam_Malkin%27s_Robes_for_All_Occasions[Madame Guipure, prêt-à-porter pour mages et sorciers]
 
 * Vous pouvez récupérer la première carte "Corps" ou "Tête" de la pile _Equipement_, puis mélangez la pile.
 
 * Image : {lieuxdir}madam_malkin.jpg
-
-=== http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges]
-
-* *Goûteur dévoué :* Lancez les deux dés :
-** 2 : piocher une carte _Retournement_.
-** 3 : votre prochain jet de dé sera le score minimum possible.
-** 4 : subissez une Blessure, puis soignez-vous 2 Blessures au début de votre prochain tour.
-** 5 : vous regagnez une charge sur la compétence de _Personnage_ de votre choix.
-** 6 : vous pourrez faire deux lancers de dés pour votre prochain déplacement [TODO - Meilleure idée ?].
-** 7 : vous goûtez deux nouvelles dragées, quelle gourmandise !
-
-* Citation : _"Vous avez peur de Vous-Savez-Qui ? Craignez plutôt POUSSE-RIKIKI..."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
-* Image : {lieuxdir}weasleys_wizard_wheezes.jpg
-
-== Equipements
 
 === http://harrypotter.wikia.com/wiki/Borgin_and_Burkes[Barjow et Beurk]
 
@@ -96,7 +81,7 @@
 === http://harrypotter.wikia.com/wiki/Goblet_of_Fire[Salle de la coupe de feu]
 
 * Chaque _Personnage_ à moins de 3 Blessures peut participer.
-* il faut 3 _Personnages_ participants minimum. La coupe sélectionne aléatoirement 3 _Personnages_ parmi ceux proposés.
+* Il faut 3 _Personnages_ participants minimum. La coupe sélectionne aléatoirement 3 _Personnages_ parmi ceux proposés.
 * Au bout de 3 tours de jeu globaux, le participant le moins blessé remporte la coupe (5 points dans le comptage final), et 3 _Equipements_ et 2 _Consommables_.
 * Une fois la coupe remportée, défausser définitivement ce lieu.
 
@@ -123,6 +108,19 @@
 * Image : {lieuxdir}knockturn_alley.jpg
 
 == Autres
+
+=== http://harrypotter.wikia.com/wiki/Weasleys%27_Wizard_Wheezes[Boutique de Fred et Georges]
+
+* *Goûteur dévoué :* Lancez les deux dés :
+** 2 : piocher une carte _Retournement_.
+** 3 : votre prochain jet de dé sera le score minimum possible.
+** 4 : subissez une Blessure, puis soignez-vous 2 Blessures au début de votre prochain tour.
+** 5 : vous regagnez une charge sur la compétence de _Personnage_ de votre choix.
+** 6 : vous pourrez faire deux lancers de dés pour votre prochain déplacement [TODO - Meilleure idée ?].
+** 7 : vous goûtez deux nouvelles dragées, quelle gourmandise !
+
+* Citation : _"Vous avez peur de Vous-Savez-Qui ? Craignez plutôt POUSSE-RIKIKI..."_, Harry Potter et le Prince de sang-mêlé, J.K Rowling, 2005.
+* Image : {lieuxdir}weasleys_wizard_wheezes.jpg
 
 === http://harrypotter.wikia.com/wiki/Room_of_Requirement[La salle sur demande]
 

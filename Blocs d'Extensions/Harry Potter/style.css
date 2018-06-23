@@ -73,6 +73,14 @@ span.icon > img {
 	height: 100%;
 }
 
+div.description_grand_format{
+	font-family: 'Times New Roman', serif;
+	font-size: 13px;
+	text-align: justify;
+	background-color: white;
+	height: 400px;
+}
+
 div.image {
 	background-color: grey;
 	height:100px;

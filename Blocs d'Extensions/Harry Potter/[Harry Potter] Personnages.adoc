@@ -136,7 +136,7 @@
 * Citation : _"Je dirai quelque chose quand on me dira s’il te plaît. [...] QUELQUE CHOSE ! Ha ! Ha ! Ha ! Je vous avais prévenu."_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
 * Image : {personnagesdir}peeves.jpg
 
-=== http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick_Ollivander]
+=== http://harrypotter.wikia.com/wiki/Garrick_Ollivander[Garrick Ollivander]
 
   * [red]*4 Blessures*
   * *Maître des baguettes :* dès l'équipement, vous débloquer la compétence _Maîtrise_ des _Armes_ de type baguettes.
@@ -149,7 +149,7 @@
 === http://harrypotter.wikia.com/wiki/Mundungus_Fletcher[Mondungus Fletcher]
 
   * [red]*4 Blessures*
-  * [underline]*Récupérateur (1 utilisation / tour):* au lieu d'attaquer, vous pouvez récupérer la dernière carte dans la défausse des _Consommables_.
+  * [underline]*Récupérateur (1 utilisation / tour) :* au lieu d'attaquer, vous pouvez récupérer la dernière carte dans la défausse des _Consommables_.
   * *Refourgueur :* vos _Consommables_ valent 1 point d'_Equipement_ et peuvent être vendus en tant que tels.
   * [underline]*Réseau d'informateurs intéressés :* Pendant votre tour, vous pouvez sacrifier 2 points d'_Equipement_ pour regarder la carte _Personnage_ ou _Quête_ d'un autre _Personnage_. Peut être fait plusieurs fois par tour.
   * *Négociateur :* pour chaque achat auprès du _Marchand d'or_, vous pouvez lancer les deux dés, si le résultat est supérieur à 4, cela ne vous coutera que 2 points d'équipements.
@@ -164,7 +164,7 @@
 
   * [red]*5 Blessures*
   * *La prophétie :* accomplir votre quête ne termine pas la partie si _Tom Jedusor_ est toujours en vie.
-  * [underline]*Accio (1 utilisation / 2 tours):* Pendant votre tour, nommez une carte de la pile _Consommable_ ou _Equipement_, si celle-ci se trouve dans les 3 prochaines cartes, récupérez-la. Puis, placez les cartes révélées sous le dessous de la pile.
+  * [underline]*Accio (1 utilisation / 2 tours) :* Pendant votre tour, nommez une carte de la pile _Consommable_ ou _Equipement_, si celle-ci se trouve dans les 3 prochaines cartes, récupérez-la. Puis, placez les cartes révélées sous le dessous de la pile.
   * [underline]*Expelliarmus (1 utilisation / 2 joueurs dans la partie) :* lors d'un combat, toutes les _Armes_ équipées de l'adversaire sont inactives avant le calcul. Si le résultat du combat est en la faveur d'_Harry Potter_, toutes les _Armes_ équipées de l'adversaire lui reviennent.
 
   * Citation : _"Je suis un... quoi ?"_, Harry Potter à l'école des sorciers, J.K Rowling, 1997.
@@ -175,10 +175,10 @@
   * [red]*5 Blessures*
   * *Agent double :* peut se faire passer pour un Antagoniste tout le long de la partie (comme avec l'effet de la _Glace à l'ennemi_ par exemple) et utiliser ce qui leur est exclusif, ne nécessite pas de se réveler.
   * [underline]*Sectum sempra (1 utilisation / 2 tours) :* au lieu d'attaquer directement une cible à votre portée, vous lui infliger 1 blessure puis 1 blessure au début de son prochain tour. [meilleure idée, plus gros cd ?]
-  * [underline]*Maître des potions (1 utilisation / tour):* défaussez 2 _Consommables_ pour concoter une potion et l'administrer à un _Personnage_ à votre portée. Si la cible n'est pas consentante, vous pouvez l'attaquer et lui infliger l'effet de la potion à la place de la Blessure.
+  * [underline]*Maître des potions (1 utilisation / tour) :* défaussez 2 _Consommables_ pour concoter une potion et l'administrer à un _Personnage_ à votre portée. Si la cible n'est pas consentante, vous pouvez l'attaquer et lui infliger l'effet de la potion à la place de la Blessure.
   ** http://harrypotter.wikia.com/wiki/Veritaserum[*Veritaserum :*] Posez 3 questions à la cible, les réponses ne pourront être des mensonges.
   ** http://harrypotter.wikia.com/wiki/Blood-Replenishing_Potion[*Potion de Régénération sanguine :*] La cible retourne au nombre de Blessures qui était le sien à la fin de son tour précédent.
-  ** http://harrypotter.wikia.com/wiki/Weakness_Potion[*Potion_affaiblissante :*] La cible a son attaque et sa défense divisé par 2 (bonus y compris), arrondi à la moitié inférieure, jusqu'au prochain tour de _Severus Rogue_.
+  ** http://harrypotter.wikia.com/wiki/Weakness_Potion[*Potion affaiblissante :*] La cible a son attaque et sa défense divisé par 2 (bonus y compris), arrondi à la moitié inférieure, jusqu'au prochain tour de _Severus Rogue_.
   ** http://harrypotter.wikia.com/wiki/Wolfsbane_Potion[*Potion Tue-loup :*] La cible sous l'effet de _Loup-garou_ n'est pas obligé d'attaquer, dure jusqu'à la fin de son prochain tour.
   ** http://harrypotter.wikia.com/wiki/Alihotsy_Draught[*Goutte désopilante :*] La cible devra attaquer le _Personnage_ le plus proche, sinon elle s'inflige elle-même 1 Blessure, dure jusqu'au début de son prochain tour.
   ** http://harrypotter.wikia.com/wiki/Bulgeye_Potion[*Potion bomboeil :*] La cible reçoit un malus de -2 de portée jusqu'au début de son prochain tour.
@@ -192,7 +192,7 @@
   * [red]*5 Blessures*
   * [underline]*Astrologie :* Au début de votre tour, vous pouvez regarder les deux carte _Lieux_.
   * *Habitué des lieux :* Vous pouvez choisir la rencontre que vous faites dans le lieu _La Forêt Interdite_.
-  * [underline]*Monture :* Si vous le voulez, vous pouvez proposez à un joueur de déplacer son _Personnage_ en même temps que le votre. Son déplacement n'activera aucune case. [récupérer le mec sur le passage]
+  * [underline]*Monture :* Vous pouvez proposez à un joueur de déplacer son _Personnage_ en même temps que le votre. Son déplacement n'activera aucune case. [récupérer le mec sur le passage]
   * *Corps de centaure :* +1 d'attaque et +1 de défense. Vous pouvez vous déplacer d'une case supplémentaire lors de votre déplacement.
 
   * Citation : _"Il arrive qu'on se trompe en lisant le destin dans les planètes. Même les centaures."_, Harry Potter, J.K Rowling.
@@ -221,8 +221,8 @@
 === http://harrypotter.wikia.com/wiki/Alastor_Moody[Alastor Maugrey]
 
   * [red]*6 Blessures*
-  * [underline]*Jambe de bois détachable :* dorénavant, vos prochains déplacements se feront uniquement avec le d4. Vous confère la capacité _Jambe de bois rattachable_.
-  * [underline]*Jambe de bois rattachable :* passez votre déplacement, dorénavant, vos déplacements se feront uniquement avec les deux dés. Vous confère la capacité _Jambe de bois détachable_.
+  * [underline]*Jambe de bois détachable :* dorénavant, vos prochains déplacements se feront uniquement avec le d4.
+  * [underline]*Jambe de bois rattachable :* passez votre déplacement, dorénavant, vos déplacements se feront uniquement avec les deux dés.
   * *Paranoïa :* +1 de défense contre les ennemis non révélés. Vous ne pouvez recevoir en échange que des cartes qui vous soient revélées (fonctionne avec l'_Oeil magique d'Alastor Maugrey_).
   * *Auror d'exception :* +2 d'attaque et de défense face aux _Antagonistes_.
   * Si vous révelez votre identité dès le premier tour, équipez vous directement de l'_Oeil magique d'Alastor Maugrey_, qu'importe la pile dans laquelle il se trouve.
