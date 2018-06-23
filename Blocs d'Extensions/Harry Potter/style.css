@@ -33,31 +33,31 @@ div.name{
 	vertical-align: middle;
 }
 
-.personnage_antagoniste{
+div.name.personnage_antagoniste{
 	color: red;
 }
 
-.personnage_protagoniste{
+div.name.personnage_protagoniste{
 	color: blue;
 }
 
-.personnage_neutre{
+div.name.personnage_neutre{
 	color: yellow;
 }
 
-.equipement_commun{
+div.name.equipement_commun{
 	color: rgb(255, 255, 255);
 }
 
-.equipement_rare{
+div.name.equipement_rare{
 	color: rgb(16, 187, 209);
 }
 
-.equipement_epique{
+div.name.equipement_epique{
 	color: rgb(131, 7, 161);
 }
 
-.equipement_legendaire{
+div.name.equipement_legendaire{
 	color: rgb(255, 136, 0);
 }
 
@@ -110,19 +110,35 @@ div.description {
 }
 
 /* class inheritance ? TODO */
-div.description .d_extended {
+div.description.d_extended {
 	height: 290px;	
-	background-color: red;
 }
 
 .liste {
-	padding: 0px;	
+	padding: 2px;	
 	margin: 0px;
 	list-style-type: none;
 }
 
+.liste_sans_enfant{
+	padding: 2px;
+	margin: 0px;
+	list-style-type: circle;
+}
+
+.liste_sans_enfant > li {
+    list-style-position: inside;
+	margin-left: 10px;
+}
+
+.liste_sans_enfant > li > span {
+	position: relative;
+	left: -10px; 
+}
+
 .sous_liste {
 	padding: 0px;
+	list-style-type: circle;
 }
 
 .sous_liste > li {
@@ -134,8 +150,6 @@ div.description .d_extended {
 	position: relative;
 	left: -10px; 
 }
-
-
 
 div.quote {
 	background-color: lightgrey;
