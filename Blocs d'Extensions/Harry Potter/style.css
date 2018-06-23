@@ -28,7 +28,7 @@ div.name{
 	font-weight: bold;
 	height: 30px;
 	line-height: 30px;
-	font-size: 18px;
+	font-size: 17px;
 	text-align: center;
 	vertical-align: middle;
 }
@@ -147,6 +147,21 @@ div.description.d_extended {
 }
 
 .sous_liste > li > span {
+	position: relative;
+	left: -10px; 
+}
+
+.sous_liste_2 {
+	padding: 0px;
+	list-style-type: circle;
+}
+
+.sous_liste_2 > li {
+    list-style-position: inside;
+	margin-left: 20px;
+}
+
+.sous_liste_2 > li > span {
 	position: relative;
 	left: -10px; 
 }
