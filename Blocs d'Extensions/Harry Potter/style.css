@@ -33,31 +33,31 @@ div.name{
 	vertical-align: middle;
 }
 
-div.name.personnage_antagoniste{
+div.name.personnage-antagoniste{
 	color: red;
 }
 
-div.name.personnage_protagoniste{
+div.name.personnage-protagoniste{
 	color: blue;
 }
 
-div.name.personnage_neutre{
+div.name.personnage-neutre{
 	color: yellow;
 }
 
-div.name.equipement_commun{
+div.name.equipement-commun{
 	color: rgb(255, 255, 255);
 }
 
-div.name.equipement_rare{
+div.name.equipement-rare{
 	color: rgb(16, 187, 209);
 }
 
-div.name.equipement_epique{
+div.name.equipement-epique{
 	color: rgb(131, 7, 161);
 }
 
-div.name.equipement_legendaire{
+div.name.equipement-legendaire{
 	color: rgb(255, 136, 0);
 }
 
@@ -73,7 +73,7 @@ span.icon > img {
 	height: 100%;
 }
 
-div.description_grand_format{
+div.description-grand-format{
 	font-family: 'Times New Roman', serif;
 	font-size: 13px;
 	text-align: justify;
@@ -118,7 +118,7 @@ div.description {
 }
 
 /* class inheritance ? TODO */
-div.description.d_extended {
+div.description.d-extended {
 	height: 290px;	
 }
 
@@ -128,48 +128,48 @@ div.description.d_extended {
 	list-style-type: none;
 }
 
-.liste_sans_enfant{
+.liste-sans-enfant{
 	padding: 2px;
 	margin: 0px;
 	list-style-type: circle;
 }
 
-.liste_sans_enfant > li {
+.liste-sans-enfant > li {
     list-style-position: inside;
 	margin-left: 10px;
 }
 
-.liste_sans_enfant > li > span {
+.liste-sans-enfant > li > span {
 	position: relative;
 	left: -10px; 
 }
 
-.sous_liste {
+.sous-liste {
 	padding: 0px;
 	list-style-type: circle;
 }
 
-.sous_liste > li {
+.sous-liste > li {
     list-style-position: inside;
 	margin-left: 10px;
 }
 
-.sous_liste > li > span {
+.sous-liste > li > span {
 	position: relative;
 	left: -10px; 
 }
 
-.sous_liste_2 {
+.sous-liste-2 {
 	padding: 0px;
 	list-style-type: circle;
 }
 
-.sous_liste_2 > li {
+.sous-liste-2 > li {
     list-style-position: inside;
 	margin-left: 20px;
 }
 
-.sous_liste_2 > li > span {
+.sous-liste-2> li > span {
 	position: relative;
 	left: -10px; 
 }
