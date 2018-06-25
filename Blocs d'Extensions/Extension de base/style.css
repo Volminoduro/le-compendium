@@ -212,7 +212,7 @@ div.description-petit-format{
 	background-color: white;	
 }
 
-div.text {
+div.description-petit-format > p {
 	margin: 0px;
 	padding-top: 112px;
 }
