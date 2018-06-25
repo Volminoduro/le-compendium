@@ -33,32 +33,14 @@ div.name{
 	vertical-align: middle;
 }
 
-div.name.personnage-antagoniste{
+/* TODO - Choisir une vraie couleur */
+div.name.quete{
 	color: red;
 }
 
-div.name.personnage-protagoniste{
+/* TODO - Choisir une vraie couleur */
+div.name.retournement{
 	color: blue;
-}
-
-div.name.personnage-neutre{
-	color: yellow;
-}
-
-div.name.equipement-commun{
-	color: rgb(255, 255, 255);
-}
-
-div.name.equipement-rare{
-	color: rgb(16, 187, 209);
-}
-
-div.name.equipement-epique{
-	color: rgb(131, 7, 161);
-}
-
-div.name.equipement-legendaire{
-	color: rgb(255, 136, 0);
 }
 
 span.icon{
