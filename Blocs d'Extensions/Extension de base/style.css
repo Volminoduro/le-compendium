@@ -33,14 +33,32 @@ div.name{
 	vertical-align: middle;
 }
 
-/* TODO - Choisir une vraie couleur */
-div.name.quete{
+div.name.personnage-antagoniste{
 	color: red;
 }
 
-/* TODO - Choisir une vraie couleur */
-div.name.retournement{
+div.name.personnage-protagoniste{
 	color: blue;
+}
+
+div.name.personnage-neutre{
+	color: yellow;
+}
+
+div.name.equipement-commun{
+	color: rgb(255, 255, 255);
+}
+
+div.name.equipement-rare{
+	color: rgb(16, 187, 209);
+}
+
+div.name.equipement-epique{
+	color: rgb(131, 7, 161);
+}
+
+div.name.equipement-legendaire{
+	color: rgb(255, 136, 0);
 }
 
 span.icon{
@@ -99,7 +117,6 @@ div.description {
 	height: 270px;	
 }
 
-/* class inheritance ? TODO */
 div.description.d-extended {
 	height: 290px;	
 }
@@ -165,29 +182,55 @@ div.quote {
 	text-align: center;
 }
 
-/* PETIT FORMAT */
+
+/********************/
+/*** PETIT FORMAT ***/
+/********************/
 
 #navBar-petit-format {
-    width: 1400px;
+    width: 930px;
     border-width: 1px;
     border-style: solid;
     border-color: #000000;
     overflow: hidden;
 }
 
+.card-filler-petit-format {
+	margin: 1px;
+	float: left;
+	width: 300px;
+	height: 150px;
+	padding: 3px;
+}
+
+div.background-petit-format{
+	background-color: lightgrey;
+	min-width: 95%;
+	min-height: 95%;
+	padding: 1%;
+}
+
 .card-petit-format {
 	margin: 1px;
 	float: left;
-	width: 450px;
-	height: 300px;
+	width: 300px;
+	height: 150px;
 	background-color: darkred;
 	padding: 3px;
 }
 
+div.name.quete{
+	color: red;
+}
+
+div.name.retournement{
+	color: blue;
+}
+
 div.description-petit-format{
-	height: 260px;
+	height: 110px;
 	font-family: 'Times New Roman', serif;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: bold;
 	overflow-wrap:break-word;
 	text-align: center;
@@ -196,5 +239,21 @@ div.description-petit-format{
 
 div.description-petit-format > p {
 	margin: 0px;
-	padding-top: 112px;
+	padding-top: 33px;
+}
+
+div.description-petit-format > p:nth-child(2) {
+	padding-top: 10px;
+}
+
+span.icon-petit-format{
+	float: right;
+	border-radius: 50%;
+	width: 25px;
+	height: 25px;
+}
+
+span.icon-petit-format > img {
+	width: 100%;
+	height: 100%;
 }

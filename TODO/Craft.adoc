@@ -25,20 +25,6 @@
 
 * Comment les stocker ?
 
-== Cartes à jouer
-
-=== Cartes petit format (quête + retournement)
-
-* Quel est le format ?
-* Longueur ?
-* Largeur ?
-
-=== Cartes moyen format (Personnages, Equipements, Consommables, Lieux)
-
-* Quel est le format ?
-* Longueur ?
-* Largeur ?
-
 == Deck-box pour contenir les cartes
 
 * Design ? Matière ? Motif ?
@@ -49,8 +35,8 @@
 
 = Allo ?
 
-* Un jeton meneur de jeu ?
+=== Un jeton meneur de jeu ?
 
 === Jeton de charges d'utilisation
 
-=== Jeton de maitrise ?
+=== Jeton de Maitrise ? Oui
