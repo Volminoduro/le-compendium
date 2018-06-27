@@ -246,6 +246,11 @@ div.description-petit-format > p:nth-child(2) {
 	padding-top: 10px;
 }
 
+div.description-petit-format > p.unique {
+	margin: 0px;
+	padding-top: 43px;
+}
+
 span.icon-petit-format{
 	float: right;
 	border-radius: 50%;

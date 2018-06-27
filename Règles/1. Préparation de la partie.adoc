@@ -66,3 +66,6 @@
 * La distribution des quêtes s'opère aléatoirement et face cachée, comme les _Personnages_.
 
 * [TODO] Archétypes de parties
+
+** Impasse mexicaine
+*** Que des cartes Quêtes Genocidaires et une carte Quête Survivant.
