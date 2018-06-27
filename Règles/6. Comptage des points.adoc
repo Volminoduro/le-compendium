@@ -34,3 +34,19 @@
   ** Epique : 3 points
   ** Rare : 2 points
   ** Commun : 1 points
+
+
+= Retour de Thibault (TODO)
+Fin de partie (POSTPONED)
+Si un joueur accompli sa quête, la partie se termine à la fin du tour de jeu global.
+
+Ajouté.
+
+Si vous jouez avec les règles "Avancées", procédez au comptage des points et celui qui en a le plus remporte la partie. En cas d’égalité, les joueurs ex-aequo aux points sont considérés comme vainqueurs.
+
+Même commentaire que pour l'achat de sang, mécanique qui ne doit pas être anecdotique et que chaque joueurs qui veuille s'en donner les moyens puisse orienter son jeu pour en profiter.
+Ex: Si on joue en règle "avancée" là ou les objectifs de quêtes seront prépondérant, peu ou aucun joueurs auront l'occasion d'user de cette mécanique alors qu'elle est sensé "définir" cet autre mode de jeu.
+De plus si un seul joueur / peu de joueurs ont un personnage qui peut gagner des points supplémentaires, les autres joueurs n'ont pas la possibilité de gagner plus de points ou de lui en faire perdre pour contrebalancer.
+Ils le "tueront" au mieux comme dans un mode normal. Ils n'ont donc pas de comportement différent à adopter face à un mode qui se veut différent.
+
+La réflexion est bonne, j'en prends note. Il y a un peu de ça dans ce premier Bloc d'Extension mais sans doute pas assez. Je pense que je reviendrai certainement dessus. A garder en tête cependant que la mort n'est pas le seul moyen commun de faire baisser les points d'autrui. Il faudra s'y pencher sérieusement une fois que le comptage de points sera conçu, je n'en suis même pas à ses balbutiements.
