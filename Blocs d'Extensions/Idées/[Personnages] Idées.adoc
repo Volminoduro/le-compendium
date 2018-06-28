@@ -22,7 +22,7 @@
   * Désignez un autre personnage que vous, vous pouvez annuler un de ces pouvoirs au choix.
   * Contreattaquer si on est à partir d'un certain nombre de Blessures.
   * Placer le marqueur de blessure sur 3.
-  * Mépris des faibles : les personnages à une blessure du _Seuil de la Mort_ ne peuvent pas vous attaquer.
+  * Mépris des faibles : les personnages à une blessure du <i>SdM</i> ne peuvent pas vous attaquer.
   * Sacrification belliqueuse : vous subissez une blessure, la cible de votre choix, autre que vous, subit également une Blessure. Peut être fait à volonté pendant votre tour. Ne peut achever la cible ni vous tuer vous-même.
 
 * X
@@ -37,7 +37,7 @@
   ** Chaque personnage que vous tué vous ramène à 0 Blessures.
 
 
-* Un personnage qui se scarifie pour gagner un _Sang_.
+* Un personnage qui se scarifie pour gagner un <i>Sang</i>.
 
 * Un personnage qui se spécialise dans la défense ?
 
