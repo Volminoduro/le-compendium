@@ -6,7 +6,7 @@
     <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=IM+Fell+English+SC" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
-    <link rel="stylesheet" href="../Extension de base/style.css">
+    <link rel="stylesheet" href="../Blocs d'Extensions/Extension de base/style.css">
     <link rel="stylesheet" href="./style.css">
     </head>
     <body>        
@@ -18,7 +18,7 @@
             <li>A chaque partie, un meneur de jeu est choisi. Sa sélection est libre aux joueurs. Il peut être se désigné lui-même, être choisi aléatoirement, être élu à la majorité, etc.</li>
             <li>Le <i>Personnage</i> du meneur de jeu sera révélé toute la partie et disposera d'une Blessure supplémentaire (sauf si le <i>Personnage</i> dispose déjà de 7 Blessures maximales).</li>
             <li>Le meneur de jeu commence la partie en premier. Ensuite, il suffit de suivre le sens des aiguilles d'une montre pour désigner les joueurs qui joueront après lui.</li>
-            <li>On appelle un "tour de jeu global" le laps de temps entre deux tours du meneur de jeu [formulation].</li>
+            <li>On appelle un "tour de jeu global" le laps de temps entre deux tours du meneur de jeu.</li>
         </ul>
 
         <h2>Placement des cases</h2>
@@ -61,33 +61,43 @@
         </ul>
 
         <table>
-            <tr>
-                <th>Nb. de joueurs</th>
-                <th>Antagonistes</th>
-                <th>Neutres</th>
-                <th>Protagonistes</th>
-            </tr>
-            <tr><td>3</td><td>1</td><td>1</td><td>1</td></tr>
-            <tr><td>4</td><td>1</td><td>2</td><td>1</td></tr>
-            <tr><td>5</td><td>2</td><td>1</td><td>2</td></tr>
-            <tr><td>6</td><td>2</td><td>2</td><td>2</td></tr>
-            <tr><td>7</td><td>2</td><td>3</td><td>2</td></tr>
-            <tr><td>8</td><td>3</td><td>2</td><td>3</td></tr>
-            <tr><td>9</td><td>3</td><td>3</td><td>3</td></tr>
-            <tr><td>10</td><td>3</td><td>4</td><td>3</td></tr>
-            <tr><td>11</td><td>4</td><td>3</td><td>4</td></tr>
-            <tr><td>12</td><td>4</td><td>4</td><td>4</td></tr>            
+            <colgroup>
+                <col class="white" />
+                <col class="red" />
+                <col class="yellow" />
+                <col class="blue" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>Nb. de joueurs</th>
+                    <th>Antagonistes</th>
+                    <th>Neutres</th>
+                    <th>Protagonistes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>3</td><td>1</td><td>1</td><td>1</td></tr>
+                <tr><td>4</td><td>1</td><td>2</td><td>1</td></tr>
+                <tr><td>5</td><td>2</td><td>1</td><td>2</td></tr>
+                <tr><td>6</td><td>2</td><td>2</td><td>2</td></tr>
+                <tr><td>7</td><td>2</td><td>3</td><td>2</td></tr>
+                <tr><td>8</td><td>3</td><td>2</td><td>3</td></tr>
+                <tr><td>9</td><td>3</td><td>3</td><td>3</td></tr>
+                <tr><td>10</td><td>3</td><td>4</td><td>3</td></tr>
+                <tr><td>11</td><td>4</td><td>3</td><td>4</td></tr>
+                <tr><td>12</td><td>4</td><td>4</td><td>4</td></tr>
+            </tbody>                        
         </table>
 
-        <h2>Attribution des quêtes</h2>
+        <h2>Attribution des <i>Quêtes</i></h2>
 
         <ul>
-            <li>Le but du jeu est de remplir pour chaque joueur est de remplir sa quête. Les quêtes sont des objectifs à accomplir pendant la partie. Lorsqu'une quête est réussie, la partie se termine (cf. Fin de la partie).</li>
-            <li>Les cartes de quêtes doivent être choisies selon le type de partie que vous voulez faire. Si vous débutez ou que vous n'avez pas d'idée, fiez-vous au tableau des <i>Archétypes de parties</i>.</li>
+            <li>Le but du jeu est de remplir pour chaque joueur est de remplir sa <i>Quête</i>. Les <i>Quêtes</i> sont des objectifs à accomplir pendant la partie. Lorsqu'une <i>Quête</i> est réussie, la partie se termine (cf. Fin de la partie).</li>
+            <li>Les cartes de <i>Quêtes</i> doivent être choisies selon le type de partie que vous voulez faire. Si vous débutez ou que vous n'avez pas d'idée, fiez-vous au tableau des <i>Archétypes de parties</i>.</li>
             <ul>
-                <li>Par exemple, si vous choisissez que tous les joueurs aient des quêtes différentes, cela risque d'être difficile à suivre pour des débutants mais permettrait aussi d'avoir des interactions très variées.</li>
+                <li>Par exemple, si vous choisissez que tous les joueurs aient des <i>Quêtes</i> différentes, cela risque d'être difficile à suivre pour des débutants mais permettrait aussi d'avoir des interactions très variées.</li>
             </ul>
-            <li>La distribution des quêtes s'opère aléatoirement et face cachée, comme les <i>Personnages</i>.</li>
+            <li>La distribution des <i>Quêtes</i> s'opère aléatoirement et face cachée, comme les <i>Personnages</i>.</li>
         </ul>
 
         <h3>Archétypes de parties (TODO)</h3>
@@ -95,7 +105,7 @@
         <ul>
             <li>Impasse mexicaine</li>
             <ul>
-                <li>Que des cartes Quêtes Genocidaires et une carte Quête Survivant.</li>
+                <li>Ne mettez que des cartes <i>Quêtes</i> Genocidaires et une carte Quête Survivant.</li>
             </ul>
         </ul>
 

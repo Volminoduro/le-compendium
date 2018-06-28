@@ -1,0 +1,23 @@
+/* Ceci doit spécifique uniquement aux Règles si nécessaire */
+
+.white {
+	background-color: rgb(255, 255, 255, .60);
+}
+.red {
+	background-color: rgb(255,0,0, .60);
+}
+.blue {
+	background-color: rgb(0,0,255, .60);
+}
+.yellow{
+	background-color: rgb(255, 255, 0, .60);
+}
+
+td, th {
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(184, 184, 184);
+}
