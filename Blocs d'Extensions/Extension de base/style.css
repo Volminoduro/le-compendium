@@ -33,32 +33,48 @@ div.name{
 	vertical-align: middle;
 }
 
-div.name.personnage-antagoniste{
-	color: red;
+.personnage-antagoniste{
+	color: black;
 }
 
-div.name.personnage-protagoniste{
-	color: blue;
+.personnage-neutre{
+	color: grey;
 }
 
-div.name.personnage-neutre{
-	color: yellow;
+.personnage-protagoniste{
+	color: white;
 }
 
-div.name.equipement-commun{
-	color: rgb(244, 236, 199);
+.equipement-commun{
+	color: rgb(255, 255, 255);
 }
 
-div.name.equipement-rare{
-	color: rgb(16, 187, 209);
+.equipement-rare{
+	color: rgb(0, 112, 221);
 }
 
-div.name.equipement-epique{
-	color: rgb(131, 7, 161);
+.equipement-epique{
+	color: rgb(163, 53, 238);
 }
 
-div.name.equipement-legendaire{
-	color: rgb(255, 136, 0);
+.equipement-legendaire{
+	color: rgb(205, 126, 67);
+}
+
+.consommable{
+	color: darkblue;
+}
+
+.lieux{
+	color: rgb(4, 149, 62);
+}
+
+.retournement{
+	color: indigo;
+}
+
+.quete{
+	color: teal;
 }
 
 span.icon{
@@ -217,14 +233,6 @@ div.background-petit-format{
 	height: 150px;
 	background-color: darkred;
 	padding: 3px;
-}
-
-div.name.quete{
-	color: red;
-}
-
-div.name.retournement{
-	color: blue;
 }
 
 div.description-petit-format{

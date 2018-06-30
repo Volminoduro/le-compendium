@@ -19,5 +19,19 @@ td, th {
 }
 
 body{
-    background-color: rgb(184, 184, 184);
+    background-color: rgb(255, 255, 255);
+}
+
+.card-petit-format {
+	background-color: transparent;
+	float: none;
+}
+
+.titre-verso-carte{
+	font-size: 32px;
+	font-weight: bold;
+	color : white; 
+	text-align: center;
+	line-height: 150px; 
+	vertical-align: 75px;
 }
