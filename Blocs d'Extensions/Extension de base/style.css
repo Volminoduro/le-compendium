@@ -77,6 +77,10 @@ div.name{
 	color: teal;
 }
 
+div.titre-reduit{
+	font-size: 13px; letter-spacing: -1px;
+}
+
 span.icon{
 	float: right;
 	border-radius: 50%;
