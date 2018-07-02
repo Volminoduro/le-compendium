@@ -1,7 +1,7 @@
 /* Ceci doit spécifique uniquement au Craft si nécessaire */
 
 .dé{
-	background-image:  url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
 	width: 50px;
 	height: 50px;
 }
@@ -13,4 +13,49 @@
 	vertical-align: middle;
 	font-family: 'Tangerine', serif;
 	font-size: 32.5px;
+}
+
+#navbar-cases {
+    width: 270px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    overflow: hidden;
+}
+
+.case {
+	margin: 1px;
+	float: left;
+	width: 130px;
+	height: 170px;
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	border-width: 1px;
+    border-style: solid;
+	border-color: #000000;
+}
+
+.conteneur-img{
+	height: 140px;
+	width: 100%;
+	display: table-cell;
+  	vertical-align: middle;
+}
+
+.conteneur-img>img{
+	width: 50%;
+	height: 50%;
+	display: block;
+	margin: auto;
+}
+
+.cartouche-de-couleur{
+	height: 30px;
+	width: 100%;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align:center;
+	line-height: 10px;
+	vertical-align: middle;
+	font-size: 10px;
+	background-color: white;
 }
