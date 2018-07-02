@@ -13,6 +13,8 @@
 
 * Font de titre en calligraphie lisible ? Fond de couleur parchemin, écriture en noir ?
 
+https://www.w3schools.com/cssref/pr_background-repeat.asp
+
 === Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
 
 === Pion îcone pour reconnaître les personnages sur le plateau ? Préférable au code couleur, car cela sera très utilisé ailleurs.

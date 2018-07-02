@@ -1,0 +1,16 @@
+/* Ceci doit spécifique uniquement au Craft si nécessaire */
+
+.dé{
+	background-image:  url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	width: 50px;
+	height: 50px;
+}
+
+.dé>p{
+	color:black;
+	line-height: 32.5px;
+	text-align: center;	
+	vertical-align: middle;
+	font-family: 'Tangerine', serif;
+	font-size: 32.5px;
+}
