@@ -23,6 +23,7 @@
 
 == Pions
 
+* Comment les faire ?
 * Comment les stocker ?
 
 == Deck-box pour contenir les cartes
@@ -40,3 +41,5 @@
 === Jeton de charges d'utilisation
 
 === Jeton de Maitrise ? Oui
+
+* http://cssdeck.com/labs/pokerchips
