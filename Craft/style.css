@@ -41,6 +41,20 @@
   	vertical-align: middle;
 }
 
+.double-img{
+	height: 140px;
+	width: 50%;
+	display: table-cell;
+  	vertical-align: middle;
+}
+
+.double-img>img{
+	width: 50%;
+	height: 50%;
+	display: block;
+	margin: auto;
+}
+
 .conteneur-img>img{
 	width: 50%;
 	height: 50%;
