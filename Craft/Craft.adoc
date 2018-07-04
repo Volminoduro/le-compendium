@@ -25,6 +25,7 @@
 
 * Comment les faire ?
 * Comment les stocker ?
+* 12 pions. Signes du zodiaque ?
 
 * Quel concept pour environ une douzaine de pions ? Chaque pion va par paire. (Signe du zodiaque ?)
 
