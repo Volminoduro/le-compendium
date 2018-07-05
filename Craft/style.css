@@ -73,3 +73,65 @@
 	font-size: 10px;
 	background-color: white;
 }
+
+.card-petit-format {
+	background-color: transparent;
+	float: none;
+}
+
+.titre-verso-carte{
+	font-size: 32px;
+	font-weight: bold;
+	color : black; 
+	text-align: center;
+	line-height: 150px; 
+	vertical-align: 75px;
+}
+
+#navbar-jetons{
+	width: 225px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	overflow: hidden;
+	background-color:grey;
+}
+
+.jeton{
+	margin:.5em;
+	font-size:0.75em;
+	position:relative;
+	display:inline-block;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	width:5em;
+	height:5em;  
+	border-radius:50%;
+	position:relative;
+	border:.5em dashed white;
+	transition:all .5s ease;
+	backface-visibility:hidden;
+}
+
+.jeton.maitrise{
+	background:rgb(87, 58, 0);
+}
+
+.jeton.maitrise>p{
+	text-align: center;
+	line-height: 2em;
+	vertical-align: middle;
+	color:white;
+}
+
+.jeton.charges-utilisation{
+	background:rgb(87, 0, 62);
+}
+
+.jeton.charges-utilisation>p{
+	text-align: center;
+	line-height: 2em;
+	vertical-align: middle;
+	color:white;
+}
