@@ -36,6 +36,10 @@
   ** Vous ne pouvez pas être soigné ou augmenter votre nombre de Blessures maximales de la partie.
   ** Chaque personnage que vous tué vous ramène à 0 Blessures.
 
+  * Tyler Durden : Idée de blessures communes, quêtes différentes et le jeu se ferait en différé ?
+
+  * Un personne avec une compétence de transfer du corps : échanger votre carte perso + toutes les cartes (sauf la quête) contre celle d'un autre
+
 
 * Un personnage qui se scarifie pour gagner un <i>Sang</i>.
 
