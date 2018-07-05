@@ -94,7 +94,7 @@
 	border-style: solid;
 	border-color: #000000;
 	overflow: hidden;
-	background-color:grey;
+	background-color:rgb(150, 150, 150);
 }
 
 .jeton{
