@@ -21,14 +21,6 @@
 * Je possède déjà un d4 et d3. Réfléchir à un design pour un proto plus avancé.
 * Il faudrait une petite boite, style alumettes pour les stocker.
 
-== Pions (TODO)
-
-* Comment les faire ?
-* Comment les stocker ?
-* 12 pions. Signes du zodiaque ?
-
-* Quel concept pour environ une douzaine de pions ? Chaque pion va par paire. (Signe du zodiaque ?)
-
 == Deck-box pour contenir les cartes
 
 * Design ? Matière ? Motif ?
