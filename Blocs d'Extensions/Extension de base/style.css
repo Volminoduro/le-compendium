@@ -11,15 +11,14 @@
 	float: left;
 	width: 300px;
 	height: 450px;
-	background-color: darkred;
+	background-color: black;
 	padding: 3px;
 }
 
 div.background{
 	background-image:  url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	min-width: 98%;
-	min-height: 98%;
-	padding: 1%;
+	min-width: 100%;
+	min-height: 100%;
 }
 
 /* TODO - Une bonne font hand-writing en titre ? */
