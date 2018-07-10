@@ -16,7 +16,7 @@
 }
 
 #navbar-cases {
-    width: 270px;
+    width: 1610px;
     border-width: 1px;
     border-style: solid;
     border-color: #000000;
@@ -114,24 +114,21 @@
 	backface-visibility:hidden;
 }
 
-.jeton.maitrise{
-	background:rgb(87, 58, 0);
-}
-
-.jeton.maitrise>p{
+.jeton>p{
 	text-align: center;
 	line-height: 2em;
 	vertical-align: middle;
 	color:white;
+}
+
+.jeton.maitrise{
+	background:rgb(87, 58, 0);
 }
 
 .jeton.charges-utilisation{
 	background:rgb(87, 0, 62);
 }
 
-.jeton.charges-utilisation>p{
-	text-align: center;
-	line-height: 2em;
-	vertical-align: middle;
-	color:white;
+.jeton.sang{
+	background:rgb(175, 17, 28);
 }

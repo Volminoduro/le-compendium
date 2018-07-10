@@ -1,8 +1,6 @@
 #navBar {
-    width: 930px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #000000;
+    width: 940px;
+    border: 1px solid #000000;
     overflow: hidden;
 }
 
@@ -11,28 +9,36 @@
 	float: left;
 	width: 300px;
 	height: 450px;
-	background-color: black;
-	padding: 3px;
+	/*TODO : Une meilleure image pour les marges ? */
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
+	padding: 5px;
 }
 
-div.background{
-	background-image:  url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+div.fond-de-carte{
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
 	min-width: 100%;
 	min-height: 100%;
 }
 
 /* TODO - Une bonne font hand-writing en titre ? */
-
 div.name{
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	height: 30px;
+
+	line-height: 30px;
+	font-size: 17px;
 	font-family: 'Cinzel', serif;
 	text-transform: capitalize;
 	font-weight: bold;
-	height: 30px;
-	line-height: 30px;
-	font-size: 17px;
 	text-align: center;
 	vertical-align: middle;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+div.titre-reduit{
+	font-size: 13px; 
+	letter-spacing: -1px;
 }
 
 .personnage-antagoniste{
@@ -79,10 +85,6 @@ div.name{
 	color: teal;
 }
 
-div.titre-reduit{
-	font-size: 13px; letter-spacing: -1px;
-}
-
 span.icon{
 	float: right;
 	border-radius: 50%;
@@ -95,16 +97,7 @@ span.icon > img {
 	height: 100%;
 }
 
-div.description-grand-format{
-	font-family: 'Times New Roman', serif;
-	font-size: 13px;
-	text-align: justify;
-	background-color: white;
-	height: 400px;
-}
-
 div.image {
-	background-color: grey;
 	height:100px;
 	overflow: hidden;
 }
@@ -121,6 +114,8 @@ div.type {
 	height: 20px;
 	line-height: 20px; 
 	vertical-align: middle;
+	border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
 }
 div.type > span {
 	display: inline-block;
@@ -135,12 +130,13 @@ div.description {
 	font-family: 'Times New Roman', serif;
 	font-size: 13px;
 	text-align: justify;
-	background-color: white;
 	height: 270px;	
 }
 
-div.description. {
-	height: 290px;	
+div.description.grand-format{
+	padding: 0px;
+	margin: 0px;
+	height: 400px;
 }
 
 .liste {
@@ -194,6 +190,8 @@ div.description. {
 	position: relative;
 	left: -10px; 
 }
+
+/*TODO: Centrer l'horizontal et le vertical*/
 
 div.quote {
 	/* background-color: lightgrey; */
