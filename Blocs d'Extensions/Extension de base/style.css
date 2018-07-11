@@ -34,6 +34,9 @@ div.name{
 	text-align: center;
 	vertical-align: middle;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+	padding:0px;
+  margin:0px;
 }
 
 div.titre-reduit{
@@ -161,6 +164,8 @@ div.description.grand-format{
 	left: -10px; 
 }
 
+/*TODO: Reorganiser les listes */
+
 .sous-liste {
 	padding: 0px;
 	list-style-type: circle;
@@ -177,7 +182,8 @@ div.description.grand-format{
 }
 
 .sous-liste-2 {
-	padding: 0px;
+	padding: 2px;
+	margin:0px;
 	list-style-type: circle;
 }
 
