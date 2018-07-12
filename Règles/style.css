@@ -35,3 +35,11 @@ body{
 	line-height: 150px; 
 	vertical-align: 75px;
 }
+
+.tour-encadre{
+	width: 400px;
+	height: 250px;
+	border: 1px solid black;
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	font-size: 12px;
+}

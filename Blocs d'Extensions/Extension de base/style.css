@@ -134,6 +134,7 @@ div.description {
 	font-size: 13px;
 	text-align: justify;
 	height: 270px;	
+	overflow-wrap: break-word;
 }
 
 div.description.grand-format{
@@ -214,46 +215,30 @@ div.quote {
 /********************/
 
 #navBar-petit-format {
-    width: 930px;
+    width: 950px;
     border-width: 1px;
     border-style: solid;
     border-color: #000000;
     overflow: hidden;
 }
 
-.card-filler-petit-format {
-	margin: 1px;
-	float: left;
-	width: 300px;
+.card.petit-format {
 	height: 150px;
-	padding: 3px;
 }
 
-div.background-petit-format{
-	background-color: lightgrey;
-	min-width: 95%;
-	min-height: 95%;
-	padding: 1%;
+span.icon.petit-format{
+	width: 25px;
+	height: 25px;
 }
 
-.card-petit-format {
-	margin: 1px;
-	float: left;
-	width: 300px;
-	height: 150px;
-	background-color: darkred;
-	padding: 3px;
-}
-
-div.description-petit-format{
-	height: 110px;
-	font-family: 'Times New Roman', serif;
+div.description.petit-format{
+	height: 100px;
 	font-size: 12px;
 	font-weight: bold;
-	overflow-wrap:break-word;
 	text-align: center;
-	background-color: white;	
 }
+
+/*TODO : A affiner*/
 
 div.description-petit-format > p {
 	margin: 0px;
@@ -267,16 +252,4 @@ div.description-petit-format > p:nth-child(2) {
 div.description-petit-format > p.unique {
 	margin: 0px;
 	padding-top: 43px;
-}
-
-span.icon-petit-format{
-	float: right;
-	border-radius: 50%;
-	width: 25px;
-	height: 25px;
-}
-
-span.icon-petit-format > img {
-	width: 100%;
-	height: 100%;
 }
