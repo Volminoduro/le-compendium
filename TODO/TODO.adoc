@@ -7,7 +7,33 @@
 
 = Summary
 
+= Important
+
+* Réfléchir à rendre le projet privé et à parodier le contenu pour la légalité
+
+= Autres
+
+== Craft
+
+=== TODO : Idée de de carton pour (taille A4), motif pour reconnaître les joueurs et les pions ?
+
+=== TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
+
+=== TODO : Comment faire pour les impressions recto verso des cartes ?
+
+=== TODO : Meilleure feuillet de protection pour les cartes
+
+=== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html
+
+=== Etudier un matériel un peu complet pour le stockage etc, à voir sur les sites.
+
+=== https://www.spielematerial.de/en/game-components/game-pieces/pawns.html
+
+=== TODO : 3 pions pour désigner blessure, plateau et joueur
+
 == Design
+
+=== Impression couleur sur toutes les cartes
 
 === D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
@@ -29,6 +55,18 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 * https://www.etsy.com/fr/listing/477380448/d-d-jeux-des-coffret-cthulhu-h-p?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cthulhu+dice+box&ref=sc_gallery-1-1&plkey=456dedcbd15c46b8c4589b473b986e002a634cf0%3A477380448
 
+=== CSS
+
+==== Meilleure image pour les marges ?
+
+==== Une meilleure font style hand-writing pour les titres ?
+
+==== Réorganiser les listes css
+
+==== Centrer horizontal et verticalement la quote avec adaptation selon la taille du contenu
+
+==== Barre pour les icones d'équipement pour la portée, la défense et l'attaque (une div qui prend la place de 3 cercle ou non, à voir)
+
 == Autres
 
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
@@ -38,3 +76,33 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 === Système de version et de release notes ? Notamment pour les retours
 
 === New Orga pour git : Une branche master pour uniquement ce qui est imprimé | Une branche developpement pour ce qui est en cours de dev et qui n'est pas imprimé (TODO : commande de diff entre les deux pour faciliter les majs d'impression) | une branche suffixé dev-sujet par sujet
+
+== Gameplay
+
+=== Extension de base
+
+==== Quêtes (trouver plus d'idées), réviser celles présentes
+
+==== Retournement (trouver plus d'idées), réviser celles présentes
+
+=== Harry Potter
+
+==== Citation tissard et brodette
+
+==== Vase clos : meilleure idée ?
+
+==== 6 : vous pourrez faire deux lancers de dés pour votre prochain déplacement [TODO - Meilleure idée ?]
+
+==== Gare de King's Cross : meilleure idée d'effet
+
+==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
+
+==== Luna lovegood
+
+== Règles
+
+=== Feuillet matériel à mettre à jour au fur et à mesure
+
+=== Archétype des parties à compléter
+
+=== Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
