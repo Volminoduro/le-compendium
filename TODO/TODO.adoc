@@ -15,6 +15,10 @@
 
 https://www.w3schools.com/cssref/pr_background-repeat.asp
 
+https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-black-build-your-own-set-unusual.html
+
+https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
+
 === Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
 
 === Pion îcone pour reconnaître les personnages sur le plateau ? Préférable au code couleur, car cela sera très utilisé ailleurs.
@@ -30,3 +34,7 @@ https://www.w3schools.com/cssref/pr_background-repeat.asp
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
 
 === Idée d'AoE au cas où pour éviter trop de babysit ?
+
+=== Système de version et de release notes ? Notamment pour les retours
+
+=== New Orga pour git : Une branche master pour uniquement ce qui est imprimé | Une branche developpement pour ce qui est en cours de dev et qui n'est pas imprimé (TODO : commande de diff entre les deux pour faciliter les majs d'impression) | une branche suffixé dev-sujet par sujet
