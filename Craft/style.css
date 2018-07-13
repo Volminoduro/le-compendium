@@ -16,7 +16,7 @@
 }
 
 #navbar-cases {
-    width: 1610px;
+    width: 1200px;
     border-width: 1px;
     border-style: solid;
     border-color: #000000;
@@ -26,17 +26,16 @@
 .case {
 	margin: 1px;
 	float: left;
-	width: 130px;
-	height: 170px;
+	width: 260px;
+	height: 340px;
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	border-width: 1px;
-    border-style: solid;
-	border-color: #000000;
+	border: 2px solid black;
 }
 
 .conteneur-img{
-	height: 140px;
-	width: 100%;
+	height: 259px;
+	width: 50%;
+  	margin: 0 auto;
 	display: table-cell;
   	vertical-align: middle;
 }
@@ -56,17 +55,17 @@
 }
 
 .conteneur-img>img{
-	width: 50%;
-	height: 50%;
+	width: 130px;
+	height: 154px;
 	display: block;
 	margin: auto;
 }
 
 .cartouche-de-couleur{
-	height: 30px;
+	height: 80px;
 	width: 100%;
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
 	text-align:center;
 	line-height: 10px;
 	vertical-align: middle;

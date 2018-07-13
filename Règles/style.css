@@ -19,7 +19,8 @@ td, th {
 }
 
 body{
-    background-color: rgb(255, 255, 255);
+	background-color: rgb(255, 255, 255);
+	font-size:12px;
 }
 
 .card-petit-format {
