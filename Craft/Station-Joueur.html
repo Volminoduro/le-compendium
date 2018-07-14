@@ -8,15 +8,16 @@
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="../Blocs d'Extensions/Extension de base/style.css">
     <link rel="stylesheet" href="./style.css">
     <style>
     .station-a4{
         width: 1500px;
         height: 1050px;                
         border: 1px solid black;
-
         display:inline-block;
-        background-color:white;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
     .station-card{
@@ -25,13 +26,34 @@
         height: 475px;
         float: left;
         border: 1px solid black;
-    }    
+
+        
+        background-size: cover;
+    } 
+    
+    .station-card > p {
+        color: white;
+        line-height: 400px;
+        font-size: 25px;
+        font-family: 'Cinzel', serif;
+        text-transform: capitalize;
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        padding: 5px;
+    }
 
     .station-card.personnage{
-        
         top: 15px;
         left: 15px;
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+        background-image: url("./Images/background-personnage.jpg");
+    }
+
+    .pattern-bord{
+        position:absolute;
+        top: 15px;
+        left: 100px;
     }
 
     .station-card.petit-format{
@@ -40,12 +62,15 @@
 
         top: 15px;
         left: 400px;
+        background-image: url("./Images/background-quete.jpg");
+    }
 
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    .station-card.petit-format > p{
+        line-height: 100px;
     }
 
     .station-conteneur-jeton{
-        height: 250px;
+        height: 290px;
         width: 340px;
         border: 1px solid black;
 
@@ -55,19 +80,38 @@
         background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
-    .station-card.equipement-tete{
+    .station-conteneur-jeton > p {
+        color: white;
+        line-height: 250px;
+        font-size: 25px;
+        font-family: 'Cinzel', serif;
+        text-transform: capitalize;
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        padding: 5px;
+    }
 
+    .station-card.equipement-tete{
         top: 15px;
         left: 775px;
-
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
     .station-card.equipement-corps{
         top: 15px;
         left: 1150px;
+    }
 
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    .pattern-milieu{
+        position:absolute;
+        top: 512px;
+        width: 1500px;
+    }
+
+    .pattern-milieu > img{
+        width: 1500px;
+        height: 50px;
     }
 
     .station-déroulement-tour{        
@@ -76,31 +120,56 @@
         height: 475px;
         border: 1px solid black;
         background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-        font-size: 12px;
+        font-size: 14px;
         
         top: 575px;   
         left: 15px;     
     }
 
+    .station-déroulement-tour > ul {
+        margin-left: -10px;
+    }
+
+    .station-déroulement-tour > ul > ul > li {
+        margin-left: -30px;
+    }
+
+    .station-déroulement-tour > ul > ul > li li {
+        margin-left: -30px;
+    }
+
+    .station-déroulement-tour > table{
+        margin-top: 23px;
+        width: 100%;
+        border-collapse:collapse;        
+
+        font-size: 18px;
+        font-family: 'Cinzel', serif;
+        text-transform: capitalize;
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+
+    th, td {
+        border:1px solid black;
+    }
+
+
     .station-card.equipement-arme{
         top: 575px;
         left: 400px;
-
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
     .station-card.equipement-acc1{
         top: 575px;
         left: 775px;
-
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
     .station-card.equipement-acc2{
         top: 575px;
         left: 1150px;
-
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
     
@@ -117,24 +186,30 @@
 
         <div class="station-a4">
 
-            <div class="station-card personnage">Mon personnage</div>
+            
 
-            <div class="station-card petit-format">Ma quête</div>
+            <div class="pattern-bord"><img src="./Images/pattern_bord_1.jpg" /></div>
 
-            <div class="station-conteneur-jeton">Mes jetons</div>
+            <div class="station-card personnage"><p>Personnage</p></div>
 
-            <div class="station-card equipement-tete">Mon Equipement tête</div>
+            <div class="station-card petit-format"><p>Quête</p></div>
 
-            <div class="station-card equipement-corps">Mon Equipement Corps</div>
+            <div class="station-conteneur-jeton"><p>Jetons</p></div>
 
-            <div class="station-card equipement-arme">Mon Equipement Arme</div>
+            <div class="station-card equipement-tete"><p>Equipement : Tête</p></div>
 
-            <div class="station-card equipement-acc1">Mon Equipement Accessoire</div>
+            <div class="station-card equipement-corps"><p>Equipement : Corps</p></div>
 
-            <div class="station-card equipement-acc2">Mon Equipement Accessoire 2</div>
+            <div class="pattern-milieu"><img src="./Images/elfe_vector_1.jpg" /></div>
+
+            <div class="station-card equipement-arme"><p>Equipement : Arme</p></div>
+
+            <div class="station-card equipement-acc1"><p>Equipement : Accessoire</p></div>
+
+            <div class="station-card equipement-acc2"><p>Equipement : Accessoire</p></div>
 
             <div class="station-déroulement-tour">
-                <ul>
+                <ul style="margin-left: -10px;">
                     <li><b>Début de tour.</b></li>
                     <ul>
                         <li>Activation des <strong>effets</strong> de début de tour.</li>
@@ -158,6 +233,32 @@
                         <li>Vous ne devez avoir que 2 cartes en main maximum.</li>
                     </ul>
                 </ul>
+
+                <table>
+                    <tr style="color: saddleBrown;">
+                        <th colspan="2">Equipements</th>
+                    </tr>
+                    <tr style="color: saddleBrown;">
+                        <td>Qualité</td>
+                        <td>Points</td> 
+                    </tr>
+                    <tr class="equipement-commun">
+                        <td>Commun</td>
+                        <td>1</td> 
+                    </tr>
+                        <tr class="equipement-rare">
+                        <td>Rare</td>
+                    <td>3</td> 
+                    </tr>
+                        <tr class="equipement-epique">
+                        <td>Epique</td>
+                    <td>5</td> 
+                    </tr>
+                    <tr class="equipement-legendaire">
+                        <td>Légendaire</td>
+                        <td>7</td> 
+                    </tr>
+                </table>
             </div>
 
         </div>

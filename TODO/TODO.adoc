@@ -15,13 +15,15 @@
 
 == Craft
 
-=== TODO : Nommer les stations en pupitre; (comment protéger les petites feuilles ?)
+=== TODO : Idée de station pour (taille A4), motif pour reconnaître les joueurs et les pions ?
 
-=== TODO : Echelle d'impression : 0.75 sous Chrome Marge : par défaut (Voir pour pouvoir s'en passer)
+==== TODO : Echelle d'impression : 0.75 sous Chrome Marge : par défaut (Voir pour pouvoir s'en passer)
 
-=== TODO : Idée de de carton pour (taille A4), motif pour reconnaître les joueurs et les pions ?
+==== TODO : Utliser des patterns transparent
 
-* Quelles infos affichées ? Couleur pour le pion, carte perso, carte équipement (tete, corps, arme, accessoires), la quête, les jetons, déroulement du tour ?
+===== TODO : Pattern à coloriser
+
+=== TODO : Nommer les stations en pupitre; (comment protéger les feuilles petit format ?)
 
 === TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
 
@@ -60,6 +62,8 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 === Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
 * https://www.etsy.com/fr/listing/477380448/d-d-jeux-des-coffret-cthulhu-h-p?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cthulhu+dice+box&ref=sc_gallery-1-1&plkey=456dedcbd15c46b8c4589b473b986e002a634cf0%3A477380448
+
+=== Boite de jeu désigné en bouquin ?
 
 === CSS
 
