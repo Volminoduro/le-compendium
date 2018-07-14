@@ -15,7 +15,9 @@
 
 == Craft
 
-=== TODO : Echelle d'impression : 0.75
+=== TODO : Nommer les stations en pupitre; (comment protéger les petites feuilles ?)
+
+=== TODO : Echelle d'impression : 0.75 sous Chrome Marge : par défaut (Voir pour pouvoir s'en passer)
 
 === TODO : Idée de de carton pour (taille A4), motif pour reconnaître les joueurs et les pions ?
 

@@ -11,58 +11,127 @@
     <link rel="stylesheet" href="./style.css">
     <style>
     .station-a4{
-        width: 1120px;
-        height: 790px;                
-        border : 1px solid black;
+        width: 1500px;
+        height: 1050px;                
+        border: 1px solid black;
 
         display:inline-block;
+        background-color:white;
     }
 
     .station-card{
-        width: 300px;
-        height: 450px;
-        margin: 1px;
-
+        position: absolute;
+        width: 340px;
+        height: 475px;
+        float: left;
         border: 1px solid black;
+    }    
+
+    .station-card.personnage{
+        
+        top: 15px;
+        left: 15px;
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
-    .station-card-petit-format{
-
-
+    .station-card.petit-format{
+        height: 150px;
         border: 1px solid black;
+
+        top: 15px;
+        left: 400px;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
     }
 
-    .station-déroulement-tour{
-        width: 400px;
+    .station-conteneur-jeton{
         height: 250px;
+        width: 340px;
+        border: 1px solid black;
+
+        top: 200px;
+        left: 400px;
+        position: absolute;
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    }
+
+    .station-card.equipement-tete{
+
+        top: 15px;
+        left: 775px;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    }
+
+    .station-card.equipement-corps{
+        top: 15px;
+        left: 1150px;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    }
+
+    .station-déroulement-tour{        
+        position: absolute;
+        width: 350px;
+        height: 475px;
         border: 1px solid black;
         background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
         font-size: 12px;
+        
+        top: 575px;   
+        left: 15px;     
     }
+
+    .station-card.equipement-arme{
+        top: 575px;
+        left: 400px;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    }
+
+    .station-card.equipement-acc1{
+        top: 575px;
+        left: 775px;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    }
+
+    .station-card.equipement-acc2{
+        top: 575px;
+        left: 1150px;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    }
+
+    
     </style>
     </head>
     <body>
 
 
-        Solution superposition des cartes : margin negatif
-        Quelles infos affichées ? Couleur pour le pion, carte perso, carte équipement (tete, corps, arme, accessoires), la quête, les jetons, déroulement du tour ?
+        <!--Impression : 75%, sans marge-->
+        <!--Quelle brush ou pattern : Un pattern d'enleminure ?-->
+
+        <!--Augmenter la taille de l'encadrement des cartes pour prendre les protections avec-->
+
+
         <div class="station-a4">
 
-            <div class="station-card">Mon personnage</div>
+            <div class="station-card personnage">Mon personnage</div>
 
-            <div class="station-card-petit-format">Ma quête</div>
+            <div class="station-card petit-format">Ma quête</div>
 
-            <div class="station-card">Mon Equipement tête</div>
+            <div class="station-conteneur-jeton">Mes jetons</div>
 
-            <div class="station-card">Mon Equipement Corps</div>
+            <div class="station-card equipement-tete">Mon Equipement tête</div>
 
-            <div class="station-card">Mon Equipement Arme</div>
+            <div class="station-card equipement-corps">Mon Equipement Corps</div>
 
-            <div class="station-card">Mon Equipement Accessoire</div>
+            <div class="station-card equipement-arme">Mon Equipement Arme</div>
 
-            <div class="station-card">Mon Equipement Accessoire</div>
+            <div class="station-card equipement-acc1">Mon Equipement Accessoire</div>
 
-            <dic class="station-conteneur-jeton"></dic>
+            <div class="station-card equipement-acc2">Mon Equipement Accessoire 2</div>
 
             <div class="station-déroulement-tour">
                 <ul>
