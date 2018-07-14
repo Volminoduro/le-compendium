@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+    <meta charset="utf-8">
+    <title>Titre de la page</title>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=IM+Fell+English+SC" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <style>
+    .station-a4{
+        width: 1120px;
+        height: 790px;                
+        border : 1px solid black;
+
+        display:inline-block;
+    }
+
+    .station-card{
+        width: 300px;
+        height: 450px;
+        margin: 1px;
+
+        border: 1px solid black;
+    }
+
+    .station-card-petit-format{
+
+
+        border: 1px solid black;
+    }
+
+    .station-déroulement-tour{
+        width: 400px;
+        height: 250px;
+        border: 1px solid black;
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+        font-size: 12px;
+    }
+    </style>
+    </head>
+    <body>
+
+
+        Solution superposition des cartes : margin negatif
+        Quelles infos affichées ? Couleur pour le pion, carte perso, carte équipement (tete, corps, arme, accessoires), la quête, les jetons, déroulement du tour ?
+        <div class="station-a4">
+
+            <div class="station-card">Mon personnage</div>
+
+            <div class="station-card-petit-format">Ma quête</div>
+
+            <div class="station-card">Mon Equipement tête</div>
+
+            <div class="station-card">Mon Equipement Corps</div>
+
+            <div class="station-card">Mon Equipement Arme</div>
+
+            <div class="station-card">Mon Equipement Accessoire</div>
+
+            <div class="station-card">Mon Equipement Accessoire</div>
+
+            <dic class="station-conteneur-jeton"></dic>
+
+            <div class="station-déroulement-tour">
+                <ul>
+                    <li><b>Début de tour.</b></li>
+                    <ul>
+                        <li>Activation des <strong>effets</strong> de début de tour.</li>
+                    </ul>
+                    <li><b>Déplacement</b></li>
+                    <ul>
+                        <li>Lancez le <strong>d4</strong> et le <strong>d3</strong>, additionner les deux résultats, puis avancez d'autant de cases dans la direction souhaitée.</li>
+                        <ul>
+                            <li>Si le résultat est 7, piochez une carte <i>Retournement</i> ou déplacez-vous sur la case de votre choix.</li>
+                        </ul>
+                        <li>Activer l'effet de la case où vous arrivez (cf. Cases).</li>
+                    </ul>
+                    <li><b>Phase d'action (dans n'importe quel ordre)</b></li>
+                    <ul>
+                        <li>Attaque (1 fois).</li>
+                        <li>Utilisation à volonté d'objets, de <u><strong>compétences</strong></u>, d'échange de cartes <i>Equipements</i> / <i>Consommables</i>, etc.</li>
+                    </ul>
+                    <li><b>Fin de tour.</b></li>
+                    <ul>
+                        <li>Activation des <strong>effets</strong> en fin de tour.</li>
+                        <li>Vous ne devez avoir que 2 cartes en main maximum.</li>
+                    </ul>
+                </ul>
+            </div>
+
+        </div>
+
+
+    </body>
+</html>

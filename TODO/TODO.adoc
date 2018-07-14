@@ -15,7 +15,11 @@
 
 == Craft
 
+=== TODO : Echelle d'impression : 0.75
+
 === TODO : Idée de de carton pour (taille A4), motif pour reconnaître les joueurs et les pions ?
+
+* Quelles infos affichées ? Couleur pour le pion, carte perso, carte équipement (tete, corps, arme, accessoires), la quête, les jetons, déroulement du tour ?
 
 === TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
 
@@ -33,7 +37,7 @@
 
 == Design
 
-=== Impression couleur sur toutes les cartes
+=== Impression couleur sur toutes les cartes (nécessite de finir le css avant)
 
 === D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
