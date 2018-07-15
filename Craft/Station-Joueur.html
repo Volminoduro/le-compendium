@@ -77,7 +77,7 @@
         top: 200px;
         left: 400px;
         position: absolute;
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+        background-image: url("./Images/fond-jetons-color.jpg");
     }
 
     .station-conteneur-jeton > p {
@@ -93,12 +93,26 @@
         padding: 5px;
     }
 
-    .station-card.equipement-tete{
+    .station-card.equipement{
+        background-image: url("./Images/fond-equipement-color.jpg");
+    }
+
+    .station-card.equipement > p > img {
+        padding-top: 100px;
+        width: 100px;
+        height: auto;
+    }
+
+    .station-card.equipement > p {        
+        line-height: 100px;
+    }
+
+    .station-card.equipement.tete{
         top: 15px;
         left: 775px;
     }
 
-    .station-card.equipement-corps{
+    .station-card.equipement.corps{
         top: 15px;
         left: 1150px;
     }
@@ -157,17 +171,17 @@
     }
 
 
-    .station-card.equipement-arme{
+    .station-card.equipement.arme{
         top: 575px;
         left: 400px;
     }
 
-    .station-card.equipement-acc1{
+    .station-card.equipement.acc1{
         top: 575px;
         left: 775px;
     }
 
-    .station-card.equipement-acc2{
+    .station-card.equipement.acc2{
         top: 575px;
         left: 1150px;
     }
@@ -196,17 +210,32 @@
 
             <div class="station-conteneur-jeton"><p>Jetons</p></div>
 
-            <div class="station-card equipement-tete"><p>Equipement : Tête</p></div>
+            <div class="station-card equipement tete">
+                <p style="text-align:center;"><img src="./Images/tete.jpg" /></p>
+                <p>Equipement : Tête</p>
+            </div>
 
-            <div class="station-card equipement-corps"><p>Equipement : Corps</p></div>
+            <div class="station-card equipement corps">
+                <p style="text-align:center;"><img src="./Images/corps.jpg" /></p>
+                <p>Equipement : Corps</p>
+            </div>
 
             <div class="pattern-milieu"><img src="./Images/elfe_vector_1.jpg" /></div>
 
-            <div class="station-card equipement-arme"><p>Equipement : Arme</p></div>
+            <div class="station-card equipement arme">
+                <p style="text-align:center;"><img src="./Images/arme.jpg" /></p>
+                <p>Equipement : Arme</p>
+            </div>
 
-            <div class="station-card equipement-acc1"><p>Equipement : Accessoire</p></div>
+            <div class="station-card equipement acc1">
+                <p style="text-align:center;"><img src="./Images/accessoire.jpg" /></p>
+                <p>Equipement : Accessoire</p>
+            </div>
 
-            <div class="station-card equipement-acc2"><p>Equipement : Accessoire</p></div>
+            <div class="station-card equipement acc2">
+                <p style="text-align:center;"><img src="./Images/accessoire.jpg" /></p>
+                <p>Equipement : Accessoire</p>
+            </div>
 
             <div class="station-déroulement-tour">
                 <ul style="margin-left: -10px;">

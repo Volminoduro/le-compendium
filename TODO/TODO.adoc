@@ -19,6 +19,10 @@
 
 ==== TODO : Echelle d'impression : 0.75 sous Chrome Marge : par défaut (Voir pour pouvoir s'en passer)
 
+==== TODO : Utiliser des images pour désigner les emplacements plutôt que du texte ?
+
+==== Améliorer design et couleur
+
 ==== TODO : Utliser des patterns transparent
 
 ===== TODO : Pattern à coloriser
