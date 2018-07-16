@@ -15,7 +15,7 @@
 
 == Craft
 
-=== TODO : Idée de station pour (taille A4), motif pour reconnaître les joueurs et les pions ?
+=== Pupitre
 
 ==== TODO : Echelle d'impression : 0.75 sous Chrome Marge : par défaut (Voir pour pouvoir s'en passer)
 
@@ -23,13 +23,9 @@
 
 ==== TODO : Utliser des patterns transparent
 
-==== TODO : Encart jeton à passer en couleur (+ réduire de taille)
-
-==== TODO : Encart pour la lettre qui désignera le joueur (police TODO, + CSS)
-
 ==== TODO : Ajouter des enleminures ?
 
-=== TODO : Nommer les stations en pupitre (où le mettre dans les règles ?); (comment protéger les feuilles petit format ?)
+==== TODO : où le mettre dans les règles ?; (comment protéger les feuilles petit format ?)
 
 === TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
 
