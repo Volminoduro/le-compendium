@@ -25,7 +25,7 @@
 
 ==== TODO : Ajouter des enleminures ?
 
-==== TODO : où le mettre dans les règles ?; (comment protéger les feuilles petit format ?)
+==== TODO : où le mettre dans les règles ? ; (comment protéger les feuilles petit format ?)
 
 === TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
 
@@ -66,8 +66,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 === Boite de jeu désigné en bouquin ?
 
 === CSS
-
-==== Réorganiser les listes css
 
 ==== Meilleure image pour les marges ?
 
