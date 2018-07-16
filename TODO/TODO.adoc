@@ -71,8 +71,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === CSS
 
-==== Centrer horizontal et verticalement la quote avec adaptation selon la taille du contenu
-
 ==== Barre pour les icones d'équipement pour la portée, la défense et l'attaque (une div qui prend la place de 3 cercle ou non, à voir)
 
 ==== Réorganiser les listes css

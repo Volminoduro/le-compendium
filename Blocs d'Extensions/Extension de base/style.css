@@ -145,7 +145,7 @@ div.description {
 	font-family: 'Times New Roman', serif;
 	font-size: 13px;
 	text-align: justify;
-	height: 270px;	
+	height: 265px;	
 	overflow-wrap: break-word;
 }
 
@@ -213,10 +213,11 @@ div.description.grand-format{
 /*TODO: Centrer l'horizontal et le vertical*/
 
 div.quote {
-	/* background-color: lightgrey; */
+	height: 30px;
+	width: 300px;
 	font-style: italic;
 	font-size:11px;
-	height: 20px;
+	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
 }
