@@ -101,13 +101,34 @@ span.icon > img {
 }
 
 div.image {
-	height:100px;
-	overflow: hidden;
+	height: 100px;
+    width: 300px;
+    background-size: 300px 100px;
+    overflow: hidden;    
 }
 
-div.image > img {
-	width: 100%;
+.conteneur-bonus{   
+	width: 160px;
+	height: 35px;
+	display:inline-block;
+	padding-left: 1px;
+	padding-top: 1px;
+ }
+
+.conteneur-bonus.bonus{
+    padding: 0px;
+    width: 50px;
+}
+
+.conteneur-bonus.bonus-type {
+    width: 30px;
 	height: 100%;
+}
+
+.conteneur-bonus.bonus-montant {
+    width: 25px;
+    height: 25px;
+    margin-left: -15px;
 }
 
 div.type {
@@ -249,7 +270,7 @@ div.description.petit-format > p.unique {
 	padding-top: 43px;
 }
 
-div.description.petit-format > p.first{
+div.description.petit-format > p.condition-retournement{
 	margin: 0px;
 	padding-top: 20px;
 }

@@ -19,17 +19,17 @@
 
 ==== TODO : Echelle d'impression : 0.75 sous Chrome Marge : par défaut (Voir pour pouvoir s'en passer)
 
-==== TODO : Utiliser des images pour désigner les emplacements plutôt que du texte ?
-
 ==== Améliorer design et couleur
 
 ==== TODO : Utliser des patterns transparent
 
-===== TODO : Pattern à coloriser
+==== TODO : Encart jeton à passer en couleur (+ réduire de taille)
 
-===== TODO : Changer image jetons (pas de roulettes), et à passer en couleur avec la couleur du pion
+==== TODO : Encart pour la lettre qui désignera le joueur (police TODO, + CSS)
 
-=== TODO : Nommer les stations en pupitre; (comment protéger les feuilles petit format ?)
+==== TODO : Ajouter des enleminures ?
+
+=== TODO : Nommer les stations en pupitre (où le mettre dans les règles ?); (comment protéger les feuilles petit format ?)
 
 === TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
 
@@ -37,33 +37,31 @@
 
 === TODO : Meilleure feuillet de protection pour les cartes
 
-=== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html
+== Matériel
 
 === Etudier un matériel un peu complet pour le stockage etc, à voir sur les sites.
 
-=== https://www.spielematerial.de/en/game-components/game-pieces/pawns.html
+==== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html
 
-=== TODO : 3 pions pour désigner blessure, plateau et joueur
+==== https://www.spielematerial.de/en/game-components/game-pieces/pawns.html
 
-== Design
+=== TODO : 2 pions pour désigner blessures et plateau
 
-=== Impression couleur sur toutes les cartes (nécessite de finir le css avant)
+==== http://www.michaels.com/artminds-wood-alphabet-letter-set-1.75-in/10216793.html#start=22
 
 === D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
 * Font de titre en calligraphie lisible ? Fond de couleur parchemin, écriture en noir ?
 
-https://www.w3schools.com/cssref/pr_background-repeat.asp
-
 https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-black-build-your-own-set-unusual.html
 
 https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
+== Design
+
+=== Impression couleur sur toutes les cartes (nécessite de finir le css avant)
+
 === Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
-
-=== Pion îcone pour reconnaître les personnages sur le plateau ? Préférable au code couleur, car cela sera très utilisé ailleurs.
-
-==== Quels formes d'îcones 
 
 === Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
@@ -72,8 +70,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 === Boite de jeu désigné en bouquin ?
 
 === CSS
-
-==== Barre pour les icones d'équipement pour la portée, la défense et l'attaque (une div qui prend la place de 3 cercle ou non, à voir)
 
 ==== Réorganiser les listes css
 
@@ -85,10 +81,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
 
-
 === Système de version et de release notes ? Notamment pour les retours (ou au moins tags)
-
-=== New Orga pour git : commande de diff entre les deux pour faciliter les majs d'impression) | une branche suffixé dev-sujet par sujet
 
 == Gameplay
 
@@ -115,8 +108,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 ==== Luna lovegood
 
 == Règles
-
-=== Feuillet matériel à mettre à jour au fur et à mesure
 
 === Archétype des parties à compléter
 
