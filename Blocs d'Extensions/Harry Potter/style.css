@@ -1,2 +1,44 @@
 /* Ceci doit spécifique uniquement à Harry Potter si nécessaire */
 
+.icone-bonus{
+	width:40%;
+	text-align:right;
+	display: inline-block;
+	
+}
+
+.icone-bonus > img{
+	width: 18px;
+	height: 18px;
+}
+
+.conteneur-bonus{   
+   width: 160px;
+   height: 35px;
+   display:inline-block;
+
+   font-size: 15px;
+}
+
+.conteneur-bonus.bonus{
+    width: 50px;
+}
+
+.conteneur-bonus.bonus-type {
+    width: 30px;
+	height: 100%;
+}
+
+.conteneur-bonus.bonus-montant {
+    width: 20px;
+    height: 20px;
+    margin-left: -15px;
+}
+
+.image-essai{
+    height: 100px;
+    overflow: hidden;
+    
+    background: url('./Images/icone-mini.png');
+    background-size: cover;
+}

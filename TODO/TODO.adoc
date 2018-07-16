@@ -27,6 +27,8 @@
 
 ===== TODO : Pattern à coloriser
 
+===== TODO : Changer image jetons (pas de roulettes), et à passer en couleur avec la couleur du pion
+
 === TODO : Nommer les stations en pupitre; (comment protéger les feuilles petit format ?)
 
 === TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?

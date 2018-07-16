@@ -1,5 +1,5 @@
 #navBar {
-    width: 940px;
+    width: 1250px;
     border: 1px solid #000000;
     overflow: hidden;
 }
@@ -129,18 +129,6 @@ div.type > span:first-child{
 	width: 70%;
 }
 
-.icone-bonus{
-	width:40%;
-	text-align:right;
-	display: inline-block;
-	
-}
-
-.icone-bonus > img{
-	width: 18px;
-	height: 18px;
-}
-
 div.description {
 	font-family: 'Times New Roman', serif;
 	font-size: 13px;
@@ -228,7 +216,7 @@ div.quote {
 /********************/
 
 #navBar-petit-format {
-    width: 950px;
+    width: 1250px;
     border-width: 1px;
     border-style: solid;
     border-color: #000000;
