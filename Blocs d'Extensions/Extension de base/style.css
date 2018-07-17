@@ -1,5 +1,5 @@
 #navBar {
-    width: 940px;
+    width: 1250px;
     border: 1px solid #000000;
     overflow: hidden;
 }
@@ -36,7 +36,7 @@ div.name{
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 
 	padding:0px;
-  margin:0px;
+  	margin:0px;
 }
 
 div.titre-reduit{
@@ -101,13 +101,34 @@ span.icon > img {
 }
 
 div.image {
-	height:100px;
-	overflow: hidden;
+	height: 100px;
+    width: 300px;
+    background-size: 300px 100px;
+    overflow: hidden;    
 }
 
-div.image > img {
-	width: 100%;
+.conteneur-bonus{   
+	width: 160px;
+	height: 35px;
+	display:inline-block;
+	padding-left: 1px;
+	padding-top: 1px;
+ }
+
+.conteneur-bonus.bonus{
+    padding: 0px;
+    width: 50px;
+}
+
+.conteneur-bonus.bonus-type {
+    width: 30px;
 	height: 100%;
+}
+
+.conteneur-bonus.bonus-montant {
+    width: 25px;
+    height: 25px;
+    margin-left: -15px;
 }
 
 div.type {
@@ -129,23 +150,11 @@ div.type > span:first-child{
 	width: 70%;
 }
 
-.icone-bonus{
-	width:40%;
-	text-align:right;
-	display: inline-block;
-	
-}
-
-.icone-bonus > img{
-	width: 18px;
-	height: 18px;
-}
-
 div.description {
 	font-family: 'Times New Roman', serif;
 	font-size: 13px;
 	text-align: justify;
-	height: 270px;	
+	height: 265px;	
 	overflow-wrap: break-word;
 }
 
@@ -155,68 +164,31 @@ div.description.grand-format{
 	height: 400px;
 }
 
-.liste {
-	padding: 2px;	
-	margin: 0px;
-	list-style-type: none;
-}
-
-.liste-sans-enfant{
-	padding: 2px;
-	margin: 0px;
+.liste{
+    padding: 2px;
+    margin: 0px;
 	list-style-type: circle;
 }
 
-.liste-sans-enfant > li {
-    list-style-position: inside;
-	margin-left: 10px;
-}
-
-.liste-sans-enfant > li > span {
-	position: relative;
-	left: -10px; 
-}
-
-/*TODO: Reorganiser les listes */
-
-.sous-liste {
-	padding: 0px;
-	list-style-type: circle;
-}
-
-.sous-liste > li {
-    list-style-position: inside;
-	margin-left: 10px;
-}
-
-.sous-liste > li > span {
-	position: relative;
-	left: -10px; 
-}
-
-.sous-liste-2 {
-	padding: 2px;
-	margin:0px;
-	list-style-type: circle;
-}
-
-.sous-liste-2 > li {
-    list-style-position: inside;
+.liste > li {
 	margin-left: 20px;
 }
 
-.sous-liste-2> li > span {
+.liste > li > span {
 	position: relative;
-	left: -10px; 
+	left: -5px; 
 }
 
-/*TODO: Centrer l'horizontal et le vertical*/
+.liste.sous-liste > li {
+    margin-left:30px;
+}
 
 div.quote {
-	/* background-color: lightgrey; */
+	height: 30px;
+	width: 300px;
 	font-style: italic;
 	font-size:11px;
-	height: 20px;
+	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
 }
@@ -227,7 +199,7 @@ div.quote {
 /********************/
 
 #navBar-petit-format {
-    width: 950px;
+    width: 1250px;
     border-width: 1px;
     border-style: solid;
     border-color: #000000;
@@ -260,7 +232,7 @@ div.description.petit-format > p.unique {
 	padding-top: 43px;
 }
 
-div.description.petit-format > p.first{
+div.description.petit-format > p.condition-retournement{
 	margin: 0px;
 	padding-top: 20px;
 }

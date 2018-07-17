@@ -1,5 +1,39 @@
 /* Ceci doit spécifique uniquement au Craft si nécessaire */
 
+#navbar-pions{
+	width: 1200px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	overflow: hidden;
+}
+
+.pion{
+	float:left;
+	margin:.5em;
+	font-size:1.75em;
+	position:relative;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	width:5em;
+	height:5em;  
+	border-radius:50%;
+	border:.5em dashed black;
+	background-color: grey;
+}
+
+.pion>p{
+	text-align: center;
+	font-size: 2em;
+	line-height: 0em;
+	vertical-align: middle;
+	font-family: 'UnifrakturCook', serif;
+	color:black;
+	text-transform: capitalize;
+	font-weight: bold;
+}
+
 .dé{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
 	width: 50px;

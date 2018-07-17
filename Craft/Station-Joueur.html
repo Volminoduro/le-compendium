@@ -1,0 +1,314 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+    <meta charset="utf-8">
+    <title>Titre de la page</title>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=IM+Fell+English+SC" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet">
+    <link rel="stylesheet" href="../Blocs d'Extensions/Extension de base/style.css">
+    <link rel="stylesheet" href="./style.css">
+    <style>
+    .station-a4{
+        width: 1500px;
+        height: 1050px;                
+        border: 1px solid black;
+        display:inline-block;
+
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+    }
+
+    .station-card{
+        position: absolute;
+        width: 340px;
+        height: 475px;
+        float: left;
+        border: 1px solid black;
+
+        
+        background-size: cover;
+    } 
+    
+    .station-card > p {
+        color: white;
+        line-height: 400px;
+        font-size: 25px;
+        font-family: 'Cinzel', serif;
+        text-transform: capitalize;
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        padding: 5px;
+    }
+
+    .station-card.personnage{
+        top: 15px;
+        left: 15px;
+        background-image: url("./Images/background-personnage.jpg");
+    }
+
+    .pattern-bord{
+        position:absolute;
+        top: 15px;
+        left: 100px;
+    }
+
+    .station-card.petit-format{
+        height: 150px;
+        border: 1px solid black;
+
+        top: 15px;
+        left: 400px;
+        background-image: url("./Images/background-quete.jpg");
+    }
+
+    .station-card.petit-format > p{
+        line-height: 100px;
+    }
+
+    .station-conteneur-lettre{
+        height: 300px;
+        width: 175px;
+
+        top: 190px;
+        left: 400px;
+        position: absolute;
+    }
+
+    .station-conteneur-lettre > p {
+        color: black;
+        line-height: 0px;
+        font-size: 150px;
+        font-family: 'UnifrakturCook', serif;
+        text-transform: capitalize;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .station-conteneur-jeton{
+        height: 300px;
+        width: 125px;
+        border: 1px solid black;
+
+        top: 190px;
+        left: 615px;
+        position: absolute;
+        background-image: url("./Images/fond-jetons-color.jpg");
+        background-size: 100% 100%;
+    }
+
+    .station-conteneur-jeton > p {
+        color: white;
+        line-height: 250px;
+        font-size: 25px;
+        font-family: 'Cinzel', serif;
+        text-transform: capitalize;
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        padding: 5px;
+    }
+
+    .station-card.equipement{
+        background-image: url("./Images/fond-equipement-color.jpg");        
+    }
+
+    .station-card.equipement > p > img {
+        padding-top: 100px;
+        width: 100px;
+        height: auto;
+    }
+
+    .station-card.equipement > p {        
+        line-height: 100px;
+    }
+
+    .station-card.equipement.tete{
+        top: 15px;
+        left: 775px;
+    }
+
+    .station-card.equipement.corps{
+        top: 15px;
+        left: 1150px;
+    }
+
+    .pattern-milieu{
+        position:absolute;
+        top: 512px;
+        width: 1500px;
+    }
+
+    .pattern-milieu > img{
+        width: 1500px;
+        height: 50px;
+    }
+
+    .station-déroulement-tour{        
+        position: absolute;
+        width: 350px;
+        height: 475px;
+        border: 1px solid black;
+        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+        font-size: 14px;
+        
+        top: 575px;   
+        left: 15px;     
+    }
+
+    .station-déroulement-tour > ul {
+        margin-left: -10px;
+    }
+
+    .station-déroulement-tour > ul > ul > li {
+        margin-left: -30px;
+    }
+
+    .station-déroulement-tour > ul > ul > li li {
+        margin-left: -30px;
+    }
+
+    .station-déroulement-tour > table{
+        margin-top: 23px;
+        width: 100%;
+        border-collapse:collapse;        
+
+        font-size: 18px;
+        font-family: 'Cinzel', serif;
+        text-transform: capitalize;
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+
+    th, td {
+        border:1px solid black;
+    }
+
+
+    .station-card.equipement.arme{
+        top: 575px;
+        left: 400px;
+    }
+
+    .station-card.equipement.acc1{
+        top: 575px;
+        left: 775px;
+    }
+
+    .station-card.equipement.acc2{
+        top: 575px;
+        left: 1150px;
+    }
+
+    
+    </style>
+    </head>
+    <body>
+
+
+        <!--Impression : 75%, sans marge-->
+
+        <div class="station-a4">
+
+            <div class="pattern-bord"></div>
+
+            <div class="station-card personnage"><p>Personnage</p></div>
+
+            <div class="station-card petit-format"><p>Quête</p></div>
+
+            <div class="station-conteneur-lettre"><p>A</p></div>
+
+            <div class="station-conteneur-jeton"><p>Jetons</p></div>
+
+            <div class="station-card equipement tete">
+                <p style="text-align:center;"><img src="./Images/tete.jpg" /></p>
+                <p>Equipement : Tête</p>
+            </div>
+
+            <div class="station-card equipement corps">
+                <p style="text-align:center;"><img src="./Images/corps.jpg" /></p>
+                <p>Equipement : Corps</p>
+            </div>
+
+            <div class="pattern-milieu"><img src="./Images/elfe_vector_1.jpg" /></div>
+
+            <div class="station-card equipement arme">
+                <p style="text-align:center;"><img src="./Images/arme.jpg" /></p>
+                <p>Equipement : Arme</p>
+            </div>
+
+            <div class="station-card equipement acc1">
+                <p style="text-align:center;"><img src="./Images/accessoire.jpg" /></p>
+                <p>Equipement : Accessoire</p>
+            </div>
+
+            <div class="station-card equipement acc2">
+                <p style="text-align:center;"><img src="./Images/accessoire.jpg" /></p>
+                <p>Equipement : Accessoire</p>
+            </div>
+
+            <div class="station-déroulement-tour">
+                <ul style="margin-left: -10px;">
+                    <li><b>Début de tour.</b></li>
+                    <ul>
+                        <li>Activation des <strong>effets</strong> de début de tour.</li>
+                    </ul>
+                    <li><b>Déplacement</b></li>
+                    <ul>
+                        <li>Lancez le <strong>d4</strong> et le <strong>d3</strong>, additionner les deux résultats, puis avancez d'autant de cases dans la direction souhaitée.</li>
+                        <ul>
+                            <li>Si le résultat est 7, piochez une carte <i>Retournement</i> ou déplacez-vous sur la case de votre choix.</li>
+                        </ul>
+                        <li>Activer l'effet de la case où vous arrivez (cf. Cases).</li>
+                    </ul>
+                    <li><b>Phase d'action (dans n'importe quel ordre)</b></li>
+                    <ul>
+                        <li>Attaque (1 fois).</li>
+                        <li>Utilisation à volonté d'objets, de <u><strong>compétences</strong></u>, d'échange de cartes <i>Equipements</i> / <i>Consommables</i>, etc.</li>
+                    </ul>
+                    <li><b>Fin de tour.</b></li>
+                    <ul>
+                        <li>Activation des <strong>effets</strong> en fin de tour.</li>
+                        <li>Vous ne devez avoir que 2 cartes en main maximum.</li>
+                    </ul>
+                </ul>
+
+                <table>
+                    <tr style="color: saddleBrown;">
+                        <th colspan="2">Equipements</th>
+                    </tr>
+                    <tr style="color: saddleBrown;">
+                        <td>Qualité</td>
+                        <td>Points</td> 
+                    </tr>
+                    <tr class="equipement-commun">
+                        <td>Commun</td>
+                        <td>1</td> 
+                    </tr>
+                        <tr class="equipement-rare">
+                        <td>Rare</td>
+                    <td>3</td> 
+                    </tr>
+                        <tr class="equipement-epique">
+                        <td>Epique</td>
+                    <td>5</td> 
+                    </tr>
+                    <tr class="equipement-legendaire">
+                        <td>Légendaire</td>
+                        <td>7</td> 
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+
+    </body>
+</html>
