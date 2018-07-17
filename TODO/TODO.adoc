@@ -39,11 +39,7 @@
 
 ==== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html
 
-==== https://www.spielematerial.de/en/game-components/game-pieces/pawns.html
-
-=== TODO : 2 pions pour désigner blessures et plateau
-
-==== http://www.michaels.com/artminds-wood-alphabet-letter-set-1.75-in/10216793.html#start=22
+=== Pions : http://www.michaels.com/artminds-wood-alphabet-letter-set-1.75-in/10216793.html#start=22
 
 === D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
@@ -53,17 +49,17 @@ https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-b
 
 https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
-== Design
-
-=== Impression couleur sur toutes les cartes
-
-=== Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
-
 === Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
 * https://www.etsy.com/fr/listing/477380448/d-d-jeux-des-coffret-cthulhu-h-p?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cthulhu+dice+box&ref=sc_gallery-1-1&plkey=456dedcbd15c46b8c4589b473b986e002a634cf0%3A477380448
 
 === Boite de jeu désigné en bouquin ?
+
+== Design
+
+=== Impression couleur sur toutes les cartes
+
+=== Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
 
 === CSS
 
@@ -99,7 +95,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 ==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
 
-==== Luna lovegood
+==== Luna lovegood : Magicozoologie
 
 == Règles
 
