@@ -55,7 +55,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 == Design
 
-=== Impression couleur sur toutes les cartes (nécessite de finir le css avant)
+=== Impression couleur sur toutes les cartes
 
 === Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
 
