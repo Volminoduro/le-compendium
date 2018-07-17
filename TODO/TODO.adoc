@@ -11,6 +11,8 @@
 
 * Réfléchir à rendre le projet privé et à parodier le contenu pour la légalité
 
+* Configuration d'impression par page ? OUI. (@page en css) - Taille de la feuille, orientation de la feuille, les marges et la mise à échelle.
+
 = Autres
 
 == Craft
@@ -32,6 +34,10 @@
 === TODO : Comment faire pour les impressions recto verso des cartes ?
 
 === TODO : Meilleure feuillet de protection pour les cartes
+
+=== Jetons
+
+==== Jetons de venin
 
 == Matériel
 
