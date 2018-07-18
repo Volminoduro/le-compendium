@@ -17,25 +17,41 @@
 
 == Craft
 
+=== Prendre papier plus épais pour impression (voir les formats ?)
+
 === Pupitre
-
-==== TODO : Echelle d'impression : 0.75 sous Chrome Marge : par défaut (Voir pour pouvoir s'en passer)
-
-==== Améliorer design et couleur
 
 ==== TODO : Utliser des patterns transparent
 
 ==== TODO : Ajouter des enleminures ?
 
-==== TODO : où le mettre dans les règles ? ; (comment protéger les feuilles petit format ?)
+==== TODO : où le mettre dans les règles ?
 
 === TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
 
+* https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte Pour les cartes petits formats
+
+* Comment faire pour les jetons ?
+
 === TODO : Comment faire pour les impressions recto verso des cartes ?
 
-=== TODO : Meilleure feuillet de protection pour les cartes => Plus fort et en coloré pour marqué les cartes ?
+==== Prendre protection de qualité avec dos opaque et de couleur du code couleur
+
+* https://www.amazon.fr/Dragon-Shield-Sleeves-pcs-silver/dp/B000N6X1D4/ref=pd_sbs_21_8?_encoding=UTF8&pd_rd_i=B000N6X1D4&pd_rd_r=933063d1-8a87-11e8-b4cf-e13175fc1cb0&pd_rd_w=XPob3&pd_rd_wg=AGWlQ&pf_rd_i=desktop-dp-sims&pf_rd_m=A1X6FK5RDHNB96&pf_rd_p=7974754537208716849&pf_rd_r=2Q7EGKH3TS9B9C98F8VH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=2Q7EGKH3TS9B9C98F8VH
+
+* A tester les Personnages avec les protections grises déjà existantes
+
+* A acheter :
+
+** Dragon Shield brown 50
+
+** Dragon Shield dark blue 50
+
+** Dragon Shield green 50
 
 === Jetons
+
+==== Quel matos ? Quelle forme "finale" ?
 
 ==== Jetons de venin
 
@@ -43,11 +59,11 @@
 
 === Etudier un matériel un peu complet pour le stockage etc, à voir sur les sites.
 
-==== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html
+==== Stocker le matériel commun 
 
-=== Pions : http://www.michaels.com/artminds-wood-alphabet-letter-set-1.75-in/10216793.html#start=22
+===== Dés (petit sac exclusif)
 
-=== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
+====== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
 * Font de titre en calligraphie lisible ? Fond de couleur parchemin, écriture en noir ?
 
@@ -55,17 +71,31 @@ https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-b
 
 https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
+===== Pions en lettre (petit sac exclusif) : http://www.michaels.com/artminds-wood-alphabet-letter-set-1.75-in/10216793.html#start=22
+
+===== Cartes cases ; quelle forme finale ?
+
+===== Cartes communes (deck-box à part) : quêtes et retournement (qui seront protégés)
+
+==== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html
+
 === Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
 * https://www.etsy.com/fr/listing/477380448/d-d-jeux-des-coffret-cthulhu-h-p?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cthulhu+dice+box&ref=sc_gallery-1-1&plkey=456dedcbd15c46b8c4589b473b986e002a634cf0%3A477380448
 
-=== Boite de jeu désigné en bouquin ?
+=== Boite de jeu désigné en bouquin ? (design de couverture à l'intérieur, page avec de l'écriture à l'intérieur)
 
 == Design
 
-=== Impression couleur sur toutes les cartes
-
 === Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
+
+=== Plateau de jeu
+
+==== A voir comment l'intégrer à l'univers de la littérature
+
+==== Couleur
+
+=== Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
 
 === CSS
 
@@ -103,8 +133,10 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 ==== Luna lovegood : Magicozoologie
 
-== Règles
+==== Potion de Felix Felicis : buffer à tous les lancers de dés ?
 
 === Archétype des parties à compléter
+
+== Règles
 
 === Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
