@@ -1,4 +1,11 @@
 /* Ceci doit spécifique uniquement aux Règles si nécessaire */
+@page {
+	size: A4;
+ }
+
+body{
+	zoom: 100%;
+}
 
 .white {
 	background-color: rgb(255, 255, 255, .60);

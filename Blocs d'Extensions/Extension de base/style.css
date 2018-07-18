@@ -1,3 +1,11 @@
+@page {
+	size: landscape;
+ }
+
+body{
+	zoom: 75%;
+}
+
 #navBar {
     width: 1250px;
     border: 1px solid #000000;
