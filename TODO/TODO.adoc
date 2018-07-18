@@ -33,7 +33,7 @@
 
 === TODO : Comment faire pour les impressions recto verso des cartes ?
 
-=== TODO : Meilleure feuillet de protection pour les cartes
+=== TODO : Meilleure feuillet de protection pour les cartes => Plus fort et en coloré pour marqué les cartes ?
 
 === Jetons
 
