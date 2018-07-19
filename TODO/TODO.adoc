@@ -27,21 +27,17 @@
 
 ==== TODO : où le mettre dans les règles ?
 
-=== TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
+=== TODO : Comment ranger/stocker les cartes de petits formats
 
 * https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte Pour les cartes petits formats
 
 * Comment faire pour les jetons ?
 
-=== TODO : Comment faire pour les impressions recto verso des cartes ?
-
-==== NEED Meilleur fit des cartes dans les protections (pas assez large et trop haut). Enlever la marge autour ?
+=== TODO : Comment faire pour les impressions recto verso des cartes ? (a du sens pour le moment vu les protections opaques ?)
 
 ==== Prendre protection de qualité avec dos opaque et de couleur du code couleur
 
 * https://www.amazon.fr/Dragon-Shield-Sleeves-pcs-silver/dp/B000N6X1D4/ref=pd_sbs_21_8?_encoding=UTF8&pd_rd_i=B000N6X1D4&pd_rd_r=933063d1-8a87-11e8-b4cf-e13175fc1cb0&pd_rd_w=XPob3&pd_rd_wg=AGWlQ&pf_rd_i=desktop-dp-sims&pf_rd_m=A1X6FK5RDHNB96&pf_rd_p=7974754537208716849&pf_rd_r=2Q7EGKH3TS9B9C98F8VH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=2Q7EGKH3TS9B9C98F8VH
-
-* A tester les Personnages avec les protections grises déjà existantes
 
 * A acheter :
 
@@ -54,6 +50,8 @@
 === Jetons
 
 ==== Quel matos ? Quelle forme "finale" ?
+
+==== Comment les stockers ?
 
 ==== Jetons de venin
 
@@ -93,13 +91,17 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Plateau de jeu
 
-==== A voir comment l'intégrer à l'univers de la littérature
+==== A voir comment l'intégrer à l'univers de la littérature en terme de désign
 
 ==== Couleur
 
 === Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
 
 === CSS
+
+=== Reduit pour les petits formats (à voir avec les protections)
+
+==== Meilleure taille de font du titre-reduit
 
 ==== Meilleure image pour les marges ?
 

@@ -3,20 +3,20 @@
  }
 
  body{
-    font-size: 3.5mm;
+    font-size: 3mm;
     zoom: 100%;
  }
 
 #navBar {
-    width: 260mm;
+    width: 275mm;
     border: 0.25mm solid #000000;
     overflow: hidden;
 }
 
 .card {
-	margin: 0.25mm;
+	margin: 1.5mm;
 	float: left;
-	width: 63mm;
+	width: 61mm;
 	height: 88mm;
 	/*TODO : Une meilleure image pour les marges ? */
 	
@@ -33,17 +33,17 @@ div.fond-de-carte{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
 	min-width: 100%;
     min-height: 100%;
-    width: 61.7mm;
-	height: 85.7mm;
+    width: 61mm;
+	height: 87.5mm;
 }
 
 /* TODO - Une bonne font hand-writing en titre ? */
 div.name{
 	border-top: 0.25mm solid #000000;
 	border-bottom: 0.25mm solid #000000;
-	height: 7.94mm;
+	height: 7mm;
 
-	line-height: 7.94mm;
+	line-height: 7mm;
 	font-size: 4mm;
 	font-family: 'Cinzel', serif;
 	text-transform: capitalize;
@@ -108,8 +108,8 @@ div.titre-reduit{
 span.icon{
 	float: right;
 	border-radius: 50%;
-	width: 7.94mm;
-	height: 7.94mm;
+	width: 7mm;
+	height: 7mm;
 }
 
 span.icon > img {
@@ -118,15 +118,15 @@ span.icon > img {
 }
 
 div.image {
-	height: 17mm;
-    width: 63mm;
-    background-size: 63mm 17mm;
+	height: 19mm;
+    width: 61mm;
+    background-size: 61mm 19mm;
     overflow: hidden;    
 }
 
 .conteneur-bonus{   
 	width: 42.33mm;
-	height: 9.26mm;
+	height: 6mm;
 	display:inline-block;
 	padding-left: 0.25mm;
 	padding-top: 0.25mm;
@@ -134,17 +134,17 @@ div.image {
 
 .conteneur-bonus.bonus{
     padding: 0mm;
-    width: 13.23mm;
+    width: 9mm;
 }
 
 .conteneur-bonus.bonus-type {
-    width: 7.94mm;
+    width: 7mm;
 	height: 100%;
 }
 
 .conteneur-bonus.bonus-montant {
-    width: 6.61mm;
-    height: 6.61mm;
+    width: 4.5mm;
+    height: 4.5mm;
     margin-left: -3.97mm;
 }
 
@@ -160,7 +160,7 @@ div.type {
 }
 div.type > span {
 	display: inline-block;
-	margin: 0.15mm;
+	margin: 0.5mm;
 }
 
 div.type > span:first-child{
@@ -171,7 +171,7 @@ div.description {
 	font-family: 'Times New Roman', serif;
 	font-size: 2.6mm;
 	text-align: justify;
-	height: 46.5mm;	
+	height: 48.5mm;	
 	overflow-wrap: break-word;
 }
 
