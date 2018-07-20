@@ -115,6 +115,8 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 == Gameplay
 
+=== Réfléchir au système de larcin (empêcher le vol du dernier item volé, ou du dernier joueur ?)
+
 === Idée d'AoE au cas où pour éviter trop de babysit ?
 
 === Extension de base
