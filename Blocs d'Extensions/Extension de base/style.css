@@ -33,8 +33,6 @@ div.fond-de-carte{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
 	min-width: 100%;
     min-height: 100%;
-    width: 61mm;
-	height: 87.5mm;
 }
 
 /* TODO - Une bonne font hand-writing en titre ? */
@@ -216,7 +214,7 @@ div.quote {
 /********************/
 
 #navBar-petit-format {
-    width: 1250mm;
+    width: 275mm;
     border-width: 0.25mm;
     border-style: solid;
     border-color: #000000;
@@ -224,7 +222,8 @@ div.quote {
 }
 
 .card.petit-format {
-	height: 150mm;
+	height: 63mm;
+	width: 88mm;
 }
 
 span.icon.petit-format{
