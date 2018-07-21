@@ -11,8 +11,6 @@
 
 * Réfléchir à rendre le projet privé et à parodier le contenu pour la légalité
 
-* Configuration d'impression par page ? OUI. (@page en css) - Taille de la feuille, orientation de la feuille, les marges et la mise à échelle.
-
 = Autres
 
 == Craft
@@ -38,6 +36,8 @@
 ==== Quel matos ? Quelle forme "finale" ?
 
 == Matériel
+
+=== Prendre protection pour petit format (IMPORTANT) pour aussi tester petit format
 
 === Etudier un matériel un peu complet pour le stockage etc, à voir sur les sites.
 
@@ -81,8 +81,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === CSS
 
-=== Reduit pour les petits formats (à voir avec les protections)
-
 ==== Meilleure taille de font du titre-reduit
 
 ==== Meilleure image pour les marges ?
@@ -97,15 +95,9 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 == Gameplay
 
-=== Réfléchir au système de larcin (lancer les deux dés ? Si supérieur à 3, vol réussi ?)
+=== Réfléchir au système de larcin (lancer les deux dés ? Si supérieur à 3, vol réussi ?) /IMPORTANT\
 
 === Idée d'AoE au cas où pour éviter trop de babysit ?
-
-=== Extension de base
-
-==== Quêtes (trouver plus d'idées), réviser celles présentes
-
-==== Retournement (trouver plus d'idées), réviser celles présentes
 
 === Harry Potter
 

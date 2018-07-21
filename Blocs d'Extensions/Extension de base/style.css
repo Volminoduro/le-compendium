@@ -17,9 +17,7 @@
 	margin: 1mm;
 	float: left;
 	width: 61mm;
-	height: 88mm;
-	/*TODO : Une meilleure image pour les marges ? */
-	
+	height: 88mm;	
 }
 
 div.contour-de-carte{
@@ -35,7 +33,6 @@ div.fond-de-carte{
     min-height: 87mm;
 }
 
-/* TODO - Une bonne font hand-writing en titre ? */
 div.name{
 	border-top: 0.25mm solid #000000;
 	border-bottom: 0.25mm solid #000000;
@@ -215,10 +212,8 @@ div.quote {
 
 #navBar-petit-format {
     width: 275mm;
-    border-width: 0.25mm;
-    border-style: solid;
-    border-color: #000000;
-    overflow: hidden;
+	border: 0.25mm solid black;
+	overflow: hidden;
 }
 
 .card.petit-format {
@@ -228,27 +223,30 @@ div.quote {
 
 div.contour-de-carte.petit-format{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
-    padding:1mm;
-    min-width: 40mm;
-	min-height: 62mm;
+	padding:1mm;
+	min-height: 40mm;
+    min-width: 62mm;	
 }
 
 div.fond-de-carte.petit-format{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	min-width: 40mm;
-    min-height: 62mm;
+	min-height: 40mm;
+	min-width: 62mm;
 }
 
 span.icon.petit-format{
-	width: 6.61mm;
-	height: 6.61mm;
+	width: 6mm;
+	height: 6mm;
 }
 
 div.description.petit-format{
-	height: 26.46mm;
-	font-size: 3.175mm;
+	width: 62mm;
+	height: 32mm;	
+	font-size: 3mm;
 	font-weight: bold;
 	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 div.description.petit-format > p {
@@ -258,11 +256,9 @@ div.description.petit-format > p {
 
 div.description.petit-format > p.unique {
 	margin: 0mm;
-	padding-top: 11.38mm;
 }
 
 div.description.petit-format > p.condition-retournement{
 	margin: 0mm;
-	padding-top: 5.29mm;
 }
 
