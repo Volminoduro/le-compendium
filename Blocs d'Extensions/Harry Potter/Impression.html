@@ -6,118 +6,162 @@
     <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=IM+Fell+English+SC" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
-
-    <link rel="stylesheet" href="./style-reduit.css">
-    <style>
-    </style>
+    <link rel="stylesheet" href="./style.css">
     </head>
     <body>
-        <!--Si navBar plus large que la page, cela réduit par zoom au moment de l'impression-->
-        <div id="navBar">
-            <div class="card">
-                <div class="contour-de-carte">
-                    <div class="fond-de-carte">
-                        <div class="name">La Forêt Interdite<span class="icon"><img src="./Images/icone.png" /></span></div>
-                        <div class="description grand-format">
-                            <ul class="liste sous-liste">
-                                <li><span><strong>2 - Colonie d'Aragog :</strong> si vous n'êtes pas <i>Aragog</i>, attaquer à plus de 3, 3 fois. Subissez une blessure ou défaussez un <i>Equipement</i> par échec.</span></li>
-                                <li><span><strong>3 - Ford Anglia détraquée :</strong> lancez les deux dés, si vous faites moins de 4, vous subissez une blessure. Si c'est 7, la <i>Ford Anglia</i> vous emmène à la case adjacente de votre choix.</span></li>
-                                <li><span><strong>4 - Colonie centaure :</strong> si vous êtes un Antagoniste, tenter d'attaquer à plus de 5 ou lancer un d3 pour fuir. Si le résultat n'est pas 3 ou en cas d'attaque ratée, vous subissez une blessure, perdez un <i>Equipement</i> et une carte de votre main. Si vous êtes <i>Firenze</i>, gagnez un <i>Consommable</i> et un <i>Equipement</i>.</span></li>
-                                <li><span><strong>5 - Gibier :</strong> vous pouvez attaquer, si vous faites plus de 2, guérissez-vous d'une Blessure.</span></li>
-                                <li><span><strong>6 - Sentier mal balisé :</strong> relancez les dés pour faire une autre rencontre aléatoire.</span></li>
-                                <li><span><strong>7 - Touffu :</strong> lancez les deux dés, si vous faites moins de 6, vous subissez deux Blessures et perdez deux <i>Equipements</i>. Si vous n'avez pas d'<i>Equipement</i> à perdre, perdez vos autant de cartes en main, sinon autant de blessures.</span></li>
-                            </ul>
+        <div id="navBar-petit-format">
+            <!--1ère rangée -->
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Rédemption<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> atteint le <i>SdM</i> :</p>
+                            <p>Le <i>Personnage</i> regagne tous ses points de blessures et quitte l'état du <i>SdM</i>.</p>
                         </div>
                     </div>
                 </div>
             </div>
-
-            <div class="card">
-                <div class="contour-de-carte">
-                    <div class="fond-de-carte">
-                        <div class="name equipement-legendaire">Baguette de Sureau<span class="icon"><img src="./Images/icone.png" /></span></div>
-                        <div class="image" style="background-image: url(Images/Equipements/elder-wand.jpg);">
-                            <div class="conteneur-bonus">
-                                <div class="conteneur-bonus bonus">
-                                    <img class="conteneur-bonus bonus-type" src="../Extension de base/Images/icone-bow.jpg" />
-                                    <img class="conteneur-bonus bonus-montant" src="../Extension de base/Images/icone-plus-1.jpg" />
-                                </div>
-                                <div class="conteneur-bonus bonus">
-                                    <img class="conteneur-bonus bonus-type" src="../Extension de base/Images/icone-sword.jpg" />
-                                    <img class="conteneur-bonus bonus-montant" src="../Extension de base/Images/icone-plus-1.jpg" />
-                                </div>
-                                <div class="conteneur-bonus bonus">
-                                    <img class="conteneur-bonus bonus-type" src="../Extension de base/Images/icone-defense.jpg" />
-                                    <img class="conteneur-bonus bonus-montant" src="../Extension de base/Images/icone-plus-1.jpg" />
-                                </div>
-                            </div>
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Fatalité<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> atteint le <i>SdM</i> :</p>
+                            <p>Le <i>Personnage</i> est achevé et écarté du jeu comme s'il recevait une blessure fatale.</p>                    
                         </div>
-                        <div class="type"><span>Arme : Baguette légendaire</span></div>
-                        <div class="description">
-                            <ul class="liste">
-                                <li><span><strong>Duplicateur de puissance :</strong> Double tous vos bonus d'attaque, qu'ils soient actifs ou passifs.</span></li>
-                                <li><span><strong>Allégeance intéressée :</strong> Si on vous attaque avec succès, la <i>Baguette de Sureau</i> rentre en possession de l'attaquant.</span></li>
-                                <li><span><strong>Maîtrise :</strong> Si vous avez réussi à vous défendre ou à attaquer avec succès contre tous les autres <i>Personnage</i> de la partie encore en vie.</span></li>
-                                <ul class="liste sous-liste">
-                                    <li><span>L'<strong>effet</strong> <i>Duplicateur de puissance</i> double également tous vos bonus de défense.</span></li>
-                                </ul>
-                                <li><span><strong>Les Reliques de la Mort</strong></span></li>
-                            </ul>
-                        </div>
-                        <div class="quote">«[...] les humains ont le don de jeter leur dévolu sur les choses qui, précisément, leur font le plus de mal.»</div>
-                    </div>           
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="contour-de-carte">
-                    <div class="fond-de-carte">
-                        <div class="name equipement-epique titre-reduit">If - 29,1 cms - ventricule de dragon<span class="icon"><img src="./Images/icone.png" /></span></div>
-                        <div class="image" style="background-image: url(Images/Equipements/wand-if.jpg);">
-                            <div class="conteneur-bonus">
-                                <div class="conteneur-bonus bonus">
-                                    <img class="conteneur-bonus bonus-type" src="../Extension de base/Images/icone-sword.jpg" />
-                                    <img class="conteneur-bonus bonus-montant" src="../Extension de base/Images/icone-plus-1.jpg" />
-                                </div>
-                                <div class="conteneur-bonus bonus">
-                                    <img class="conteneur-bonus bonus-type" src="../Extension de base/Images/icone-defense.jpg" />
-                                    <img class="conteneur-bonus bonus-montant" src="../Extension de base/Images/icone-plus-1.jpg" />
-                                </div>
-                            </div></div>
-                        <div class="type"><span>Arme : Baguette épique</span></div>
-                        <div class="description">
-                            <ul class="liste">
-                                <li><span><strong>Bourreau :</strong> +1 d'attaque contre les personnages au <i>SdM</i>.</span></li>
-                                <li><span><strong>Opportuniste :</strong> si un <i>Personnage</i> moins blessé que vous vous attaque avec succès, l'arme parvient en sa possession.</span></li>
-                                <li><span><strong>Maîtrise :</strong> si vous avez achevé définitivement un autre <i>Personnage</i>.</span></li>
-                                <ul class="liste sous-liste">
-                                    <li><span><strong>Létale :</strong> vos attaques amenant au <i>SdM</i> tuent directement à la place.</span></li>
-                                    <li><span><strong>Moissoneuse de vie :</strong> tous les deux <i>Personnages</i> que vous avez achevé définitivement au cours de la partie vous confère +1 d'attaque et de défense (mettez leurs cartes <i>Personnages</i> en dessous de la votre).</span></li>
-                                </ul>                            
-                            </ul>
-                        </div>
-                    </div>  
-                </div>                             
-            </div>
-
-            <div class="card">
-                <div class="contour-de-carte">
-                    <div class="fond-de-carte">
-                        <div class="name personnage-protagoniste">Luna Lovegood<span class="icon"><img src="./Images/icone.png" /></span></div>
-                        <div class="image" style="background-image: url(Images/Personnages/luna-lovegood.jpg);"></div>
-                        <div class="type"><span>Protagoniste</span><span>4 Blessures</span></div>
-                        <div class="description">
-                            <ul class="liste">
-                                <li><span><strong>Accoutrement loufoque :</strong> vous pouvez équiper jusqu'à deux objets de <i>Tête</i> et de <i>Corps</i>.</span></li>                            
-                                <li><span><strong>Magizoologiste (Pas de raison que cela lui soit propre - TODO) :</strong> les <i>Accessoires</i> des autres <i>Personnages</i> ayant la capacité <i>Compagnon</i> ne vous font aucun effet. [Autre compétence ?]</span></li>
-                                <li><span>Si vous révelez votre identité dès le premier tour, équipez vous directement du <i>Chapeau lion de Luna Lovegood</i> et des <i>Lorgnospectres</i> qu'importe la pile dans laquelle ils se trouvent.</span></li>
-                            </ul>
-                        </div>
-                        <div class="quote">«Ne t’inquiète pas, tu es aussi sain d’esprit que moi.»</div>
                     </div>
                 </div>
             </div>
-
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Pick-pocket<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> pioche un <i>Equipement</i> :</p>
+                            <p>L'<i>Equipement</i> pioché parvient en votre possession.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--2ème rangée -->
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Entremise<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsque deux <i>Personnages</i> échangent un <i>Equipement</i> :</p>
+                            <p>Permet de réorganiser l'échange comme vous l'entendez.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">L'homme du milieu<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsque deux <i>Personnages</i> échangent un équipement :</p>
+                            <p>Permet d'intercepter l'échange pour se mettre à la place d'un des deux <i>Personnages</i>, l'échange ne pourra être annulé.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Annulation<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnages</i> utilise une <strong><u>compétence</u></strong> :</p>
+                            <p>Annule les effets de la <strong><u>compétence</u></strong>.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--3ème rangée -->
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Diversion<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> attaque un autre :</p>
+                            <p>Permet de rediriger l'attaque sur un autre <i>Personnage</i> à portée.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement"><span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> découvre un <i>Lieu</i> :</p>
+                            <p>Vous permets de vous déplacer sur la case <i>Lieux</i> afin d'en profiter également.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Trou de ver<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p>Lorsqu'un <i>Personnage</i> découvre un <i>Lieu</i> :</p>
+                            <p>Echangez la place du <i>Personnage</i> avec celle d'un autre.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--4ème rangée -->
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Glissement de terrain<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> découvre un <i>Lieu</i> :</p>
+                            <p>Annuler la carte <i>Lieu</i> actuelle et choisissez une dans la pile.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Impot sur la fortune<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> achète auprès du <i>Marchand d'or</i> ou du <i>Marchand de sang</i> :</p>
+                            <p>Vous permets de récuperer l'achat à leur place.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Redistribution équitable<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> atteint plus de 15 points d'équipements :</p>
+                            <p>Redistribuez tous ses <i>Equipements</i> un à un, en commençant par les plus chers et aux joueurs qui sont les plus défavorisés.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--5ème rangée -->
+            <div class="card petit-format">
+                <div class="contour-de-carte petit-format">
+                    <div class="fond-de-carte petit-format">
+                        <div class="name retournement">Echange inéquivalent<span class="icon petit-format"><img src="./Images/icone.jpg" /></span></div>
+                        <div class="description petit-format">
+                            <p class="condition-retournement">Lorsqu'un <i>Personnage</i> atteint plus de 15 points d'équipements :</p>
+                            <p>Echanger tous vos <i>Equipements</i> avec ceux du joueur adverse.</p>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h1>Idées</h1>
+            <ul>
+                <li>TODO : trouver plus d'idées</li>
+            </ul>
     </body>
 </html>

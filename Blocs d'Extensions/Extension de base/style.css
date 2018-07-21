@@ -14,7 +14,7 @@
 }
 
 .card {
-	margin: 1.5mm;
+	margin: 1mm;
 	float: left;
 	width: 61mm;
 	height: 88mm;
@@ -24,15 +24,15 @@
 
 div.contour-de-carte{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
-    padding:1.3mm;
-    min-width: 100%;
-	min-height: 100%;
+    padding:1mm;
+    min-width: 60mm;
+	min-height: 87mm;
 }
 
 div.fond-de-carte{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	min-width: 100%;
-    min-height: 100%;
+	min-width: 60mm;
+    min-height: 87mm;
 }
 
 /* TODO - Une bonne font hand-writing en titre ? */
@@ -117,8 +117,8 @@ span.icon > img {
 
 div.image {
 	height: 19mm;
-    width: 61mm;
-    background-size: 61mm 19mm;
+    width: 60mm;
+    background-size: 60mm 19mm;
     overflow: hidden;    
 }
 
@@ -169,14 +169,14 @@ div.description {
 	font-family: 'Times New Roman', serif;
 	font-size: 2.6mm;
 	text-align: justify;
-	height: 48.5mm;	
+	height: 49.5mm;	
 	overflow-wrap: break-word;
 }
 
 div.description.grand-format{
 	padding: 0mm;
 	margin: 0mm;
-	height: 105.83mm;
+	height: 50mm;
 }
 
 .liste{
@@ -199,10 +199,10 @@ div.description.grand-format{
 }
 
 div.quote {
-	height: 7.94mm;
-	width: 79.375mm;
+	height: 5mm;
+	width: 80mm;
 	font-style: italic;
-	font-size:2.25mm;
+	font-size:2.1mm;
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
@@ -222,8 +222,21 @@ div.quote {
 }
 
 .card.petit-format {
-	height: 63mm;
-	width: 88mm;
+	height: 41mm;
+	width: 63mm;
+}
+
+div.contour-de-carte.petit-format{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
+    padding:1mm;
+    min-width: 40mm;
+	min-height: 62mm;
+}
+
+div.fond-de-carte.petit-format{
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	min-width: 40mm;
+    min-height: 62mm;
 }
 
 span.icon.petit-format{
