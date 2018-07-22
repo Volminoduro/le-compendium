@@ -46,14 +46,11 @@ div.name{
 	text-align: center;
 	vertical-align: middle;
 	text-shadow: -0.25mm 0 black, 0 0.25mm black, 0.25mm 0 black, 0 -0.25mm black;
-
-	padding:0mm;
-  	margin:0mm;
 }
 
 div.titre-reduit{
 	font-size: 2.75mm; 
-	letter-spacing: -0.25mm;
+	letter-spacing: -0.23mm;
 }
 
 .personnage-antagoniste{

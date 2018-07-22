@@ -29,8 +29,6 @@
 
 * https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte Pour les cartes petits formats
 
-=== TODO : Comment faire pour les impressions recto verso des cartes ? (a du sens pour le moment vu les protections opaques ?)
-
 === Jetons
 
 ==== Quel matos ? Quelle forme "finale" ?
@@ -95,13 +93,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 == Gameplay
 
-=== Réfléchir au système de larcin (lancer les deux dés ? Si supérieur à 3, vol réussi ?) /IMPORTANT\
-
-=== Idée d'AoE au cas où pour éviter trop de babysit ?
-
 === Harry Potter
-
-==== Citation tissard et brodette
 
 ==== Vase clos : meilleure idée ?
 
@@ -112,8 +104,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 ==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
 
 ==== Luna lovegood : Magicozoologie
-
-==== Potion de Felix Felicis : buffer à tous les lancers de dés ?
 
 === Archétype des parties à compléter
 
