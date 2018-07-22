@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Wire+One');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
+/* TODO : Vérifier quels font sont pas utilisées ? */
+
 @page {
 	size: landscape;
  }
@@ -37,10 +46,11 @@ div.name{
 	border-top: 0.25mm solid #000000;
 	border-bottom: 0.25mm solid #000000;
 	height: 7mm;
+	letter-spacing: 0.6mm;
 
 	line-height: 7mm;
-	font-size: 4mm;
-	font-family: 'Cinzel', serif;
+	font-size: 5.5mm;
+	font-family: 'Wire One', 'Cinzel', serif;
 	text-transform: capitalize;
 	font-weight: bold;
 	text-align: center;
@@ -49,8 +59,7 @@ div.name{
 }
 
 div.titre-reduit{
-	font-size: 2.75mm; 
-	letter-spacing: -0.23mm;
+	letter-spacing: -0.1mm;
 }
 
 .personnage-antagoniste{

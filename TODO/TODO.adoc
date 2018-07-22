@@ -35,8 +35,6 @@
 
 == Matériel
 
-=== Prendre protection pour petit format (IMPORTANT) pour aussi tester petit format
-
 === Etudier un matériel un peu complet pour le stockage etc, à voir sur les sites.
 
 ==== Stocker le matériel commun 
@@ -78,8 +76,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 === Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
 
 === CSS
-
-==== Meilleure taille de font du titre-reduit
 
 ==== Meilleure image pour les marges ?
 
