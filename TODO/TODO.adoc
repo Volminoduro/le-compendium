@@ -23,8 +23,6 @@
 
 ==== TODO : Ajouter des enleminures ?
 
-==== TODO : où le mettre dans les règles ?
-
 === TODO : Comment ranger/stocker les cartes de petits formats (Deck-box)
 
 * https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte Pour les cartes petits formats
