@@ -85,8 +85,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
 
-=== Système de version et de release notes ? Notamment pour les retours (ou au moins tags)
-
 == Gameplay
 
 === Harry Potter

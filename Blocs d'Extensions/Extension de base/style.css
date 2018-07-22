@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel');
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
-@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
 @import url('https://fonts.googleapis.com/css?family=Wire+One');
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
 
 /* TODO : Vérifier quels font sont pas utilisées ? */
 
@@ -50,7 +47,7 @@ div.name{
 
 	line-height: 7mm;
 	font-size: 5.5mm;
-	font-family: 'Wire One', 'Cinzel', serif;
+	font-family: 'Wire One', serif;
 	text-transform: capitalize;
 	font-weight: bold;
 	text-align: center;
