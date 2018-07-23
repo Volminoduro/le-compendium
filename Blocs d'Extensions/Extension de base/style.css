@@ -220,21 +220,21 @@ div.quote {
 }
 
 .card.petit-format {
-	height: 41mm;
-	width: 63mm;
+	height: 63mm;
+	width: 88mm;
 }
 
 div.contour-de-carte.petit-format{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
 	padding:1mm;
-	min-height: 40mm;
-    min-width: 62mm;	
+	min-height: 62mm;
+    min-width: 87mm;	
 }
 
 div.fond-de-carte.petit-format{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	min-height: 40mm;
-	min-width: 62mm;
+	min-height: 62mm;
+	min-width: 87mm;
 }
 
 span.icon.petit-format{
@@ -243,9 +243,9 @@ span.icon.petit-format{
 }
 
 div.description.petit-format{
-	width: 62mm;
-	height: 32mm;	
-	font-size: 3mm;
+	width: 87mm;
+	height: 54mm;	
+	font-size: 4mm;
 	font-weight: bold;
 	text-align: center;
 	display: table-cell;
