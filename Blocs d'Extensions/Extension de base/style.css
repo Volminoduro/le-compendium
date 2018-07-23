@@ -1,55 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
+@import url('https://fonts.googleapis.com/css?family=Wire+One');
+
+/* TODO : Vérifier quels font sont pas utilisées ? */
+
 @page {
 	size: landscape;
  }
 
-body{
-	zoom: 75%;
-}
+ body{
+    font-size: 3mm;
+    zoom: 100%;
+ }
 
 #navBar {
-    width: 1250px;
-    border: 1px solid #000000;
+    width: 275mm;
+    border: 0.25mm solid #000000;
     overflow: hidden;
 }
 
 .card {
-	margin: 1px;
+	margin: 1mm;
 	float: left;
-	width: 300px;
-	height: 450px;
-	/*TODO : Une meilleure image pour les marges ? */
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
-	padding: 5px;
+	width: 61mm;
+	height: 88mm;	
+}
+
+div.contour-de-carte{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
+    padding:1mm;
+    min-width: 60mm;
+	min-height: 87mm;
 }
 
 div.fond-de-carte{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	min-width: 100%;
-	min-height: 100%;
+	min-width: 60mm;
+    min-height: 87mm;
 }
 
-/* TODO - Une bonne font hand-writing en titre ? */
 div.name{
-	border-top: 1px solid #000000;
-	border-bottom: 1px solid #000000;
-	height: 30px;
+	border-top: 0.25mm solid #000000;
+	border-bottom: 0.25mm solid #000000;
+	height: 7mm;
+	letter-spacing: 0.6mm;
 
-	line-height: 30px;
-	font-size: 17px;
-	font-family: 'Cinzel', serif;
+	line-height: 7mm;
+	font-size: 5.5mm;
+	font-family: 'Wire One', serif;
 	text-transform: capitalize;
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-
-	padding:0px;
-  	margin:0px;
+	text-shadow: -0.25mm 0 black, 0 0.25mm black, 0.25mm 0 black, 0 -0.25mm black;
 }
 
 div.titre-reduit{
-	font-size: 13px; 
-	letter-spacing: -1px;
+	letter-spacing: -0.1mm;
 }
 
 .personnage-antagoniste{
@@ -99,8 +106,8 @@ div.titre-reduit{
 span.icon{
 	float: right;
 	border-radius: 50%;
-	width: 30px;
-	height: 30px;
+	width: 7mm;
+	height: 7mm;
 }
 
 span.icon > img {
@@ -109,49 +116,49 @@ span.icon > img {
 }
 
 div.image {
-	height: 100px;
-    width: 300px;
-    background-size: 300px 100px;
+	height: 19mm;
+    width: 60mm;
+    background-size: 60mm 19mm;
     overflow: hidden;    
 }
 
 .conteneur-bonus{   
-	width: 160px;
-	height: 35px;
+	width: 42.33mm;
+	height: 6mm;
 	display:inline-block;
-	padding-left: 1px;
-	padding-top: 1px;
+	padding-left: 0.25mm;
+	padding-top: 0.25mm;
  }
 
 .conteneur-bonus.bonus{
-    padding: 0px;
-    width: 50px;
+    padding: 0mm;
+    width: 9mm;
 }
 
 .conteneur-bonus.bonus-type {
-    width: 30px;
+    width: 7mm;
 	height: 100%;
 }
 
 .conteneur-bonus.bonus-montant {
-    width: 25px;
-    height: 25px;
-    margin-left: -15px;
+    width: 4.5mm;
+    height: 4.5mm;
+    margin-left: -3.97mm;
 }
 
 div.type {
 	font-family: 'IM Fell English SC', serif;
 	font-variant: small-caps;
 	font-weight: bold;
-	height: 20px;
-	line-height: 20px; 
+	height: 5.29mm;
+	line-height: 5.29mm; 
 	vertical-align: middle;
-	border-top: 1px solid #000000;
-    border-bottom: 1px solid #000000;
+	border-top: 0.25mm solid #000000;
+    border-bottom: 0.25mm solid #000000;
 }
 div.type > span {
 	display: inline-block;
-	margin: 1px;
+	margin: 0.5mm;
 }
 
 div.type > span:first-child{
@@ -160,42 +167,42 @@ div.type > span:first-child{
 
 div.description {
 	font-family: 'Times New Roman', serif;
-	font-size: 13px;
+	font-size: 2.6mm;
 	text-align: justify;
-	height: 265px;	
+	height: 49.5mm;	
 	overflow-wrap: break-word;
 }
 
 div.description.grand-format{
-	padding: 0px;
-	margin: 0px;
-	height: 400px;
+	padding: 0mm;
+	margin: 0mm;
+	height: 50mm;
 }
 
 .liste{
-    padding: 2px;
-    margin: 0px;
+    padding: 0.5mm;
+    margin: 0mm;
 	list-style-type: circle;
 }
 
 .liste > li {
-	margin-left: 20px;
+	margin-left: 5.29mm;
 }
 
 .liste > li > span {
 	position: relative;
-	left: -5px; 
+	left: -1.32mm; 
 }
 
 .liste.sous-liste > li {
-    margin-left:30px;
+    margin-left:7.94mm;
 }
 
 div.quote {
-	height: 30px;
-	width: 300px;
+	height: 5mm;
+	width: 80mm;
 	font-style: italic;
-	font-size:11px;
+	font-size:2.1mm;
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
@@ -207,27 +214,42 @@ div.quote {
 /********************/
 
 #navBar-petit-format {
-    width: 1250px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #000000;
-    overflow: hidden;
+    width: 275mm;
+	border: 0.25mm solid black;
+	overflow: hidden;
 }
 
 .card.petit-format {
-	height: 150px;
+	height: 41mm;
+	width: 63mm;
+}
+
+div.contour-de-carte.petit-format{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
+	padding:1mm;
+	min-height: 40mm;
+    min-width: 62mm;	
+}
+
+div.fond-de-carte.petit-format{
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	min-height: 40mm;
+	min-width: 62mm;
 }
 
 span.icon.petit-format{
-	width: 25px;
-	height: 25px;
+	width: 6mm;
+	height: 6mm;
 }
 
 div.description.petit-format{
-	height: 100px;
-	font-size: 12px;
+	width: 62mm;
+	height: 32mm;	
+	font-size: 3mm;
 	font-weight: bold;
 	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 div.description.petit-format > p {
@@ -236,12 +258,10 @@ div.description.petit-format > p {
 }
 
 div.description.petit-format > p.unique {
-	margin: 0px;
-	padding-top: 43px;
+	margin: 0mm;
 }
 
 div.description.petit-format > p.condition-retournement{
-	margin: 0px;
-	padding-top: 20px;
+	margin: 0mm;
 }
 

@@ -11,8 +11,6 @@
 
 * Réfléchir à rendre le projet privé et à parodier le contenu pour la légalité
 
-* Configuration d'impression par page ? OUI. (@page en css) - Taille de la feuille, orientation de la feuille, les marges et la mise à échelle.
-
 = Autres
 
 == Craft
@@ -25,35 +23,13 @@
 
 ==== TODO : Ajouter des enleminures ?
 
-==== TODO : où le mettre dans les règles ?
-
-=== TODO : Comment ranger/stocker les cartes de petits formats et les jetons ?
+=== TODO : Comment ranger/stocker les cartes de petits formats (Deck-box)
 
 * https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte Pour les cartes petits formats
-
-* Comment faire pour les jetons ?
-
-=== TODO : Comment faire pour les impressions recto verso des cartes ?
-
-==== Prendre protection de qualité avec dos opaque et de couleur du code couleur
-
-* https://www.amazon.fr/Dragon-Shield-Sleeves-pcs-silver/dp/B000N6X1D4/ref=pd_sbs_21_8?_encoding=UTF8&pd_rd_i=B000N6X1D4&pd_rd_r=933063d1-8a87-11e8-b4cf-e13175fc1cb0&pd_rd_w=XPob3&pd_rd_wg=AGWlQ&pf_rd_i=desktop-dp-sims&pf_rd_m=A1X6FK5RDHNB96&pf_rd_p=7974754537208716849&pf_rd_r=2Q7EGKH3TS9B9C98F8VH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=2Q7EGKH3TS9B9C98F8VH
-
-* A tester les Personnages avec les protections grises déjà existantes
-
-* A acheter :
-
-** Dragon Shield brown 50
-
-** Dragon Shield dark blue 50
-
-** Dragon Shield green 50
 
 === Jetons
 
 ==== Quel matos ? Quelle forme "finale" ?
-
-==== Jetons de venin
 
 == Matériel
 
@@ -61,7 +37,7 @@
 
 ==== Stocker le matériel commun 
 
-===== Dés (petit sac exclusif)
+===== Dés (petit sac exclusif) - Commandé
 
 ====== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
@@ -71,15 +47,15 @@ https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-b
 
 https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
-===== Pions en lettre (petit sac exclusif) : http://www.michaels.com/artminds-wood-alphabet-letter-set-1.75-in/10216793.html#start=22
+===== Pions en lettre (petit sac exclusif) - Commandé
 
 ===== Cartes cases ; quelle forme finale ?
 
 ===== Cartes communes (deck-box à part) : quêtes et retournement (qui seront protégés)
 
-==== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html
+==== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html - Commandé
 
-=== Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
+=== Opti :  Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
 * https://www.etsy.com/fr/listing/477380448/d-d-jeux-des-coffret-cthulhu-h-p?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cthulhu+dice+box&ref=sc_gallery-1-1&plkey=456dedcbd15c46b8c4589b473b986e002a634cf0%3A477380448
 
@@ -91,7 +67,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Plateau de jeu
 
-==== A voir comment l'intégrer à l'univers de la littérature
+==== A voir comment l'intégrer à l'univers de la littérature en terme de désign
 
 ==== Couleur
 
@@ -107,21 +83,11 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
 
-=== Système de version et de release notes ? Notamment pour les retours (ou au moins tags)
-
 == Gameplay
 
-=== Idée d'AoE au cas où pour éviter trop de babysit ?
-
-=== Extension de base
-
-==== Quêtes (trouver plus d'idées), réviser celles présentes
-
-==== Retournement (trouver plus d'idées), réviser celles présentes
+=== Plateau à complexifier ? (Plus de distance, système de branche ?)
 
 === Harry Potter
-
-==== Citation tissard et brodette
 
 ==== Vase clos : meilleure idée ?
 
@@ -132,8 +98,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 ==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
 
 ==== Luna lovegood : Magicozoologie
-
-==== Potion de Felix Felicis : buffer à tous les lancers de dés ?
 
 === Archétype des parties à compléter
 
