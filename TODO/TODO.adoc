@@ -15,7 +15,7 @@
 
 == Craft
 
-=== Prendre papier plus épais pour impression (voir les formats ?)
+=== Prendre papier plus épais pour impression (voir les formats ?) - https://www.milleetunefeuilles.fr/grammage-du-papier
 
 === Pupitre
 
@@ -76,8 +76,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 === Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
 
 === CSS
-
-==== Meilleure image pour les marges ?
 
 ==== Une meilleure font style hand-writing pour les titres ?
 
