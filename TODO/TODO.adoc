@@ -85,17 +85,15 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 == Gameplay
 
-=== Lycanthropie à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage.
+=== Lycanthropie à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage. Il faut que la lycanthropie soit très avantageuse personnellement, une plaie pour les autres, et quelque chose de très fort si ça devient contrôlé.
 
-=== Plateau à complexifier ? (Plus de distance, système de branche ?) - Idée : Une case à effet random qui tournerait au fur et à mesure
+=== Plateau à complexifier ? (Plus de distance, système de branche ?) 
+
+==== Idée : Une case à effet random qui tournerait au fur et à mesure
 
 === Harry Potter
 
 ==== Vase clos : meilleure idée ?
-
-==== 6 : vous pourrez faire deux lancers de dés pour votre prochain déplacement [TODO - Meilleure idée ?]
-
-==== Gare de King's Cross : meilleure idée d'effet
 
 ==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
 
