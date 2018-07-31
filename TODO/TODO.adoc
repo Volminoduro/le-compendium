@@ -77,8 +77,6 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === CSS
 
-==== Meilleure image pour les marges ?
-
 ==== Une meilleure font style hand-writing pour les titres ?
 
 == Autres
@@ -97,7 +95,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 ==== 6 : vous pourrez faire deux lancers de dés pour votre prochain déplacement [TODO - Meilleure idée ?]
 
-==== Gare de King's Cross : meilleure idée d'effet
+==== Gare de King's Cross : meilleure idée d'effet - TODO - Payer pour aller quelque part ? Roulement des destinations ?
 
 ==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
 
