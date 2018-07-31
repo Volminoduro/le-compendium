@@ -23,10 +23,6 @@
 
 ==== TODO : Ajouter des enleminures ?
 
-=== TODO : Comment ranger/stocker les cartes de petits formats (Deck-box)
-
-* https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte Pour les cartes petits formats
-
 === Jetons
 
 ==== Quel matos ? Quelle forme "finale" ?
@@ -39,8 +35,6 @@
 
 ==== Stocker le matériel commun 
 
-===== Dés (petit sac exclusif) - Commandé
-
 ====== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
 * Font de titre en calligraphie lisible ? Fond de couleur parchemin, écriture en noir ?
@@ -49,13 +43,9 @@ https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-b
 
 https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
-===== Pions en lettre (petit sac exclusif) - Commandé
-
 ===== Cartes cases ; quelle forme finale ?
 
 ===== Cartes communes (deck-box à part) : quêtes et retournement (qui seront protégés)
-
-==== https://toutpourlejeu.com/fr/sac-en-velours-ou-daim/722-bourse-petit-sac-en-daim-10x12-cm.html - Commandé
 
 === Opti :  Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
@@ -85,7 +75,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 == Gameplay
 
-=== Lycanthropie à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage. Il faut que la lycanthropie soit très avantageuse personnellement, une plaie pour les autres, et quelque chose de très fort si ça devient contrôlé.
+=== Loup-Garou à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage. Il faut que la lycanthropie soit très avantageuse personnellement, une plaie pour les autres, et quelque chose de très fort si ça devient contrôlé.
 
 === Plateau à complexifier ? (Plus de distance, système de branche ?) 
 
@@ -100,3 +90,9 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 == Règles
 
 === Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
+
+== Retours
+
+=== Gilderoy
+
+==== Quête oubliettes à revoir
