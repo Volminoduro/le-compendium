@@ -23,6 +23,8 @@
 
 ==== TODO : Ajouter des enleminures ?
 
+==== Enlever encarté pour les jeton,s agrandir pour la quête
+
 === Jetons
 
 ==== Quel matos ? Quelle forme "finale" ?
