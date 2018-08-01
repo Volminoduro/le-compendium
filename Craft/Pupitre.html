@@ -58,61 +58,10 @@
         left: 100px;
     }
 
-    .station-card.petit-format{
-        height: 150px;
-        border: 1px solid black;
-
+    .station-card.quete{
         top: 15px;
         left: 400px;
         background-image: url("./Images/background-quete.jpg");
-    }
-
-    .station-card.petit-format > p{
-        line-height: 100px;
-    }
-
-    .station-conteneur-lettre{
-        height: 300px;
-        width: 175px;
-
-        top: 190px;
-        left: 400px;
-        position: absolute;
-    }
-
-    .station-conteneur-lettre > p {
-        color: black;
-        line-height: 0px;
-        font-size: 150px;
-        font-family: 'UnifrakturCook', serif;
-        text-transform: capitalize;
-        font-weight: bold;
-        text-align: center;
-    }
-
-    .station-conteneur-jeton{
-        height: 300px;
-        width: 125px;
-        border: 1px solid black;
-
-        top: 190px;
-        left: 615px;
-        position: absolute;
-        background-image: url("./Images/fond-jetons-color.jpg");
-        background-size: 100% 100%;
-    }
-
-    .station-conteneur-jeton > p {
-        color: white;
-        line-height: 250px;
-        font-size: 25px;
-        font-family: 'Cinzel', serif;
-        text-transform: capitalize;
-        font-weight: bold;
-        text-align: center;
-        vertical-align: middle;
-        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-        padding: 5px;
     }
 
     .station-card.equipement{
@@ -120,7 +69,7 @@
     }
 
     .station-card.equipement > p > img {
-        padding-top: 100px;
+        margin-top: 100px;
         width: 100px;
         height: auto;
     }
@@ -188,8 +137,20 @@
         text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     }
 
-    th, td {
-        border:1px solid black;
+    .border-top{
+        border-top: 1px solid black;
+    }
+
+    .border-left{
+        border-left: 1px solid black;
+    }
+
+    .border-right{
+        border-right: 1px solid black;    
+    }
+
+    .border-bottom{
+        border-bottom: 1px solid black;
     }
 
     .station-card.equipement.arme{
@@ -216,11 +177,8 @@
 
             <div class="station-card personnage"><p>Personnage</p></div>
 
-            <div class="station-card petit-format"><p>Quête</p></div>
+            <div class="station-card quete"><p>Quête</p></div>
 
-            <div class="station-conteneur-lettre"><p>A</p></div>
-
-            <div class="station-conteneur-jeton"><p>Jetons</p></div>
 
             <div class="station-card equipement tete">
                 <p style="text-align:center;"><img src="./Images/tete.jpg" /></p>
@@ -276,28 +234,28 @@
                 </ul>
 
                 <table>
-                    <tr style="color: saddleBrown;">
+                    <tr style="color: saddleBrown;" class="border-top border-bottom">
                         <th colspan="2">Equipements</th>
                     </tr>
-                    <tr style="color: saddleBrown;">
-                        <td>Qualité</td>
-                        <td>Points</td> 
+                    <tr style="color: saddleBrown;" class="border-top border-bottom">
+                        <td class="border-right">Qualité</td>
+                        <td class="border-left">Points</td> 
                     </tr>
-                    <tr class="equipement-commun">
-                        <td>Commun</td>
-                        <td>1</td> 
+                    <tr class="equipement-commun border-top border-bottom">
+                        <td class="border-right">Commun</td>
+                        <td class="border-left">1</td> 
                     </tr>
-                        <tr class="equipement-rare">
-                        <td>Rare</td>
-                    <td>3</td> 
+                    <tr class="equipement-rare border-top border-bottom">
+                        <td class="border-right">Rare</td>
+                        <td class="border-left">3</td> 
                     </tr>
-                        <tr class="equipement-epique">
-                        <td>Epique</td>
-                    <td>5</td> 
+                    <tr class="equipement-epique border-top border-bottom">
+                        <td class="border-right">Epique</td>
+                        <td class="border-left">5</td> 
                     </tr>
-                    <tr class="equipement-legendaire">
-                        <td>Légendaire</td>
-                        <td>7</td> 
+                    <tr class="equipement-legendaire border-top">
+                        <td class="border-right">Légendaire</td>
+                        <td class="border-left">7</td> 
                     </tr>
                 </table>
             </div>
