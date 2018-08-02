@@ -7,10 +7,6 @@
 
 = Summary
 
-= Important
-
-* Réfléchir à rendre le projet privé et à parodier le contenu pour la légalité
-
 = Autres
 
 == Craft
