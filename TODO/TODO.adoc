@@ -37,7 +37,7 @@
 
 ==== Stocker le matériel commun 
 
-====== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
+===== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
 * Font de titre en calligraphie lisible ? Fond de couleur parchemin, écriture en noir ?
 
