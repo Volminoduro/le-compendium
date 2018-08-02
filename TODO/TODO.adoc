@@ -53,6 +53,8 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Boite de jeu désigné en bouquin ? (design de couverture à l'intérieur, page avec de l'écriture à l'intérieur)
 
+==== Voir format livre
+
 == Design
 
 === Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
@@ -79,11 +81,13 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Plateau à complexifier ? (Plus de distance, système de branche ?) 
 
+==== Emplacement pour mettre la défausse
+
 ==== Idée : Une case à effet random qui tournerait au fur et à mesure
 
-=== Harry Potter
+==== Des idées de cases par extension au sein des cases annexes ?
 
-==== Gare de King's Cross : meilleure idée d'effet - TODO - Payer pour aller quelque part ? Roulement des destinations ?
+=== Harry Potter
 
 ==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
 
@@ -96,3 +100,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 == Règles
 
 === Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
+
+= Autres
+
+== Regarder jeu Talisman (https://en.wikipedia.org/wiki/Talisman_(board_game))
