@@ -92,8 +92,6 @@
 
 === Moins de cases larçins, plus de cases autre.
 
-=== Plus de case symétrique
-
 === Emplacement pour mettre la défausse
 
 === Idée : Une case à effet random qui tournerait au fur et à mesure
