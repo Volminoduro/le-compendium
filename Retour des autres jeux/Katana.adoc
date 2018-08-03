@@ -1,5 +1,5 @@
 Katana :
-- Les +  :
+- Les + :
   - Geisha, permet de voler une carte
   - mort non définitive, [BUSHIDO ?]
 - Les - :
