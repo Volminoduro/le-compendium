@@ -32,6 +32,8 @@
 
 == Dés
 
+== Cartes cases ; quelle forme finale ?
+
 === D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
 * Style proche de : https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-black-build-your-own-set-unusual.html
@@ -50,8 +52,6 @@
 
 = Craft
 
-== Prendre papier plus épais pour impression (voir les formats ?) - https://www.milleetunefeuilles.fr/grammage-du-papier
-
 == Pupitre
 
 === TODO : Utliser des patterns transparent
@@ -65,8 +65,6 @@
 = Matériel
 
 == Dragon shield en teal et en purple (50 pc)
-
-== Cartes cases ; quelle forme finale ?
 
 = Design
 
