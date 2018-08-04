@@ -84,8 +84,6 @@
 
 = Gameplay
 
-== Loup-Garou à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage. Il faut que la lycanthropie soit très avantageuse personnellement, une plaie pour les autres, et quelque chose de très fort si ça devient contrôlé.
-
 == Plateau à complexifier ? (Plus de distance, système de branche ?) 
 
 === Moins de cases larçins, plus de cases autre.
@@ -95,10 +93,6 @@
 === Idée : Une case à effet random qui tournerait au fur et à mesure
 
 === Des idées de cases par extension au sein des cases annexes ?
-
-== Harry Potter
-
-=== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
 
 == Autres
 
