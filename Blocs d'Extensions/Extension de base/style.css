@@ -6,12 +6,12 @@
 
 @page {
 	size: landscape;
- }
+}
 
- body{
+body{
     font-size: 3mm;
     zoom: 100%;
- }
+}
 
 #navBar {
     width: 275mm;
