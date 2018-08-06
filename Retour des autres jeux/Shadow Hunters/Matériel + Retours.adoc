@@ -23,7 +23,7 @@
 
 * Cb de joueurs ? 8 ?
 
-= Les +  :
+= Les + :
 
   - Plateau et dés lors du déroulement des tours.
   - Des personnages aux pouvoirs alternatifs

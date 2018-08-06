@@ -13,14 +13,14 @@
 * Nombre de joueurs par extension : 6 joueurs max.
 
 |=======
-|Type de cartes |Nombre souhaité minimum |Harry Potter (score de complétion)
-|Personnages |18 |18 (18)
-|Consommables |24 |24 (24)
-|Lieux |18 |18 (18)
-|Equipement : Tête |9 |9 (9)
-|Equipement : Corps |9 |8 (8)
-|Equipement : Accessoires |18 |18 (18)
-|Equipement : Arme |9 |9 (9)
+|Type de cartes |Nombre souhaité minimum |Harry Potter (score de complétion) |Conte (score de complétion)
+|Personnages |18 |18 (18) |0 (0)
+|Consommables |24 |24 (24) |0 (0)
+|Lieux |18 |18 (18) |0 (0)
+|Equipement : Tête |9 |9 (9) |0 (0)
+|Equipement : Corps |9 |8 (8) |0 (0)
+|Equipement : Accessoires |18 |18 (18) |0 (0)
+|Equipement : Arme |9 |9 (9) |0 (0)
 |=======
 
 Cartes retournement, quid ?

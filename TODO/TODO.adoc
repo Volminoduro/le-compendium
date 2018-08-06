@@ -7,104 +7,119 @@
 
 = Summary
 
-= Autres
+= Important
 
-== Craft
+* Réfléchir à rendre le projet privé et à parodier le contenu pour la légalité
+* Réimprimer consommable pour le sous type bien orthographié
 
-=== Prendre papier plus épais pour impression (voir les formats ?) - https://www.milleetunefeuilles.fr/grammage-du-papier
+= Craft final
 
-=== Pupitre
+== Carte sans protection (prix), donc carte cartonnées avec le verso en couleur.
 
-==== TODO : Utliser des patterns transparent
+=== Fais une illustration de verso
 
-==== TODO : Ajouter des enleminures ?
+=== Comment imprimer en recto / verso
 
-==== Effet lumineux derrière l'image ?
+== Pupitre
 
-=== Jetons
+=== Cartonné
 
-==== Quel matos ? Quelle forme "finale" ?
+== Deck-box peu coûteuse à l'effigie de l'extension
 
-== Matériel
+=== Design Harry-Potter
 
-=== Dragon shield en teal et en purple (50 pc)
+=== Design Extension de Base
 
-=== Etudier un matériel un peu complet pour le stockage etc, à voir sur les sites.
+== Dés
 
-==== Stocker le matériel commun 
+== Cartes cases ; quelle forme finale ?
 
-====== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
+=== D3 et D4 avec un design spécifique ? Y réfléchir (fond de couleur page, et chiffre en noir).
 
-* Font de titre en calligraphie lisible ? Fond de couleur parchemin, écriture en noir ?
+* Style proche de : https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-black-build-your-own-set-unusual.html
 
-https://www.dnddice.com/mix-match/unusual-build-your-own-set/elven-transparent-black-build-your-own-set-unusual.html
+== Boite à dés 
 
-https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
-
-===== Cartes cases ; quelle forme finale ?
-
-=== Opti :  Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
+=== Design d'une boîte à dés en bois au format d'une boîte à allumettes, voir pour le motif dessus.
 
 * https://www.etsy.com/fr/listing/477380448/d-d-jeux-des-coffret-cthulhu-h-p?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cthulhu+dice+box&ref=sc_gallery-1-1&plkey=456dedcbd15c46b8c4589b473b986e002a634cf0%3A477380448
 
-=== Boite de jeu désigné en bouquin ? (design de couverture à l'intérieur, page avec de l'écriture à l'intérieur)
+=== Boite de jeu 
 
-==== Voir format livre
+==== Désigné en bouquin ? (design de couverture à l'intérieur, page avec de l'écriture à l'intérieur)
 
-== Design
+===== Voir format livre
 
-=== Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
+= Craft
 
-=== Plateau de jeu
+== Pupitre
 
-==== A voir comment l'intégrer à l'univers de la littérature en terme de désign
+=== TODO : Utliser des patterns transparent
 
-==== Couleur
+=== TODO : Ajouter des enleminures ?
 
-=== Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
+=== Effet lumineux derrière l'image ?
 
-=== CSS
+=== Voir pour l'impression du rognage du bas de page
 
-==== Une meilleure font style hand-writing pour les titres ?
+= Matériel
+
+== Dragon shield en teal et en purple (50 pc)
+
+= Design
+
+== Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
+
+== Plateau de jeu
+
+=== A voir comment l'intégrer à l'univers de la littérature en terme de désign
+
+=== Couleur
+
+== Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
+
+== CSS
+
+=== Une meilleure font style hand-writing pour les titres ?
+
+= Gameplay
+
+== Loup-Garou à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage. Il faut que la lycanthropie soit très avantageuse personnellement, une plaie pour les autres, et quelque chose de très fort si ça devient contrôlé.
+
+== Plateau à complexifier ? (Plus de distance, système de branche ?) 
+
+=== Moins de cases larçins, plus de cases autre.
+
+=== Emplacement pour mettre la défausse
+
+=== Idée : Une case à effet random qui tournerait au fur et à mesure
+
+=== Des idées de cases par extension au sein des cases annexes ?
+
+== Harry Potter
+
+=== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
+
+=== Gilderoy
+
+==== Quête oubliettes à revoir
+
+=== Liste des cartes pour le Accio de Harry Potter ?
 
 == Autres
 
-=== Lors des beta tests, être alerte de la répétitivé de certaines conditions aléatoires
+=== Carte piège à loup (1 blessure lors d'un vol)
 
-== Gameplay
+== Archétype des parties à compléter
 
-=== Loup-Garou à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage. Il faut que la lycanthropie soit très avantageuse personnellement, une plaie pour les autres, et quelque chose de très fort si ça devient contrôlé.
+= Règles
 
-=== Plateau à complexifier ? (Plus de distance, système de branche ?) 
-
-==== Moins de cases larçins, plus de cases autre.
-
-==== Plus de case symétrique
-
-==== Emplacement pour mettre la défausse
-
-==== Idée : Une case à effet random qui tournerait au fur et à mesure
-
-==== Des idées de cases par extension au sein des cases annexes ?
-
-=== Harry Potter
-
-==== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
-
-==== Gilderoy
-
-===== Quête oubliettes à revoir
-
-=== Autres
-
-==== Carte piège à loup (1 blessure lors d'un vol)
-
-=== Archétype des parties à compléter
-
-== Règles
-
-=== Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
+== Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
 
 = Autres
 
 == Regarder jeu Talisman (https://en.wikipedia.org/wiki/Talisman_(board_game))
+
+= Version Collector ?
+
+https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
