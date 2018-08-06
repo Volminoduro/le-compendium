@@ -9,8 +9,68 @@
 
 = Important
 
-* Réfléchir à rendre le projet privé et à parodier le contenu pour la légalité
+* Parodier le contenu pour la légalité
 * Réimprimer consommable pour le sous type bien orthographié
+
+= Craft
+
+== Pupitre
+
+=== TODO : Utliser des patterns transparent
+
+=== TODO : Ajouter des enleminures ?
+
+=== Effet lumineux derrière l'image ?
+
+=== Voir pour l'impression du rognage du bas de page
+
+= Matériel
+
+== Dragon shield en teal et en purple (50 pc)
+
+= Design
+
+== Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
+
+== Plateau de jeu
+
+=== A voir comment l'intégrer à l'univers de la littérature en terme de désign
+
+=== Couleur
+
+== Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
+
+== CSS
+
+=== Une meilleure font style hand-writing pour les titres ?
+
+= Gameplay
+
+== Plateau à complexifier ? (Plus de distance, système de branche ?) 
+
+=== Moins de cases larçins, plus de cases autre.
+
+=== Emplacement pour mettre la défausse
+
+=== Idée : Une case à effet random qui tournerait au fur et à mesure
+
+=== Des idées de cases par extension au sein des cases annexes ?
+
+== Autres
+
+=== Carte piège à loup (1 blessure lors d'un vol)
+
+== Archétype des parties à compléter
+
+= Règles
+
+== Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
+
+= Autres
+
+== Regarder jeu Talisman (https://en.wikipedia.org/wiki/Talisman_(board_game))
+
+https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 = Craft final
 
@@ -50,76 +110,4 @@
 
 ===== Voir format livre
 
-= Craft
-
-== Pupitre
-
-=== TODO : Utliser des patterns transparent
-
-=== TODO : Ajouter des enleminures ?
-
-=== Effet lumineux derrière l'image ?
-
-=== Voir pour l'impression du rognage du bas de page
-
-= Matériel
-
-== Dragon shield en teal et en purple (50 pc)
-
-= Design
-
-== Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
-
-== Plateau de jeu
-
-=== A voir comment l'intégrer à l'univers de la littérature en terme de désign
-
-=== Couleur
-
-== Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
-
-== CSS
-
-=== Une meilleure font style hand-writing pour les titres ?
-
-= Gameplay
-
-== Loup-Garou à refondre : la rendre plus aléatoire pour tout le monde, que l'incontrôtabilité de la situation se sente davantage. Il faut que la lycanthropie soit très avantageuse personnellement, une plaie pour les autres, et quelque chose de très fort si ça devient contrôlé.
-
-== Plateau à complexifier ? (Plus de distance, système de branche ?) 
-
-=== Moins de cases larçins, plus de cases autre.
-
-=== Emplacement pour mettre la défausse
-
-=== Idée : Une case à effet random qui tournerait au fur et à mesure
-
-=== Des idées de cases par extension au sein des cases annexes ?
-
-== Harry Potter
-
-=== Fenrir Greyback : Chef des rafleurs, meilleure idée à trouver
-
-=== Gilderoy
-
-==== Quête oubliettes à revoir
-
-=== Liste des cartes pour le Accio de Harry Potter ?
-
-== Autres
-
-=== Carte piège à loup (1 blessure lors d'un vol)
-
-== Archétype des parties à compléter
-
-= Règles
-
-== Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
-
-= Autres
-
-== Regarder jeu Talisman (https://en.wikipedia.org/wiki/Talisman_(board_game))
-
 = Version Collector ?
-
-https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
