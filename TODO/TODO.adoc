@@ -11,6 +11,7 @@
 
 * Parodier le contenu pour la légalité
 * Réimprimer consommable pour le sous type bien orthographié
+* Une extension spécialement faite par Twitch ?
 
 = Craft
 
