@@ -11,6 +11,7 @@
 
 * Parodier le contenu pour la légalité
 * Réimprimer consommable pour le sous type bien orthographié
+* Une extension spécialement faite par Twitch ?
 
 = Craft
 
@@ -58,7 +59,11 @@
 
 == Harry Potter
 
-=== Quirinnus Quirell à refondre ?
+=== Rendre le gameplay de Olivander plus actif
+
+== Harry Potter #2
+
+=== Maitre des potions : Quelque chose pour remplacer la potion tue-loup
 
 == Autres
 
@@ -66,13 +71,15 @@
 
 == Archétype des parties à compléter
 
+== Idée de "boss fights" ? (Univers parallèle où Dumbledore serait méchant, contre Cthulhu) - Edition à part ?
+
 = Règles
 
 == Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
 
 = Autres
 
-== Regarder jeu Talisman (https://en.wikipedia.org/wiki/Talisman_(board_game))
+== Regarder jeu Talisman (https://en.wikipedia.org/wiki/Talisman_(board_game)
 
 https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
@@ -108,7 +115,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 * https://www.etsy.com/fr/listing/477380448/d-d-jeux-des-coffret-cthulhu-h-p?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cthulhu+dice+box&ref=sc_gallery-1-1&plkey=456dedcbd15c46b8c4589b473b986e002a634cf0%3A477380448
 
-=== Boite de jeu 
+=== Boite de jeu
 
 ==== Désigné en bouquin ? (design de couverture à l'intérieur, page avec de l'écriture à l'intérieur)
 
