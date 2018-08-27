@@ -29,29 +29,18 @@ public class SupprUtilities {
         }
     }
 
-    public static boolean trouverChiffreDansLaLigneHorizontale(int positionVerticalDepart, int positionHorizontalDepart, int chiffreCherche){
-        boolean trouve = false;
+    public static void supprimerChiffreDansLaLigneHorizontale(int positionVerticalDepart, int positionHorizontalDepart, int chiffreCherche){
         int incrementRecherche = 0, incrementHorizontal = 0, incrementVertical = 0, pointDeDepartHorizontal = 0, pointDeDepartVertical = 0, longueurduCote;
 
         incrementHorizontal++;
         pointDeDepartVertical=positionVerticalDepart;
         longueurduCote = Main.LARGEUR_COTE * Main.LARGEUR_COTE;
 
-        while(incrementRecherche<longueurduCote && !trouve){
+        while(incrementRecherche<longueurduCote){
             supprimerChiffreDuneListe(pointDeDepartVertical+(incrementVertical*incrementRecherche),
                     pointDeDepartHorizontal+(incrementHorizontal*incrementRecherche),
                     chiffreCherche);
             incrementRecherche++;
-        }
-        return trouve;
-    }
-
-    public static void supprimerChiffrePossibleDesLignes(int positionVerticalDepart, int positionHorizontalDepart, int chiffreCherche){
-        for(int compteurVertical=0;compteurVertical<Main.plateau.length;compteurVertical++){
-            supprimerChiffreDuneListe(compteurVertical, positionHorizontalDepart, chiffreCherche);
-        }
-        for(int compteurHorizontal=0;compteurHorizontal<Main.plateau.length;compteurHorizontal++){
-            supprimerChiffreDuneListe(positionVerticalDepart, compteurHorizontal, chiffreCherche);
         }
     }
 
