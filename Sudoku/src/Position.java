@@ -8,6 +8,7 @@ public class Position{
     public List<Integer> chiffresPossibles = new ArrayList<Integer>();
 
     public Position(){
+        chiffreValide=0;
         chiffresPossibles = new ArrayList<Integer>();
         for(int i = 1; i<Main.HAUTEUR_COTE *Main.LARGEUR_COTE; i++){
             chiffresPossibles.add(i);

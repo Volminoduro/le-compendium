@@ -87,32 +87,6 @@ public class FindUtilities {
         return trouve;
     }
 
-    public static boolean trouverChiffrePossibleDansLaLigne(int positionVerticalDepart, int positionHorizontalDepart, int chiffreCherche, boolean rechercheHorizontal){
-        boolean trouve = false;
-        int incrementRecherche = 0, incrementHorizontal = 0, incrementVertical = 0, pointDeDepartHorizontal = 0, pointDeDepartVertical = 0, positionANePasInspecter;
-
-        if(rechercheHorizontal){
-            incrementHorizontal++;
-            pointDeDepartVertical=positionVerticalDepart;
-            positionANePasInspecter=positionHorizontalDepart;
-        }
-        else{
-            incrementVertical++;
-            pointDeDepartHorizontal=positionHorizontalDepart;
-            positionANePasInspecter=positionVerticalDepart;
-        }
-        while(incrementRecherche<Main.plateau.length && !trouve){
-            if (incrementVertical*incrementRecherche!=positionANePasInspecter){
-                if(Main.plateau[pointDeDepartVertical+(incrementVertical*incrementRecherche)][pointDeDepartHorizontal+(incrementHorizontal*incrementRecherche)]
-                        .getChiffresPossibles().contains(chiffreCherche)){
-                    trouve = true;
-                }
-            }
-            incrementRecherche++;
-        }
-        return trouve;
-    }
-
     public static boolean trouverChiffreDansLaZone(int positionVerticalDepart, int positionHorizontalDepart, int ChiffreCherche){
         boolean trouve = false;
         int compteurVertical = 0, compteurHorizontal;
@@ -140,6 +114,7 @@ public class FindUtilities {
         Map<String, Integer> debutDeZone = getDebutDeZone(positionVerticalDepart, positionHorizontalDepart);
 
         while(!trouve && compteurVertical< Main.HAUTEUR_COTE){
+            compteurHorizontal=0;
             while(!trouve && compteurHorizontal< Main.LARGEUR_COTE){
                 if(Main.plateau[debutDeZone.get("HAUTEUR")+compteurVertical][debutDeZone.get("LARGEUR")+compteurHorizontal].getChiffresPossibles().contains(chiffreCherche)){
                     trouve=true;
