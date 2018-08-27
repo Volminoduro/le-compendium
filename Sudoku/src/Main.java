@@ -35,7 +35,7 @@ public class Main
         long endTime = System.nanoTime();
         double duration = (endTime - startTime) / 1000000000.0;
 
-        while (!solutionTrouvee && duration  < 60){
+        while (!solutionTrouvee && duration  < 600){
 
             Position[][] plateauItere = plateau;
             // Tant que je n'ai pas trouvé la solution, je continue de parcourir
@@ -64,13 +64,12 @@ public class Main
                                         SupprUtilities.supprimerChiffreDansLaLigneVerticale(i, j, chiffrePossible);
                                     }
                                     if(FindUtilities.trouverChiffreDansLaLigneHorizontale(i, j, chiffrePossible)){
-                                        SupprUtilities.trouverChiffreDansLaLigneHorizontale(i, j, chiffrePossible);
+                                        SupprUtilities.supprimerChiffreDansLaLigneHorizontale(i, j, chiffrePossible);
                                     }
                                     indexParcoursChiffrePossible--;
                                     chiffreTrouveAilleurs = true;
                                 }
                                 // Si je la trouve dans les possibilités des autres cases
-                                // TODO : Erreur de contrôle (si je n'ai pas trouvé, et que ce chiffre n'est pas l'unique solution soit de la zone, soit de la ligne verticale soit de la ligne horizontale
                                 // Si je ne la trouve pas
                                 if(!chiffreTrouveAilleurs &&
                                         (!FindUtilities.trouverChiffrePossibleDansLaZone(i, j, chiffrePossible) ||
@@ -85,7 +84,7 @@ public class Main
                                 System.out.println(e);
                             }
                         }
-                        while(chiffreTrouveAilleurs && indexParcoursChiffrePossible<positionActuelle.getChiffresPossibles().size());
+                        while(!chiffreTrouveAilleurs && indexParcoursChiffrePossible<positionActuelle.getChiffresPossibles().size());
                     }
                 }
             }
@@ -120,15 +119,66 @@ public class Main
     }
 
     public static void initialisationTableau(){
-        plateau[0][0] = new Position(5);plateau[0][1] = new Position(3);plateau[0][4] = new Position(7);
-        plateau[1][0] = new Position(6);plateau[1][3] = new Position(1);plateau[1][4] = new Position(9);plateau[1][5] = new Position(5);
-        plateau[2][1] = new Position(9);plateau[2][2] = new Position(8);plateau[2][7] = new Position(6);
-        plateau[3][0] = new Position(8);plateau[3][4] = new Position(6);plateau[3][8] = new Position(3);
-        plateau[4][0] = new Position(4);plateau[4][3] = new Position(8);plateau[4][5] = new Position(3);plateau[4][8] = new Position(1);
-        plateau[5][0] = new Position(7);plateau[5][4] = new Position(2);plateau[5][8] = new Position(6);
-        plateau[6][1] = new Position(6);plateau[6][6] = new Position(2);plateau[6][7] = new Position(8);
-        plateau[7][3] = new Position(4);plateau[7][4] = new Position(1);plateau[7][5] = new Position(9);plateau[7][8] = new Position(5);
-        plateau[8][4] = new Position(8);plateau[8][7] = new Position(7);plateau[8][8] = new Position(9);
+        plateau[0][0] = new Position(5);
+        SupprUtilities.supprimerChiffrePossibleDeZone(0, 0, 5);SupprUtilities.supprimerChiffreDansLaLigneVerticale(0, 0, 5);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(0, 0, 5);
+        plateau[0][1] = new Position(3);
+        SupprUtilities.supprimerChiffrePossibleDeZone(0, 1, 3);SupprUtilities.supprimerChiffreDansLaLigneVerticale(0, 1, 3);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(0, 1, 3);
+        plateau[0][4] = new Position(7);
+        SupprUtilities.supprimerChiffrePossibleDeZone(0, 4, 7);SupprUtilities.supprimerChiffreDansLaLigneVerticale(0, 4, 7);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(0, 4, 7);
+        plateau[1][0] = new Position(6);
+        SupprUtilities.supprimerChiffrePossibleDeZone(1, 0, 6);SupprUtilities.supprimerChiffreDansLaLigneVerticale(1, 0, 6);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(1, 0, 6);
+        plateau[1][3] = new Position(1);
+        SupprUtilities.supprimerChiffrePossibleDeZone(1, 3, 1);SupprUtilities.supprimerChiffreDansLaLigneVerticale(1, 3, 1);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(1, 3, 1);
+        plateau[1][4] = new Position(9);
+        SupprUtilities.supprimerChiffrePossibleDeZone(1, 4, 9);SupprUtilities.supprimerChiffreDansLaLigneVerticale(1, 4, 9);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(1, 4, 9);
+        plateau[1][5] = new Position(5);
+        SupprUtilities.supprimerChiffrePossibleDeZone(1, 5, 5);SupprUtilities.supprimerChiffreDansLaLigneVerticale(1, 5, 5);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(1, 5, 5);
+        plateau[2][1] = new Position(9);
+        SupprUtilities.supprimerChiffrePossibleDeZone(2, 1, 9);SupprUtilities.supprimerChiffreDansLaLigneVerticale(2, 1, 9);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(2, 1, 9);
+        plateau[2][2] = new Position(8);
+        SupprUtilities.supprimerChiffrePossibleDeZone(2, 2, 8);SupprUtilities.supprimerChiffreDansLaLigneVerticale(2, 2, 8);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(2, 2, 8);
+        plateau[2][7] = new Position(6);
+        SupprUtilities.supprimerChiffrePossibleDeZone(2, 7, 6);SupprUtilities.supprimerChiffreDansLaLigneVerticale(2, 7, 6);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(2, 7, 6);
+        plateau[3][0] = new Position(8);
+        SupprUtilities.supprimerChiffrePossibleDeZone(3, 0, 8);SupprUtilities.supprimerChiffreDansLaLigneVerticale(3, 0, 8);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(3, 0, 8);
+        plateau[3][4] = new Position(6);
+        SupprUtilities.supprimerChiffrePossibleDeZone(3, 4, 6);SupprUtilities.supprimerChiffreDansLaLigneVerticale(3, 4, 6);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(3, 4, 6);
+        plateau[3][8] = new Position(3);
+        SupprUtilities.supprimerChiffrePossibleDeZone(3, 8, 3);SupprUtilities.supprimerChiffreDansLaLigneVerticale(3, 8, 3);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(3, 8, 3);
+        plateau[4][0] = new Position(4);
+        SupprUtilities.supprimerChiffrePossibleDeZone(4, 0, 4);SupprUtilities.supprimerChiffreDansLaLigneVerticale(4, 0, 4);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(4, 0, 4);
+        plateau[4][3] = new Position(8);
+        SupprUtilities.supprimerChiffrePossibleDeZone(4, 3, 8);SupprUtilities.supprimerChiffreDansLaLigneVerticale(4, 3, 8);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(4, 3, 8);
+        plateau[4][5] = new Position(3);
+        SupprUtilities.supprimerChiffrePossibleDeZone(4, 5, 3);SupprUtilities.supprimerChiffreDansLaLigneVerticale(4, 5, 3);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(4, 5, 3);
+        plateau[4][8] = new Position(1);
+        SupprUtilities.supprimerChiffrePossibleDeZone(4, 8, 1);SupprUtilities.supprimerChiffreDansLaLigneVerticale(4, 8, 1);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(4, 8, 1);
+        plateau[5][0] = new Position(7);
+        SupprUtilities.supprimerChiffrePossibleDeZone(5, 0, 7);SupprUtilities.supprimerChiffreDansLaLigneVerticale(5, 0, 7);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(5, 0, 7);
+        plateau[5][4] = new Position(2);
+        SupprUtilities.supprimerChiffrePossibleDeZone(5, 4, 2);SupprUtilities.supprimerChiffreDansLaLigneVerticale(5, 4, 2);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(5, 4, 2);
+        plateau[5][8] = new Position(6);
+        SupprUtilities.supprimerChiffrePossibleDeZone(5, 8, 6);SupprUtilities.supprimerChiffreDansLaLigneVerticale(5, 8, 6);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(5, 8, 6);
+        plateau[6][1] = new Position(6);
+        SupprUtilities.supprimerChiffrePossibleDeZone(6, 1, 6);SupprUtilities.supprimerChiffreDansLaLigneVerticale(6, 1, 6);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(6, 1, 6);
+        plateau[6][6] = new Position(2);
+        SupprUtilities.supprimerChiffrePossibleDeZone(6, 6, 2);SupprUtilities.supprimerChiffreDansLaLigneVerticale(6, 6, 2);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(6, 6, 2);
+        plateau[6][7] = new Position(8);
+        SupprUtilities.supprimerChiffrePossibleDeZone(6, 7, 8);SupprUtilities.supprimerChiffreDansLaLigneVerticale(6, 7, 8);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(6, 7, 8);
+        plateau[7][3] = new Position(4);
+        SupprUtilities.supprimerChiffrePossibleDeZone(7, 3, 4);SupprUtilities.supprimerChiffreDansLaLigneVerticale(7, 3, 4);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(7, 3, 4);
+        plateau[7][4] = new Position(1);
+        SupprUtilities.supprimerChiffrePossibleDeZone(7, 4, 1);SupprUtilities.supprimerChiffreDansLaLigneVerticale(7, 4, 1);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(7, 4, 1);
+        plateau[7][5] = new Position(9);
+        SupprUtilities.supprimerChiffrePossibleDeZone(7, 5, 9);SupprUtilities.supprimerChiffreDansLaLigneVerticale(7, 5, 9);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(7, 5, 9);
+        plateau[7][8] = new Position(5);
+        SupprUtilities.supprimerChiffrePossibleDeZone(7, 8, 5);SupprUtilities.supprimerChiffreDansLaLigneVerticale(7, 8, 5);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(7, 8, 5);
+        plateau[8][4] = new Position(8);
+        SupprUtilities.supprimerChiffrePossibleDeZone(8, 4, 8);SupprUtilities.supprimerChiffreDansLaLigneVerticale(8, 4, 8);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(8, 4, 8);
+        plateau[8][7] = new Position(7);
+        SupprUtilities.supprimerChiffrePossibleDeZone(8, 7, 7);SupprUtilities.supprimerChiffreDansLaLigneVerticale(8, 7, 7);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(8, 7, 7);
+        plateau[8][8] = new Position(9);
+        SupprUtilities.supprimerChiffrePossibleDeZone(8, 8, 9);SupprUtilities.supprimerChiffreDansLaLigneVerticale(8, 8, 9);SupprUtilities.supprimerChiffreDansLaLigneHorizontale(8, 8, 9);
     }
 
     public static void afficherTableau(){
