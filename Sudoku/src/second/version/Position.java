@@ -1,3 +1,5 @@
+package second.version;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,7 +12,7 @@ public class Position{
     public Position(){
         chiffreValide=0;
         chiffresPossibles = new ArrayList<Integer>();
-        for(int i = 1; i<Main.HAUTEUR_COTE *Main.LARGEUR_COTE; i++){
+        for(int i = 1; i<(Main.HAUTEUR_COTE *Main.LARGEUR_COTE)+1; i++){
             chiffresPossibles.add(i);
         }
     }

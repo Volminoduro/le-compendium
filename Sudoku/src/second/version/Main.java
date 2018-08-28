@@ -1,13 +1,11 @@
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+package second.version;
 
 public class Main
 {
     public static int HAUTEUR_COTE = 3;
     public static int LARGEUR_COTE = 3;
 
-    // public static Position[][] plateau = new Position[HAUTEUR_COTE*LARGEUR_COTE][HAUTEUR_COTE*LARGEUR_COTE];
+    // public static second.version.Position[][] plateau = new second.version.Position[HAUTEUR_COTE*LARGEUR_COTE][HAUTEUR_COTE*LARGEUR_COTE];
     public static Position[][] plateau ={
             {new Position(), new Position(), new Position(), new Position(), new Position(), new Position(), new Position(), new Position(), new Position(),},
             {new Position(), new Position(), new Position(), new Position(), new Position(), new Position(), new Position(), new Position(), new Position(),},
