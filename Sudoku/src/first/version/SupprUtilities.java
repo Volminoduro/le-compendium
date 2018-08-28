@@ -1,4 +1,4 @@
-package second.version;
+package first.version;
 
 import java.util.List;
 import java.util.Map;
@@ -50,7 +50,7 @@ public class SupprUtilities {
         List<Integer> listeModifiee = Main.plateau[positionVertical][positionHorizontal].getChiffresPossibles();
         if(listeModifiee.contains(chiffreCherche)){
             listeModifiee.remove(listeModifiee.indexOf(chiffreCherche));
-            Main.plateau[positionVertical][positionHorizontal].setChiffresPossibles(listeModifiee);
         }
+        Main.plateau[positionVertical][positionHorizontal].setChiffresPossibles(listeModifiee);
     }
 }
