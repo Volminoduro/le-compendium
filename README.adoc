@@ -1,6 +1,0 @@
-:experimental:
-:source-highlighter: pygments
-:data-uri:
-:icons: font
-:toc:
-:numbered:
