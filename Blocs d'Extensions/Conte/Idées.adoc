@@ -1,3 +1,7 @@
 https://en.wikipedia.org/wiki/Headless_Horseman
 
 * Cavalier sans tête : peut pas équiper de tête
+
+
+
+* Effet : mettre le marqueur de blessure d'un joueur à 3 blessures
