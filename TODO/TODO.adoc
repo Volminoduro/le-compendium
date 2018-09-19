@@ -13,6 +13,14 @@
 * Réimprimer consommable pour le sous type bien orthographié
 * Une extension spécialement faite par Twitch ?
 
+= Betatest
+
+== Contact à voir avec la Maison des jeux (association de Nantes)
+
+== Sébastien Viozat (SQLI)
+
+== Ami de Kynrou qui peut beta-test
+
 = Craft
 
 == Pupitre
@@ -61,6 +69,14 @@
 
 === Rendre le gameplay de Olivander plus actif
 
+=== Elfe de maison, déplacement des joueurs pour récupérer la carte
+
+=== Arbalète d'hagrid, formulation
+
+=== Nerf négociateur mondingus
+
+=== Autre effet pour la banque de gringotts 
+
 == Harry Potter #2
 
 === Maitre des potions : Quelque chose pour remplacer la potion tue-loup
@@ -85,7 +101,7 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 = Craft final
 
-== Carte sans protection (prix), donc carte cartonnées avec le verso en couleur.
+== Carte sans protection (prix), donc carte cartonnées avec le verso en couleur = https://cartamundi.com/fr/services/production-cartes-a-jouer/carterie-et-emballage/
 
 === Fais une illustration de verso
 
