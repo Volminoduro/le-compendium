@@ -21,77 +21,17 @@
 
 == Ami de Kynrou qui peut beta-test
 
-= Craft
-
-== Pupitre
-
-=== TODO : Utliser des patterns transparent
-
-=== TODO : Ajouter des enleminures ?
-
-=== Effet lumineux derrière l'image ?
-
-=== Voir pour l'impression du rognage du bas de page
-
-= Matériel
-
-== Dragon shield en teal et en purple (50 pc)
-
 = Design
 
 == Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
 
-== Plateau de jeu
-
-=== A voir comment l'intégrer à l'univers de la littérature en terme de désign
-
-=== Couleur
-
-== Pupitre de jeu (en format de livre ouvert ? Afin d'accentuer l'immersion)
-
-== CSS
-
-=== Une meilleure font style hand-writing pour les titres ?
-
 = Gameplay
-
-== Plateau à complexifier ? (Plus de distance, système de branche ?) 
-
-=== Moins de cases larçins, plus de cases autre.
-
-=== Emplacement pour mettre la défausse
-
-=== Idée : Une case à effet random qui tournerait au fur et à mesure
-
-=== Des idées de cases par extension au sein des cases annexes ?
-
-== Harry Potter
-
-=== Rendre le gameplay de Olivander plus actif
-
-=== Elfe de maison, déplacement des joueurs pour récupérer la carte
-
-=== Arbalète d'hagrid, formulation
-
-=== Nerf négociateur mondingus
-
-=== Autre effet pour la banque de gringotts 
-
-== Harry Potter #2
-
-=== Maitre des potions : Quelque chose pour remplacer la potion tue-loup
 
 == Autres
 
 === Carte piège à loup (1 blessure lors d'un vol)
 
-== Archétype des parties à compléter
-
 == Idée de "boss fights" ? (Univers parallèle où Dumbledore serait méchant, contre Cthulhu) - Edition à part ?
-
-= Règles
-
-== Comptage des points, au moins le template avec ce qui existe déjà même sans valeur définitive (+ retour Thibault)
 
 = Autres
 
