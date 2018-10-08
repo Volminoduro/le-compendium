@@ -38,7 +38,7 @@
 
   * Tyler Durden : Idée de blessures communes, quêtes différentes et le jeu se ferait en différé ?
 
-  * Un personne avec une compétence de transfer du corps : échanger votre carte perso + toutes les cartes (sauf la quête) contre celle d'un autre
+  * Un personne avec une compétence de transfer du corps : échanger votre carte perso + toutes les cartes contre celle d'un autre, et la quête s'il le désire (sans le montrer)
 
 
 * Un personnage qui se scarifie pour gagner un <i>Sang</i>.
