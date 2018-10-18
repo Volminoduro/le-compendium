@@ -15,12 +15,12 @@
 |=======
 |Type de cartes |Nombre souhaité minimum |Harry Potter (score de complétion) |Conte (score de complétion)
 |Personnages |18 |18 (18) |8 (0)
-|Consommables |24 |24 (24) |6 (0)
-|Lieux |18 |18 (18) |2 (0)
-|Equipement : Tête |9 |9 (9) |0 (0)
-|Equipement : Corps |9 |8 (8) |0 (0)
-|Equipement : Accessoires |18 |18 (18) |8 (0)
-|Equipement : Arme |9 |9 (9) |1 (0)
+|Consommables |24 |24 (24) |8 (0)
+|Lieux |18 |18 (18) |3 (0)
+|Equipement : Tête |9 |9 (9) |1 (0)
+|Equipement : Corps |9 |9 (9) |0 (0)
+|Equipement : Accessoires |18 |18 (18) |10 (0)
+|Equipement : Arme |9 |9 (9) |2 (0)
 |=======
 
 Cartes retournement, quid ?
