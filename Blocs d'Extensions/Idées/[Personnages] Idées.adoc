@@ -45,6 +45,8 @@
 
 * Un personnage qui se spécialise dans la défense ?
 
+* Un personnage qui puisse annuler les effets (buff permanents) d'un consommable
+
 Liste lecture :
 - Bel Ami ?
 - 1984 ?
