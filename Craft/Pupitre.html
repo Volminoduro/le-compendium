@@ -91,28 +91,28 @@
     .pattern-milieu{
         position:absolute;
         top: 512px;
-        width: 1500px;
+        width: 1100px;
+        left : 400px;
     }
 
     .pattern-milieu > img{
-        width: 1500px;
+        width: 1092px;
         height: 50px;
     }
 
     .station-déroulement-tour{        
         position: absolute;
         width: 350px;
-        height: 475px;
+        height: 540px;
         border: 1px solid black;
-        background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-        font-size: 14px;
+        font-size: 13px;
         
-        top: 575px;   
+        top: 512px;   
         left: 15px;     
     }
 
     .station-déroulement-tour > ul {
-        margin-left: -10px;
+        margin-left: -15px;
     }
 
     .station-déroulement-tour > ul > ul > li {
@@ -209,11 +209,11 @@
 
             <div class="station-déroulement-tour">
                 <ul style="margin-left: -10px;">
-                    <li><b>Début de tour.</b></li>
+                    <li><b>Phase de début de tour.</b></li>
                     <ul>
                         <li>Activation des <strong>effets</strong> de début de tour.</li>
                     </ul>
-                    <li><b>Déplacement</b></li>
+                    <li><b>Phase de déplacement</b></li>
                     <ul>
                         <li>Lancez le <strong>d4</strong> et le <strong>d3</strong>, additionner les deux résultats, puis avancez d'autant de cases dans la direction souhaitée.</li>
                         <ul>
@@ -221,12 +221,19 @@
                         </ul>
                         <li>Activer l'effet de la case où vous arrivez (cf. Cases).</li>
                     </ul>
-                    <li><b>Phase d'action (dans n'importe quel ordre)</b></li>
+                    <li><b>Phase d'action 1</b></li>
                     <ul>
-                        <li>Attaque (1 fois).</li>
                         <li>Utilisation à volonté d'objets, de <u><strong>compétences</strong></u>, d'échange de cartes <i>Equipements</i> / <i>Consommables</i>, etc.</li>
                     </ul>
-                    <li><b>Fin de tour.</b></li>
+                    <li><b>Phase d'attaque</b></li>
+                    <ul>
+                        <li>Vous pouvez attaquer n'importe quel autre personnage à portée (1 fois).</li>
+                    </ul>
+                    <li><b>Phase d'action 2</b></li>
+                    <ul>
+                        <li>Utilisation à volonté d'objets, de <u><strong>compétences</strong></u>, d'échange de cartes <i>Equipements</i> / <i>Consommables</i>, etc.</li>
+                    </ul>
+                    <li><b>Phase de fin de tour.</b></li>
                     <ul>
                         <li>Activation des <strong>effets</strong> en fin de tour.</li>
                         <li>Vous ne devez avoir que 2 cartes en main maximum.</li>
