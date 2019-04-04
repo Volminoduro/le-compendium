@@ -8,22 +8,22 @@
 
 = Summary
 
-= Nombre de cartes par extension
+= Nombre de cartes par collection
 
-* Nombre de joueurs par extension : 6 joueurs max.
+* Nombre de joueurs par collection : 6 joueurs max.
 
 |=======
-|Type de cartes |Nombre souhaité minimum |Harry Potter (score de complétion) |Conte (score de complétion)
-|Personnages |18 |18 (18) |8 (0)
-|Consommables |24 |24 (24) |8 (0)
-|Lieux |18 |18 (18) |3 (0)
-|Equipement : Tête |9 |9 (9) |1 (0)
-|Equipement : Corps |9 |9 (9) |0 (0)
-|Equipement : Accessoires |18 |18 (18) |10 (0)
-|Equipement : Arme |9 |9 (9) |2 (0)
+|Type de cartes |Nombre souhaité minimum |Harry Potter |Conte
+|Personnages |18 |18 |18
+|Consommables |18 |24 |18
+|Lieux |12 |18 |12
+|Equipement : Tête |9 |9 |9
+|Equipement : Corps |9 |9 |9
+|Equipement : Accessoires |18 |18 |18
+|Equipement : Arme |9 |9 |9
 |=======
 
-Cartes retournement, quid ?
+Cartes renversement, quid ?
 
 = Formules de calcul
 
@@ -38,13 +38,14 @@ Cartes retournement, quid ?
 
 * Il faut permettre aux joueurs d'avoir deux cartes en main.
 ** Ce qui fait 12 consommables au maximum dans toutes les mains.
-** Ce qui fait un total de 24 consommables, compte tenu d'un multiplicateur de 2 pour le recyclage car les consommables seront beaucoup utilisés.
-* Au total : 24 consommables.
+** Multiplicateur de 1.5 pour le recyclage.
+* Au total : 18 consommables.
 
 == Lieux
 
 * Certains peuvent rester actifs pendant un ou plusieurs tours.
-* 18 lieux, car il y a deux cases Lieux. Et il y a 6 joueurs, en exagérant on peut imaginer que les joueurs font tous les lieux en 2 tours. Il faut donc un peu de rotation possible, mais pas trop pour éviter de composer avec tellement de Lieux que leur apparition paraît unique. [Chiffre à revoir après beta-test.]
+* Il faut que le nombre de lieux soit suffisament important pour ne pas tous les visiter en deux tours (on peut imager 3 visites par tour à 6 joueurs), mais pas trop afin que les joueurs en fassent quand même le tour.
+* Au total : 12 lieux.
 
 == Equipement : Tête, Corps, Accessoires et Armes.
 
@@ -52,3 +53,9 @@ Cartes retournement, quid ?
 ** Ce qui fait 6 équipements à procurer pour chaque joueur et à chaque emplacement (12 équipements pour les accessoires, puisque 2 emplacements).
 ** Ce qui fait un total de 9 équipements par emplacement, compte tenu d'un coefficient de 1.5 pour le recyclage (d'autant plus avec la défausse éternelle du marchand) et 18 pour les accessoires.
 * Au total : 9 Tête, 9 Corps, 9 Armes et 18 Accessoires.
+
+=== Critère de qualités
+
+* Il y a 4 types de qualités possibles pour les objets. Il faut que cela soit équilibré en terme de valeur apportée à la vente.
+* Si possible : il y devrait y avoir autant d'Equipements de chaque catégorie quand ils sont non-légendaires.
+* Exemple : j'ai 3 accessoires légendaires dans ma collection, je devrais avoir au minimum 2 objet de chaque catégorie restante (commune, rare, épique), puisque 9 - 3 (nombre de légendaire) = 6 / 3 (le nombre de catégorie restante) = 2

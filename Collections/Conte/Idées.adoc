@@ -1,0 +1,21 @@
+<div class="card">
+    <div class="contour-de-carte">
+        <div class="fond-de-carte">
+            <div class="name personnage-protagoniste">Le petit prince<span class="icon"><img src="./Images/icone.png" /></span></div>
+            <div class="image" style="background-image: url(Images/Personnages/tom-jedusor.jpg);"></div>
+            <div class="type"><span>Protagoniste</span><span>0 Blessures</span></div>
+            <div class="description">
+                <ul class="liste">
+                    <li><span><strong>Apprivoisement :</strong> lors d'une attaque visant Le petit prince, ce dernier peut imposer à l'attaquant de lancer un D6. Si le résultat est strictement inférieur à 4, l'attaque n'a pas lieu.</span></li>
+                </ul>
+            </div>
+            <div class="quote">«»</div>
+        </div>
+    </div>
+</div>
+
+Lieu : 
+
+* Tableau du chapelier fou : le découvreur du lieu tire un dé, selon le résultat tout le monde soigne ou subit une blessure.
+
+* Bottes : lancez deux fois les dés pour se déplacer et le plus grand résultat est gardé.

@@ -11,7 +11,7 @@
 
 * Parodier le contenu pour la légalité
 * Réimprimer consommable pour le sous type bien orthographié
-* Une extension spécialement faite par Twitch ?
+* Une collection spécialement faite par Twitch ?
 
 = Betatest
 
@@ -28,8 +28,6 @@
 = Gameplay
 
 == Autres
-
-=== Carte piège à loup (1 blessure lors d'un vol)
 
 == Idée de "boss fights" ? (Univers parallèle où Dumbledore serait méchant, contre Cthulhu) - Edition à part ?
 
@@ -51,11 +49,11 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 
 === Cartonné
 
-== Deck-box peu coûteuse à l'effigie de l'extension
+== Deck-box peu coûteuse à l'effigie de l'collection
 
 === Design Harry-Potter
 
-=== Design Extension de Base
+=== Design Collection de Base
 
 == Dés
 

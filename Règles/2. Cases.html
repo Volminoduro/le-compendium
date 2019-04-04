@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <title>Titre de la page</title>
-    <link rel="stylesheet" href="../Blocs d'Extensions/Extension de base/style.css">
+    <link rel="stylesheet" href="../Blocs d'Collections/Collection de base/style.css">
     <link rel="stylesheet" href="./style.css">
     </head>
     <body>
@@ -27,32 +27,30 @@
         <h2>2 cases "Lieux"</h2>
 
         <ul>
-            <li>Ces deux cases permettent de piocher la carte <i>Lieux</i> au-dessous de la case.</li>
-            <ul>
-                <li>Lorsque cela est fait, vous devez remettre une carte de la pile <i>Lieux</i> face cachée au-dessous de la case.</li>
-            </ul>            
+            <li>Ces deux cases permettent de piocher de la pile "Lieu".</li>
         </ul>
 
         <h2>2 cases "Marchand"</h2>
 
         <ul >
-            <li>Cela permet de payer, via vos Blessures ou vos <i>Equipements</i> (équipés ou dans votre main), des <i>Equipements</i> auprès du marchand.</li>
+            <li>Cela permet d'acheter des <i>Equipements</i> auprès du marchand.</li>
             <li>Le paiement se fait au regard de tous, donc les cartes vendues sont montrées, l'équipement reçu en revanche est face cachée et seul l'acheteur le connaît.</li>
             <li>Vous n'avez qu'une seul phase d'achat par tour durant laquelle vous pouvez acheter plusieurs d'équipement.</li>
+            <li>Vous pouvez obtenir plusieurs objets lors d'une seule phase d'achat, par exemple si vous payez pour 2 blessures au Marchand de sang.</li>
             <li>Le stock de chaque marchand est déterminé de la façon suivante : taille du stock = nombre de joueurs x 1.5 (arrondi à l'unité supérieur). Il vous suffit de piocher autant de cartes de la pile d'<i>Equipements</i> au début de la partie.</li>
         </ul>
 
         <h3>Marchand d'or</h2>
 
         <ul>
-            <li>Prix fixe à 2 points d'<i>Equipement</i>.</li>
-            <li>Les légendaires ne peuvent pas être troqués. Les autres équipements troqués auprès du marchand sont défaussés définitivement (à ne pas mettre dans la pile de défausse habituelle).</li>
+            <li>Le prix est de 2 points d'<i>Equipement</i>.</li>
+            <li>Les équipements légendaires ne peuvent pas être troqués. Les autres équipements troqués auprès du marchand sont <strong>exilés</strong>.</li>
         </ul>
 
         <h3>Marchand de sang</h2>
 
         <ul>
-            <li>Le prix fixé est de 1 Blessures.</li>
+            <li>Le prix est de 1 Blessure.</li>
             <li>Vous ne pouvez acheter auprès de ce marchand si cela devrait vous tuer (si vous êtes au <i>SdM</i>, par exemple).</li>
         </ul>
 
@@ -66,11 +64,24 @@
             </ul>            
         </ul>
 
+        <h2>2 cases "Position"</h2>
+
+        <h3>Sheol</h3>
+        <ul>
+            <li>Vous disposez une portée illimitée tant que vous êtes sur cette case. Vos attaquants disposent également une portée illimitée.</li>
+        </ul>
+
+        <h3>Araboth</h3>
+        <ul>
+            <li>Vous ne pouvez attaquer et on ne peut vous attaquer tant que vous êtes sur cette case.</li>
+        </ul>
+
+        <h1>Annulé</h1>
         <h2>2 cases "Déplacement +1 | -1"</h2>
 
         <ul>
-            <li>Une case : vous fait reculer d'une case (retourner à la case précédente).</li>
-            <li>Une case : vous fait avancer d'une case supplémentaire (progresser à la case suivante).</li>
+            <li>Ellipse : vous fait reculer d'une case (retourner à la case précédente).</li>
+            <li>Analepse : vous fait avancer d'une case supplémentaire (progresser à la case suivante).</li>
         </ul>
         
     </body>
