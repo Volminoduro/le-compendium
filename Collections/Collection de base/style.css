@@ -59,6 +59,29 @@ div.titre-reduit{
 	letter-spacing: -0.1mm;
 }
 
+.mot-cle{
+	font-weight: bold;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.mot-cle-incolore{
+	font-weight: bold;
+}
+
+.mot-cle-sombre{
+	font-weight: bold;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.mot-cle-clair{
+	font-weight: bold;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.personnage{
+	color: grey;
+}
+
 .personnage-antagoniste{
 	color: black;
 }
@@ -69,6 +92,10 @@ div.titre-reduit{
 
 .personnage-protagoniste{
 	color: white;
+}
+
+.equipement{
+	color: saddleBrown;
 }
 
 .equipement-commun{
@@ -91,8 +118,16 @@ div.titre-reduit{
 	color: darkblue;
 }
 
-.lieux{
+.lieu{
 	color: rgb(4, 149, 62);
+}
+
+.larcin{
+	color: lightpink;
+}
+
+.marchand{
+	color: gold;
 }
 
 .renversement{
@@ -101,6 +136,23 @@ div.titre-reduit{
 
 .quete{
 	color: teal;
+}
+
+.soin{
+	color: darkgreen;
+}
+
+.blessure{
+	color: #af111c;
+}
+
+.actif{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.passif{
+	font-weight: bold;
 }
 
 span.icon{
@@ -196,6 +248,10 @@ div.description.grand-format{
 
 .liste.sous-liste > li {
     margin-left:7.94mm;
+}
+
+.sous-sous-liste > li {
+    margin-left:10mm;
 }
 
 div.quote {
