@@ -285,7 +285,7 @@ div.contour-de-carte.petit-format{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
 	padding:1mm;
 	min-height: 62mm;
-    min-width: 87mm;	
+    min-width: 87mm;
 }
 
 div.fond-de-carte.petit-format{
@@ -301,11 +301,9 @@ span.icon.petit-format{
 
 div.description.petit-format{
 	width: 87mm;
-	height: 54mm;	
+	height: 45mm;
 	font-size: 4mm;
 	text-align: center;
-	display: table-cell;
-	vertical-align: middle;
 }
 
 div.description.petit-format > p {
@@ -315,9 +313,27 @@ div.description.petit-format > p {
 
 div.description.petit-format > p.unique {
 	margin: 0mm;
+	font-size: 5mm;
+	padding-top: 15mm;
 }
 
 div.description.petit-format > p.condition-renversement{
 	margin: 0mm;
+	padding-top: 10mm;
+	height: 12.5mm;
 }
 
+div.description.petit-format > p.action-renversement{
+	margin: 0mm;
+	padding-top: 5mm;
+	height: 17.5mm;	
+}
+
+.quote-petit-format{
+	width: 87mm;
+	height: 10mm;	
+	font-size: 3.5mm;
+	text-align: center;
+	vertical-align: middle;
+    font-style: italic;
+}
