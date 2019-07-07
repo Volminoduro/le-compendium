@@ -301,7 +301,7 @@ span.icon.petit-format{
 
 div.description.petit-format{
 	width: 87mm;
-	height: 45mm;
+	height: 42.5mm;
 	font-size: 4mm;
 	text-align: center;
 }
@@ -331,7 +331,7 @@ div.description.petit-format > p.action-renversement{
 
 .quote-petit-format{
 	width: 87mm;
-	height: 10mm;	
+	height: 12.5mm;	
 	font-size: 3.5mm;
 	text-align: center;
 	vertical-align: middle;
