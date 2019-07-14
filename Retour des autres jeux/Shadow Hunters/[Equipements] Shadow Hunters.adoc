@@ -18,7 +18,7 @@
 = Cartes Monastère
 
 * 6 cartes :
-** 1 carte récupéré tous les équipement lorsqu'on tue
+** 1 carte récupéré tous les steuf lorsqu'on tue
 ** Vos attaques font 1 dgt de moins et vous réduisez les blessures de 1
 ** Lancez les dés 2 fois pour se déplacer
 ** Aucune blessure de la part de certains consommable cimetière

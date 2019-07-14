@@ -1,0 +1,8 @@
+* Machine à voyager dans le temps : jouer un tour supplémentaire au prix d'un point de santé maximale. Perte définitive.
+
+https://fr.wikipedia.org/wiki/La_Patte_de_singe
+* Se retrouver au seuil de la mort ?
+
+* https://fr.wikipedia.org/wiki/Poignard_subtil Æsahættr (Arme - Légendaire - 1 PO) :
+  ** Après vous êtes déplacé, si vous le souhaitez, lancez le dé à 3 faces. Si le résultat est 3, vous disposez d'une portée infinie.
+  ** Au moment de l'attaque, si vous le souhaitez, lancez le dé à 4 faces. Si le résultat est 4, le défenseur subira une blessure qu'importe l'issue du combat (peut s'additionner à la blessure du combat).

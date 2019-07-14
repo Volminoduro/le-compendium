@@ -13,7 +13,7 @@ Pouvoir :
 
 * Tout le monde soigne 1 blessure
 * Tout le monde subit 1 PDS
-* Le joueur avec le meilleur score d'équipement donne à celui avec le plus bas
-* Le joueur désigné le plus fort par tous les autres joueurs perds l'équipement désigné par tout le monde. En cas d'égalité de vote, celui qui est tombé sur ce lieu a son vote qui compte double.
+* Le joueur avec le meilleur score d'steuf donne à celui avec le plus bas
+* Le joueur désigné le plus fort par tous les autres joueurs perds l'steuf désigné par tout le monde. En cas d'égalité de vote, celui qui est tombé sur ce lieu a son vote qui compte double.
 
 * Tous les échanges doivent se faire face cachée, les personnages peuvent donc mentir.

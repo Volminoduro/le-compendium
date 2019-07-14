@@ -95,23 +95,23 @@ div.titre-reduit{
 	color: white;
 }
 
-.equipement{
+.steuf{
 	color: saddleBrown;
 }
 
-.equipement-commun{
+.steuf-commun{
 	color: rgb(255, 255, 255);
 }
 
-.equipement-rare{
+.steuf-rare{
 	color: rgb(0, 112, 221);
 }
 
-.equipement-epique{
+.steuf-epique{
 	color: rgb(163, 53, 238);
 }
 
-.equipement-legendaire{
+.steuf-legendaire{
 	color: rgb(205, 126, 67);
 }
 

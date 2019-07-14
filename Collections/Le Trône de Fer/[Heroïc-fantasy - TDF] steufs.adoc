@@ -1,0 +1,17 @@
+Arme :
+* Epique :
+  ** Aiguille :
+    *** Vos attaques passent au travers des réductions de dégâts au corps à corps.
+
+Corps :
+* Rare :
+  ** Armure en plaque :
+    *** Les dégâts infligés sont réduis de 2, vous infligez 1 dégât de moins au corps à corps.
+
+
+    *** Collier de Mélisandre
+
+
+* Accessoire : permettrait de "fake" l'utilisation d'un item équipé en préférant un autre dans sa main, cette sélection est permanente. Pour ôter l'ancrage de l'item, il défausser l'item ou l'équiper. Une fois que l'ancrage est levé, on peut utiliser son item équipé ou en choisir un nouveau dans sa main.
+
+* Steuf avec traitrise : vous achève lorsque vous êtes au seuil de la mort.

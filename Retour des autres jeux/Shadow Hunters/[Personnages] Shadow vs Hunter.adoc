@@ -18,9 +18,9 @@
 
 = Cartes Neutre
 
-- A la mort définitive d'un personnage, vous récupérez tous ses équipements (au lieu d'un seul).
-- Lorsque vous infligez 2 blessures de combat à un personnage, vous pouvez lui voler une carte équipement au lieu d'infliger des blessures.
-- Récuperer une carte de la défausse de la pile équipement.
+- A la mort définitive d'un personnage, vous récupérez tous ses steufs (au lieu d'un seul).
+- Lorsque vous infligez 2 blessures de combat à un personnage, vous pouvez lui voler une carte steuf au lieu d'infliger des blessures.
+- Récuperer une carte de la défausse de la pile steuf.
 - Soignez toutes les blessures.
 - Après votre attaque, vous pouvez vous infliger 2 blessures afin d'attaquer de nouveau le même joueur.
 - Guérissez de 1 au début de votre tour.

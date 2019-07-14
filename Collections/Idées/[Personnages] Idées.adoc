@@ -26,7 +26,7 @@
   * Sacrification belliqueuse : vous subissez une blessure, la cible de votre choix, autre que vous, subit également une Blessure. Peut être fait à volonté pendant votre tour. Ne peut achever la cible ni vous tuer vous-même.
 
 * X
-  ** Les équipements n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
+  ** Les steufs n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
   ** Vous pouvez lancez les deux dés pour attaquer ou vous défendre.
 * X
   ** Vous ne pouvez pas être soigné ou augmenter votre nombre de Blessures maximales de la partie.
