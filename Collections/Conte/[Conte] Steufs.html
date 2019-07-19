@@ -88,9 +88,9 @@
                                     <ul class="liste sous-liste">
                                             <li><span>Défaussez le <span class="mot-cle-sombre steuf">Steuf</span> de Tête.</span></li>
                                             <li><span>Subissez immédiatement une <span class="mot-cle-sombre blessure">blessure</span>.</span></li>
-                                            <li><span>Défaussez de votre main.</span></li>
+                                            <li><span>Défaussez votre main.</span></li>
                                     </ul>
-                                    <li><span>Vous ne pouvez choisir une option avec une issue impossible, ex. : défausser votre main avec aucune carte en main (<i>on vous voit venir</i>).</span></li>
+                                    <li><span>Vous ne pouvez choisir une option sans conséquence, ex. : défausser votre main avec aucune carte en main (<i>on vous voit venir</i>).</span></li>
                             </ul>
                         </div>
                         <div class="quote">«Vous ne pensiez pas possible de rendre des personnes malades simplement avec de la musique.»</div>
@@ -105,7 +105,7 @@
                         <div class="type"><span>Accessoire commun</span></div>
                         <div class="description">
                             <ul class="liste">
-                                <li><span><span class="passif">Omnivore spéciste :</span> les <span class="mot-cle-sombre steuf">Steufs</span> doté de l'<span class="passif">effet Compagnon</span> que vous détruisez vous donnent un jeton <span class="mot-cle-incolore">Viande</span>.</span></li>
+                                <li><span><span class="passif">Omnivore spéciste :</span> les <span class="mot-cle-sombre steuf">Steufs</span> avec l'<span class="passif">effet Compagnon</span> que vous détruisez vous donnent un jeton <span class="mot-cle-incolore">Viande</span>.</span></li>
                                 <ul class="liste sous-liste">
                                     <li><span>Un jeton <span class="mot-cle-incolore">Viande</span> peut être consommé à tout moment pour guérir une <span class="mot-cle-sombre blessure">blessure</span>.</span></li>
                                     <li><span>Un jeton <span class="mot-cle-incolore">Viande</span> peut être vendu pour 1 point de <span class="mot-cle-sombre steuf">Steuf</span>.</span></li>
@@ -261,7 +261,11 @@
                         <div class="type"><span>Accessoire épique</span></div>
                         <div class="description">
                             <ul class="liste">
-                                <li><span><span class="passif">Disparition :</span> -1 portée à vos attaquants.</span></li>
+                                <li><span><span class="passif">«Ah, mais ch'est chiant !» :</span></span></li>
+                                <ul class="liste sous-liste">
+                                    <li><span>Vous pouvez relancer votre jet de défense une deuxième fois.</span></li>
+                                    <li><span>Le résultat du premier jet est annulé.</span></li>
+                                </ul>                                
                                 <li><span class="passif">Compagnon (1 <span class="mot-cle-sombre blessure">blessure</span>)</span></li>
                             </ul>
                         </div>
@@ -339,7 +343,7 @@
                                 <li><span class="passif">«On fait comme si ça n'existait pas» :</span></li>
                                 <ul class ="liste sous-liste">
                                     <li><span>Lorsque vous attaquez ou vous vous défendez.</span></li>
-                                    <li><span>Vous pouvez annuler les <span class="passif">passifs</span> d'un <span class="mot-cle-sombre steuf">Steuf</span> de l'attaquant ou du défendeur jusqu'au début de votre prochain tour.</span></li>
+                                    <li><span>Vous pouvez annuler les <span class="passif">passifs</span> d'un <span class="mot-cle-sombre steuf">Steuf</span> de l'attaquant ou du défenseur jusqu'au début de votre prochain tour.</span></li>
                                 </ul>
                             </ul>
                         </div>
@@ -496,7 +500,7 @@
                         <div class="type"><span>Arme épique</span></div>
                         <div class="description">
                             <ul class="liste">
-                                <li><span>+1 de défense au corps-à-corps.</span></li>                    
+                                <li><span>+1 d'attaque au corps-à-corps.</span></li>                    
                             </ul>
                         </div>
                         <div class="quote">«A dire vrai, vous voyez à peine ce qui est devant vous.»</div>
@@ -697,7 +701,7 @@
                         <div class="type"><span>Corps épique</span></div>
                         <div class="description">
                                 <ul class="liste">     
-                                    <li><span><span class="passif">Vraiment léger :</span> vous donne le droit d'équiper un autre <span class="mot-cle-sombre steuf">Steuf</span> de Corps.</span></li>                      
+                                    <li><span><span class="passif">Vraiment léger :</span> vous donne le droit d'équiper un autre <span class="mot-cle-sombre steuf">Steuf</span> de <i>Corps</i>.</span></li>                      
                                 </ul>
                         </div>
                         <div class="quote">«Si léger que vous avez l'impression d'être nu. Vérifiez quand même, au cas où.»</div>
@@ -769,7 +773,17 @@
                         <div class="type"><span>Tête commune</span></div>
                         <div class="description">
                             <ul class="liste">
-                                <li><span><span class="passif">Maux de dos :</span> votre <i>phase de déplacement</i> se fait uniquement avec le d3.</span></li>
+                                <li><span><span class="passif">Laisser-passer seugnerial :</span></span></li>
+                                <ul class ="liste sous-liste">
+                                        <li><span>Lors de votre <i>phase de déplacement</i>.</span></li>
+                                        <li><span>Ne lancez plus les dés pour vous déplacer.</span></li>
+                                        <li><span>Vous pouvez vous déplacez de 1 à 6 cases, à votre choix.</span></li>
+                                    </ul>
+                                <li><span><span class="passif">Maux de dos :</span></span></li>
+                                <ul class ="liste sous-liste">
+                                    <li><span>Lors de votre <i>phase de déplacement</i>.</span></li>
+                                    <li><span>Au bout de 3 cases parcourues, chaque case supplémentaire vous fera subir immédiatement une <span class="mot-cle-sombre blessure">blessure</span>.</span></li>
+                                </ul>
                             </ul>
                         </div>
                         <div class="quote">«Il faut souffrir pour être reine.»</div>
@@ -794,7 +808,37 @@
             <div class="card">
                 <div class="contour-de-carte">
                     <div class="fond-de-carte">
-                        <div class="name steuf-commun">Coupe mulet de Djayzon<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="name steuf-commun">Poux de tête<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Steufs/poux.jpg);"></div>
+                        <div class="type"><span>Tête commune</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span><span class="passif">Petites bêtes... :</span> .</span></li>
+                                <ul class="sous-liste">
+                                        <li><span>Vous êtes obligé d'équiper <span class="mot-cle-clair steuf-commun">Poux de tête</span> quand vous le piochez.</span></li>
+                                        <li><span>Vous donne le droit d'équiper un autre <span class="mot-cle-sombre steuf">Steuf</span> de <i>Tête</i>.</span></li>
+                                        <li><span>Ne peut être vendu, défausser ou volé.</span></li>
+                                    </ul>
+                                <li><span><span class="passif">...insupportables... :</span></span></li>
+                                <ul class="sous-liste">
+                                    <li><span>Si vous n'avez attaqué aucun <span class="mot-cle-clair personnage">Personnage</span> pendant votre tour.</span></li>
+                                    <li><span>Vous vous infligez une <span class="mot-cle-sombre blessure">blessure</span> à la fin de votre tour.</span></li>
+                                </ul>
+                                <li><span><span class="passif">...et sauteuses :</span></span></li>
+                                <ul class="sous-liste">
+                                        <li><span>Lorsque vous attaquez un <span class="mot-cle-clair personnage">Personnage</span> en ayant <span class="mot-cle-clair steuf-commun">Poux de tête</span> d'équipé.</span></li>
+                                        <li><span>Ce personne devra s'équiper d'un jeton <span class="mot-cle-clair steuf-commun">Poux de tête</span>.</span></li>
+                                    </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«Pour une fois, c'est bien la petite bête qui est en train de bouffer la grosse.»</div>
+                    </div>                               
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name steuf-rare">Coupe mulet de Djayzon<span class="icon"><img src="./Images/icone.png" /></span></div>
                         <div class="image" style="background-image: url(Images/Steufs/coupe_mulet.jpg);">
                             <div class="conteneur-bonus">
                                 <div class="conteneur-bonus bonus">
@@ -803,7 +847,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="type"><span>Tête commune</span></div>
+                        <div class="type"><span>Tête rare</span></div>
                         <div class="description">
                             <ul class="liste">
                                 <li><span>Vous avez l'air ridicule avec cette coupe.</span></li>
@@ -811,21 +855,6 @@
                             </ul>
                         </div>
                         <div class="quote">«Votre copain Djayzon va à la salle de musculation tous les jours. Porter ses cheveux vous fait sentir plus fort, curieusement.»</div>
-                    </div>                               
-                </div>
-            </div>
-            <div class="card">
-                <div class="contour-de-carte">
-                    <div class="fond-de-carte">
-                        <div class="name steuf-rare">Casque qui-prends-la-tête<span class="icon"><img src="./Images/icone.png" /></span></div>
-                        <div class="image" style="background-image: url(Images/Steufs/casque_prends_tete.jpg);"></div>
-                        <div class="type"><span>Tête rare</span></div>
-                        <div class="description">
-                            <ul class="liste">
-                                <li><span><span class="passif">Logorrhée :</span> -1 de portée à vos attaquants.</span></li>
-                            </ul>
-                        </div>
-                        <div class="quote">«Qui a eu l'idée saugrenue d'enchanter un casque pour qu'il puisse parler ?»</div>
                     </div>                               
                 </div>
             </div>
@@ -857,7 +886,7 @@
                                 <li><span class="passif">Inadapté :</span></li>
                                 <ul class="sous-liste">
                                     <li><span>Equiper <span class="mot-cle-sombre steuf-rare">Dent de narval terrien</span> vous inflige 1 <span class="mot-cle-sombre blessure">blessure</span>.</span></li>
-                                    <li><span>Déséquiper <span class="mot-cle-sombre steuf-rare">Dent de narval terrien</span> alors qu'il est équipé vous inflige 1 <span class="mot-cle-sombre blessure">blessure</span> (vol, vente, etc., compris).</span></li>
+                                    <li><span>Déséquiper <span class="mot-cle-sombre steuf-rare">Dent de narval terrien</span> vous inflige 1 <span class="mot-cle-sombre blessure">blessure</span> (vol, vente, etc.).</span></li>
                                 </ul>
                                 <li><span class="passif">Perçant :</span></li>
                                 <ul class="sous-liste">
