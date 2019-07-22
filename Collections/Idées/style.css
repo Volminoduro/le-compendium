@@ -1,0 +1,339 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+/* TODO : Vérifier quels font sont pas utilisées ? */
+
+@page {
+	size: landscape;
+}
+
+body{
+    font-size: 3mm;
+    zoom: 100%;
+}
+
+#navBar {
+    width: 275mm;
+    border: 0.25mm solid #000000;
+    overflow: hidden;
+}
+
+.card {
+	margin: 1mm;
+	float: left;
+	width: 61mm;
+	height: 88mm;	
+}
+
+div.contour-de-carte{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
+    padding:1mm;
+    min-width: 60mm;
+	min-height: 87mm;
+}
+
+div.fond-de-carte{
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	min-width: 60mm;
+    min-height: 87mm;
+}
+
+div.name{
+	border-top: 0.25mm solid #000000;
+	border-bottom: 0.25mm solid #000000;
+	height: 7mm;
+	letter-spacing: 0.2mm;
+
+	line-height: 7mm;
+	font-size: 4mm;
+	font-family: 'Slabo 27px';
+	text-transform: capitalize;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	text-shadow: -0.25mm 0 black, 0 0.25mm black, 0.25mm 0 black, 0 -0.25mm black;
+}
+
+div.titre-reduit{
+	letter-spacing: -0.2mm;
+	font-size: 3.8mm;
+}
+
+.mot-cle{
+	font-weight: bold;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.mot-cle-incolore{
+	font-weight: bold;
+}
+
+.mot-cle-sombre{
+	font-weight: bold;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.mot-cle-clair{
+	font-weight: bold;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.personnage{
+	color: grey;
+}
+
+.personnage-antagoniste{
+	color: black;
+}
+
+.personnage-neutre{
+	color: grey;
+}
+
+.personnage-protagoniste{
+	color: white;
+}
+
+.steuf{
+	color: saddleBrown;
+}
+
+.steuf-commun{
+	color: rgb(255, 255, 255);
+}
+
+.steuf-rare{
+	color: rgb(0, 112, 221);
+}
+
+.steuf-epique{
+	color: rgb(163, 53, 238);
+}
+
+.steuf-legendaire{
+	color: rgb(205, 126, 67);
+}
+
+.consommable{
+	color: darkblue;
+}
+
+.lieu{
+	color: rgb(4, 149, 62);
+}
+
+.larcin{
+	color: lightpink;
+}
+
+.marchand{
+	color: gold;
+}
+
+.renversement{
+	color: indigo;
+}
+
+.quete{
+	color: teal;
+}
+
+.soin{
+	color: darkgreen;
+}
+
+.blessure{
+	color: #af111c;
+}
+
+.actif{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.passif{
+	font-weight: bold;
+}
+
+span.icon{
+	float: right;
+	border-radius: 50%;
+	width: 7mm;
+	height: 7mm;
+}
+
+span.icon > img {
+	width: 100%;
+	height: 100%;
+}
+
+div.image {
+	height: 19mm;
+    width: 60mm;
+    background-size: 60mm 19mm;
+    overflow: hidden;    
+}
+
+.conteneur-bonus{   
+	width: 42.33mm;
+	height: 6mm;
+	display:inline-block;
+	padding-left: 0.25mm;
+	padding-top: 0.25mm;
+ }
+
+.conteneur-bonus.bonus{
+    padding: 0mm;
+    width: 9mm;
+}
+
+.conteneur-bonus.bonus-type {
+    width: 7mm;
+	height: 100%;
+}
+
+.conteneur-bonus.bonus-montant {
+    width: 4.5mm;
+    height: 4.5mm;
+    margin-left: -3.97mm;
+}
+
+div.type {
+	font-family: 'IM Fell English SC', serif;
+	font-variant: small-caps;
+	font-weight: bold;
+	height: 5.29mm;
+	line-height: 5.29mm; 
+	vertical-align: middle;
+	border-top: 0.25mm solid #000000;
+    border-bottom: 0.25mm solid #000000;
+}
+div.type > span {
+	display: inline-block;
+	margin: 0.5mm;
+}
+
+div.type > span:first-child{
+	width: 70%;
+}
+
+div.description {
+	font-family: 'Times New Roman', serif;
+	font-size: 2.6mm;
+	text-align: justify;
+	height: 49.5mm;	
+	overflow-wrap: break-word;
+}
+
+div.description.grand-format{
+	padding: 0mm;
+	margin: 0mm;
+	height: 50mm;
+}
+
+.liste{
+    padding: 0.5mm;
+    margin: 0mm;
+	list-style-type: circle;
+}
+
+.liste > li {
+	margin-left: 5.29mm;
+}
+
+.liste > li > span {
+	position: relative;
+	left: -1.32mm; 
+}
+
+.liste.sous-liste > li {
+    margin-left:7.94mm;
+}
+
+.sous-sous-liste > li {
+    margin-left:10mm;
+}
+
+div.quote {
+	height: 5mm;
+	width: 80mm;
+	font-style: italic;
+	font-size:2.1mm;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+
+/********************/
+/*** PETIT FORMAT ***/
+/********************/
+
+#navBar-petit-format {
+    width: 275mm;
+	border: 0.25mm solid black;
+	overflow: hidden;
+}
+
+.card.petit-format {
+	height: 63mm;
+	width: 88mm;
+}
+
+div.contour-de-carte.petit-format{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
+	padding:1mm;
+	min-height: 62mm;
+    min-width: 87mm;
+}
+
+div.fond-de-carte.petit-format{
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
+	min-height: 62mm;
+	min-width: 87mm;
+}
+
+span.icon.petit-format{
+	width: 6mm;
+	height: 6mm;
+}
+
+div.description.petit-format{
+	width: 87mm;
+	height: 42.5mm;
+	font-size: 4mm;
+	text-align: center;
+}
+
+div.description.petit-format > p {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+div.description.petit-format > p.unique {
+	margin: 0mm;
+	font-size: 5mm;
+	padding-top: 15mm;
+}
+
+div.description.petit-format > p.condition-renversement{
+	margin: 0mm;
+	padding-top: 10mm;
+	height: 12.5mm;
+}
+
+div.description.petit-format > p.action-renversement{
+	margin: 0mm;
+	padding-top: 5mm;
+	height: 17.5mm;	
+}
+
+.quote-petit-format{
+	width: 87mm;
+	height: 12.5mm;	
+	font-size: 3.5mm;
+	text-align: center;
+	vertical-align: middle;
+    font-style: italic;
+}
