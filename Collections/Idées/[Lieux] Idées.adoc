@@ -15,5 +15,6 @@ Pouvoir :
 * Tout le monde subit 1 PDS
 * Le joueur avec le meilleur score d'steuf donne à celui avec le plus bas
 * Le joueur désigné le plus fort par tous les autres joueurs perds l'steuf désigné par tout le monde. En cas d'égalité de vote, celui qui est tombé sur ce lieu a son vote qui compte double.
+* Lotterie : tous ceux qui veulent peuvent sacrifier un Steuf / carte. Un dé 6 (?) est lancé, ceux qui ont autant de blessures peuvent piocher un Steuf du marchand d'or.
 
 * Tous les échanges doivent se faire face cachée, les personnages peuvent donc mentir.

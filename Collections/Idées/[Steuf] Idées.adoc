@@ -13,6 +13,7 @@ https://fr.wikipedia.org/wiki/Liste_d%27objets_de_fiction
 https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9p%C3%A9es_de_fiction
 
 * Arme :
+  ** Une blessure supplémentaire par personnage décédé dans la partie
   ** Augmente ses dégâts de 1 à chaque personnage adverse achevé.
   ** Boost dégâts, contrainte : obligé d'attaquer un personnage à chaque tour sinon vous inflige 1 blessure.
   ** Arme qui rajoute des points de charge au pouvoir de personnage ?
@@ -22,8 +23,11 @@ https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9p%C3%A9es_de_fiction
 
 * Accessoire :
   ** Chien de guerre : attaque à votre place pour une valeur fixe de 3 d'attaque.
+  ** ??? : les Retournements sont de nouveaux disponibles au prochain tour après utilisation
+  ** ??? : les Consommables sont de nouveaux disponibles au prochain tour après utilisation
 
 * Set :
   * Idée Thib : 4 objets (3 coiffe + 1 Arme par exemple), bonus à partir de 2 pièces. Donc possibilité de générer du conflit pour avoir l'arme.
 
 * Pvr attaquer avant de se déplacer ?
+
