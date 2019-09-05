@@ -6,3 +6,39 @@ Martin Mystère, Sonic, Totally Spies, Detective Conan, Jeanne et Serge, Heidi
 Steuf tête : coquille d'oeuf de calimero
 Stade de foot de la Nouvelle-Equipe (lieu) :
 Manba (personnage Cobra) : 
+
+
+<div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name steuf-epique">Tim<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Steufs/.jpg);"></div>
+                        <div class="type"><span>Accessoire épique</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span><span class="passif">Ennemi juré :</span> si un <span class="mot-cle-sombre personnage">Personnage</span> équipé de <span class="mot-cle-sombre steuf-epique">Perry</span> est à portée, vous êtes obligé de l'attaquer.</span></li>
+                                <li><span><span class="passif">XXX :</span> XXX.</span></li>
+                                <li><span class="passif">Compagnon (2 <span class="mot-cle-sombre blessure">blessures</span>)</span></li>
+                            </ul>
+                        </div>
+                        <div class="quote">«XXX.»</div>
+                    </div>   
+                </div>                            
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name steuf-epique">Perry<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Steufs/.jpg);"></div>
+                        <div class="type"><span>Accessoire épique</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span><span class="passif">Ennemi juré :</span> si un <span class="mot-cle-sombre personnage">Personnage</span> équipé de <span class="mot-cle-sombre steuf-epique">Tim</span> est à portée, vous êtes obligé de l'attaquer.</span></li>
+                                <li><span><span class="passif">XXX :</span> XXXX.</span></li>
+                                <li><span class="passif">Compagnon (1 <span class="mot-cle-sombre blessure">blessure</span>)</span></li>
+                            </ul>
+                        </div>
+                        <div class="quote">«XXX.»</div>
+                    </div>   
+                </div>                            
+            </div>
