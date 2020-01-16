@@ -22,30 +22,30 @@ body{
 .card {
 	margin: 1mm;
 	float: left;
-	width: 61mm;
-	height: 88mm;	
+	width: 68mm;
+	height: 120mm;	
 }
 
 div.contour-de-carte{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
-    padding:1mm;
-    min-width: 60mm;
-	min-height: 87mm;
+    padding: 1mm;
+    min-width: 67mm;
+	min-height: 119mm;
 }
 
 div.fond-de-carte{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	min-width: 60mm;
-    min-height: 87mm;
+	min-width: 67mm;
+    min-height: 119mm;
 }
 
 div.name{
 	border-top: 0.25mm solid #000000;
 	border-bottom: 0.25mm solid #000000;
-	height: 7mm;
-	letter-spacing: 0.2mm;
+	height: 10mm;
+	letter-spacing: 0.5mm;
 
-	line-height: 7mm;
+	line-height: 10mm;
 	font-size: 4mm;
 	font-family: 'Slabo 27px';
 	text-transform: capitalize;
@@ -56,8 +56,71 @@ div.name{
 }
 
 div.titre-reduit{
-	letter-spacing: -0.2mm;
+	letter-spacing: 0.1mm;
 	font-size: 3.8mm;
+}
+
+span.icon{
+	float: right;
+	border-radius: 50%;
+	width: 10mm;
+	height: 10mm;
+}
+
+span.icon > img {
+	width: 100%;
+	height: 100%;
+}
+
+div.image {
+	height: 25mm;
+    width: 67mm;
+    background-size: 67mm 25mm;
+    overflow: hidden;    
+}
+
+.conteneur-bonus{   
+	width: 42.33mm;
+	height: 6mm;
+	display:inline-block;
+	padding-left: 0.25mm;
+	padding-top: 0.25mm;
+ }
+
+.conteneur-bonus.bonus{
+    padding: 0mm;
+    width: 9mm;
+}
+
+.conteneur-bonus.bonus-type {
+    width: 7mm;
+	height: 100%;
+}
+
+.conteneur-bonus.bonus-montant {
+    width: 4.5mm;
+    height: 4.5mm;
+    margin-left: -3.97mm;
+}
+
+div.type {
+	font-family: 'IM Fell English SC', serif;
+	font-variant: small-caps;
+	font-weight: bold;
+	height: 5.29mm;
+	line-height: 5.29mm; 
+	vertical-align: middle;
+	border-top: 0.25mm solid #000000;
+    border-bottom: 0.25mm solid #000000;
+}
+
+div.type > span {
+	display: inline-block;
+	margin: 0.5mm;
+}
+
+div.type > span:first-child{
+	width: 70%;
 }
 
 .mot-cle{
@@ -156,73 +219,12 @@ div.titre-reduit{
 	font-weight: bold;
 }
 
-span.icon{
-	float: right;
-	border-radius: 50%;
-	width: 7mm;
-	height: 7mm;
-}
-
-span.icon > img {
-	width: 100%;
-	height: 100%;
-}
-
-div.image {
-	height: 19mm;
-    width: 60mm;
-    background-size: 60mm 19mm;
-    overflow: hidden;    
-}
-
-.conteneur-bonus{   
-	width: 42.33mm;
-	height: 6mm;
-	display:inline-block;
-	padding-left: 0.25mm;
-	padding-top: 0.25mm;
- }
-
-.conteneur-bonus.bonus{
-    padding: 0mm;
-    width: 9mm;
-}
-
-.conteneur-bonus.bonus-type {
-    width: 7mm;
-	height: 100%;
-}
-
-.conteneur-bonus.bonus-montant {
-    width: 4.5mm;
-    height: 4.5mm;
-    margin-left: -3.97mm;
-}
-
-div.type {
-	font-family: 'IM Fell English SC', serif;
-	font-variant: small-caps;
-	font-weight: bold;
-	height: 5.29mm;
-	line-height: 5.29mm; 
-	vertical-align: middle;
-	border-top: 0.25mm solid #000000;
-    border-bottom: 0.25mm solid #000000;
-}
-div.type > span {
-	display: inline-block;
-	margin: 0.5mm;
-}
-
-div.type > span:first-child{
-	width: 70%;
-}
-
 div.description {
 	font-family: 'Times New Roman', serif;
-	font-size: 2.6mm;
+	font-size: 3.5mm;
 	text-align: justify;
-	height: 49.5mm;	
+	padding-right: 1mm;
+	height: 66mm;	
 	overflow-wrap: break-word;
 }
 
@@ -256,13 +258,15 @@ div.description.grand-format{
 }
 
 div.quote {
-	height: 5mm;
+	height: 10mm;
 	width: 80mm;
 	font-style: italic;
-	font-size:2.1mm;
+	font-size:3mm;
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
+	padding-left: 0.5mm;
+    padding-right: 0.5mm;
 }
 
 
