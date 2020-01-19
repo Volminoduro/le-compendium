@@ -76,3 +76,11 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 ===== Voir format livre
 
 = Version Collector ?
+
+= Icônes
+
+== Personnage : vous, tous les autres, tous les Personnages
+
+== Actions : attaquer, défense, soin, blessure, piocher, défausser, vendre
+
+== Refaire îcone de cartes
