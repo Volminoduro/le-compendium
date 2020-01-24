@@ -163,19 +163,19 @@ div.type > span:first-child{
 }
 
 .steuf-commun{
-	color: rgb(255, 255, 255);
+	color: rgb(255, 255, 255); /* #ffffff */
 }
 
 .steuf-rare{
-	color: rgb(0, 112, 221);
+	color: rgb(0, 112, 221); /* #0070DD */
 }
 
 .steuf-epique{
-	color: rgb(163, 53, 238);
+	color: rgb(163, 53, 238); /* #A335EE */
 }
 
 .steuf-legendaire{
-	color: rgb(205, 126, 67);
+	color: rgb(205, 126, 67); /* #CD7E43 */
 }
 
 .consommable{
