@@ -14,8 +14,8 @@
     }
     
     .station-a4{
-        width: 1500px;
-        height: 1050px;                
+        width: 210mm;
+        height: 297mm;                
         border: 1px solid black;
         display:inline-block;
 
@@ -24,12 +24,10 @@
 
     .station-card{
         position: absolute;
-        width: 340px;
-        height: 475px;
+        width: 68mm;
+        height: 120mm;
         float: left;
-        border: 1px solid black;
-
-        
+        border: 1px solid black;        
         background-size: cover;
     } 
     
@@ -60,7 +58,7 @@
 
     .station-card.quete{
         top: 15px;
-        left: 400px;
+        left: 15px;
         background-image: url("./Images/background-quete.jpg");
     }
 
@@ -80,12 +78,12 @@
 
     .station-card.steuf.tete{
         top: 15px;
-        left: 775px;
+        left: 280px;
     }
 
     .station-card.steuf.corps{
         top: 15px;
-        left: 1150px;
+        left: 540px;
     }
 
     .pattern-milieu{
@@ -98,43 +96,6 @@
     .pattern-milieu > img{
         width: 1092px;
         height: 50px;
-    }
-
-    .station-déroulement-tour{        
-        position: absolute;
-        width: 350px;
-        height: 540px;
-        border: 1px solid black;
-        font-size: 13px;
-        
-        top: 512px;   
-        left: 15px;     
-    }
-
-    .station-déroulement-tour > ul {
-        margin-left: -15px;
-    }
-
-    .station-déroulement-tour > ul > ul > li {
-        margin-left: -30px;
-    }
-
-    .station-déroulement-tour > ul > ul > li li {
-        margin-left: -30px;
-    }
-
-    .station-déroulement-tour > table{
-        margin-top: 23px;
-        width: 100%;
-        border-collapse:collapse;        
-
-        font-size: 18px;
-        font-family: 'Cinzel', serif;
-        text-transform: capitalize;
-        font-weight: bold;
-        text-align: center;
-        vertical-align: middle;
-        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     }
 
     .border-top{
@@ -155,17 +116,17 @@
 
     .station-card.steuf.arme{
         top: 575px;
-        left: 400px;
+        left: 15px;
     }
 
     .station-card.steuf.acc1{
         top: 575px;
-        left: 775px;
+        left: 280px;
     }
 
     .station-card.steuf.acc2{
         top: 575px;
-        left: 1150px;
+        left: 540px;
     }
     </style>
     </head>
@@ -190,8 +151,6 @@
                 <p>Steuf : Corps</p>
             </div>
 
-            <div class="pattern-milieu"><img src="./Images/elfe_vector_1.png" /></div>
-
             <div class="station-card steuf arme">
                 <p style="text-align:center;"><img src="./Images/arme_blanc.png" /></p>
                 <p>Steuf : Arme</p>
@@ -206,69 +165,6 @@
                 <p style="text-align:center;"><img src="./Images/accessoire_blanc.png" /></p>
                 <p>Steuf : Accessoire</p>
             </div>
-
-            <div class="station-déroulement-tour">
-                <ul style="margin-left: -10px;">
-                    <li><b>Phase de début de tour.</b></li>
-                    <ul>
-                        <li>Activation des <strong>effets</strong> de début de tour.</li>
-                    </ul>
-                    <li><b>Phase de déplacement</b></li>
-                    <ul>
-                        <li>Lancez le <strong>d4</strong> et le <strong>d3</strong>, additionner les deux résultats, puis avancez d'autant de cases dans la direction souhaitée.</li>
-                        <ul>
-                            <li>Si le résultat est 7, piochez une carte <i>Renversement</i> ou déplacez-vous sur la case de votre choix.</li>
-                        </ul>
-                        <li>Activer l'effet de la case où vous arrivez (cf. Cases).</li>
-                    </ul>
-                    <li><b>Phase d'action 1</b></li>
-                    <ul>
-                        <li>Utilisation à volonté d'objets, de <u><strong>compétences</strong></u>, d'échange de cartes <i>Steufs</i> / <i>Consommables</i>, etc.</li>
-                    </ul>
-                    <li><b>Phase d'attaque</b></li>
-                    <ul>
-                        <li>Vous pouvez attaquer n'importe quel autre personnage à portée (1 fois).</li>
-                    </ul>
-                    <li><b>Phase d'action 2</b></li>
-                    <ul>
-                        <li>Utilisation à volonté d'objets, de <u><strong>compétences</strong></u>, d'échange de cartes <i>Steufs</i> / <i>Consommables</i>, etc.</li>
-                    </ul>
-                    <li><b>Phase de fin de tour.</b></li>
-                    <ul>
-                        <li>Activation des <strong>effets</strong> en fin de tour.</li>
-                        <li>Vous ne devez avoir que 2 cartes en main maximum.</li>
-                    </ul>
-                </ul>
-
-                <table>
-                    <tr style="color: saddleBrown;" class="border-top border-bottom">
-                        <th colspan="2">Steuf</th>
-                    </tr>
-                    <tr style="color: saddleBrown;" class="border-top border-bottom">
-                        <td class="border-right">Qualité</td>
-                        <td class="border-left">Points</td> 
-                    </tr>
-                    <tr class="steuf-commun border-top border-bottom">
-                        <td class="border-right">Commun</td>
-                        <td class="border-left">1</td> 
-                    </tr>
-                    <tr class="steuf-rare border-top border-bottom">
-                        <td class="border-right">Rare</td>
-                        <td class="border-left">3</td> 
-                    </tr>
-                    <tr class="steuf-epique border-top border-bottom">
-                        <td class="border-right">Epique</td>
-                        <td class="border-left">5</td> 
-                    </tr>
-                    <tr class="steuf-legendaire border-top">
-                        <td class="border-right">Légendaire</td>
-                        <td class="border-left">7</td> 
-                    </tr>
-                </table>
-            </div>
-
         </div>
-
-
     </body>
 </html>
