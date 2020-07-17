@@ -22,21 +22,25 @@ body{
 .card {
 	margin: 1mm;
 	float: left;
-	width: 68mm;
+	width: 70mm;
 	height: 120mm;	
 }
 
 div.contour-de-carte{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
     padding: 1mm;
-    min-width: 67mm;
-	min-height: 119mm;
+    min-width: 70mm;
+	min-height: 120mm;
 }
 
 div.fond-de-carte{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
 	min-width: 67mm;
     min-height: 119mm;
+}
+
+div.en-tete{
+    height: 40mm;
 }
 
 div.name{
@@ -255,6 +259,10 @@ div.description.grand-format{
 
 .sous-sous-liste > li {
     margin-left:10mm;
+}
+
+div.pied {
+	height: 30mm;
 }
 
 div.quote {

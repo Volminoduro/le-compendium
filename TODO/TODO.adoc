@@ -19,8 +19,6 @@
 
 == Sébastien Viozat (SQLI)
 
-== Ami de Kynrou qui peut beta-test
-
 = Design
 
 == Thème => Différent style de dessin selon le thème ? Oui, à définir sur les thèmes
