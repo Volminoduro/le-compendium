@@ -8,103 +8,129 @@
 	size: landscape;
 }
 
-body{
-    font-size: 3mm;
-    zoom: 100%;
+body {
+	/* TODO : La taille pour pouvoir imprimer 4 cartes ? */
+	width: 275mm;
+	padding:0px !important;
+	margin: 0px !important;
 }
 
-#navBar {
-    width: 275mm;
-    border: 0.25mm solid #000000;
-    overflow: hidden;
-}
+.carte {
+	display:inline-block;
+	vertical-align:top;
+	margin: 0.5mm 0.5mm;
 
-.card {
-	margin: 1mm;
-	float: left;
-	width: 70mm;
-	height: 120mm;	
-}
+	width: 66mm;
+	height: 116mm;
+	
+	border: 2mm solid transparent;
+	border-image-source: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
+	border-image-slice: 1;
 
-div.contour-de-carte{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A");
-    padding: 1mm;
-    min-width: 70mm;
-	min-height: 120mm;
-}
-
-div.fond-de-carte{
 	background-image: url("https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg");
-	min-width: 67mm;
-    min-height: 119mm;
+	background-size: cover;
 }
 
-div.en-tete{
-    height: 40mm;
+.en-tete{
+	height: 30%;
 }
 
-div.name{
-	border-top: 0.25mm solid #000000;
+.name{
+	height: 25%;
+
 	border-bottom: 0.25mm solid #000000;
-	height: 10mm;
-	letter-spacing: 0.5mm;
 
-	line-height: 10mm;
+	letter-spacing: 0.5mm;
 	font-size: 4mm;
 	font-family: 'Slabo 27px';
 	text-transform: capitalize;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	text-shadow: -0.25mm 0 black, 0 0.25mm black, 0.25mm 0 black, 0 -0.25mm black;
+
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
 }
 
-div.titre-reduit{
+.titre-reduit{
 	letter-spacing: 0.1mm;
 	font-size: 3.8mm;
 }
 
-span.icon{
-	float: right;
-	border-radius: 50%;
-	width: 10mm;
-	height: 10mm;
-}
-
-span.icon > img {
+div.illustration {
 	width: 100%;
-	height: 100%;
+	height: 75%;    
+    background-size: 70mm 27mm;
 }
 
-div.image {
-	height: 25mm;
-    width: 67mm;
-    background-size: 67mm 25mm;
-    overflow: hidden;    
+.colonne-carte{
+	display: inline-block;
+	vertical-align: top;
+	height: 70%;
 }
 
-.conteneur-bonus{   
-	width: 42.33mm;
-	height: 6mm;
-	display:inline-block;
-	padding-left: 0.25mm;
-	padding-top: 0.25mm;
- }
-
-.conteneur-bonus.bonus{
-    padding: 0mm;
-    width: 9mm;
+.cote-gauche-carte{
+	width: 54.95mm;
+	background-color: aqua;
 }
 
-.conteneur-bonus.bonus-type {
-    width: 7mm;
-	height: 100%;
+.description {
+	background-color: green;
+
+	height: 80%;
+
+	font-family: 'Times New Roman', serif;
+	font-size: 3.5mm;
+	text-align: justify;
+	padding-right: 1mm;
+
+	overflow-wrap: break-word;
+}	
+
+.citation{
+	background-color: violet;
+	height: 20%;
+
+	font-style: italic;
+	font-size: 3mm;
+	text-align: center;
+
+	display: flex;
+  	justify-content: center;
+  	align-content: center;
+  	flex-direction: column;
 }
 
-.conteneur-bonus.bonus-montant {
-    width: 4.5mm;
-    height: 4.5mm;
-    margin-left: -3.97mm;
+div.cote-droit-carte {
+	background-color: red;
+	width: 10mm;
+	
+	position: relative;
+}
+
+div.cote-droit-carte .pourLeBas{
+	width: 10mm;
+	
+	position: absolute;
+	bottom: 0;
+}
+
+div.cote-droit-carte .pourLeBas .mixerDeuxImages{
+	position:relative;
+}
+
+div.cote-droit-carte .pourLeBas .mixerDeuxImages img:nth-child(1){
+	width:10mm;
+}
+
+div.cote-droit-carte .pourLeBas .mixerDeuxImages img:nth-child(2){
+	position:absolute;
+	bottom:0;
+	right:0;
+	width:5mm;
+	height:auto;
 }
 
 div.type {
@@ -223,14 +249,7 @@ div.type > span:first-child{
 	font-weight: bold;
 }
 
-div.description {
-	font-family: 'Times New Roman', serif;
-	font-size: 3.5mm;
-	text-align: justify;
-	padding-right: 1mm;
-	height: 66mm;	
-	overflow-wrap: break-word;
-}
+
 
 div.description.grand-format{
 	padding: 0mm;
@@ -261,8 +280,42 @@ div.description.grand-format{
     margin-left:10mm;
 }
 
-div.pied {
-	height: 30mm;
+
+
+span.icon{
+	float: right;
+	border-radius: 50%;
+	width: 10mm;
+	height: 10mm;
+}
+
+span.icon > img {
+	width: 100%;
+	height: 100%;
+}
+
+.conteneur-bonus{   
+	width: 42.33mm;
+	height: 6mm;
+	display:inline-block;
+	padding-left: 0.25mm;
+	padding-top: 0.25mm;
+ }
+
+.conteneur-bonus.bonus{
+    padding: 0mm;
+    width: 9mm;
+}
+
+.conteneur-bonus.bonus-type {
+    width: 7mm;
+	height: 100%;
+}
+
+.conteneur-bonus.bonus-montant {
+    width: 4.5mm;
+    height: 4.5mm;
+    margin-left: -3.97mm;
 }
 
 div.quote {
