@@ -22,7 +22,6 @@
     --blessure:#af111c;
     --larcin:lightpink;
     --steuf:saddleBrown;
-	--or:gold;
     
     --shadowBlanc:-0.25mm 0 var(--white), 0 0.25mm var(--white), 0.25mm 0 var(--white), 0 -0.25mm var(--white);
     --shadowNoir:-0.25mm 0 var(--black), 0 0.25mm var(--black), 0.25mm 0 var(--black), 0 -0.25mm var(--black);
@@ -138,15 +137,6 @@
     color:var(--steuf);
     text-shadow:  var(--shadowNoir);
   }
-
-  or{
-    color:var(--or);
-    text-shadow:  var(--shadowNoir);
-  }
-
-  effet{
-	font-weight: bold;
-  }
   
   /*conteneur de la carte en entier*/
   .carte{
@@ -167,8 +157,7 @@
     /* NE PAS TOUCHER */
     position:relative;
     margin:10px;
-    display:inline-block;
-	vertical-align: top;
+    display:inline-block; 
   }
   
   /*entete de la carte avec nom + img + fanion*/
@@ -324,3 +313,5 @@
     bottom:0;
     left:0;
   }
+  
+  

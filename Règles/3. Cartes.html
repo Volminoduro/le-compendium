@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+    <meta charset="utf-8">
+    <title>Titre de la page</title>
+    <link rel="stylesheet" href="../Collections/Collection de base/style.css">
+    <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+
+        <h1>Cartes</h1>
+
+        <ul>
+            <li>A la fin de votre tour, vous devrez n'avoir que 2 cartes en main maximum. Défaussez-en le cas échéant.</li>
+            <li>Les cartes ne peuvent être défaussés que pendant votre tour.</li>
+            <li>Les <steuf>Steufs</steuf> et les <conso>Consommable</conso> ont une valeur d'échange en <or>Or</or>, symbolisé par <img src="../Collections/Collection de base/Images/or.png" /></li>
+            <li>Les <steuf>Steufs</steuf> et les <conso>Consommable</conso> peuvent être gardés en main plutôt que jouer directement.</li>
+        </ul>
+
+        <ul>
+            <li>Les <steuf>Steufs</steuf>, <conso>Consommables</conso> et <lieu>Lieux</lieu> pourront avoir des effets <effet>actifs</effet> et <effet>passifs</effet>.</li>
+            <li>Les <effet>actifs</effet> sont symbolisés par ∾ ► ; </li>
+        </ul>
+
+        <h2><perso>Personnage</perso></h2>
+
+        <ul>
+            <li>Les <perso>Personnages</perso> sont répartis sur deux axes : <b>Moralité</b> et <b>Ordre</b>.</li>
+            <ul>
+                <li>Moralité : Bon - Neutre - Mauvais</li>
+                <li>Ordre : Loyal <img src="../Collections/Collection de base/Images/ordre_loyal.png" style="width: 32px; height: 32px;" /> - Neutre <img src="../Collections/Collection de base/Images/waves.png" style="width: 32px; height: 32px;" /> - Chaotique <img src="../Collections/Collection de base/Images/labyrinthe.png" style="width: 32px; height: 32px;" /> </li>
+            </ul>
+            <li>Ces deux axes intéragiront avec certaines <b>Cartes</b>.</li>
+            <ul>
+                <li>Exemple : tous les <b>Bon</b> sont <span class="mot-cle-sombre soin">soignés</span> d'une <blessure>Blessure</blessure>.</li>
+            </ul>
+        </ul>
+
+        <h3>Blessure</h3>
+
+        <ul>
+            <li>Le compteur de <blessure>Blessure</blessure> désigne la capacité maximale à prendre des dégâts.</li>
+            <li>Lorsque vous parvenez à votre nombre maximale de <blessure>Blessure</blessure>, vous déplacez votre pion sur l'emplacement <blessure>Seuil de la Mort</blessure> (abrégé en <blessure>SdM</blessure> ou < icone >).</li>    
+            <li>Lorsqu'un <perso>Personnage</perso> est au <blessure>SdM</blessure> :</li>
+                <ul>
+                    <li>Il ne peut pas attaquer d'autres <perso>Personnages</perso>.</li>
+                    <li>Pour quitter cet état, il lui suffit de vous soigner d'une <blessure>Blessure</blessure>. Alors votre nombre de <blessure>Blessure</blessure> serait votre compteur de <blessure>Blessure</blessure> - 1.</li>
+                    <li>Une <blessure>Blessure</blessure> infligée alors que vous êtes au <blessure>SdM</blessure> ne change rien à votre compteur de <blessure>Blessure</blessure> ni au <soin>soin</soin> nécessaire pour en sortir.</li>
+                    <ul>
+                        <li>Néanmoins, elle est prise en compte pour les <b>Cartes</b> qui devraient intéragir avec la <blessure>Blessure</blessure> infligée.</li>
+                    </ul>
+                </ul>
+        </ul>
+
+        <h3>Révélation du <perso>Personnage</perso></h3>
+
+            <ul>
+                <li>Tant qu'un <perso>Personnage</perso> est face cachée, il ne peut pas bénéficier de ses <b>passifs</b> ni de ses <b>actifs</b>.</li>
+                <li>Attaquer un autre <perso>Personnage</perso> ne fait pas réveler votre <perso>Personnage</perso>, ni le sien.</li>
+                <li>Vous pouvez réveler votre <perso>Personnage</perso> à tout moment, vous ne pourrez plus le remettre face cachée une fois révélé.</li>
+                <li>Lorsqu'il est au <blessure>SdM</blessure>, un <perso>Personnage</perso> doit retourner sa carte face visible.</li>
+            </ul>
+        </h2>
+
+        <h2>Steuf</h2>
+
+        <ul>
+            <li>Vous ne pouvez équiper un <steuf>Steuf</steuf> que durant votre tour.</li>
+            <li>Les <steuf>Steufs</steuf> ont plusieurs rangs de rareté : <commun>Commun</commun>, <rare>Rare</rare>, <epique>Épique</epique> et <leg>Légendaire</leg>.</li>
+            <li>Lorsque vous piochez un <steuf>Steuf</steuf> <leg>Légendaire</leg>, vous devrez l'équiper ou le défausser immédiatement.</li>
+            <ul>
+                <li>Les <perso>Personnages</perso> ne peuvent équiper qu'un seul <steuf>Steuf</steuf> <leg>Légendaire</leg> à la fois, un des deux devra être défaussé.</li>
+            </ul>            
+        </ul>
+
+        <ul>
+            <li>Pour bénéficier de ses <effet>actifs</effet> et <effet>passifs</effet>, le <steuf>Steuf</steuf> doit être équipé.</li>
+            <li>Certains <steuf>Steufs</steuf> disposent d'<effet>actifs</effet> ou de <effet>passifs</effet> avec charges d'utilisations.</li>
+            <ul>
+                <li>Une charge est utilisée par activation de l'<effet>actif</effet> / du <effet>passif</effet>. Lorsque le compteur de charge arrive à zéro, le <steuf>Steuf</steuf> est  envoyé en défausse.</li>
+            </ul>
+        </ul>
+
+        <h2>Consommable</h2>
+
+        <h2>Lieu</h2>
+        
+    </body>
+</html>

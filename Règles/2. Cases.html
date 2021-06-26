@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <title>Titre de la page</title>
-    <link rel="stylesheet" href="../Blocs d'Collections/Collection de base/style.css">
+    <link rel="stylesheet" href="../Collections/Collection de base/style.css">
     <link rel="stylesheet" href="./style.css">
     </head>
     <body>
@@ -12,77 +12,70 @@
 
         <h2>Code couleur des cases / cartes disponible <a href="./X. Code couleur.html">ici.</a></h2>
 
-        <h2>2 cases "Consommable"</h2>
-
-        <ul>
-            <li>Ces deux cases permettent de piocher une carte de la pile "Consommable".</li>            
-        </ul>
-
-        <h2>2 cases "Steuf"</h2>
-
-        <ul>
-            <li>Ces deux cases permettent de piocher une carte de la pile "Steuf".</li>            
-        </ul>
-
-        <h2>2 cases "Lieux"</h2>
-
-        <ul>
-            <li>Ces deux cases permettent de piocher de la pile "Lieu".</li>
-        </ul>
-
-        <h2>2 cases "Marchand"</h2>
-
-        <ul >
-            <li>Cela permet d'acheter des <i>Steufs</i> auprès du marchand.</li>
-            <li>Le paiement se fait au regard de tous, donc les cartes vendues sont montrées, l'steuf reçu en revanche est face cachée et seul l'acheteur le connaît.</li>
-            <li>Vous n'avez qu'une seul phase d'achat par tour durant laquelle vous pouvez acheter plusieurs d'steuf.</li>
-            <li>Vous pouvez obtenir plusieurs objets lors d'une seule phase d'achat, par exemple si vous payez pour 2 blessures au Marchand de sang.</li>
-            <li>Le stock de chaque marchand est déterminé de la façon suivante : taille du stock = nombre de joueurs x 1.5 (arrondi à l'unité supérieur). Il vous suffit de piocher autant de cartes de la pile d'<i>Steufs</i> au début de la partie.</li>
-        </ul>
-
-        <h3>Marchand d'or</h2>
-
-        <ul>
-            <li>Le prix est de 2 points d'<i>Steuf</i>.</li>
-            <li>Les steufs légendaires ne peuvent pas être troqués. Les autres steufs troqués auprès du marchand sont <strong>exilés</strong>.</li>
-        </ul>
-
-        <h3>Marchand de sang</h2>
-
-        <ul>
-            <li>Le prix est de 1 Blessure.</li>
-            <li>Vous ne pouvez acheter auprès de ce marchand si cela devrait vous tuer (si vous êtes au <i>SdM</i>, par exemple).</li>
-        </ul>
-
-        <h2>2 cases "Larcin"</h2>
-
-        <ul>
-            <li>Lancez les deux dés, si le résultat est au moins 5, le vol est réussi. Le joueur choisi par le larcin ne peut pas modifier l'état de sa main ou de ses <i>Steufs</i> lorsqu'il est choisi.</li>
-            <ul>
-                <li>Une case : permet de voler une carte dans la main d'un autre joueur.</li>
-                <li>Une case : permet de voler <i>Steuf</i>> d'un autre joueur (ne peut être un légendaire).</li>
-            </ul>            
-        </ul>
-
-        <h2>2 cases "Position"</h2>
-
-        <h3>Sheol</h3>
-        <ul>
-            <li>Vous disposez une portée illimitée tant que vous êtes sur cette case. Vos attaquants disposent également une portée illimitée.</li>
-        </ul>
-
-        <h3>Araboth</h3>
-        <ul>
-            <li>Vous ne pouvez attaquer et on ne peut vous attaquer tant que vous êtes sur cette case.</li>
-        </ul>
-
-        <h1>Annulé</h1>
-        <h2>2 cases "Déplacement +1 | -1"</h2>
-
-        <ul>
-            <li>Ellipse : vous fait reculer d'une case (retourner à la case précédente).</li>
-            <li>Analepse : vous fait avancer d'une case supplémentaire (progresser à la case suivante).</li>
-        </ul>
+        <table>
+            <tr>
+                <td><img src="../Collections/Collection de base/Images/steuf.png" /></td>
+                <td>
+                    <ul>
+                        <li>Piocher une carte de la pile <steuf>Steuf</steuf></li>            
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../Collections/Collection de base/Images/consommable.png" /></td>
+                <td>
+                    <ul>
+                        <li>Piocher une carte de la pile <conso>Consommable</conso></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../Collections/Collection de base/Images/lieu.png" /></td>
+                <td>
+                    <ul>
+                        <li>Piocher une carte de la pile <lieu>Lieu</lieu></li>            
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../Collections/Collection de base/Images/or.png" /></td>
+                <td>
+                    <ul>
+                        <li>Au prix de 1 <b>Paiement</b>, vous pouvez piocher 1 <steuf>Steuf</steuf> ou 1 <conso>Consommable</conso></li> face cachée.</li>
+                        <li>1 <b>Paiement</b> = <b>7</b> <or>Or</or> ou 1 <blessure>Blessure</blessure>.</li>
+                        <ul>
+                            <li>Défaussez ⩾ <b>7</b> <or>Or</or> via vos <steuf>Steuf</steuf> (équipés ou en main) ou vos <conso>Consommable</conso>.</li>
+                            <li>Le marchand ne rend pas la monnaie, par exemple si vous défaussez entre <b>7</b> et <b>14</b> <or>Or</or>.</li>
+                            <li>Si vous êtes au <b>SdM</b> ou à 1 <blessure>Blessure</blessure> de celui-ci, vous ne pouvez pas payer en vous <blessure>blessant</blessure>.</li>
+                        </ul>
+                        <li>Vous pouvez utiliser cette case plusieurs fois pendant votre tour après votre <i>phase de déplacement</i>.</li>
+                        <li>Vous êtes libre aussi de procéder à plusieurs <b>Paiements</b> à la fois (7 <or>Or</or> puis 1 <blessure>Blessure</blessure>, 2 <blessure>Blessure</blessure>, 14+ <or>Or</or>, etc.).</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../Collections/Collection de base/Images/vol.png" /></td>
+                <td>
+                    <ul>
+                        <li>Choisissez une carte d'un autre joueur puis lancez le dé à 4 faces.</li>
+                        <ul>
+                            <li>Le joueur ciblé ne peut pas effectuer d'actions qui le débarrasserait de la carte.</li>
+                        </ul>
+                        <li>Le joueur ciblé lance le dé à 3 faces pour se défendre.</li>
+                        <li>Si la différence est <b>strictement</b> en faveur du voleur, le voleur récupère la carte.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../Collections/Collection de base/Images/oeil_ouvert.png" /></td>
+                <td>
+                    <ul>
+                        <li>Vous disposez d'une portée illimitée.</li>
+                        <li>Les autres <perso>Personnages</perso> ont une portée illimitée lorsqu'il s'agit de vous cibler.</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
         
     </body>
 </html>

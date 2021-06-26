@@ -82,3 +82,42 @@ https://www.shapeways.com/product/6AZ8EKZWE/modern-art-d4-4-sided-die
 == Actions : attaquer, défense, soin, blessure, piocher, défausser, vendre
 
 == Refaire îcone de cartes
+
+
+https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte
+
+== Refonte carte
+
+* Patron à faire :
+  * Une illustration
+  * Une icône de set (doit occuper peu d'espace, en bas à droite ou en bas à gauche ?)
+  * Un bandeau de couleur selon le type
+  ** Informations complémentaires (bonus stat, or, etc)
+  * Description
+    * Nom de l'actif / passif
+  * Citation
+
+* Lieux : limité à un certain nombre
+* Steuf : valeur en gold en plus de la qualité
+* Consommable : +valeur en gold
+
+But du jeu : une Némésis est désigné pour le joueur, il doit l'amener au SdM. Si quelqu'un d'autre que lui l'amène au SdM, il devra alors amener au SdM ce quelqu'un en question.
+* Il y a des "Renégats" (ceux qui ont pioché leur propre pion), ceux-là doivent arriver au SdM en dernier.
+
+Personnages :
+Deux axes : Moralité (Bon ; Neutre ; Mauvais) - Equilibre/Loyauté/Fiabilité/Ordre (Loyal ; Neutre ; Chaotique)
+X Blessures 
+Actif
+Passif
+("Si vous découvrez", "la première fois que vous commercez 1 sang, récupérer blabla")
+Steufs :
+1 Corps / 1 Arme / 1 accessoire
+(1 pile pour les passifs : consommable / lieu)
+
+Plateau (6 cases) :
+- Steuf : piocher 1 Steuf
+- Consommable : piocher 1 Consommable
+- Marchand : piocher 1 Steuf / Consommable selon un coût en Or ou en Sang
+- Lieu : piocher un Lieu
+- Larçin : vol d'un Steuf équipé ou d'une carte en main, réussite déterminé par un lancer de dé
+- "Position" : portée sur tout le monde et inversément, ou portée sur personne et personne ne peut vous cibler
