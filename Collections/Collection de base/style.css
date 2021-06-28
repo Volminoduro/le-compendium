@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
 
 :root{
-    /*couleur personnalisé*/
+    /* couleurs personnalisées */
     --black:#000;
     --white:#fff;
     --bgColor:;
@@ -22,26 +22,31 @@
     --blessure:#af111c;
     --larcin:lightpink;
     --steuf:saddleBrown;
-	--or:gold;
+	  --or:gold;
+
+    /* image de fond de collection */
+    --bgConte:url(../Conte/Images/icone.png);
     
+    /* ombre portée selon la couleur du mot clé */
     --shadowBlanc:-0.25mm 0 var(--white), 0 0.25mm var(--white), 0.25mm 0 var(--white), 0 -0.25mm var(--white);
     --shadowNoir:-0.25mm 0 var(--black), 0 0.25mm var(--black), 0.25mm 0 var(--black), 0 -0.25mm var(--black);
     
-   /*polices*/
+    /* polices */
     --slabo:'Slabo 27px', serif;
     --TimesNewRoman:'Times New Roman', serif;
     
-    /*fontsize*/
+    /* fontsize */
     --standard:3.5mm;
     --nom:4mm;
     --titre:3.8mm;
-    --citation:3mm;
+    --citation:2.5mm;
+    --line-height-citation: 2mm;
     --stats:4mm;
   }
   
-  /*### PERSO DES COULEURS SELON TYPE DE CARTE ###*/
+  /*### PERSONNALISATION DES COULEURS SELON TYPE DE CARTE ###*/
   
-  /*LIEU*/
+  /* Lieu */
   .carte.lieu .nom, lieu{ 
     color:var(--lieu);
     text-shadow: var(--shadowNoir);
@@ -50,9 +55,9 @@
   .carte.lieu .fanion::before,
   .carte.lieu .fanion::after{
     border-top-color:var(--lieu)
-  }
+  } 
   
-  /*COMMUN*/
+  /* Commun */
   .carte.commun .nom, commun{ 
     color:var(--commun);
     text-shadow: var(--shadowNoir);
@@ -63,7 +68,7 @@
     border-top-color:var(--commun)
   }
   
-  /*RARE*/
+  /* Rare */
   .carte.rare .nom, rare{ 
     color:var(--rare);
     text-shadow: var(--shadowNoir);
@@ -74,7 +79,7 @@
     border-top-color:var(--rare)
   }
   
-  /*EPIQUE*/
+  /* Epique */
   .carte.epique .nom, epique{ 
     color:var(--epique);
     text-shadow: var(--shadowBlanc);
@@ -85,7 +90,7 @@
     border-top-color:var(--epique)
   }
   
-  /*LEGENDAIRE doré*/
+  /* Légendaire doré */
   .carte.leg .nom, leg{ 
     color:var(--leg);
     text-shadow: var(--shadowNoir);
@@ -96,7 +101,7 @@
     border-top-color:var(--leg)
   }
   
-  /*CONSOMMABLE*/
+  /* Consommable */
   .carte.conso .nom, conso{ 
     color:var(--conso);
     text-shadow: var(--shadowBlanc);
@@ -107,7 +112,7 @@
     border-top-color:var(--conso)
   }
   
-  /*PERSONNAGE*/
+  /* Personnage */
   .carte.perso .nom, perso{ 
     color:var(--perso);
     text-shadow: var(--shadowNoir);
@@ -117,7 +122,22 @@
   .carte.perso .fanion::after{
     border-top-color:var(--perso)
   }
-  
+
+  /*### PERSONNALISATION DES ICONES DE FOND SELON TYPE DE COLLECTION ###*/
+  .carte.conte description::before{
+    background-image: var(--bgConte);
+  }
+
+  description::before{
+    content: "";
+    position: absolute;
+    width: 66mm;
+    height: 82mm;
+    opacity: .08;
+    background-size: 60mm 60mm;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
   
   soin{
     color:var(--soin);
@@ -168,7 +188,7 @@
     position:relative;
     margin:10px;
     display:inline-block;
-	vertical-align: top;
+	  vertical-align: top;
   }
   
   /*entete de la carte avec nom + img + fanion*/
@@ -318,6 +338,8 @@
     font-style:italic;
     text-align:center;
     font-size:var(--citation);
+    line-height: var(--line-height-citation);
+    padding-bottom: 0.5mm;
     
     /* NE PAS TOUCHER */
     position:absolute;
