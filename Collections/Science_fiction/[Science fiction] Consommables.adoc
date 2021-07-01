@@ -1,0 +1,3 @@
+https://fr.wikipedia.org/wiki/Orgasmotron => Se soigner bcp mais malus de défense prochain tour ?
+* : soigner vous de 2 blessures, -1 de défense jusqu'au prochain tour
+* Addictif : devoir le refaire si fait au prochain tour, sinon subir 1 blessure.

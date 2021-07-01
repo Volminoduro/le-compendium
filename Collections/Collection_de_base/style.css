@@ -1,0 +1,386 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+:root{
+  /* couleurs images / personnalisées */
+  --bgColor:;
+  --bgImg:url('https://images-na.ssl-images-amazon.com/images/I/41GxEBcDmfL.jpg');
+  --borderColor:;
+  --borderImg:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScY9QGLsBFFwqDV_9Fud931slLxis_Cs2liLEhtEG92zkix33T6A');
+  --black:#000;
+  --white:#fff;
+  --lieu:rgb(4, 149, 62);
+  --commun:rgb(255, 255, 255);
+  --rare:rgb(0, 112, 221); 
+  --epique:rgb(163, 53, 238);
+  --leg:rgb(205, 126, 67);
+  --conso:darkblue;
+  --perso:grey;
+  --fanion:red;
+  --soin:darkgreen;
+  --blessure:#af111c;
+  --larcin:lightpink;
+  --steuf:saddleBrown;
+  --or:gold;
+
+/*Size de block*/
+  
+  /* image de fond de collection */
+  --bgConte:url(../Conte/Images/icone.png);
+  --bgAnime:url(../Dessin_animé/Images/icone.png);
+  
+  /* ombre portée selon la couleur du mot clé */
+  --shadowBlanc:-0.25mm 0 var(--white), 0 0.25mm var(--white), 0.25mm 0 var(--white), 0 -0.25mm var(--white);
+  --shadowNoir:-0.25mm 0 var(--black), 0 0.25mm var(--black), 0.25mm 0 var(--black), 0 -0.25mm var(--black);
+  
+  /* polices */
+  --slabo:'Slabo 27px', serif;
+  --TimesNewRoman:'Times New Roman', serif;
+
+  /* taille effet */
+  --heightTitreEffet:6mm;
+  --tailleEffet:16px;
+  --bgActif:url(../Collection_de_base/Images/actif.png);
+  --bgPassif:url(../Collection_de_base/Images/passif.png);
+  
+  /* fontsize */
+  --standard:3.5mm;
+  --nom:4mm;
+  --titre:3.8mm;
+  --citation:2.5mm;
+  --line-height-citation: 2mm;
+  --stats:4mm;
+}
+  
+/*### PERSONNALISATION DES COULEURS SELON TYPE DE CARTE ###*/
+
+/* Lieu */
+.carte.lieu .nom, lieu{ 
+  color:var(--lieu);
+  text-shadow: var(--shadowNoir);
+}
+.carte.lieu .fanion{background:var(--lieu)}
+.carte.lieu .fanion::before,
+.carte.lieu .fanion::after{
+  border-top-color:var(--lieu)
+} 
+
+/* Commun */
+.carte.commun .nom, commun{ 
+  color:var(--commun);
+  text-shadow: var(--shadowNoir);
+}
+.carte.commun .fanion{background:var(--commun)}
+.carte.commun .fanion::before,
+.carte.commun .fanion::after{
+  border-top-color:var(--commun)
+}
+
+/* Rare */
+.carte.rare .nom, rare{ 
+  color:var(--rare);
+  text-shadow: var(--shadowNoir);
+}
+.carte.rare .fanion{background:var(--rare)}
+.carte.rare .fanion::before,
+.carte.rare .fanion::after{
+  border-top-color:var(--rare)
+}
+
+/* Epique */
+.carte.epique .nom, epique{ 
+  color:var(--epique);
+  text-shadow: var(--shadowBlanc);
+}
+.carte.epique .fanion{background:var(--epique)}
+.carte.epique .fanion::before,
+.carte.epique .fanion::after{
+  border-top-color:var(--epique)
+}
+
+/* Légendaire doré */
+.carte.leg .nom, leg{ 
+  color:var(--leg);
+  text-shadow: var(--shadowNoir);
+}
+.carte.leg .fanion{background:var(--leg)}
+.carte.leg .fanion::before,
+.carte.leg .fanion::after{
+  border-top-color:var(--leg)
+}
+
+/* Consommable */
+.carte.conso .nom, conso{ 
+  color:var(--conso);
+  text-shadow: var(--shadowBlanc);
+}
+.carte.conso .fanion{background:var(--conso)}
+.carte.conso .fanion::before,
+.carte.conso .fanion::after{
+  border-top-color:var(--conso)
+}
+
+/* Personnage */
+.carte.perso .nom, perso{ 
+  color:var(--perso);
+  text-shadow: var(--shadowNoir);
+}
+.carte.perso .fanion{background:var(--perso)}
+.carte.perso .fanion::before,
+.carte.perso .fanion::after{
+  border-top-color:var(--perso)
+}
+
+/*### PERSONNALISATION DES ICONES DE FOND SELON TYPE DE COLLECTION ###*/
+.carte.conte description::before{
+  background-image: var(--bgConte);
+}
+
+.carte.anime description::before{
+  background-image: var(--bgAnime);
+}
+
+description::before{
+  width: 66mm;
+  height: 82mm;
+  background-size: 60mm 60mm;
+
+  opacity: .08;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  content: "";
+  position: absolute;
+}
+
+soin{
+  color:var(--soin);
+  text-shadow: var(--shadowNoir);
+}
+
+blessure{
+  color:var(--blessure);
+  text-shadow:  var(--shadowBlanc);
+}
+
+larcin{
+  color:var(--larcin);
+  text-shadow:  var(--shadowNoir);
+}
+
+steuf{
+  color:var(--steuf);
+  text-shadow:  var(--shadowNoir);
+}
+
+or{
+  color:var(--or);
+  text-shadow:  var(--shadowNoir);
+}
+
+effet{
+font-weight: bold;
+}
+
+.titre-effet.actif::before{
+  width: var(--heightTitreEffet);
+  height: var(--heightTitreEffet);
+
+  background-image: var(--bgActif);
+  background-size: var(--tailleEffet) var(--tailleEffet);
+  background-repeat: no-repeat;
+  background-position: center;
+
+  display: block;
+  content: "";
+  position: absolute;
+  top:0;
+  left:-0.2mm;
+}
+
+.titre-effet.passif::before{
+  content:"";
+  width: var(--heightTitreEffet);
+  height: var(--heightTitreEffet);
+
+  background-image: var(--bgPassif);
+  background-size: var(--tailleEffet) var(--tailleEffet);
+  background-repeat: no-repeat;
+  background-position: center;
+
+  display: block;
+  content: "";
+  position: absolute;
+  top:0;
+  left:-0.2mm;
+}
+
+/*conteneur de la carte en entier*/
+.carte{
+  width:66mm;
+  height:116mm;
+  
+  background-image:var(--bgImg);
+  background-size:cover;
+  
+  color:var(--black);
+  font-size:var(--standard);
+  font-family:var(--TimesNewRoman);
+  
+  border:2mm solid black;
+  border-image-source:var(--borderImg);
+  border-image-slice:1;
+  
+  /* NE PAS TOUCHER */
+  position:relative;
+  margin:10px;
+  display:inline-block;
+  vertical-align: top;
+}
+
+/*entete de la carte avec nom + img + fanion*/
+.carte entete{
+  height:30%;
+  
+  /* NE PAS TOUCHER */
+  display:block;
+  position:relative;
+}
+
+/*nom de la carte : valeurs générales*/
+.carte .nom{
+  text-align:center;
+  font-size:var(--nom);
+  font-family:var(--slabo);
+  text-transform: uppercase;
+  font-weight: bold; 
+  letter-spacing: 0.5mm;
+  
+  height: 25%;
+  border-bottom: 0.25mm solid var(--black);
+  
+  /* NE PAS TOUCHER */
+  width:80%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+/*Image de la carte*/
+.carte .img{
+  height: 75%;
+  
+  /* NE PAS TOUCHER */
+  width:80%;
+  overflow:hidden;
+}
+/*resize l'image par rapport au conteneur*/
+.carte .img>img{
+  height: 100%; /*tester soit width soit height ici*/
+  width: 100%;
+}
+
+/*Fanion avec les stats*/
+.carte .fanion{
+  height:118%;
+  background:var(--fanion);
+  
+  text-align:center;
+  font-size:var(--stats);
+  font-weight:bold;
+  
+  /* NE PAS TOUCHER */
+  display:block;
+  width:20%;
+  position:absolute;
+  top:-1px;
+  right:-1px;
+}
+/*Display correctement les stats*/
+.carte .fanion>*{
+  padding:1mm 0;
+  width:24px;
+  
+  /* NE PAS TOUCHER */
+  display:inline-block;
+  vertical-align:middle;
+}
+
+/*Fait les deux petits piques du fanion
+Si tu veux modifier : https://outils-css.aliasdmc.fr/generateur-de-triangles-css.php */
+.carte .fanion::before, .carte .fanion::after{
+  content:"";
+  display : inline-block;
+  height : 0;
+  width : 0;
+  border-top : 15px solid var(--fanion);
+  border-right : 10px solid transparent;
+  border-left : 10px solid transparent;
+}
+
+/* Positionnement des trianges TOUCHE PAS*/
+.carte .fanion::before{
+  position:absolute;
+  bottom:-15px;
+  left:2px;
+}
+/* Positionnement des trianges TOUCHE PAS*/
+.carte .fanion::after{
+  position:absolute;
+  bottom:-15px;
+  right:1px;
+}
+
+/* Titre de l'effet */
+.carte .titre-effet{
+  height:var(--heightTitreEffet);
+  line-height:var(--heightTitreEffet);
+  
+  font-size:var(--titre);
+  font-weight:bold;
+  text-align: justify;
+  overflow-wrap: break-word;
+  
+  border-top:1px solid var(--black);
+  border-bottom:1px solid var(--black);
+  margin-top:1px;
+  padding-left:var(--heightTitreEffet);
+  
+  position:relative;
+}
+
+/* Description de l'effet */
+.carte ul{
+  padding-inline-start: 5px;
+}
+.carte li{
+  list-style-type:none;
+  padding:0;
+  margin:0;
+}
+.carte li::before{
+  content:"- "
+}
+
+/*seconde profondeur*/
+.carte ul ul{padding-inline-start: 10px;}
+.carte ul ul li::before{content:"- "}
+
+.carte .citation{
+  display:block;
+  max-height:10%;
+  width:100%;
+  
+  font-style:italic;
+  text-align:center;
+  font-size:var(--citation);
+  line-height: var(--line-height-citation);
+  padding-bottom: 0.5mm;
+  
+  /* NE PAS TOUCHER */
+  position:absolute;
+  bottom:0;
+  left:0;
+}

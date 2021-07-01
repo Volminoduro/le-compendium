@@ -16,7 +16,7 @@ Manba (personnage Cobra) :
                         <div class="type"><span>Accessoire épique</span></div>
                         <div class="description">
                             <ul class="liste">
-                                <li><span><span class="passif">Ennemi juré :</span> si un <span class="mot-cle-sombre personnage">Personnage</span> équipé de <span class="mot-cle-sombre steuf-epique">Perry</span> est à portée, vous êtes obligé de l'attaquer.</span></li>
+                                <li><span><span class="passif">Ennemi juré :</span> si un <perso>Personnage</perso> équipé de <epique>Perry</span> est à portée, vous êtes obligé de l'attaquer.</span></li>
                                 <li><span><span class="passif">XXX :</span> XXX.</span></li>
                                 <li><span class="passif">Compagnon (2 <blessure>Blessures</blessure>)</span></li>
                             </ul>
@@ -33,7 +33,7 @@ Manba (personnage Cobra) :
                         <div class="type"><span>Accessoire épique</span></div>
                         <div class="description">
                             <ul class="liste">
-                                <li><span><span class="passif">Ennemi juré :</span> si un <span class="mot-cle-sombre personnage">Personnage</span> équipé de <span class="mot-cle-sombre steuf-epique">Tim</span> est à portée, vous êtes obligé de l'attaquer.</span></li>
+                                <li><span><span class="passif">Ennemi juré :</span> si un <perso>Personnage</perso> équipé de <epique>Tim</span> est à portée, vous êtes obligé de l'attaquer.</span></li>
                                 <li><span><span class="passif">XXX :</span> XXXX.</span></li>
                                 <li><span class="passif">Compagnon (1 <blessure>Blessure</blessure>)</span></li>
                             </ul>

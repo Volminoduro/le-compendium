@@ -1,0 +1,5 @@
+* Mines de moria
+** Chaque passage dans ce lieu est comptabilisé globalement.
+*** 1 passage : vous accorde deux steufs.
+*** 2 passages : vous accorde un steuf.
+*** 3 passages et plus : le seuil de la mort à chaque passage.
