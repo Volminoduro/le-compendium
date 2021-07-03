@@ -28,7 +28,7 @@
   
   /* image de fond de collection */
   --bgConte:url(../Conte/Images/icone.png);
-  --bgAnime:url(../Dessin_animé/Images/icone.png);
+  --bgDessin:url(../Dessin_animé/Images/icone.png);
   
   /* ombre portée selon la couleur du mot clé */
   --shadowBlanc:-0.25mm 0 var(--white), 0 0.25mm var(--white), 0.25mm 0 var(--white), 0 -0.25mm var(--white);
@@ -53,28 +53,18 @@
   --stats:4mm;
 }
   
-/*### PERSONNALISATION DES COULEURS SELON TYPE DE CARTE ###*/
+/* ### PERSONNALISATION DES COULEURS SELON TYPE DE CARTE ### */
 
 /* Lieu */
 .carte.lieu .nom, lieu{ 
   color:var(--lieu);
   text-shadow: var(--shadowNoir);
 }
-.carte.lieu .fanion{background:var(--lieu)}
-.carte.lieu .fanion::before,
-.carte.lieu .fanion::after{
-  border-top-color:var(--lieu)
-} 
 
 /* Commun */
 .carte.commun .nom, commun{ 
   color:var(--commun);
   text-shadow: var(--shadowNoir);
-}
-.carte.commun .fanion{background:var(--commun)}
-.carte.commun .fanion::before,
-.carte.commun .fanion::after{
-  border-top-color:var(--commun)
 }
 
 /* Rare */
@@ -82,21 +72,11 @@
   color:var(--rare);
   text-shadow: var(--shadowNoir);
 }
-.carte.rare .fanion{background:var(--rare)}
-.carte.rare .fanion::before,
-.carte.rare .fanion::after{
-  border-top-color:var(--rare)
-}
 
 /* Epique */
 .carte.epique .nom, epique{ 
   color:var(--epique);
   text-shadow: var(--shadowBlanc);
-}
-.carte.epique .fanion{background:var(--epique)}
-.carte.epique .fanion::before,
-.carte.epique .fanion::after{
-  border-top-color:var(--epique)
 }
 
 /* Légendaire doré */
@@ -104,54 +84,17 @@
   color:var(--leg);
   text-shadow: var(--shadowNoir);
 }
-.carte.leg .fanion{background:var(--leg)}
-.carte.leg .fanion::before,
-.carte.leg .fanion::after{
-  border-top-color:var(--leg)
-}
 
 /* Consommable */
 .carte.conso .nom, conso{ 
   color:var(--conso);
   text-shadow: var(--shadowBlanc);
 }
-.carte.conso .fanion{background:var(--conso)}
-.carte.conso .fanion::before,
-.carte.conso .fanion::after{
-  border-top-color:var(--conso)
-}
 
 /* Personnage */
 .carte.perso .nom, perso{ 
   color:var(--perso);
   text-shadow: var(--shadowNoir);
-}
-.carte.perso .fanion{background:var(--perso)}
-.carte.perso .fanion::before,
-.carte.perso .fanion::after{
-  border-top-color:var(--perso)
-}
-
-/*### PERSONNALISATION DES ICONES DE FOND SELON TYPE DE COLLECTION ###*/
-.carte.conte description::before{
-  background-image: var(--bgConte);
-}
-
-.carte.anime description::before{
-  background-image: var(--bgAnime);
-}
-
-description::before{
-  width: 66mm;
-  height: 82mm;
-  background-size: 60mm 60mm;
-
-  opacity: .08;
-  background-repeat: no-repeat;
-  background-position: center;
-
-  content: "";
-  position: absolute;
 }
 
 soin{
@@ -183,6 +126,28 @@ effet{
 font-weight: bold;
 }
 
+/*### PERSONNALISATION DES ICONES DE FOND SELON TYPE DE COLLECTION ###*/
+.carte.conte description::before{
+  background-image: var(--bgConte);
+}
+
+.carte.dessin description::before{
+  background-image: var(--bgDessin);
+}
+
+description::before{
+  width: 66mm;
+  height: 82mm;
+  background-size: 60mm 60mm;
+
+  opacity: .08;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  content: "";
+  position: absolute;
+}
+
 .titre-effet.actif::before{
   width: var(--heightTitreEffet);
   height: var(--heightTitreEffet);
@@ -200,7 +165,6 @@ font-weight: bold;
 }
 
 .titre-effet.passif::before{
-  content:"";
   width: var(--heightTitreEffet);
   height: var(--heightTitreEffet);
 
@@ -216,7 +180,33 @@ font-weight: bold;
   left:-0.2mm;
 }
 
-/*conteneur de la carte en entier*/
+/*### PERSONNALISATION DES ICONES ###*/
+
+accessoire-icon{
+  content: url(../Collection_de_base/Images/accessoire.png);
+}
+
+or-icon{
+  content: url(../Collection_de_base/Images/or.png);
+}
+
+defense-icon{
+  content: url(../Collection_de_base/Images/defense.png);
+}
+
+blessure-icon{
+  content: url(../Collection_de_base/Images/blessure.png);
+}
+
+soin-icon{
+  content: url(../Collection_de_base/Images/soin.png);
+}
+
+conso-icon{
+  content: url(../Collection_de_base/Images/consommable.png);
+}
+
+/* conteneur de la carte en entier */
 .carte{
   width:66mm;
   height:116mm;
@@ -239,7 +229,7 @@ font-weight: bold;
   vertical-align: top;
 }
 
-/*entete de la carte avec nom + img + fanion*/
+/* Entete de la carte avec nom + img + fanion */
 .carte entete{
   height:30%;
   
@@ -248,7 +238,7 @@ font-weight: bold;
   position:relative;
 }
 
-/*nom de la carte : valeurs générales*/
+/* nom de la carte : valeurs générales */
 .carte .nom{
   text-align:center;
   font-size:var(--nom);
@@ -268,7 +258,7 @@ font-weight: bold;
   flex-direction: column;
 }
 
-/*Image de la carte*/
+/* Image de la carte */
 .carte .img{
   height: 75%;
   
@@ -276,13 +266,13 @@ font-weight: bold;
   width:80%;
   overflow:hidden;
 }
-/*resize l'image par rapport au conteneur*/
+/* resize l'image par rapport au conteneur */
 .carte .img>img{
-  height: 100%; /*tester soit width soit height ici*/
+  height: 100%; /* tester soit width soit height ici */
   width: 100%;
 }
 
-/*Fanion avec les stats*/
+/* Fanion avec les stats */
 .carte .fanion{
   height:118%;
   background:var(--fanion);
@@ -298,7 +288,7 @@ font-weight: bold;
   top:-1px;
   right:-1px;
 }
-/*Display correctement les stats*/
+/* Display correctement les stats */
 .carte .fanion>*{
   padding:1mm 0;
   width:24px;
@@ -308,7 +298,7 @@ font-weight: bold;
   vertical-align:middle;
 }
 
-/*Fait les deux petits piques du fanion
+/* Fait les deux petits piques du fanion
 Si tu veux modifier : https://outils-css.aliasdmc.fr/generateur-de-triangles-css.php */
 .carte .fanion::before, .carte .fanion::after{
   content:"";
@@ -319,7 +309,6 @@ Si tu veux modifier : https://outils-css.aliasdmc.fr/generateur-de-triangles-css
   border-right : 10px solid transparent;
   border-left : 10px solid transparent;
 }
-
 /* Positionnement des trianges TOUCHE PAS*/
 .carte .fanion::before{
   position:absolute;
@@ -364,7 +353,7 @@ Si tu veux modifier : https://outils-css.aliasdmc.fr/generateur-de-triangles-css
   content:"- "
 }
 
-/*seconde profondeur*/
+/* seconde profondeur */
 .carte ul ul{padding-inline-start: 10px;}
 .carte ul ul li::before{content:"- "}
 
