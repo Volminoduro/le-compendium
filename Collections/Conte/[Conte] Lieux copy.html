@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="../Collection_de_base/style.css">
+    
+        <script type="text/javascript" src="./extract.js"></script>
+    </head>
+    <body>
+        <div id="navBar">
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Baobab en barbe-à-papa<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/baobab.jpg);"></div>
+                        <div class="type"><span>Lieu : Soins</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span class="passif">Friandise généreuse </span></li>
+                                <ul class ="liste sous-liste">
+                                    <li><span>En commençant par le <perso>Personnage</perso> qui a découvert ce <lieu>Lieu</lieu> puis dans l'ordre de jeu.</span></li>
+                                    <li><span>Chaque <perso>Personnage</perso> peut se soigner jusqu'à 2 <blessure>Blessures</blessure>.</span></li>
+                                    <li><span>A partir de 6 <blessure>Blessures</blessure> <soin>soignées</span> de cette façon, défaussez immédiatement ce <lieu>Lieu</lieu>.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«N'essayez pas d'y grimper, ni de vous y abriter par temps de pluie.»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Cahutte de Bibi Yog'Yourte<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/yourte.jpg);"></div>
+                        <div class="type"><span>Lieu : Steuf</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span><span class="passif">Tout travail... (1 tour) :</span> vous pouvez passer votre tour et débloquer <span class="passif">le passif ...mérite récompense</span> au début de votre prochain tour.</span></li>
+                                <li><span><span class="passif">...mérite récompense :</span> vous pouvez transformer ce <lieu>Lieu</lieu> et l'équiper en tant qu'<leg>Accessoire légendaire</span> : </span></li>
+                                <ul class="liste sous-liste">
+                                    <li><span><span class="actif">Les produits laitiers sont des ennemis de notre transit (1 utilisation / partie) : </span> ciblez un <perso>Personnage</perso> qui n'est pas au <blessure>SdM</blessure>, il aura l'effet <span class="passif">Gaze'trop</span> infligeant une <blessure>Blessure</blessure> au début de son tour jusqu'à être au <blessure>SdM</blessure>. Une fois au <blessure>SdM</blessure>, il pourra transmettre <span class="passif">Gaze'trop</span> à un autre <perso>Personnage</perso> qui n'est pas au <blessure>SdM</blessure>, ainsi de suite.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«Le Yog'Yourte de Bibi, le produit laitier avec des vrais morceaux de yourte à l'intérieur !»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Planche au petit pieu<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/planche_pieu.jpg);"></div>
+                        <div class="type"><span>Lieu : Steuf</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span>Défendez-vous contre l'inconfort de la litterie.</span></li>
+                                <li><span>Si votre défense est inférieure à 2 : </span></li>
+                                <ul class="liste sous-liste">
+                                    <li><span>Subissez immédiatement une <blessure>Blessure</blessure>.</span></li>
+                                    <li><span>Piochez 2 <steuf>Steufs</steuf> de la pile <span class="mot-cle-clair marchand">Marchand d'or</span> et <span class="mot-cle-incolore">exilez</span> ce <lieu>Lieu</lieu>.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«Vous ne vous plaindrez plus jamais de vous endormir avec un caillou dans votre dos.»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Antre du lion anémié<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/caverne_lion.jpg);"></div>
+                        <div class="type"><span>Lieu : Steuf</span></div>
+                        <div class="description">
+                                <ul class="liste">
+                                    <li><span class="passif">Safari pour explorateurs incompétents en manque de sensation fortes :</span></li>
+                                    <ul class="sous-liste">
+                                        <li><span>Vous pouvez attaquer ce pauvre lion anémié.</span></li>
+                                        <li><span>Si vous faites 2 ou plus, vous pouvez récuperer <commun>Fourrure du lion anémié</span> et <commun>Patte du lion anémié</span>.</span></li>
+                                        <li><span>S'ils sont dans les piles <steuf>Steuf</steuf> ou <span class="mot-cle-clair marchand">Marchands</span>, mélangez les piles après ça.</span></li>
+                                        <li><span><span class="mot-cle-incolore">Exilez</span> ce lieu si vous réussissez votre attaque.</span></li>
+                                    </ul>
+                                </ul>
+                        </div>
+                        <div class="quote">«Il vous faisait pitié. Vous pourrez désormais porter sa fourrure pleine de puces fièrement sur vos épaules.»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Caverne aux brigands<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/caverne_brigand.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span>Vous pouvez récupérer les cartes <steuf>Steuf</steuf>, <conso>Consommable</conso>, <span class="mot-cle-sombre renversement">Retournement</span> <span class="mot-cle-incolore">exilées</span> de la partie que vous souhaitez.</span></li>
+                                <li><span>Vous pouvez <span class="mot-cle-incolore">exiler</span> des cartes en votre possession.</span></li>
+                            </ul>
+                        </div>
+                        <div class="quote">«Camélia, ouvre toi ! Colza, ouvre toi ! Soja, ouvre toi ! Toujours pas...»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Gueule de Doby Mick<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/gueule_moby_dick.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span>Choisissez une option : </span></li>
+                                <ul class="liste sous-liste">
+                                    <li><span class="passif">Racloir à chair :</span></li>
+                                    <ul class="sous-liste">
+                                        <li><span>Si vous attaquez à plus de 3.</span></li>
+                                        <li><span>Vous pouvez récupérer un jeton d'<steuf>Steuf</steuf> <rare>"Chair de la baleine"</span> valant 3 points d'<steuf>Steuf</steuf>.</span></li>
+                                    </ul>
+                                    <li><span class="passif">"Tape dans la luette, on est dans la mer !" :</span></li>
+                                    <ul class="sous-liste">
+                                        <li><span>Si vous attaquez à plus de 4.</span></li>
+                                        <li><span>Vous êtes projetez deux cases en arrière.</span></li>
+                                        <li><span>Vous activez la case et subissez immédiatement une <blessure>Blessure</blessure>.</span></li>
+                                    </ul>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«Qui aurait une très très grosse brosse à dents ? On fait pas souvent le ménage là-dedans.»</div>		
+                    </div>
+                </div>                
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Gouffre mal signalé<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/gouffre.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span class="passif">Vitesse et précipice :</span></li>
+                                <ul class="sous-liste">
+                                    <li><span>Si votre jet de déplacement était supérieur à 3.</span></li>
+                                    <li><span>Vous vous défaussez de deux <steuf>Steufs</steuf> de votre choix ou subissez deux <blessure>Blessures</blessure>.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«A ce jour, on compte 214 accidents de selfies à cause de cette âbime.»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Bois du Gel-aux-dents<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/bois_gel.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span><span class="passif">Cryptozoologue (Preum's) :</span> vous décidez du <span class="passif">passif</span> du <span class="mot-cle-sombre lieu">Bois du Gel-aux-dents</span> pour le reste de la partie. Il s'applique immédiatement.</span></li>
+                                <ul class="liste sous-liste">
+                                    <li><span class="passif">Ours mal léché :</span></li>
+                                    <ul class="sous-liste">
+                                        <li><span>Si votre défense est inférieure à 4.</span></li>
+                                        <li><span>Subissez immédiatement deux <blessure>Blessures</blessure>.</span></li>
+                                    </ul>
+                                    <li><span class="passif">Elan plein d'"élan" :</span></li>
+                                    <ul class="sous-liste">
+                                        <li><span>Vous fuyez le <span class="mot-cle-sombre lieu">Bois du Gel-aux-dents</span>.</span></li>
+                                        <li><span>Avancez d'une case supplémentaire.</span></li>
+                                    </ul>
+                                    <li><span class="passif">Hiboux voleurs :</span></li>
+                                    <ul class="sous-liste">
+                                        <li><span>Défaussez votre <steuf>Steuf</steuf> de tête</span></li>
+                                        <li><span>Mettez-le au-dessous de la pile du <span class="mot-cle-clair marchand">Marchand d'or</span>.</span></li>
+                                    </ul>
+                                </ul>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu titre-reduit">Atelier d'assemblage du grand Solat<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/atelier_solat.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span class="passif">Bouton rouge : lancez les deux dés</span></li>
+                                <ul class="liste sous-liste">
+                                    <li><span>Résultat pair, tous les <perso>Personnages</perso> sur les cases <steuf>Steuf</steuf>, <conso>Consommable</conso> ou <span class="mot-cle larcin">Larçin</span> subissent immédiatement une <blessure>Blessure</blessure>.</span></li>
+                                    <li><span>Résultat impair, tous les <perso>Personnages</perso> qui ne sont pas sur les cases <steuf>Steuf</steuf>, <conso>Consommable</conso> ou <span class="mot-cle larcin">Larçin</span> subissent immédiatement une <blessure>Blessure</blessure>.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«Ce n'est pas votre faute si votre groupe est décédé, il y avait un bouton rouge. Il fallait appuyer dessus, 'comprenez ?»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Cacafarnaome<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/cacafarnaome.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span class="passif">Égalitarisme tempétueux :</span></li>
+                                <ul class="sous-liste">
+                                    <li><span>Réunissez tous les <steuf>Steufs</steuf> (équipés ou en main) en jeu et mélangez-les.</span></li>
+                                    <li><span><span class="mot-cle-incolore">Exilez</span> les premières cartes jusqu'à avoir une répartition équitable entre chaque <perso>Personnage</perso>.</span></li>
+                                    <li><span>En commençant par vous, redistribuez le tout face cachée à chaque <perso>Personnage</perso>.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">««La propriété, c'est le vol» prends une toute autre mesure ici.»</div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Hôpital de campagne<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/hopital_campagne.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span><span class="passif">Premiers secours :</span> tous les <perso>Personnages</perso> à plus de 3 <blessure>Blessures</blessure> sont <soin>soignés</span> immédiatement d'une <blessure>Blessure</blessure>.</span></li>
+                                <li><span class="passif">Don du sang :</span></li>
+                                <ul class="sous-liste">
+                                    <li><span>Pour tous les <perso>Personnages</perso>, en commençant par celui qui a découvert le <lieu>Lieu</lieu> puis dans l'ordre de jeu.</span></li>
+                                    <li><span>Vous pouvez agir comme si vous étiez sur la case <span class="mot-cle-clair marchand">Marchand de sang</span>.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«Imaginez la tête du médecin quand il vous verra échanger votre sang fraichement transfusé contre une armure flanbant neuve.»</div>		
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="contour-de-carte">
+                    <div class="fond-de-carte">
+                        <div class="name lieu">Arène du pugilisme<span class="icon"><img src="./Images/icone.png" /></span></div>
+                        <div class="image" style="background-image: url(Images/Lieux/arene_pugilisme.jpg);"></div>
+                        <div class="type"><span>Lieu : Autres</span></div>
+                        <div class="description">
+                            <ul class="liste">
+                                <li><span class="passif">Duel :</span></li>
+                                <ul class="sous-liste">
+                                    <li><span>Vous pouvez engagez un duel avec un autre <perso>Personnage</perso> de votre choix.</span></li>
+                                    <li><span>Vous l'attaquerez puis il vous attaquera.</span></li>
+                                    <li><span>Cela ne comptera pas comme une phase d'attaque de votre tour.</span></li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="quote">«La première règle de l'arène du pugilisme est : il n'y a aucune règle. Aucun sens.»</div>		
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

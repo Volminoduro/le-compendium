@@ -28,7 +28,7 @@
   
   /* image de fond de collection */
   --bgConte:url(../Conte/Images/icone.png);
-  --bgDessin:url(../Dessin_animé/Images/icone.png);
+  --bgDessin:url(../Dessin_anime/Images/icone.png);
   
   /* ombre portée selon la couleur du mot clé */
   --shadowBlanc:-0.25mm 0 var(--white), 0 0.25mm var(--white), 0.25mm 0 var(--white), 0 -0.25mm var(--white);
@@ -49,7 +49,7 @@
   --nom:4mm;
   --titre:3.8mm;
   --citation:2.5mm;
-  --line-height-citation: 2mm;
+  --line-height-citation: 2.5mm;
   --stats:4mm;
 }
   
@@ -190,6 +190,10 @@ or-icon{
   content: url(../Collection_de_base/Images/or.png);
 }
 
+attaque-icon{
+  content: url(../Collection_de_base/Images/attaque.png);
+}
+
 defense-icon{
   content: url(../Collection_de_base/Images/defense.png);
 }
@@ -204,6 +208,46 @@ soin-icon{
 
 conso-icon{
   content: url(../Collection_de_base/Images/consommable.png);
+}
+
+lieu-icon{
+  content: url(../Collection_de_base/Images/lieu.png);
+}
+
+portee-icon{
+  content: url(../Collection_de_base/Images/portee.png);
+}
+
+bonus-1-icon{
+  content: url(../Collection_de_base/Images/bonus_1.png);
+}
+
+malus-1-icon{
+  content: url(../Collection_de_base/Images/malus_1.png);
+}
+
+chaotique-icon{
+  content: url(../Collection_de_base/Images/ordre_chaotique.png);
+}
+
+ordre-neutre-icon{
+  content: url(../Collection_de_base/Images/ordre_neutre.png);
+}
+
+loyal-icon{
+  content: url(../Collection_de_base/Images/ordre_loyal.png);
+}
+
+mauvais-icon{
+  content: url(../Collection_de_base/Images/moral_mauvais.png);
+}
+
+moral-neutre-icon{
+  content: url(../Collection_de_base/Images/moral_neutre.png);
+}
+
+bon-icon{
+  content: url(../Collection_de_base/Images/moral_bon.png);
 }
 
 /* conteneur de la carte en entier */
@@ -343,6 +387,8 @@ Si tu veux modifier : https://outils-css.aliasdmc.fr/generateur-de-triangles-css
 /* Description de l'effet */
 .carte ul{
   padding-inline-start: 5px;
+  margin-top: 1mm;
+  margin-bottom: 1mm;
 }
 .carte li{
   list-style-type:none;

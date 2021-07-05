@@ -11,81 +11,22 @@
 
         <h2>Attaque / Défense</h2>
 
-        <h3>Attaque</h3>
-
         <ul>
             <li><strong>A distance :</strong> se dit d'une <strong>attaque</strong> à plus d'une case de distance.</li>
-            <li><strong>Attaque :</strong> action d'engager un duel envers la cible (cela peut provenir d'un <i>Lieu</i> ou d'un <i>Personnage</i>). Cela se fait à l'aide de nos différents bonus d'attaque + un lancer de <strong>d4</strong> qui s'ajoute à ce total. Une attaque est réussie si le total de attaque est supérieur à celui de la défense. Si c'est équivalent, on dit que c'est à <strong>égalité</strong>. Un <i>Lieu</i> ne dispose pas de défense par défaut, si ça n'est pas mentionné.</li>
-            <li><strong>Contre-attaque :</strong> action d'attaquer immédiatement après avoir subi une attaque. Vous ne pouvez contre-attaquer une contre-attaque.</li>
             <li><strong>Corps-à-corps :</strong> se dit d'une <strong>attaque</strong> à une case de distance ou moins.</li>
-        </ul>
-
-        <h3>Défense</h3>
-
-        <ul>
-            <li><strong>Défense :</strong> action de résister à une attaque. Cela se fait à l'aide de nos différents bonus de défense + un lancer de <strong>d3</strong> qui s'ajoute à ce total. Une défense est réussie si le total de défense est supérieur à celui de l'attaque. Si c'est équivalent, on dit que c'est à <strong>égalité</strong>.</li>
-        </ul>
-
-        <h2>Effets</h2>
-
-        <ul>
-            <li><strong>Lycanthropie : Tous les 4 tours de jeu globaux, vous êtes forcés de vous transformer en <i>Loup-Garou</i> jusqu'au début de votre prochain tour. Cela révèle votre <i>Personnage</i>.</strong></li>
-            <li><strong>Loup-Garou :</strong></li>
-            <ul>
-                <li>Si vous n'étiez pas transformé en <strong>Loup-Garou</strong> au tour précédent, défaussez tous vos <i>Steufs</i> actuellement équipés.</li>
-                <li>+3 d'attaque et +2 de défense.</li>
-                <li>Vos attaques réussies infligent 2 Blessures.</li>
-                <li>Si on vous attaque sans succès, vous infligez une Blessure en représailles.</li>         
-                <li>Vous ne pouvez utiliser de <u><strong>compétences</strong></u> ou de cartes jusqu'à votre prochain tour.</li>
-                <li>Vous pouvez attaquez avant votre déplacement, puis après votre déplacement avant de finir directement votre tour.</li>
-                <li>Si c'est possible, vous êtes obligé d'attaquer n'importe quel autre <i>Personnage</i> à portée qui ne serait pas un <strong>Loup-Garou</strong>. Si plusieurs <i>Personnages</i> sont à portée, choisissez la cible.</li>                
-                <li>Votre déplacement ne peut activer qu'une case <i>Lieux</i>.</li>
-            </ul>
-            <li><span><strong>Usurpateur :</strong> Vous pouvez accomplir une quête d'un autre <i>Personnage</i>. Vous ne cumulez pas de points supplémentaires si vous accomplissez plusieurs quêtes en même temps grâce à cet effet.</span></li>
         </ul>
 
         <h2>Steufs</h2>
 
         <ul>
-            <li><strong>Compagnon :</strong> effet qui signifie que l'<i>Steuf</i> peut être attaqué à la place du <i>Personnage</i> (vous vous défendez normalement) et subir un certain nombre de blessures. Une fois à sa limite de Blessure atteinte, l'<i>Steuf</i> est <strong>exilé</strong>.</li>
-            <li><strong>Inutilité :</strong> état d'un <i>Steuf</i> qui ne confère ni effets, ni compétences, ni bonus.</li>
-            <li><strong>Désactivation :</strong> état d'un <i>Steuf</i> qui ne confère plus effets et ne peut plus utiliser ses compétences, les bonus restent actifs.</li>
-            <li><strong>Maîtrise :</strong> renforcement ou ajout d'effets, de compétences ou de bonus à votre <i>Steuf</i> si vous avez rempli certaines conditions.</li>
-            <ul>
-                <li>Seules les actions postérieures à l'steuf de l'objet compteront. Les effets de <strong>Maîtrise</strong> ne s'appliquent que tant que l'objet est équipé. Cependant, perdre cet objet puis le retrouver plus tard ne fait pas disparaître la <strong>Maîtrise</strong>.</li>
-            </ul>
-        </ul>
-
-        <h2>Personnages</h2>
-
-        <ul>
-            <li><strong>Ennemi :</strong> rapport d'adversité qui se définit par l'alignement d'un autre <i>Personnage</i>. Pour un Protagoniste, c'est l'Antagoniste (et inversement). Pour le Neutre, c'est le Protagoniste et l'Antagoniste.</li>
-            <li><strong>Entravé :</strong> état d'un <i>Personnage</i> qui ne peut pas attaquer, se défendre, se déplacer, ou utiliser ses compétences.</li>
-            <li><strong>Seuil de la Mort (SdM) :</strong> état dans lequel où un <i>Personnage</i> ne peut pas attaquer. Subir une Blessure supplémentaire ferait mourir le <i>Personnage</i>. Le soin d'une Blessure permet de quitter cet état.</li>
-            <li><strong>Mort :</strong> état dans lequel le <i>Personnage</i> sort du jeu, peut avoir un de ses <i>Steufs</i> récupérés par son assaillant (le cas échéant), sinon toutes ses cartes vont dans les défausses adéquates. Le joueur ne jouera plus jusqu'à la fin de la partie.</li>
+            <li><strong>Compagnon :</strong> <effet>passif</effet> qui signifie que le <steuf>Steuf</steuf> peut être attaqué à la place du <perso>Personnage</perso> et subir un certain nombre de blessures. La défense se déroule comme si le <perso>Personnage</perso> était attaqué. Une fois à sa limite de <blessure>Blessure</blessure> atteinte, le <steuf>Steuf</steuf> est <strong>défaussé</strong>.</li>
         </ul>
 
         <h2>Autres</h2>
 
         <ul>
-            <li>Bonus / Malus : changement brut de certaines statistiques (portée, attaque, etc.). Un bonus est décrit ainsi.</li>
-            <li><u><strong>Compétence :</strong></u> action à activer soi-même à un temps donné, une <u><strong>compétence</strong></u> est décrite ainsi. Par défaut, une compétence ne s'utilise qu'une fois par tour.</li>
             <li><strong>d3 :</strong> dé à 3 faces.</li>
             <li><strong>d4 :</strong> dé à 4 faces.</li>
-            <li><strong>Effets :</strong> action qui se déclenche d'elle-même lorsque les conditions en sont réunies, ne nécessite pas une action explicite contrairement à la <u><strong>compétence</strong></u>, un <strong>effet</strong> est décrit ainsi.</li>
-            <li><strong>Exil :</strong> l'exil consiste à sortir une carte du jeu définitivement, contrairement à la défausse qui se recycle.</li>
-            <li><strong>Sang :</strong> unité d'échange pour le <i>Marchand de Sang</i> utilisée à la place des Blessures. 1 Sang correspond à 1 Blessure.
-            <li><strong>Primeur :</strong> condition d'accessibilité (à un <strong>effet</strong>, ou une <u><strong>compétence</strong></u>, ou autre) si l'on est le premier à le faire de la partie.</li>
-        </ul>
-
-        <h2>Blocs d'Collection</h2>
-
-        <h3>Harry Potter</h3>
-
-        <ul>
-            <li><u><strong>Animorphe :</strong></u> il s'agit d'une compétence qui vous octroie l'<strong>effet</strong> de l'animal transformé ou vous l'enlève si vous étiez déjà transformé. Cela passe également votre tour. Vous ne pouvez démarrer la partie avec l'effet de l'animal transformé.</li>
-            <li><strong>Amendement du Ministère :</strong> L'<i>Amendement du Ministère</i> est une règle décidée arbitrairement parmi une liste, plusieurs <i>Amendement du Ministère</i> peuvent être actifs en même temps. On ne peut choisir deux fois la même règle. Les <i>Amendements du Ministère</i> continuent d'exister même après la mort du <i>Personnage</i> qui les a mis en place.</li>
-            <li><strong>Les Reliques de la mort :</strong> Permet d'équiper en même temps la <i>Cape d'Invisibilité</i>, la <i>Baguette de Sureau</i> et la <i>Pierre de Résurrection</i>. Si vous avez équipé ces 3 objets durant la partie, vous devenez le Maître de la Mort jusqu'à la fin de la partie. Mourir ne vous empêchera d'accomplir votre quete et ne vous fera perdre aucun point.
         </ul>
         
     </body>

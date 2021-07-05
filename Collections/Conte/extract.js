@@ -1,23 +1,47 @@
 $(document).ready(function() {
-  var data = JSON.parse(localStorage.getItem('data'));
-  var mainContainer = $("#myData")[0];
-  for (var i = 0; i < data.cartes.length; i++) {
+  var data = $(".card");
+  var cartes = [];
+  console.log(cartes);
+  for (var i = 0; i < data.length; i++) {
+    console.log(data[i]);
+    var carte = new Object();
+    carte.edition="conte";
+    carte.nom=$(".name", data[i]).text();
+    carte.type="lieu";
+    carte.illustration=$(".image", data[i]).css('background-image');
 
-    var nbExemplaires = (!!data.cartes[i].nombre) ?
-      data.cartes[i].nombre : 1;
+    carte.caracteristiques=[];
+    var caracteristique = new Object();
+    caracteristique.nature = "lieu-icon";
+    caracteristique.montant = "";
+    carte.caracteristiques.push(caracteristique);
+    /* var caracteristiqueOr = new Object();
+    caracteristiqueOr.nature = "or-icon";
+    caracteristiqueOr.montant = "5";
+    carte.caracteristiques.push(caracteristiqueOr); */
 
-    for(var nombre = 0; nombre < nbExemplaires; nombre++){
-        var carte = $("<div></div>"); 
-        $(carte).addClass('carte ' + data.cartes[i].type + ' ' + data.cartes[i].edition);
-            
-        $(carte).append(creerEntete(data.cartes[i]));
-        
-        $(carte).append(creerDescription(data.cartes[i]));
-        
-        $(mainContainer).append(carte);
+    carte.effets=[];
+
+    var effets = $(".liste", data[i]);
+    for (var j = 0; j < effets.length; j++) {
+      var effetObj = new Object();
+      effetObj.nature = "";
+      effetObj.nom = "";
+      
+      var effet = new Object();
+      effet.contenu = effets[j].innerHTML;
+
+      effetObj.effet = effet;
+
+      carte.effets.push(effetObj);
     }
-    
+
+    carte.citation=$(".quote", data[i]).text();
+
+    cartes.push(carte);
   }
+
+  console.log(JSON.stringify(cartes));
 });
 
 function creerEntete(carte){
@@ -29,7 +53,7 @@ function creerEntete(carte){
   var imgDiv = $("<div></div>").addClass("img").html("<img src='"+carte.illustration+"' />");
   $(entete).append(imgDiv);
   
-  // On traite la boucle de fanion
+  //On traite la boucle de fanion
   var fanionDiv = $("<div></div>").addClass("fanion");
   $(entete).append(fanionDiv.html(getAllCaracteristiques(carte.caracteristiques)));
 
@@ -50,7 +74,7 @@ function creerCitation(carte){
   return $("<div></div>").addClass("citation").html(carte.citation);
 }
 
-/* RECUPERER TOUS LES FANIONS */
+/* RECUPERER TOUS LES FANIONS*/
 function getAllCaracteristiques(caracteristiques){
   var fanions = "";
   
@@ -64,7 +88,7 @@ function getAllCaracteristiques(caracteristiques){
   return fanions;
 }
 
-/* RECUPERER TOUT LES EFFETS */
+/*RECUPERER TOUT LES EFFETS*/
 function getAllEffects(effets){
   var effetsHtml = $("<div></div>");
   
@@ -80,7 +104,7 @@ function getAllEffects(effets){
   return $(effetsHtml).find('>div');
 }
   
-/* RECUPERER TOUS LES SOUS EFFETS EN RECURSIF */
+/*RECUPERER TOUS LES SOUS EFFETS EN RECURSIF*/
 function getSubEffects(sousEffets){
   var content = ""; 
   
@@ -89,7 +113,7 @@ function getSubEffects(sousEffets){
     content += li;
     
     if(!!e.enfants){
-      content += "<ul>"+getSubEffects(e.enfants)+"</ul>";
+      content += "<ul>"+getSubEffects(e.enfants[0])+"</ul>";
     }
   });
   
