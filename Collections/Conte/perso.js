@@ -40,7 +40,7 @@
                 "caracteristiques":[
                     {"nature":"bon-icon", "montant":""},
                     {"nature":"loyal-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"}
+                    {"nature":"blessure-icon","montant":"5"}
                 ],
                 "effets":[
                     {
@@ -50,6 +50,14 @@
                             {
                                 "contenu":"Vous pouvez piochez dans la défausse des <conso>Consommable</conso> et des <steuf>Steufs</steuf> à la place des piles habituelles."
                             }
+                        ]
+                    },
+                    {
+                        "nature":"passif",
+                        "nom":"Le petit personnel",
+                        "effet":[
+                            {"contenu":"Jusqu'à votre prochain tour."},
+                            {"contenu":"Vous pourrez choisir une seule fois de mettre une carte <conso>Consommable</conso> ou <steuf>Steuf</steuf> d'un autre <perso>Personnage</perso> en dessous de la pile de pioche plutôt qu'à la défausse."}
                         ]
                     }
                 ],
@@ -586,7 +594,7 @@
                     },
                     {
                         "nature":"passif",
-                        "nom":"«Bande de mauvaises graines !»",
+                        "nom":"« Bande de mauvaises graines ! »",
                         "effet":
                             {"contenu":"+1 d'attaque et de défense contre les <perso>Mauvais</perso>."}
                     }
@@ -607,8 +615,10 @@
                     {
                         "nature":"actif",
                         "nom":"Prédation",
-                        "effet":
-                            {"contenu":"Au début de votre tour.Vous pouvez désigner un autre <perso>Personnage</perso>, +1 de portée lorsque vous l'attaquez."}
+                        "effet":[
+                            {"contenu":"Vous pouvez désigner un autre <perso>Personnage</perso>."},
+                            {"contenu":"+1 de portée lorsque vous l'attaquez."}
+                        ]
                     },
                     {
                         "nature":"actif",

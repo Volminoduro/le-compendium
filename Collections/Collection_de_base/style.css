@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cinzel');
+﻿@import url('https://fonts.googleapis.com/css?family=Cinzel');
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
 
@@ -39,18 +39,18 @@
   --TimesNewRoman:'Times New Roman', serif;
 
   /* taille effet */
-  --heightTitreEffet:6mm;
+  --heightTitreEffet:5mm;
   --tailleEffet:16px;
   --bgActif:url(../Collection_de_base/Images/actif.png);
   --bgPassif:url(../Collection_de_base/Images/passif.png);
   
   /* fontsize */
-  --standard:3.5mm;
-  --nom:4mm;
-  --titre:3.8mm;
-  --citation:2.5mm;
-  --line-height-citation: 2.5mm;
-  --stats:4mm;
+  --standard:2.8mm;
+  --nom:3mm;
+  --titre:2.8mm;
+  --citation:2.25mm;
+  --line-height-citation: 2.25mm;
+  --stats:3mm;
 }
   
 /* ### PERSONNALISATION DES COULEURS SELON TYPE DE CARTE ### */
@@ -136,9 +136,9 @@ font-weight: bold;
 }
 
 description::before{
-  width: 66mm;
-  height: 82mm;
-  background-size: 60mm 60mm;
+  width: 62mm;
+  height: 61mm;
+  background-size: 50mm 50mm;
 
   opacity: .08;
   background-repeat: no-repeat;
@@ -252,8 +252,8 @@ bon-icon{
 
 /* conteneur de la carte en entier */
 .carte{
-  width:66mm;
-  height:116mm;
+  width:61mm;
+  height:86mm;
   
   background-image:var(--bgImg);
   background-size:cover;
@@ -262,7 +262,7 @@ bon-icon{
   font-size:var(--standard);
   font-family:var(--TimesNewRoman);
   
-  border:2mm solid black;
+  border:1mm solid black;
   border-image-source:var(--borderImg);
   border-image-slice:1;
   
@@ -334,8 +334,8 @@ bon-icon{
 }
 /* Display correctement les stats */
 .carte .fanion>*{
-  padding:1mm 0;
-  width:24px;
+  padding:0.5mm 0;
+  width:20px;
   
   /* NE PAS TOUCHER */
   display:inline-block;
@@ -396,12 +396,12 @@ Si tu veux modifier : https://outils-css.aliasdmc.fr/generateur-de-triangles-css
   margin:0;
 }
 .carte li::before{
-  content:"- "
+  content:"○ "
 }
 
 /* seconde profondeur */
 .carte ul ul{padding-inline-start: 10px;}
-.carte ul ul li::before{content:"- "}
+.carte ul ul li::before{content:"○ "}
 
 .carte .citation{
   display:block;
