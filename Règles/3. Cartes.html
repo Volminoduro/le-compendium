@@ -11,26 +11,29 @@
         <h1>Cartes</h1>
 
         <ul>
-            <li>A la fin de votre tour, vous devrez n'avoir que 2 cartes en main maximum. Défaussez-en le cas échéant.</li>
-            <li>Les cartes ne peuvent être défaussés que pendant votre tour.</li>
-            <li>Les <steuf>Steufs</steuf> et les <conso>Consommable</conso> ont une valeur d'échange en <or>Or</or>, symbolisé par <img src="../Collections/Collection_de_base/Images/or.png" /></li>
+            <li>À la fin de votre tour, vous devrez n'avoir que 2 cartes maximum en main. Défaussez le surplus.</li>
+            <li>Les cartes ne peuvent être défaussées que pendant votre tour.</li>
+            <li>Les <steuf>Steufs</steuf> et les <conso>Consommable</conso> ont une valeur en <or>Or</or>, symbolisé par <img src="../Collections/Collection_de_base/Images/or.png" /></li>
             <li>Les <steuf>Steufs</steuf> et les <conso>Consommable</conso> peuvent être gardés en main plutôt que joués directement.</li>
         </ul>
 
         <ul>
-            <li>Les <steuf>Steufs</steuf>, <conso>Consommables</conso> et <lieu>Lieux</lieu> pourront avoir des effets <effet>actifs</effet> et <effet>passifs</effet>.</li>
+            <li>Les <steuf>Steufs</steuf>, <conso>Consommables</conso> et <lieu>Lieux</lieu> peuvent avoir des effets <effet>actifs</effet> et <effet>passifs</effet>.</li>
             <ul>
                 <li>Les <effet>actifs</effet> sont symbolisés par <img src="../Collections/Collection_de_base/Images/actif.png" style="width: var(--heightTitreEffet);height: var(--heightTitreEffet);"></li>
                 <ul>
-                    <li>Les <effet>actifs</effet> ne peuvent être exécutés que lors des <i>phases d'action</i> de votre tour, sauf si le contraire est explicité dans la description de l'<effet>actif</effet>.</li>
-                    <li>Si ce n'est pas précisé, les <actifs>actifs</actifs> ne peuvent être utilisés qu'une fois par tour.</li>
+                    <li>Les <effet>actifs</effet> ne peuvent être exécutés que lors de vos <i>phases d'action</i>, sauf exceptions.</li>
+                    <li>Les <effet>actifs</effet> ne peuvent être utilisés qu'une fois par tour, sauf exceptions.</li>
                 </ul>
                 </br>
 
                 <li>Les <effet>passifs</effet> sont symbolisés par <img src="../Collections/Collection_de_base/Images/passif.png" style="width: var(--heightTitreEffet);height: var(--heightTitreEffet);"></li>
                 <ul>
-                    <li>Les <effet>passifs</effet> ont en général une condition de déclenchement, par exemple : "Lorsque vous piochez un <steuf>Steuf</steuf>".</li>
-                    <li>Si cette condition n'est pas décrite, alors le <effet>passif</effet> s'applique en tout temps.</li>
+                    <li>Les <effet>passifs</effet> peuvent avoir une condition de déclenchement.</li>
+                    <ul>
+                        <li>Exemple : lorsque vous piochez un <steuf>Steuf</steuf></li>
+                    </ul>
+                    <li>Si cette condition n'est pas décrite, alors le <effet>passif</effet> s'applique en continu.</li>
                 </ul>
             </ul>
             
@@ -44,24 +47,38 @@
                 <li><b>Moralité</b> : Bon <img src="../Collections/Collection_de_base/Images/moral_bon.png" style="width: 24px; height: 24px;" /> - Neutre <img src="../Collections/Collection_de_base/Images/moral_neutre.png" style="width: 24px; height: 24px;" /> - Mauvais <img src="../Collections/Collection_de_base/Images/moral_mauvais.png" style="width: 24px; height: 24px;" /></li>
                 <li><b>Ordre</b> : Loyal <img src="../Collections/Collection_de_base/Images/ordre_loyal.png" style="width: 24px; height: 24px;" /> - Neutre <img src="../Collections/Collection_de_base/Images/waves.png" style="width: 24px; height: 24px;" /> - Chaotique <img src="../Collections/Collection_de_base/Images/ordre_chaotique.png" style="width: 24px; height: 24px;" /> </li>
             </ul>
-            <li>Ces deux axes intéragiront avec certaines <b>Cartes</b>.</li>
+            <li>Certaines <b>Cartes</b> peuvent interagir avec ces axes.</li>
             <ul>
-                <li>Exemple : tous les <b>Bon</b> sont <soin>soignés</span> d'une <blessure>Blessure</blessure>.</li>
+                <li>Exemple : tous les <b>Bons</b> sont <soin>soignés</soin> d'une <blessure>Blessure</blessure>.</li>
             </ul>
         </ul>
 
-        <h3>Blessure</h3>
+        <h3><blessure>Blessure</blessure></h3>
 
         <ul>
             <li>Le compteur de <blessure>Blessure</blessure> désigne la capacité maximale à prendre des dégâts.</li>
-            <li>Lorsque vous parvenez à votre nombre maximale de <blessure>Blessure</blessure>, vous déplacez votre pion sur l'emplacement <blessure>Seuil de la Mort</blessure> (abrégé en <blessure>SdM</blessure> ou <img src="../Collections/Collection_de_base/Images/sdm.png" style="width: 24px; height: 24px;" />).</li>    
+            <li>Lorsque vous parvenez à votre nombre maximal de <blessure>Blessure</blessure>, vous déplacez votre jeton sur l'emplacement <blessure>Seuil de la Mort</blessure> (abrégé en <blessure>SdM</blessure> ou <img src="../Collections/Collection_de_base/Images/sdm.png" style="width: 24px; height: 24px;" />).</li>    
+            
+        </ul>
+
+        <h4><blessure>Seuil de la Mort</blessure></h4>
+
+        <ul>
             <li>Lorsqu'un <perso>Personnage</perso> est au <blessure>SdM</blessure> :</li>
                 <ul>
-                    <li>Il ne peut pas attaquer d'autres <perso>Personnages</perso>.</li>
-                    <li>Pour quitter cet état, il lui suffit de vous soigner d'une <blessure>Blessure</blessure>. Alors votre nombre de <blessure>Blessure</blessure> devient votre nombre maximal de <blessure>Blessure</blessure> - 1.</li>
-                    <li>Une <blessure>Blessure</blessure> infligée alors que vous êtes déjà au <blessure>SdM</blessure> ne change rien à votre compteur de <blessure>Blessure</blessure> ni au <soin>soin</soin> nécessaire pour en sortir.</li>
+                    <li>S'il subit une <blessure>blessure</blessure>, il confie son <b>jeton de pupitre</b> au joueur responsable de la blessure reçue.</li>
                     <ul>
-                        <li>Néanmoins, elle est prise en compte pour les <b>Cartes</b> qui devraient intéragir avec la <blessure>Blessure</blessure> infligée.</li>
+                        <li>S'il n'a plus son <b>jeton de pupitre</b> le designant, il ne se passe rien.</li>
+                    </ul>
+                    </br>
+
+                    <li>Il ne peut pas attaquer d'autres <perso>Personnages</perso>.</li>
+                    </br>
+
+                    <li>Pour quitter le <blessure>SdM</blessure>, il lui suffit de se soigner d'une <blessure>Blessure</blessure>.</li>
+                    <li>Une <blessure>Blessure</blessure> reçue au <blessure>SdM</blessure> ne modifie pas votre nombre de <blessure>Blessure</blessure>.</li>
+                    <ul>
+                        <li>Cette <blessure>Blessure</blessure> additionnelle est normalement prise en compte par les Cartes.</li>
                     </ul>
                 </ul>
         </ul>
@@ -70,39 +87,42 @@
 
             <ul>
                 <li>Tant qu'un <perso>Personnage</perso> est face cachée, il ne peut pas bénéficier de ses <b>passifs</b> ni de ses <b>actifs</b>.</li>
-                <li>Attaquer un autre <perso>Personnage</perso> ne fait pas réveler votre <perso>Personnage</perso>, ni le sien.</li>
-                <li>Vous pouvez révéler votre <perso>Personnage</perso> à tout moment, vous ne pourrez plus le remettre face cachée une fois révélé.</li>
-                <li>Lorsqu'il est au <blessure>SdM</blessure>, un <perso>Personnage</perso> doit retourner sa carte face visible.</li>
+                <li>Attaquer un autre <perso>Personnage</perso> ne fait pas réveler votre <perso>Personnage</perso> ni le sien.</li>
+                <li>Vous pouvez révéler votre <perso>Personnage</perso> à tout moment, vous ne pourrez plus le remettre face cachée.</li>
+                <li>Lorsqu'il atteint <blessure>SdM</blessure>, le <perso>Personnage</perso> doit se révéler.</li>
             </ul>
         </h2>
 
-        <h2>Steuf</h2>
+        <h2><steuf>Steuf</steuf></h2>
 
         <ul>
             <li>Vous ne pouvez équiper un <steuf>Steuf</steuf> que durant votre tour.</li>
             <li>Les <steuf>Steufs</steuf> ont plusieurs rangs de rareté : <commun>Commun</commun>, <rare>Rare</rare>, <epique>Épique</epique> et <leg>Légendaire</leg>.</li>
-            <li>Lorsque vous piochez un <steuf>Steuf</steuf> <leg>Légendaire</leg>, vous devrez l'équiper ou le défausser immédiatement.</li>
+            <li>Lorsque vous piochez un <steuf>Steuf</steuf> <leg>Légendaire</leg>, vous devrez l'équiper ou le défausser à la fin de votre tour.</li>
+            <ul>
+                <li>Vous ne pouvez avoir qu'un seul <steuf>Steuf</steuf> <leg>Légendaire</leg> équipé à la fois.</li>
+            </ul>
         </ul>
 
         <ul>
             <li>Pour bénéficier de ses <effet>actifs</effet> et <effet>passifs</effet>, le <steuf>Steuf</steuf> doit être équipé.</li>
         </ul>
 
-        <h2>Consommable</h2>
+        <h2><conso>Consommable</conso></h2>
 
         <ul>
-            <li>Lorsqu'un <conso>Consommable</conso> est joué, il doit être défaussé une fois que son <effet>effet</effet> n'est plus en jeu.</li>
+            <li>Lorsqu'un <conso>Consommable</conso> est joué, il doit être défaussé une fois que son <effet>effet</effet> est expiré.</li>
             <li>Par exemple : un <conso>Consommable</conso> avec un <effet>effet</effet> immédiat tel que <soin>soigner</soin> une <blessure>blessure</blessure> sera défaussé après utilisation.</li>
             <ul>
-                <li>Au contraire, un <effet>effet</effet> qui durerait pendant plusieurs tours, le <conso>Consommable</conso> sera mis sur l'emplacement <effet>effet</effet> du pupitre du joueur affecté et ne sera défaussé qu'après l'expiration de l'<effet>effet</effet>.</li>
+                <li>Au contraire pour un <effet>effet</effet> qui durerait pendant plusieurs tours, le <conso>Consommable</conso> serait mis sur l'emplacement <effet>effet</effet> du pupitre du joueur affecté et ne sera défaussé qu'après l'expiration de l'<effet>effet</effet>.</li>
             </ul>
         </ul>
 
-        <h2>Lieu</h2>
+        <h2><lieu>Lieu</lieu></h2>
 
         <ul>
             <li>Lorsqu'un <lieu>Lieu</lieu> est pioché, il doit être joué immédiatement.</li>
-            <li>Il n'est défaussé qu'une fois son <effet>effet</effet> expiré, comme pour les <conso>Consommables</conso>.</li>
+            <li>À l'instar des <conso>Consommables</conso>, le <lieu>Lieu</lieu> n'est défaussé qu'une fois son <effet>effet</effet> expiré.</li>
         </ul>
         
     </body>

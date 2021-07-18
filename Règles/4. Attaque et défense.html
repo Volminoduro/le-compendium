@@ -12,23 +12,27 @@
 
         <ul>
             <li>Vous êtes libre d'attaquer n'importe quel autre <perso>Personnage</perso> que vous-même.</li>
-            <li>Le choix de la cible est limité par votre portée. La portée est une statistique indiquant quelles zones autour de vous vous pouvez attaquer.</li>
+            <li>Le choix de la cible est limité par votre portée. La portée définit quelles zones autour de vous vous pouvez attaquer.</li>
             <li>Par défaut, votre portée est de 1.</li>
             <ul>
-                <li>Cela signifie que vous pouvez attaquer votre case et les cases adjacentes (puisque éloignées de 1 case de la vôtre).</li>
+                <li>Vous pouvez attaquer sur votre case et les cases adjacentes.</li>
             </ul>
-            <li>La portée peut être augmentée ou diminuée, néanmoins elle ne peut pas descendre en-dessous de 0. Donc vous pourrez toujours attaquer la case où vous vous trouvez.</li>
+            <li>La portée peut être augmentée ou diminuée, mais elle ne peut pas descendre en-dessous de 0.</li>
+            <ul>
+                <li>0 de portée : attaquer sur la case où vous vous trouvez.</li>
+            </ul>
         </ul>
 
         <ul>
             <li>L'attaque se déroule ainsi :</li>
             <ul>
-                <li>L'attaquant lance le dé à 4 faces.</li>
-                <li>La défenseur (la cible de l'attaque) lance le dé à 3 faces.</li>
-                <li>Les différents bonus d'attaque et de défense (<steuf>Steufs</steuf>, <conso>Consommables</conso>, etc.) s'additionne au résultat des dés.</li>
+                <li>L'attaquant lance le <b>d4</b>.</li>
+                <li>Le défenseur ciblé par l'attaque lance le <b>d3</b>.</li>
+                <li>Les différents bonus d'attaque <img src="../Collections/Collection_de_base/Images/arme.png" style="width: 24px; height: 24px;" /> et de défense (<steuf>Steufs</steuf>, <conso>Consommables</conso>, etc.) s'additionnent au résultat des dés.</li>
                 <ul>
-                    <li>Si Attaque > Défense = 1 blessure infligée au défenseur.</li>
-                    <li>Si Attaque ⩽ Défense = il ne se passe rien.</li>
+                    <li><img src="../Collections/Collection_de_base/Images/attaque.png" style="width: 24px; height: 24px;" /> = <b>d4</b> + <img src="../Collections/Collection_de_base/Images/arme.png" style="width: 24px; height: 24px;" /></li>
+                    <li>Si <img src="../Collections/Collection_de_base/Images/attaque.png" style="width: 24px; height: 24px;" /> > Défense totale = 1 <blessure>blessure</blessure> infligée au défenseur.</li>
+                    <li>Si Attaque totale ⩽ Défense totale = aucune <blessure>blessure</blessure> infligée.</li>
                 </ul>
             </ul>
         </ul>
