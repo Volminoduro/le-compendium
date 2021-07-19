@@ -55,8 +55,10 @@ function getAllCaracteristiques(caracteristiques){
   var fanions = "";
   
   $(caracteristiques).each(function(i,e){
-    fanions += "<sp>"+e.montant+"</sp>";
-    fanions += "<"+e.nature+" >"+""+"</"+e.nature+">";
+    var montant = (!!e.montant) ?
+    e.montant : "";
+    fanions += "<sp>"+montant+"</sp>";
+    fanions += e.nature;
     if(i!= caracteristiques.length-1)
       fanions += "<br />";
   });

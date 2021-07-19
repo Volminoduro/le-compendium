@@ -12,7 +12,7 @@ $(document).ready(function() {
 
     carte.caracteristiques=[];
     var caracteristique = new Object();
-    caracteristique.nature = "lieu-icon";
+    caracteristique.nature = "<lieu-icon></lieu-icon>";
     caracteristique.montant = "";
     carte.caracteristiques.push(caracteristique);
     /* var caracteristiqueOr = new Object();

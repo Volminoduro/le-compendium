@@ -7,7 +7,7 @@
                 "nom":"Bonhomme en pain d'épices",
                 "type":"conso",
                 "illustration":"./Images/Consommables/bonhomme_epices.jpg","caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"3"}
                 ],
                 "effets":[
@@ -17,8 +17,8 @@
                             "effet":[
                                 {"contenu":"Choisissez une option :",
                                 "enfants":[
-                                    {"contenu":"Vous <soin>soigne</soin> d'une <blessure>Blessure</blessure>."},
-                                    {"contenu":"S'il l'accepte, <soin>soigne</soin> un autre <perso>Personnage</perso> d'une <blessure>Blessure</blessure>."}]}
+                                    {"contenu":"Vous <soin>soigne</soin> d'une <blessure-icon></blessure-icon>."},
+                                    {"contenu":"S'il l'accepte, <soin>soigne</soin> un autre <perso>Personnage</perso> d'une <blessure-icon></blessure-icon>."}]}
                             ]
                         }
                 ],
@@ -30,7 +30,7 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/pomme_or.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":[
@@ -58,7 +58,7 @@
                 "nom":"Rune de téléportation",
                 "type":"conso",
                 "illustration":"./Images/Consommables/pierre_teleportation.jpg","caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":[
@@ -79,7 +79,7 @@
                 "nom":"Ailes atrophiées",
                 "type":"conso",
                 "illustration":"./Images/Consommables/ailes_atrophiees.jpg","caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":[
@@ -102,7 +102,7 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/des.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":
@@ -121,7 +121,7 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/peluche.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":{
@@ -138,14 +138,14 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/poudre_perlimpinpin.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":{
                     "nature":"actif",
                     "nom":"On le voit, on le voit plus",
                     "effet":[
-                        {"contenu":"Vous pouvez annuler un <effet>actif/passif</effet> d'un <steuf>Steuf</steuf> équipé."},
+                        {"contenu":"Vous pouvez annuler un <effet>actif/passif</effet> d'un <steuf-icon></steuf-icon> équipé."},
                         {"contenu":"Cela durera tant qu'il sera équipé, placez <conso>Poudre d'altération</conso> sur l'<effet>effet</effet> affecté pendant cette durée."}
                     ]
                 },
@@ -158,7 +158,7 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/piege_loup.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":[
@@ -167,7 +167,7 @@
                         "nom":"« Anti-vol »",
                         "effet":[
                             {"contenu":"Lorsqu'on tente de vous voler une carte en main."},
-                            {"contenu":"Défaussez cette carte à la place. Le voleur reçoit 1 <blessure>Blessure</blessure>."}]
+                            {"contenu":"Défaussez cette carte à la place. Le voleur reçoit 1 <blessure-icon></blessure-icon>."}]
                         }
                 ],
                 "citation":"« Il y a ceux avec des oursins dans les poches et ceux qui prennent des mesures <u>vraiment</u> dissuasives. »"
@@ -179,7 +179,7 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/salive_hydre.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":{
@@ -188,8 +188,8 @@
                     "effet":{
                         "contenu":"Selon la cible : ",
                         "enfants":[
-                            {"contenu":"Le <perso>Personnage</perso> ciblé subit 1 <blessure>Blessure</blessure>."},
-                            {"contenu":"Le <steuf>Steuf</steuf> ciblé est défaussé."}
+                            {"contenu":"Le <perso>Personnage</perso> ciblé subit 1 <blessure-icon></blessure-icon>."},
+                            {"contenu":"Le <steuf-icon></steuf-icon> ciblé est défaussé."}
                         ]
                     }
                 },
@@ -201,7 +201,7 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/coeur_drake.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":{
@@ -218,15 +218,15 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/potion_bras_long.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon","montant":""},
+                    {"nature":"conso-icon"},
                     {"nature":"or-icon","montant":"5"}
                 ],
                 "effets":{
                     "nature":"actif",
                     "nom":"Les yeux plus gros que les bras",
                     "effet":[
-                        {"contenu":"Vous piochez 3 <steuf>Steuf</steuf>."},
-                        {"contenu":"Conserver 1 <steuf>Steuf</steuf> puis défaussez les 2 autres."},
+                        {"contenu":"Vous piochez 3 <steuf-icon></steuf-icon>."},
+                        {"contenu":"Conserver 1 <steuf-icon></steuf-icon> puis défaussez les 2 autres."},
                     ]
                 },
                 "citation":"« Ça serait pratique pour se lacer les chaussures sans se baisser, mais il n'y aurait pas de vêtement à votre taille. »"

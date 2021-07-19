@@ -24,7 +24,7 @@
                             {"contenu":"Utilisable à tout moment."},
                             {"contenu":"Choisissez une option :",
                             "enfants":[
-                                {"contenu":"Choisissez un emplacement de <steuf>Steuf</steuf>, le <steuf>Steuf</steuf> présent ou à venir ne pourra être défaussé ou vendu."}
+                                {"contenu":"Choisissez un emplacement de <steuf-icon></steuf-icon>, le <steuf-icon></steuf-icon> présent ou à venir ne pourra être défaussé ou vendu."}
                             ]},
                         ]
                     }    
@@ -119,7 +119,7 @@
                 "illustration":"./Images/Lieux/stade.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"lieu-icon",
+                        "nature":"<lieu-icon></lieu-icon>",
                         "montant":"",
                     }
                 ],
@@ -142,7 +142,7 @@
                 "illustration":"./Images/Lieux/mer.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"lieu-icon",
+                        "nature":"<lieu-icon></lieu-icon>",
                         "montant":"",
                     }
                 ],
@@ -152,7 +152,7 @@
                         "nom":"1 ou 0",
                         "effet":[
                             {"contenu":"Jusqu'au début de votre prochain tour."},
-                            {"contenu":"Toutes les <blessure>blessures</blessure> mènent au <blessure>SdM</blessure>."}
+                            {"contenu":"Toutes les <blessure-icon></blessure-icon> mènent au <sdm-icon></sdm-icon>."}
                         ]
                     }    
                 ],
@@ -165,7 +165,7 @@
                 "illustration":"./Images/Lieux/tour_lokyo.png",
                 "caracteristiques":[
                     {
-                        "nature":"lieu-icon",
+                        "nature":"<lieu-icon></lieu-icon>",
                         "montant":"",
                     }
                 ],
@@ -187,7 +187,7 @@
                 "illustration":"./Images/Lieux/commissariat.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"lieu-icon",
+                        "nature":"<lieu-icon></lieu-icon>",
                         "montant":"",
                     }
                 ],
@@ -209,15 +209,15 @@
                 "illustration":"./Images/Personnages/fauche_tout.png",
                 "caracteristiques":[
                     {
-                        "nature":"mauvais-icon",
+                        "nature":"<mauvais-icon></mauvais-icon>",
                         "montant":"",
                     },
                     {
-                        "nature":"chaotique-icon",
+                        "nature":"<chaotique-icon></chaotique-icon>",
                         "montant":""
                     },
                     {
-                        "nature":"blessure-icon",
+                        "nature":"<blessure-icon></blessure-icon>",
                         "montant":"5"
                     }
                 ],
@@ -227,7 +227,7 @@
                         "nom":"Un fauché fachant faucher",
                         "effet":[
                             {"contenu":"Dès qu'une attaque est réussie."},
-                            {"contenu":"Au lieu d'infliger une <blessure>Blessure</blessure> au défenseur, vous pouvez lui voler le <steuf>Steuf</steuf> équipé de votre choix."},
+                            {"contenu":"Au lieu d'infliger une <blessure-icon></blessure-icon> au défenseur, vous pouvez lui voler le <steuf-icon></steuf-icon> équipé de votre choix."},
                             {"contenu":"Vous ne pouvez voler deux fois le même <perso>Personnage</perso> d'affilée."}
                         ]
                     }    
@@ -241,15 +241,15 @@
                 "illustration":"./Images/Personnages/marc_langer.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"moral-neutre-icon",
+                        "nature":"<moral-neutre-icon></moral-neutre-icon>",
                         "montant":"",
                     },
                     {
-                        "nature":"ordre-neutre-icon",
+                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
                         "montant":""
                     },
                     {
-                        "nature":"blessure-icon",
+                        "nature":"<blessure-icon></blessure-icon>",
                         "montant":"5"
                     }
                 ],
@@ -273,15 +273,15 @@
                 "illustration":"./Images/Personnages/marc_langer.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"mauvais-icon",
+                        "nature":"<mauvais-icon></mauvais-icon>",
                         "montant":"",
                     },
                     {
-                        "nature":"loyal-icon",
+                        "nature":"<loyal-icon></loyal-icon>",
                         "montant":""
                     },
                     {
-                        "nature":"blessure-icon",
+                        "nature":"<blessure-icon></blessure-icon>",
                         "montant":"6"
                     }
                 ],
@@ -292,7 +292,7 @@
                         "effet":[
                             {"contenu":"Dès qu'un autre <perso>Personnage</perso> décède."},
                             {"contenu":"Vous pouvez jouer son <perso>Personnage</perso> à son prochain tour."},
-                            {"contenu":"Il ne sera pas considéré comme au <blessure>SdM</blessure>."},
+                            {"contenu":"Il ne sera pas considéré comme au <sdm-icon></sdm-icon>."},
                             {"contenu":"Il sera définitivement décédé à la fin de son prochain tour."}
                         ]
                     }    

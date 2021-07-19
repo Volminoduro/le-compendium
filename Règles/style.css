@@ -3,6 +3,12 @@
 	size: A4;
  }
 
+ :root{
+	 /* taille icône */
+	 --widthIcone: 24px; 
+	 --heightIcone: 24px;
+ }
+
 body{
 	zoom: 100%;
 	/* background-color: darkgray; */

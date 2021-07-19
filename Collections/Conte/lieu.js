@@ -7,19 +7,16 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/baobab.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
                             "nature":"actif",
                             "nom":"Friandise généreuse",
                             "effet":[
-                                {"contenu":"Choisissez une option :",
-                                "enfants":[
-                                    {"contenu":"En commençant par le <perso>Personnage</perso> qui a découvert ce <lieu>Lieu</lieu> puis dans l'ordre de jeu."},
-                                    {"contenu":"Chaque <perso>Personnage</perso> peut se soigner jusqu'à 1 <blessure>Blessures</blessure>."},
-                                    {"contenu":"A partir de 4 <blessure>Blessures</blessure> <soin>soignées</soin> de cette façon, défaussez immédiatement ce <lieu>Lieu</lieu>."}
-                                ]}
+                                {"contenu":"En commençant par le <perso>Personnage</perso> qui a découvert ce <lieu-icon></lieu-icon> puis dans l'ordre de jeu."},
+                                {"contenu":"Chaque <perso>Personnage</perso> peut se soigner jusqu'à 1 <blessure-icon></blessure-icon>."},
+                                {"contenu":"Quand 4 <blessure-icon></blessure-icon> ont été <soin>soignées</soin> ou que le <lieu>Baobab en barbe-à-papa</lieu> soit passé par tous les <perso>Personnages</perso>, défaussez immédiatement ce <lieu-icon></lieu-icon>."}
                             ]
                         }
                 ],
@@ -31,14 +28,14 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/yourte.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
                             "nature":"actif",
                             "nom":"Les produits laitiers",
                             "effet":[
-                                {"contenu":"Vous contratez la <effet>Gaze'Trop</effet>, mettez <lieu>Cahutte de Bibi Yog'Yourte</lieu> sur la case <effet>passif</effet> pour le symboliser."},
+                                {"contenu":"Vous contractez la <effet>Gaze'Trop</effet>, mettez <lieu>Cahutte de Bibi Yog'Yourte</lieu> sur la case <effet>passif</effet> pour le symboliser."},
                                 {"contenu":"Tant que <effet>Gaze'Trop</effet> est actif sur un <perso>Personnage</perso>, ne défaussez pas <lieu>Cahutte de Bibi Yog'Yourte</lieu>."},
                             ]
                         },
@@ -46,7 +43,7 @@
                             "nature":"passif",
                             "nom":"Gaze'Trop",
                             "effet":[
-                                {"contenu":"Au début de votre tour, subissez 1 <blessure>blessure</blessure>."},
+                                {"contenu":"Au début de votre tour, subissez 1 <blessure-icon></blessure-icon>."},
                                 {"contenu":"Quand vous attaquez / défendez, votre <effet>Gaze'Trop</effet> va au défenseur / attaquant."},
                             ]
                         }
@@ -59,18 +56,18 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/planche_pieu.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
                             "nature":"passif",
                             "nom":"Litterie inconfortable",
                             "effet":[
-                                {"contenu":"Lancez le dé de defense."},
-                                {"contenu":"Si votre défense total est inférieure à 3 :",
+                                {"contenu":"Faites un jet de defense."},
+                                {"contenu":"Si votre défense totale est inférieure à 3 :",
                                 "enfants":[
-                                    {"contenu":"Subissez 1 <blessure>blessure</blessure>."},
-                                    {"contenu":"Piochez 2 <steuf>Steufs</steuf>."}
+                                    {"contenu":"Subissez 1 <blessure-icon></blessure-icon>."},
+                                    {"contenu":"Piochez 2 <steuf-icon></steuf-icon>."}
                                 ]}
                             ]
                         }
@@ -83,7 +80,7 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/caverne_lion.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
@@ -100,14 +97,14 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/caverne_brigand.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
                             "nature":"actif",
                             "nom":"Féru de féraille",
                             "effet":[
-                                {"contenu":"Vous pouvez piochez le <steuf>Steuf</steuf> de votre choix dans la pile de défausse."}
+                                {"contenu":"Vous pouvez piochez le <steuf-icon></steuf-icon> de votre choix dans la pile de défausse."}
                             ]
                         }
                 ],
@@ -119,7 +116,7 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/gueule_moby_dick.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                 ],
@@ -131,7 +128,7 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/gouffre.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -140,7 +137,7 @@
                         "effet":[
                             {"contenu":"Si votre <i>jet de déplacement</i> était supérieur à 3.",
                             "enfants":[
-                                {"contenu":"Vous vous défaussez d'un <steuf>Steuf</steuf> de votre choix ou subissez une <blessure>Blessures</blessure>."}
+                                {"contenu":"Vous vous défaussez d'un <steuf-icon></steuf-icon> de votre choix ou subissez une <blessure-icon></blessure-icon>."}
                             ]}
                         ]
                     }
@@ -153,15 +150,15 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/atelier_solat.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
                         "nature":"actif",
                         "nom":"Bouton rouge",
                         "effet":[
-                            {"contenu":"Les <perso>Personnages</perso> à plus de 3 <blessure>blessures</blessure> sont <soin>soignés</soin> d'une <blessure>blessure</blessure>."},
-                            {"contenu":"Les <perso>Personnages</perso> à moins de 3 <blessure>blessures</blessure> subissent une <blessure>blessure</blessure>."}
+                            {"contenu":"Les <perso>Personnages</perso> à plus de 3 <blessure-icon></blessure-icon> sont <soin>soignés</soin> d'une <blessure-icon></blessure-icon>."},
+                            {"contenu":"Les <perso>Personnages</perso> à moins de 3 <blessure-icon></blessure-icon> subissent une <blessure-icon></blessure-icon>."}
                         ]
                     }
                 ],
@@ -173,7 +170,7 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/cacafarnaome.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -181,7 +178,7 @@
                         "nom":"Égalitarisme tempétueux",
                         "effet":[
                             {"contenu":"Réunissez tous les  (équipés ou en main) en jeu et mélangez-les."},
-                            {"contenu":"Redistribuez les <steuf>Steufs</steuf> de manière à ce que tout le monde en ait le même nombre, puis défaussez celles en trop."}
+                            {"contenu":"Redistribuez les <steuf-icon></steuf-icon> de manière à ce que tout le monde en ait le même nombre, puis défaussez celles en trop."}
                         ]
                     }
                 ],
@@ -193,7 +190,7 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/arene_pugilisme.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -214,7 +211,7 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/bois_gel.jpg",
                 "caracteristiques":[
-                    {"nature":"lieu-icon","montant":""}
+                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {

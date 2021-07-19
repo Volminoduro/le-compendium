@@ -36,7 +36,7 @@
                     },
                     {
                         "nature":"passif",
-                        "nom":"Compagnon (1 <blessure>blessure</blessure>)"
+                        "nom":"Compagnon (1 <blessure-icon></blessure-icon>)"
                     }
     
                 ],

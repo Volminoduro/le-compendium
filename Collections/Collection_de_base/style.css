@@ -43,6 +43,10 @@
   --tailleEffet:16px;
   --bgActif:url(../Collection_de_base/Images/actif.png);
   --bgPassif:url(../Collection_de_base/Images/passif.png);
+
+  /* taille icône */
+  --widthIcone: 3.25mm; 
+  --heightIcone: 3.25mm;
   
   /* fontsize */
   --standard:2.8mm;
@@ -184,70 +188,158 @@ description::before{
 
 accessoire-icon{
   content: url(../Collection_de_base/Images/accessoire.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 or-icon{
   content: url(../Collection_de_base/Images/or.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+marchand-icon{
+  content: url(../Collection_de_base/Images/marchand.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 attaque-icon{
   content: url(../Collection_de_base/Images/attaque.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 defense-icon{
   content: url(../Collection_de_base/Images/defense.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 blessure-icon{
   content: url(../Collection_de_base/Images/blessure.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 soin-icon{
   content: url(../Collection_de_base/Images/soin.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 conso-icon{
   content: url(../Collection_de_base/Images/consommable.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 lieu-icon{
   content: url(../Collection_de_base/Images/lieu.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 portee-icon{
   content: url(../Collection_de_base/Images/portee.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 bonus-1-icon{
   content: url(../Collection_de_base/Images/bonus_1.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 malus-1-icon{
   content: url(../Collection_de_base/Images/malus_1.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 chaotique-icon{
   content: url(../Collection_de_base/Images/ordre_chaotique.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 ordre-neutre-icon{
   content: url(../Collection_de_base/Images/ordre_neutre.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 loyal-icon{
   content: url(../Collection_de_base/Images/ordre_loyal.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 mauvais-icon{
   content: url(../Collection_de_base/Images/moral_mauvais.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 moral-neutre-icon{
   content: url(../Collection_de_base/Images/moral_neutre.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 bon-icon{
   content: url(../Collection_de_base/Images/moral_bon.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+sdm-icon{
+  content: url(../Collection_de_base/Images/sdm.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+corps-icon{
+  content: url(../Collection_de_base/Images/corps.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+arme-icon{
+  content: url(../Collection_de_base/Images/arme.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+bonus-atk-icon{
+  content: url(../Collection_de_base/Images/bonus_attaque.jpg);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+bonus-def-icon{
+  content: url(../Collection_de_base/Images/bonus_attaque.jpg);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+d4-icon{
+  content: url(../Collection_de_base/Images/d4.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+d3-icon{
+  content: url(../Collection_de_base/Images/d3.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+steuf-icon{
+  content: url(../Collection_de_base/Images/steuf.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
 }
 
 /* conteneur de la carte en entier */
@@ -335,7 +427,8 @@ bon-icon{
 /* Display correctement les stats */
 .carte .fanion>*{
   padding:0.5mm 0;
-  width:20px;
+  width: 20px;
+  height: 20px;
   
   /* NE PAS TOUCHER */
   display:inline-block;

@@ -7,9 +7,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/mere_poule.jpg",
                 "caracteristiques":[
-                    {"nature":"bon-icon", "montant":""},
-                    {"nature":"loyal-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<bon-icon></bon-icon>"},
+                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
@@ -38,9 +38,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/sandrine.jpg",
                 "caracteristiques":[
-                    {"nature":"bon-icon", "montant":""},
-                    {"nature":"loyal-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<bon-icon></bon-icon>"},
+                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
@@ -48,7 +48,7 @@
                         "nom":"Bonne",
                         "effet":[
                             {
-                                "contenu":"Vous pouvez piochez dans la défausse des <conso>Consommable</conso> et des <steuf>Steufs</steuf> à la place des piles habituelles."
+                                "contenu":"Vous pouvez piochez dans la défausse des <conso-icon></conso-icon> et des <steuf-icon></steuf-icon> à la place des piles habituelles."
                             }
                         ]
                     },
@@ -57,7 +57,7 @@
                         "nom":"Le petit personnel",
                         "effet":[
                             {"contenu":"Jusqu'à votre prochain tour."},
-                            {"contenu":"Vous pourrez choisir une seule fois de mettre une carte <conso>Consommable</conso> ou <steuf>Steuf</steuf> d'un autre <perso>Personnage</perso> en dessous de la pile de pioche plutôt qu'à la défausse."}
+                            {"contenu":"Vous pourrez choisir une seule fois de mettre une carte <conso-icon></conso-icon> ou <steuf-icon></steuf-icon> d'un autre <perso>Personnage</perso> en dessous de la pile de pioche plutôt qu'à la défausse."}
                         ]
                     }
                 ],
@@ -69,9 +69,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/enfant_sauvage.jpg",
                 "caracteristiques":[
-                    {"nature":"bon-icon", "montant":""},
-                    {"nature":"ordre-neutre-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"}
+                    {"nature":"<bon-icon></bon-icon>"},
+                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
                     {
@@ -79,13 +79,13 @@
                         "nom":"Débrouillard",
                         "effet":[
                             {
-                                "contenu":"Vous pouvez équiper vos <conso>Consommable</conso> comme des <commun>Steufs communs</commun>.",
+                                "contenu":"Vous pouvez équiper vos <conso-icon></conso-icon> comme des <commun>Steufs communs</commun>.",
                                 "enfants":[
-                                    {"contenu":"Chaque <conso>Consommable</conso> équipé vous confère +1 d'attaque et +1 de défense."}
+                                    {"contenu":"Chaque <conso-icon></conso-icon> équipé vous confère +1 d'attaque et +1 de défense."}
                                 ]
                             },
                             {
-                                "contenu":"Ils pourront toujours être consommés comme des <conso>Consommable</conso>."
+                                "contenu":"Ils pourront toujours être consommés comme des <conso-icon></conso-icon>."
                             }
                         ]
                     },
@@ -94,7 +94,7 @@
                         "nom":"Goûts simples",
                         "effet":[
                             {
-                                "contenu":"Vous ne pouvez équiper des <steuf>Steufs</steuf> au-delà de la qualité <rare>Rare</rare>."
+                                "contenu":"Vous ne pouvez équiper des <steuf-icon></steuf-icon> au-delà de la qualité <rare>Rare</rare>."
                             }
                         ]
                     }
@@ -107,9 +107,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/vassilisse.jpg",
                 "caracteristiques":[
-                    {"nature":"bon-icon", "montant":""},
-                    {"nature":"ordre-neutre-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<bon-icon></bon-icon>"},
+                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
@@ -117,7 +117,7 @@
                         "nom":"Très-très-élégante",
                         "effet":[
                             {
-                                "contenu":"La valeur en <or>or</or> de vos cartes est à 5 au minimum lorsque vous les <or>vendez</or>."
+                                "contenu":"La valeur en <or-icon></or-icon> de vos cartes est à 5 au minimum lorsque vous les <or>vendez</or>."
                             }
                         ]
                     },
@@ -128,9 +128,9 @@
                             {
                                 "contenu":"Lancez les deux dés, l'effet suivant sera pour tous les <perso>Personnages</perso> :",
                                 "enfants":[
-                                    {"contenu":"2 - 3 : tous les <soin>soins</soin> d'une <blessure>Blessure</blessure> soigneront deux <blessure>Blessures</blessure>."},
+                                    {"contenu":"2 - 3 : tous les <soin>soins</soin> d'une <blessure-icon></blessure-icon> soigneront deux <blessure-icon></blessure-icon>."},
                                     {"contenu":"4 - 5 : tous les <larcin>larçins</larcin> sont forcément réussis."},
-                                    {"contenu":"6 - 7 : toutes les défenses réussies infligeront une <blessure>Blessure</blessure> à l'attaquant."}
+                                    {"contenu":"6 - 7 : toutes les défenses réussies infligeront une <blessure-icon></blessure-icon> à l'attaquant."}
                                 ]
                             }
                         ]
@@ -144,23 +144,23 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/prince_charmeur.jpg",
                 "caracteristiques":[
-                    {"nature":"bon-icon", "montant":""},
-                    {"nature":"chaotique-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<bon-icon></bon-icon>"},
+                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
                         "nature":"passif",
                         "nom":"Feurst",
                         "effet":[
-                                {"contenu":"Une attaque réussie à un <perso>Personnage</perso> non blessé inflige 2 <blessure>Blessures</blessure>."}
+                                {"contenu":"Une attaque réussie à un <perso>Personnage</perso> non blessé inflige 2 <blessure-icon></blessure-icon>."}
                         ]
                     },
                     {
                         "nature":"passif",
                         "nom":"Sourire désarmant",
                         "effet":[
-                                {"contenu":"Lors de votre défense, l'<steuf>Arme</steuf> adverse n'est pas pris en compte."}
+                                {"contenu":"Lors de votre défense, l'<arme-icon></arme-icon> adverse n'est pas pris en compte."}
                         ]
                     },
                     {
@@ -180,9 +180,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/alice_sarouel.jpg",
                 "caracteristiques":[
-                    {"nature":"bon-icon", "montant":""},
-                    {"nature":"chaotique-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"}
+                    {"nature":"<bon-icon></bon-icon>"},
+                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
                     {
@@ -199,7 +199,7 @@
                         "nom":"Morpho-psychologie très élastique",
                         "effet":[
                             {
-                                "contenu":"Lorsque vous utilisez un <conso>Consommable</conso>, lancez les deux dés.",
+                                "contenu":"Lorsque vous utilisez un <conso-icon></conso-icon>, lancez les deux dés.",
                                 "enfants":[
                                     {"contenu":"Supérieur à 4 : +1 de portée pour vous et vos attaquants."},
                                     {"contenu":"Inférieur à 4 : -1 de portée pour vous et vos attaquants."}
@@ -212,7 +212,7 @@
                         "nom":"En plein délire",
                         "effet":[
                             {
-                                "contenu":"Lorsque vous atteignez 3 <blessure>Blessures</blessure> ou plus, transformez-vous en <perso>Alice, de l'autre côté du buvard</perso>."
+                                "contenu":"Lorsque vous atteignez 3 <blessure-icon></blessure-icon> ou plus, transformez-vous en <perso>Alice, de l'autre côté du buvard</perso>."
                             }
                         ]
                     }
@@ -225,9 +225,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/alice_buvard.jpg",
                 "caracteristiques":[
-                    {"nature":"bon-icon", "montant":""},
-                    {"nature":"chaotique-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"}
+                    {"nature":"<bon-icon></bon-icon>"},
+                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
                     {
@@ -244,7 +244,7 @@
                         "nom":"Eclair de lucidité",
                         "effet":[
                             {
-                                "contenu":"Seuls les <perso>Personnages</perso> avec autant de <blessure>Blessures</blessure> que vous ou plus peuvent vous attaquer."
+                                "contenu":"Seuls les <perso>Personnages</perso> avec autant de <blessure-icon></blessure-icon> que vous ou plus peuvent vous attaquer."
                             }
                         ]
                     },
@@ -253,7 +253,7 @@
                         "nom":"En plein délire",
                         "effet":[
                             {
-                                "contenu":"Lorsque vous atteignez 2 <blessure>Blessures</blessure> ou moins, transformez-vous en <perso>Alice, au pays des sarouels</perso>."
+                                "contenu":"Lorsque vous atteignez 2 <blessure-icon></blessure-icon> ou moins, transformez-vous en <perso>Alice, au pays des sarouels</perso>."
                             }
                         ]
                     }
@@ -266,29 +266,29 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/cavalier_sans_tete.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"loyal-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
                         "nature":"passif",
                         "nom":"Sans-tête",
                         "effet":
-                            {"contenu":"Ne peut s'équiper de <steuf>Corps</steuf>."}
+                            {"contenu":"Ne peut s'équiper de <corps-icon></corps-icon>."}
                     },
                     {
                         "nature":"passif",
                         "nom":"Déjà mort",
                         "effet":
-                            {"contenu":"Vous pouvez toujours attaquer lorsque vous êtes au <blessure>SdM</blessure>."}
+                            {"contenu":"Vous pouvez toujours attaquer lorsque vous êtes au <sdm-icon></sdm-icon>."}
                     },
                     {
                         "nature":"passif",
                         "nom":"Destinée",
                         "effet":[
                             {"contenu":"Si vous vous révelez dès le premier tour."},
-                            {"contenu":"Vous pouvez vous équiper du <rare>Fouet de Dullahan</rare> et <epique>Cheval Sans-Tête</epique> depuis la pile / défausse de <steuf>Steuf</steuf>."}
+                            {"contenu":"Vous pouvez vous équiper du <rare>Fouet de Dullahan</rare> et <epique>Cheval Sans-Tête</epique> depuis la pile / défausse de <steuf-icon></steuf-icon>."}
                         ]
                     }
                 ],
@@ -300,9 +300,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/munazam.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"loyal-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"6"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"6"}
                 ],
                 "effets":[
                     {
@@ -310,7 +310,7 @@
                         "nom":"Tout doit être régulé",
                         "effet":[
                             {
-                                "contenu":"Choisissez deux <perso>Personnages</perso>. Défaussez leurs <steuf>Steufs</steuf> équipés de manière à ce qu'ils aient le même total d'or le plus haut possible."
+                                "contenu":"Choisissez deux <perso>Personnages</perso>. Défaussez leurs <steuf-icon></steuf-icon> équipés de manière à ce qu'ils aient le même total d'or le plus haut possible."
                             }
                         ]
                     },
@@ -319,7 +319,7 @@
                         "nom":"Rigueur robotique",
                         "effet":[
                             {
-                                "contenu":"Votre valeur d'or de <steuf>Steuf</steuf> équipé doit être pair à la fin de votre tour. Sinon défaussez-en jusqu'à ce que ça soit le cas."
+                                "contenu":"Votre valeur d'or de <steuf-icon></steuf-icon> équipé doit être pair à la fin de votre tour. Sinon défaussez-en jusqu'à ce que ça soit le cas."
                             }
                         ]
                     },
@@ -328,7 +328,7 @@
                         "nom":"ArithmeticException",
                         "effet":[
                             {
-                                "contenu":"Une fois au <blessure>SdM</blessure>, infligez une <blessure>Blessure</blessure> à tous les autres <perso>Personnages</perso>."
+                                "contenu":"Une fois au <sdm-icon></sdm-icon>, infligez une <blessure-icon></blessure-icon> à tous les autres <perso>Personnages</perso>."
                             }
                         ]
                     }
@@ -341,10 +341,10 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/faisan_feu.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"ordre-neutre-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"3"},
-                    {"nature":"attaque-icon","montant":"+1"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"3"},
+                    {"nature":"<attaque-icon></attaque-icon>","montant":"+1"}
                 ],
                 "effets":[
                     {
@@ -353,9 +353,9 @@
                         "effet":[
                             {"contenu":"A la fin de votre tour."},
                             {
-                                "contenu":"Subissez une <blessure>blessure</blessure>.",
+                                "contenu":"Subissez une <blessure-icon></blessure-icon>.",
                                 "enfants":[
-                                    {"contenu":"Si cela vous mène au <blessure>SdM</blessure> ou que vous êtes déjà au <blessure>SdM</blessure>, revenez à 0 <blessure>blessure</blessure> à la place."},
+                                    {"contenu":"Si cela vous mène au <sdm-icon></sdm-icon> ou que vous êtes déjà au <sdm-icon></sdm-icon>, revenez à 0 <blessure-icon></blessure-icon> à la place."},
                                 ]
                             }
                         ]
@@ -364,7 +364,7 @@
                         "nature":"passif",
                         "nom":"Pas de bras",
                         "effet":[
-                            {"contenu":"Ne peut s'équiper d'<steuf>Arme</steuf>."}
+                            {"contenu":"Ne peut s'équiper d'<arme-icon></arme-icon>."}
                         ]
                     }
                 ],
@@ -376,9 +376,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/ursula.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"ordre-neutre-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
@@ -386,9 +386,9 @@
                         "nom":"Syllogomanie légère",
                         "effet":[
                             {
-                                "contenu":"Hors vente auprès du <or>Marchand</or>, les <steuf>Steufs</steuf> que vous défaussez vont dans une pile de défausse qui vous est propre.",
+                                "contenu":"Hors vente auprès du <marchand-icon></marchand-icon>, les <steuf-icon></steuf-icon> que vous défaussez vont dans une pile de défausse qui vous est propre.",
                                 "enfants":[
-                                    {"contenu":"Vous pouvez piochez dans cette pile quand vous devriez piocher dans la pile de <steuf>Steuf</steuf> classique."},
+                                    {"contenu":"Vous pouvez piochez dans cette pile quand vous devriez piocher dans la pile de <steuf-icon></steuf-icon> classique."},
                                 ]
                             }
                         ]
@@ -398,7 +398,7 @@
                         "nom":"Commerce inéquitable",
                         "effet":[
                             {
-                                "contenu":"Lorsqu'un <perso>Personnage</perso> arrive sur votre case, il peut vous acheter vos <steuf>Steufs</steuf> comme auprès du <or>Marchand</or>.",
+                                "contenu":"Lorsqu'un <perso>Personnage</perso> arrive sur votre case, il peut vous acheter vos <steuf-icon></steuf-icon> comme auprès du <marchand-icon></marchand-icon>.",
                                 "enfants":[
                                     {"contenu":"Vous pouvez fixer le prix de vente de votre choix à chaque transaction."},
                                 ]
@@ -414,32 +414,32 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/la_creature.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"chaotique-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"3"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"3"}
                 ],
                 "effets":[
                     {
                         "nature":"passif",
                         "nom":"Flair de sanglier",
                         "effet":[
-                            {"contenu":"Lorsque vous arrivez sur une case <lieu>Lieu</lieu>."},
-                            {"contenu":"Vous pouvez choisir entre les deux premiers <lieu>Lieux</lieu> de la pile, reposez l'autre sur la pile."}
+                            {"contenu":"Lorsque vous arrivez sur une case <lieu-icon></lieu-icon>."},
+                            {"contenu":"Vous pouvez choisir entre les deux premiers <lieu-icon></lieu-icon> de la pile, reposez l'autre sur la pile."}
                         ]
                     },
                     {
                         "nature":"passif",
                         "nom":"Corps massif",
                         "effet":[
-                            {"contenu":"+2 <blessure>Blessures</blessure> supplémentaires"},
-                            {"contenu":"Vous pouvez équiper un <steuf>Corps</steuf> supplémentaire."}
+                            {"contenu":"+2 <blessure-icon></blessure-icon> supplémentaires"},
+                            {"contenu":"Vous pouvez équiper un <corps-icon></corps-icon> supplémentaire."}
                         ]
                     },
                     {
                         "nature":"passif",
                         "nom":"Malédiction",
                         "effet":[
-                            {"contenu":"Une fois au <blessure>SdM</blessure>, tous vos autres <effet>effets</effet> sont inactifs. Vous êtes donc à 3 <blessure>Blessures</blessure>, et non 6. Ils redeviennent actifs lorsque vous revenez à 0 <blessure>Blessure</blessure>."}
+                            {"contenu":"Une fois au <sdm-icon></sdm-icon>, tous vos autres <effet>effets</effet> sont inactifs. Vous êtes donc à 3 <blessure-icon></blessure-icon>, et non 6. Ils redeviennent actifs lorsque vous revenez à 0 <blessure-icon></blessure-icon>."}
                         ]
                     }
                 ],
@@ -451,10 +451,10 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/robin_dubois.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"chaotique-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"},
-                    {"nature":"portee-icon","montant":"+1"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"4"},
+                    {"nature":"<portee-icon></portee-icon>","montant":"+1"}
                 ],
                 "effets":[
                     {
@@ -462,9 +462,9 @@
                         "nom":"Prendre aux riches, et le garder",
                         "effet":[
                             {
-                                "contenu":"Si vous attaquez avec succès un <perso>Personnage</perso> dont le total d'or des <steuf>Steufs</steuf> est supérieur au votre.",
+                                "contenu":"Si vous attaquez avec succès un <perso>Personnage</perso> dont le total d'or des <steuf-icon></steuf-icon> est supérieur au votre.",
                                 "enfants":[
-                                    {"contenu":"Le <perso>Personnage</perso> doit vous donner des <steuf>Steufs</steuf> équipés de son choix jusqu'à que cette différence d'or soit au moins égale ou votre faveur."},
+                                    {"contenu":"Le <perso>Personnage</perso> doit vous donner des <steuf-icon></steuf-icon> équipés de son choix jusqu'à que cette différence d'or soit au moins égale ou votre faveur."},
                                 ]
                             }
                         ]
@@ -473,7 +473,7 @@
                         "nature":"passif",
                         "nom":"Contre-imposition",
                         "effet":[
-                            {"contenu":"Tout paiement excédentaire en <or>or</or> auprès du <or>Marchand</or> vous est reversé sous forme de jeton d'<or>or</or>."}
+                            {"contenu":"Tout paiement excédentaire en <or-icon></or-icon> auprès du <marchand-icon></marchand-icon> vous est reversé sous forme de jeton d'<or-icon></or-icon>."}
                         ]
                     }
                 ],
@@ -484,9 +484,9 @@
                 "nom":"Reine de trèfle",
                 "type":"perso",
                 "illustration":"./Images/Personnages/reine_trefle.jpg","caracteristiques":[
-                    {"nature":"mauvais-icon", "montant":""},
-                    {"nature":"loyal-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"}
+                    {"nature":"<mauvais-icon></mauvais-icon>"},
+                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
                     {
@@ -516,22 +516,22 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/machiavelique.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"loyal-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
                         "nature":"actif",
                         "nom":"MEURS ! (1 fois / partie)",
                         "effet":
-                            {"contenu":"Le <perso>Personnage</perso> ciblé prendra 3 <blessure>blessures</blessure> dans 2 tours."}
+                            {"contenu":"Le <perso>Personnage</perso> ciblé prendra 3 <blessure-icon></blessure-icon> dans 2 tours."}
                     },
                     {
                         "nature":"actif",
                         "nom":"VIS ! (1 fois / partie)",
                         "effet":
-                            {"contenu":"Le <perso>Personnage</perso> ciblé sera à 0 <blessure>Blessure</blessure> dans 2 tours."}
+                            {"contenu":"Le <perso>Personnage</perso> ciblé sera à 0 <blessure-icon></blessure-icon> dans 2 tours."}
                     },
                     {
                         "nature":"actif",
@@ -549,9 +549,9 @@
                 "nom":"Cap'taine Crocs",
                 "type":"perso",
                 "illustration":"./Images/Personnages/capt_croc.jpg","caracteristiques":[
-                    {"nature":"mauvais-icon", "montant":""},
-                    {"nature":"ordre-neutre-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"6"}
+                    {"nature":"<mauvais-icon></mauvais-icon>"},
+                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"montant":"6", "nature":"<blessure-icon></blessure-icon>"}
                 ],
                 "effets":[
                     {
@@ -564,7 +564,7 @@
                         "nature":"passif",
                         "nom":"Sus au butin !",
                         "effet":
-                            {"contenu":"+1 de portée lors que vous ciblez des <perso>Chaotiques</perso>."}
+                            {"contenu":"+1 de portée lors que vous ciblez des <chaotique-icon></chaotique-icon>."}
                     }
                 ],
                 "citation":"« Nombre de jours depuis la dernière mise à mort d'un matelot s'étant moqué des souliers de son Cap'taine : 0 »"
@@ -575,28 +575,28 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/whinny_tonka.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"ordre-neutre-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
                     {
                         "nature":"passif",
                         "nom":"Apparence soignée",
                         "effet":
-                            {"contenu":"Tous vos <steuf>Steufs</steuf> équipés ne peuvent être que de 2 qualités différentes."}
+                            {"contenu":"Tous vos <steuf-icon></steuf-icon> équipés ne peuvent être que de 2 qualités différentes."}
                     },
                     {
                         "nature":"passif",
                         "nom":"Magnat",
                         "effet":
-                            {"contenu":"L'or de vos <steuf>Steufs</steuf> est multipliée par deux lors de la vente."}
+                            {"contenu":"L'or de vos <steuf-icon></steuf-icon> est multipliée par deux lors de la vente."}
                     },
                     {
                         "nature":"passif",
                         "nom":"« Bande de mauvaises graines ! »",
                         "effet":
-                            {"contenu":"+1 d'attaque et de défense contre les <perso>Mauvais</perso>."}
+                            {"contenu":"+1 d'attaque et de défense contre les <mauvais-icon></mauvais-icon>."}
                     }
                 ],
                 "citation":"« Des rumeurs disent que mes sucreries causent le diabète. Le sucre et le diabète, voyons... Mensonges ! Fumisterie de communiste ! »"
@@ -607,9 +607,9 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/lycaon.jpg",
                 "caracteristiques":[
-                    {"nature":"mauvais-icon", "montant":""},
-                    {"nature":"chaotique-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"5"}
+                    {"nature":"<mauvais-icon></mauvais-icon>"},
+                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
                     {
@@ -624,7 +624,7 @@
                         "nature":"actif",
                         "nom":"Instinct animal",
                         "effet":
-                            {"contenu":"Vous regardez le premier <lieu>Lieu</lieu> de la pile."}
+                            {"contenu":"Vous regardez le premier <lieu-icon></lieu-icon> de la pile."}
                     },
                     {
                         "nature":"passif",
@@ -641,30 +641,30 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/saigneur.jpg",
                 "caracteristiques":[
-                    {"nature":"moral-neutre-icon", "montant":""},
-                    {"nature":"chaotique-icon", "montant":""},
-                    {"nature":"blessure-icon","montant":"4"}
+                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
+                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
                     {
                         "nature":"passif",
                         "nom":"Ponction",
                         "effet":[
-                            {"contenu":"Chaque <blessure>Blessure</blessure> infligée lors de vos attaques vous confère 1 <blessure>Sang</blessure>."},
-                            {"contenu":"1 <blessure>Sang</blessure> peut être échangée contre 1 <steuf>Steuf</steuf> auprès du <or>Marchand</or>."}
+                            {"contenu":"Chaque <blessure-icon></blessure-icon> infligée lors de vos attaques vous confère 1 <blessure>Sang</blessure>."},
+                            {"contenu":"1 <blessure>Sang</blessure> peut être échangée contre 1 <steuf-icon></steuf-icon> auprès du <marchand-icon></marchand-icon>."}
                         ]
                     },
                     {
                         "nature":"actif",
                         "nom":"Hématophage",
                         "effet":
-                            {"contenu":"Consommez 1 <blessure>Sang</blessure> pour vous <soin>soigner</soin> une <blessure>Blessure</blessure>."}
+                            {"contenu":"Consommez 1 <blessure>Sang</blessure> pour vous <soin>soigner</soin> une <blessure-icon></blessure-icon>."}
                     },
                     {
                         "nature":"passif",
                         "nom":"Hémophile",
                         "effet":
-                        {"contenu":"Vous ne pouvez payer le <or>Marchand</or> avec vos propres <blessure>Blessures</blessure>."}
+                        {"contenu":"Vous ne pouvez payer le <marchand-icon></marchand-icon> avec vos propres <blessure-icon></blessure-icon>."}
                     }
                 ],
                 "citation":"« La crise de la quatre-centième vous fait parfois choisir des noms très ridicules. »"
