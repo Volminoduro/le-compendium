@@ -8,11 +8,11 @@
                 "illustration":"./Images/Consommables/miel.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"conso-icon",
+                        "nature":"<conso-icon></conso-icon>",
                         "montant":"",
                     },
                     {
-                        "nature":"or-icon",
+                        "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     }
                 ],
@@ -38,11 +38,11 @@
                 "illustration":"./Images/Consommables/carton_rouge.png",
                 "caracteristiques":[
                     {
-                        "nature":"conso-icon",
+                        "nature":"<conso-icon></conso-icon>",
                         "montant":"",
                     },
                     {
-                        "nature":"or-icon",
+                        "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     }
                 ],
@@ -65,11 +65,11 @@
                 "illustration":"./Images/Consommables/ressort.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"conso-icon",
+                        "nature":"<conso-icon></conso-icon>",
                         "montant":"",
                     },
                     {
-                        "nature":"or-icon",
+                        "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     }
                 ],
@@ -92,11 +92,11 @@
                 "illustration":"./Images/Consommables/etoile.png",
                 "caracteristiques":[
                     {
-                        "nature":"conso-icon",
+                        "nature":"<conso-icon></conso-icon>",
                         "montant":"",
                     },
                     {
-                        "nature":"or-icon",
+                        "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     }
                 ],
@@ -152,7 +152,7 @@
                         "nom":"1 ou 0",
                         "effet":[
                             {"contenu":"Jusqu'au début de votre prochain tour."},
-                            {"contenu":"Toutes les <blessure-icon></blessure-icon> mènent au <sdm-icon></sdm-icon>."}
+                            {"contenu":"Toutes les <blessure-icon></blessure-icon> mènent au <sdm-icon></sdm-icon>"}
                         ]
                     }    
                 ],
@@ -292,7 +292,7 @@
                         "effet":[
                             {"contenu":"Dès qu'un autre <perso>Personnage</perso> décède."},
                             {"contenu":"Vous pouvez jouer son <perso>Personnage</perso> à son prochain tour."},
-                            {"contenu":"Il ne sera pas considéré comme au <sdm-icon></sdm-icon>."},
+                            {"contenu":"Il ne sera pas considéré comme au <sdm-icon></sdm-icon>"},
                             {"contenu":"Il sera définitivement décédé à la fin de son prochain tour."}
                         ]
                     }    

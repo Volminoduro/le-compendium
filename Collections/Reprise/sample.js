@@ -12,7 +12,7 @@
                         "montant":""
                     },
                     {
-                        "nature":"or-icon",
+                        "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     },
                     {
@@ -20,7 +20,7 @@
                         "montant":"-5"
                     },
                     {
-                        "nature":"or-icon",
+                        "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     }
                 ],

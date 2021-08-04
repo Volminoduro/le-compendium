@@ -16,7 +16,7 @@ $(document).ready(function() {
     caracteristique.montant = "";
     carte.caracteristiques.push(caracteristique);
     /* var caracteristiqueOr = new Object();
-    caracteristiqueOr.nature = "or-icon";
+    caracteristiqueOr.nature = "<or-icon></or-icon>";
     caracteristiqueOr.montant = "5";
     carte.caracteristiques.push(caracteristiqueOr); */
 

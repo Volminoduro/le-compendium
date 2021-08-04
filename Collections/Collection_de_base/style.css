@@ -17,7 +17,7 @@
   --leg:rgb(205, 126, 67);
   --conso:darkblue;
   --perso:grey;
-  --fanion:red;
+  --fanion:grey;
   --soin:darkgreen;
   --blessure:#af111c;
   --larcin:lightpink;
@@ -45,8 +45,8 @@
   --bgPassif:url(../Collection_de_base/Images/passif.png);
 
   /* taille icône */
-  --widthIcone: 3.25mm; 
-  --heightIcone: 3.25mm;
+  --widthIcone: 4mm; 
+  --heightIcone: 4mm;
   
   /* fontsize */
   --standard:2.8mm;
@@ -229,7 +229,7 @@ soin-icon{
 }
 
 conso-icon{
-  content: url(../Collection_de_base/Images/consommable.png);
+  content: url(../Collection_de_base/Images/consommable_color.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }
@@ -319,7 +319,7 @@ bonus-atk-icon{
 }
 
 bonus-def-icon{
-  content: url(../Collection_de_base/Images/bonus_attaque.jpg);
+  content: url(../Collection_de_base/Images/bonus_defense.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }
@@ -338,6 +338,36 @@ d3-icon{
 
 steuf-icon{
   content: url(../Collection_de_base/Images/steuf.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+vol-icon{
+  content: url(../Collection_de_base/Images/vol-icon.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+atk-icon{
+  content: url(../Collection_de_base/Images/d4.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+def-icon{
+  content: url(../Collection_de_base/Images/d3.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+actif-icon{
+  content: url(../Collection_de_base/Images/actif.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+passif-icon{
+  content: url(../Collection_de_base/Images/passif.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }
@@ -410,7 +440,7 @@ steuf-icon{
 
 /* Fanion avec les stats */
 .carte .fanion{
-  height:118%;
+  height:102%;
   background:var(--fanion);
   
   text-align:center;
@@ -433,30 +463,6 @@ steuf-icon{
   /* NE PAS TOUCHER */
   display:inline-block;
   vertical-align:middle;
-}
-
-/* Fait les deux petits piques du fanion
-Si tu veux modifier : https://outils-css.aliasdmc.fr/generateur-de-triangles-css.php */
-.carte .fanion::before, .carte .fanion::after{
-  content:"";
-  display : inline-block;
-  height : 0;
-  width : 0;
-  border-top : 15px solid var(--fanion);
-  border-right : 10px solid transparent;
-  border-left : 10px solid transparent;
-}
-/* Positionnement des trianges TOUCHE PAS*/
-.carte .fanion::before{
-  position:absolute;
-  bottom:-15px;
-  left:2px;
-}
-/* Positionnement des trianges TOUCHE PAS*/
-.carte .fanion::after{
-  position:absolute;
-  bottom:-15px;
-  right:1px;
 }
 
 /* Titre de l'effet */

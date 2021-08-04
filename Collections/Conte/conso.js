@@ -7,8 +7,8 @@
                 "nom":"Bonhomme en pain d'épices",
                 "type":"conso",
                 "illustration":"./Images/Consommables/bonhomme_epices.jpg","caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"3"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"3"}
                 ],
                 "effets":[
                         {
@@ -17,8 +17,8 @@
                             "effet":[
                                 {"contenu":"Choisissez une option :",
                                 "enfants":[
-                                    {"contenu":"Vous <soin>soigne</soin> d'une <blessure-icon></blessure-icon>."},
-                                    {"contenu":"S'il l'accepte, <soin>soigne</soin> un autre <perso>Personnage</perso> d'une <blessure-icon></blessure-icon>."}]}
+                                    {"contenu":"Vous <soin-icon></soin-icon> d'une <blessure-icon></blessure-icon>"},
+                                    {"contenu":"S'il l'accepte, <soin-icon></soin-icon> un autre <perso>Personnage</perso> d'une <blessure-icon></blessure-icon>"}]}
                             ]
                         }
                 ],
@@ -30,8 +30,8 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/pomme_or.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"8"}
                 ],
                 "effets":[
                     {
@@ -39,7 +39,7 @@
                         "nom":"Protection divine",
                         "effet":{
                             "contenu":"Ciblez un <perso>Personnage</perso>, jusqu'à son prochain tour :",
-                            "enfants":{"contenu":"Pendant chaque tour de chaque autre <perso>Personnage</perso> que la cible, vous annulez jusqu'à une blessure ."}
+                            "enfants":{"contenu":"Pendant chaque tour de chaque autre <perso>Personnage</perso> que la cible, jusqu'à une blessure est annulée."}
                         }
                     },
                     {
@@ -58,8 +58,8 @@
                 "nom":"Rune de téléportation",
                 "type":"conso",
                 "illustration":"./Images/Consommables/pierre_teleportation.jpg","caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"2"}
                 ],
                 "effets":[
                     {
@@ -71,7 +71,7 @@
                         ]
                     }
                 ],
-                "citation":"« Cette fois-ci ça a fonctionné comme prévu. Vous allez pas vous retrouver aux premières loges de la conception de votre petit frère. »"
+                "citation":"« Cette fois-ci ça va fonctionner comme prévu. Vous allez pas vous retrouver aux premières loges de la conception de votre petit frère. »"
             },
             {
                 "nombre":"2",
@@ -79,8 +79,8 @@
                 "nom":"Ailes atrophiées",
                 "type":"conso",
                 "illustration":"./Images/Consommables/ailes_atrophiees.jpg","caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":[
                     {
@@ -102,8 +102,8 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/des.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"3"}
                 ],
                 "effets":
                     {"nature":"actif",
@@ -121,8 +121,8 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/peluche.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"5"}
                 ],
                 "effets":{
                     "nature":"actif",
@@ -138,14 +138,14 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/poudre_perlimpinpin.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"0"}
                 ],
                 "effets":{
                     "nature":"actif",
                     "nom":"On le voit, on le voit plus",
                     "effet":[
-                        {"contenu":"Vous pouvez annuler un <effet>actif/passif</effet> d'un <steuf-icon></steuf-icon> équipé."},
+                        {"contenu":"Vous pouvez annuler un <actif-icon></actif-icon> ou un <passif-icon></passif-icon> d'un <steuf-icon></steuf-icon> équipé."},
                         {"contenu":"Cela durera tant qu'il sera équipé, placez <conso>Poudre d'altération</conso> sur l'<effet>effet</effet> affecté pendant cette durée."}
                     ]
                 },
@@ -158,8 +158,8 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/piege_loup.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"6"}
                 ],
                 "effets":[
                     {
@@ -167,7 +167,7 @@
                         "nom":"« Anti-vol »",
                         "effet":[
                             {"contenu":"Lorsqu'on tente de vous voler une carte en main."},
-                            {"contenu":"Défaussez cette carte à la place. Le voleur reçoit 1 <blessure-icon></blessure-icon>."}]
+                            {"contenu":"Défaussez <conso>Piège à loup</conso> à la place. Le voleur subit 1 <blessure-icon></blessure-icon>"}]
                         }
                 ],
                 "citation":"« Il y a ceux avec des oursins dans les poches et ceux qui prennent des mesures <u>vraiment</u> dissuasives. »"
@@ -179,16 +179,16 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/salive_hydre.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"3"}
                 ],
                 "effets":{
                     "nature":"actif",
                     "nom":"Blague décapante",
                     "effet":{
-                        "contenu":"Selon la cible : ",
+                        "contenu":"Selon la cible de votre choix : ",
                         "enfants":[
-                            {"contenu":"Le <perso>Personnage</perso> ciblé subit 1 <blessure-icon></blessure-icon>."},
+                            {"contenu":"Le <perso>Personnage</perso> ciblé subit 1 <blessure-icon></blessure-icon>"},
                             {"contenu":"Le <steuf-icon></steuf-icon> ciblé est défaussé."}
                         ]
                     }
@@ -201,13 +201,16 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/coeur_drake.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"5"}
                 ],
                 "effets":{
                     "nature":"actif",
-                    "nom":"Revigoré (1 tour)",
-                    "effet":{"contenu":"+2 d'attaque et de défense.<span class='passif'>Digestion d'abat (2 tours) : -1 d'attaque et de défense."}
+                    "nom":"Revigoré",
+                    "effet":[
+                        {"contenu":"Jusqu'à votre prochain tour."},
+                        {"contenu":"Toutes vos défenses réussies infligent 1 <blessure-icon></blessure-icon> à l'attaquant."}
+                    ]
             }
                 ,
                 "citation":"« Coeur de drake, pas Drake. On parle du poulet volant écailleux préhistorique cracheur de feu. »"
@@ -218,18 +221,17 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/potion_bras_long.jpg",
                 "caracteristiques":[
-                    {"nature":"conso-icon"},
-                    {"nature":"or-icon","montant":"5"}
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
                     "nature":"actif",
                     "nom":"Les yeux plus gros que les bras",
                     "effet":[
-                        {"contenu":"Vous piochez 3 <steuf-icon></steuf-icon>."},
-                        {"contenu":"Conserver 1 <steuf-icon></steuf-icon> puis défaussez les 2 autres."},
+                        {"contenu":"Vous piochez 3 <steuf-icon></steuf-icon> puis défaussez-en 2 parmis ceux piochés."}
                     ]
                 },
-                "citation":"« Ça serait pratique pour se lacer les chaussures sans se baisser, mais il n'y aurait pas de vêtement à votre taille. »"
+                "citation":"« Ça serait pratique pour se lacer les chaussures sans se baisser, mais il n'y aurait plus de vêtement à votre taille. »"
             }]
     };
 localStorage.setItem('data', JSON.stringify(data));

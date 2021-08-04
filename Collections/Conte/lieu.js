@@ -15,8 +15,8 @@
                             "nom":"Friandise généreuse",
                             "effet":[
                                 {"contenu":"En commençant par le <perso>Personnage</perso> qui a découvert ce <lieu-icon></lieu-icon> puis dans l'ordre de jeu."},
-                                {"contenu":"Chaque <perso>Personnage</perso> peut se soigner jusqu'à 1 <blessure-icon></blessure-icon>."},
-                                {"contenu":"Quand 4 <blessure-icon></blessure-icon> ont été <soin>soignées</soin> ou que le <lieu>Baobab en barbe-à-papa</lieu> soit passé par tous les <perso>Personnages</perso>, défaussez immédiatement ce <lieu-icon></lieu-icon>."}
+                                {"contenu":"Chaque <perso>Personnage</perso> peut se <soin-icon></soin-icon> 1 <blessure-icon></blessure-icon>"},
+                                {"contenu":"Lorsque 4 <blessure-icon></blessure-icon> ont été <soin-icon></soin-icon> ou que le <lieu>Baobab en barbe-à-papa</lieu> est passé par tous les <perso>Personnages</perso>, défaussez-le."}
                             ]
                         }
                 ],
@@ -35,7 +35,7 @@
                             "nature":"actif",
                             "nom":"Les produits laitiers",
                             "effet":[
-                                {"contenu":"Vous contractez la <effet>Gaze'Trop</effet>, mettez <lieu>Cahutte de Bibi Yog'Yourte</lieu> sur la case <effet>passif</effet> pour le symboliser."},
+                                {"contenu":"Vous contractez la <effet>Gaze'Trop</effet>, mettez <lieu>Cahutte de Bibi Yog'Yourte</lieu> sur l'emplacement <effet>effet</effet> pour le symboliser."},
                                 {"contenu":"Tant que <effet>Gaze'Trop</effet> est actif sur un <perso>Personnage</perso>, ne défaussez pas <lieu>Cahutte de Bibi Yog'Yourte</lieu>."},
                             ]
                         },
@@ -43,8 +43,8 @@
                             "nature":"passif",
                             "nom":"Gaze'Trop",
                             "effet":[
-                                {"contenu":"Au début de votre tour, subissez 1 <blessure-icon></blessure-icon>."},
-                                {"contenu":"Quand vous attaquez / défendez, votre <effet>Gaze'Trop</effet> va au défenseur / attaquant."},
+                                {"contenu":"Au début de votre tour, subissez 1 <blessure-icon></blessure-icon>"},
+                                {"contenu":"Quand vous <atk-icon></atk-icon> / <def-icon></def-icon>, votre <effet>Gaze'Trop</effet> va au défenseur / attaquant."},
                             ]
                         }
                 ],
@@ -63,16 +63,16 @@
                             "nature":"passif",
                             "nom":"Litterie inconfortable",
                             "effet":[
-                                {"contenu":"Faites un jet de defense."},
-                                {"contenu":"Si votre défense totale est inférieure à 3 :",
+                                {"contenu":"Faites une <def-icon></def-icon>."},
+                                {"contenu":"Si votre <def-icon></def-icon> < 3 :",
                                 "enfants":[
-                                    {"contenu":"Subissez 1 <blessure-icon></blessure-icon>."},
-                                    {"contenu":"Piochez 2 <steuf-icon></steuf-icon>."}
+                                    {"contenu":"Subissez 1 <blessure-icon></blessure-icon>"},
+                                    {"contenu":"Piochez 2 <steuf-icon></steuf-icon>"}
                                 ]}
                             ]
                         }
                 ],
-                "citation":"« Vous ne vous plaindrez plus jamais de vous endormir sur un petit caillou au milieu du dos. »"
+                "citation":"« Vous ne vous plaindrez plus jamais de vous endormir avec un petit caillou au milieu du dos. »"
             },
             {
                 "edition":"conte",
@@ -137,7 +137,7 @@
                         "effet":[
                             {"contenu":"Si votre <i>jet de déplacement</i> était supérieur à 3.",
                             "enfants":[
-                                {"contenu":"Vous vous défaussez d'un <steuf-icon></steuf-icon> de votre choix ou subissez une <blessure-icon></blessure-icon>."}
+                                {"contenu":"Vous vous défaussez d'un <steuf-icon></steuf-icon> de votre choix ou subissez une <blessure-icon></blessure-icon>"}
                             ]}
                         ]
                     }
@@ -157,8 +157,8 @@
                         "nature":"actif",
                         "nom":"Bouton rouge",
                         "effet":[
-                            {"contenu":"Les <perso>Personnages</perso> à plus de 3 <blessure-icon></blessure-icon> sont <soin>soignés</soin> d'une <blessure-icon></blessure-icon>."},
-                            {"contenu":"Les <perso>Personnages</perso> à moins de 3 <blessure-icon></blessure-icon> subissent une <blessure-icon></blessure-icon>."}
+                            {"contenu":"Les <perso>Personnages</perso> à plus de 3 <blessure-icon></blessure-icon> sont <soin>soignés</soin> d'une <blessure-icon></blessure-icon>"},
+                            {"contenu":"Les <perso>Personnages</perso> à moins de 3 <blessure-icon></blessure-icon> subissent une <blessure-icon></blessure-icon>"}
                         ]
                     }
                 ],
@@ -177,8 +177,8 @@
                         "nature":"actif",
                         "nom":"Égalitarisme tempétueux",
                         "effet":[
-                            {"contenu":"Réunissez tous les  (équipés ou en main) en jeu et mélangez-les."},
-                            {"contenu":"Redistribuez les <steuf-icon></steuf-icon> de manière à ce que tout le monde en ait le même nombre, puis défaussez celles en trop."}
+                            {"contenu":"Réunissez tous les <steuf-icon></steuf-icon> (équipés ou en main) en jeu et mélangez-les."},
+                            {"contenu":"Redistribuez les <steuf-icon></steuf-icon> de manière à ce que tout le monde en ait le même nombre, puis défaussez ceux en trop."}
                         ]
                     }
                 ],
