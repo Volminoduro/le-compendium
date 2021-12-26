@@ -349,7 +349,7 @@ vol-icon{
 }
 
 atk-icon{
-  content: url(../Collection_de_base/Images/d4.png);
+  content: url(../Collection_de_base/Images/attaque.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }

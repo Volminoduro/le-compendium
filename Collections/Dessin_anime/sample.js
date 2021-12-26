@@ -52,7 +52,7 @@
                         "nom":"« Le 12, tu sors ! »",
                         "effet":[
                             {"contenu":"Utilisable à tout moment."},
-                            {"contenu":"Le <perso>Personnage</perso> choisi ne peut pas être ciblé ou cibler d'autres <perso>Personnages</perso>"}
+                            {"contenu":"Jusqu'au début de son prochain tour, le <perso>Personnage</perso> choisi ne peut pas être ciblé directement ou cibler directement d'autres <perso>Personnages</perso>."}
                         ]
                     }    
                 ],
@@ -174,7 +174,7 @@
                         "nature":"actif",
                         "nom":"Injection SQL",
                         "effet":[
-                            {"contenu":"Vous pouvez regarder les cartes en main de tous les <perso>Personnages</perso>"}
+                            {"contenu":"Vous pouvez regarder les cartes en main de tous les <perso>Personnages</perso>."}
                         ]
                     }    
                 ],
@@ -298,6 +298,38 @@
                     }    
                 ],
                 "citation":"« Si vous rétorquez que c'est un anti-héros et qu'il n'a rien à faire ici. Je vous dirai que... Vous avez probablement raison. »"
+            },
+            {
+                "edition":"dessin",
+                "nom":"Capitaine Flemme",
+                "type":"perso",
+                "illustration":"./Images/Personnages/.jpg",
+                "caracteristiques":[
+                    {
+                        "nature":"<bon-icon></bon-icon>",
+                        "montant":"",
+                    },
+                    {
+                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
+                        "montant":""
+                    },
+                    {
+                        "nature":"<blessure-icon></blessure-icon>",
+                        "montant":"4"
+                    }
+                ],
+                "effets":[
+                    {
+                        "nature":"actif",
+                        "nom":"Comment c'est loin...",
+                        "effet":[
+                            {"contenu":"Utilisable uniquement lors de votre <i>Phase de déplacement</i>."},
+                            {"contenu":"Vous pouvez rester sur votre <b>Case</b> au lieu de lancer les dés pour vous déplacer."},
+                            {"contenu":"Cela réactive la <b>Case</b> sur laquelle vous vous trouvez déjà."}
+                        ]
+                    }    
+                ],
+                "citation":"«  »"
             }
         ]
     };

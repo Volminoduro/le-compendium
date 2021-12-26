@@ -17,7 +17,6 @@
   * Peut choisir entre les trois premières cartes d'une pile.
   * Vous pouvez piocher les cartes de la défausse à la place de ceux des piles standards.
   * Se guérir d'une blessure au début de tous les 2 tours.
-  * Inflige une blessure sur une case spécifique (marchand de sang par exemple ?)
   * Vous pouvez rejouer après avoir achever un autre personnage.
   * Désignez un autre personnage que vous, vous pouvez annuler un de ces pouvoirs au choix.
   * Contreattaquer si on est à partir d'un certain nombre de Blessures.
@@ -28,18 +27,6 @@
 * X
   ** Les steufs n'ont aucun effets et vous ne pouvez pas consommer leur charge d'utilisation.
   ** Vous pouvez lancez les deux dés pour attaquer ou vous défendre.
-* X
-  ** Vous ne pouvez pas être soigné ou augmenter votre nombre de Blessures maximales de la partie.
-  ** Chaque mort que vous subissez baisse votre limite de Blessures maximales de 1 et vous ramène à 0 Blessures.
-
-* X
-  ** Vous ne pouvez pas être soigné ou augmenter votre nombre de Blessures maximales de la partie.
-  ** Chaque personnage que vous tué vous ramène à 0 Blessures.
-
-  * Tyler Durden : Idée de blessures communes, quêtes différentes et le jeu se ferait en différé ?
-
-  * Un personne avec une compétence de transfer du corps : échanger votre carte perso + toutes les cartes contre celle d'un autre, et la quête s'il le désire (sans le montrer)
-
 
 * Un personnage qui se scarifie pour gagner un <i>Sang</i>.
 

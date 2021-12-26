@@ -42,22 +42,3 @@ Manba (personnage Cobra) :
                     </div>   
                 </div>                            
             </div>
-            <div class="card">
-                <div class="contour-de-carte">
-                    <div class="fond-de-carte">
-                        <div class="name personnage-protagoniste">Capitaine Flemme<span class="icon"><img src="./Images/icone.png" /></span></div>
-                        <div class="image" style="background-image: url(Images/Personnages/.jpg);"></div>
-                        <div class="type"><span>Protagoniste</span><span>0 Blessures</span></div>
-                        <div class="description">
-                            <ul class="liste">
-                                <li><span class="actif">Comment c'est loin...» (1 utilisation / 2 tours) :</span></li>
-                                <ul class="liste sous-liste">
-                                    <li><span>Lors de votre Phase de déplacement, vous pouvez ne pas lancer les dés.</span></li>
-                                    <li><span>Vous réactivez la case sur laquelle vous vous trouvez déjà.</span></li>
-                                </ul>
-                            </ul>
-                        </div>
-                        <div class="quote">«XXX.»</div>
-                    </div>
-                </div>
-            </div>
