@@ -34,10 +34,6 @@
 
 * Un personnage qui puisse annuler les effets (buff permanents) d'un consommable
 
-* Un personnage qui ferait des dégâts selon le nombre de cartes en main ?
-** Toutes pioches, vous piochez deux cartes.
-** Vous pouvez donner vos cartes à un personnage adverse (maximum à définir ?).
-
 Liste lecture :
 - Bel Ami ?
 - 1984 ?

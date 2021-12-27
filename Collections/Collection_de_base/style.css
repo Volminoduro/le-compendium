@@ -372,6 +372,24 @@ passif-icon{
   height: var(--heightIcone);
 }
 
+bonus-1-icon{
+  content: url(../Collection_de_base/Images/bonus_1.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+bonus-2-icon{
+  content: url(../Collection_de_base/Images/bonus_2.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+malus-1-icon{
+  content: url(../Collection_de_base/Images/malus_1.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
 /* conteneur de la carte en entier */
 .carte{
   width:61mm;

@@ -30,7 +30,7 @@
             },
             {
                 "edition":"",
-                "nom":"Chat-pardeur",
+                "nom":"Chat Pardeur",
                 "type":"steuf rare",
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
@@ -245,7 +245,7 @@
                         "nature":"passif",
                         "nom":"Métamorphose spontanée",
                         "effet":[
-                            {"contenu":"Lors de votre <i>début de tour</i>, votre <perso>Personnage</perso> gagne les <actif-icon></actif-icon> et les <passif-icon></passif-icon> d'un autre <perso>Personnage</perso> de votre choix."},
+                            {"contenu":"Lors de votre <i>début de tour</i>, votre <perso>Personnage</perso> gagne les <actif-icon></actif-icon> et les <passif-icon></passif-icon> d'un autre <perso>Personnage</perso> révélé de votre choix."},
                             {"contenu":"Votre <b>Moralité</b> et votre <b>Ordre</b> sont remplacés par ceux du <perso>Personnage</perso> choisi."},
                             {"contenu":"Vous ne pouvez sélectionner le même <perso>Personnage</perso> deux fois de suite."}
                         ]
@@ -360,6 +360,84 @@
                     }
                 ],
                 "citation":"«  »"
+            },
+            {
+                "edition":"",
+                "nom":"Marchand de mort",
+                "type":"perso",
+                "illustration":"./Images/Consommables/",
+                "caracteristiques":[
+                    {
+                        "nature":"<mauvais-icon></mauvais-icon>",
+                        "montant":"",
+                    },
+                    {
+                        "nature":"<loyal-icon></loyal-icon>",
+                        "montant":"",
+                    },
+                    {
+                        "nature":"<blessure-icon></blessure-icon>",
+                        "montant":"4"
+                    }
+                ],
+                "effets":[
+                    {
+                        "nature":"actif",
+                        "nom":"Cadeau empoisonné",
+                        "effet":[
+                            {"contenu":"Vous pouvez donner une ou plusieurs de vos cartes en main au <perso>Personnages</perso> de votre choix."}
+                        ]
+                    },
+                    {
+                        "nature":"passif",
+                        "nom":"Brûle-doigts",
+                        "effet":[
+                            {"contenu":"Lors d'une attaque réussie."},
+                            {"contenu":"Vous infligez une <blessure-icon></blessure-icon> supplémentaire pour chaque carte dans la main du défenseur."}
+                        ]
+                    }
+                ],
+                "citation":"«  »"
+            },
+            {
+                "edition":"",
+                "nom":"Dimirtri, le magicien",
+                "type":"perso",
+                "illustration":"./Images/Consommables/",
+                "caracteristiques":[
+                    {
+                        "nature":"<bon-icon></bon-icon>",
+                        "montant":"",
+                    },
+                    {
+                        "nature":"<loyal-icon></loyal-icon>",
+                        "montant":"",
+                    },
+                    {
+                        "nature":"<blessure-icon></blessure-icon>",
+                        "montant":"5"
+                    }
+                ],
+                "effets":[
+                    {
+                        "nature":"actif",
+                        "nom":"« Tuto pour 1 »",
+                        "effet":[
+                            {"contenu":"Payez 2 <blessure-icon></blessure-icon>, ne peut être fait au <sdm-icon></sdm-icon>."},
+                            {"contenu":"Prenez la carte de votre choix dans la pile de votre choix. Mélangez la pile."},
+                            {"contenu":"Placez secrètement cette carte parmi les 3 premières de la pile, à la position de votre choix."}
+                        ]
+                    },
+                    {
+                        "nature":"passif",
+                        "nom":"Remue-méninges",
+                        "effet":[
+                            {"contenu":"A chaque fois que vous piochez une carte."},
+                            {"contenu":"Piocher trois cartes au lieu d'une, choisissez-en une et reposez les deux autres sur la pile dans l'ordre de votre choix."}
+                        ]
+                    }
+                ],
+                "citation":"« Il sait brasser des cartes, tricher avec des dés ou une pièce et dit des choses qui n'intéresse personne. Selon lui, ça suffit à faire de lui un magicien. Exaspérant. Et pourquoi se costumer comme ça...? »"
             }
         ]
     };
