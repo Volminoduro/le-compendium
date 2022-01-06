@@ -430,7 +430,7 @@
                     },
                     {
                         "nature":"passif",
-                        "nom":"Remue-méninges",
+                        "nom":"Remue-méninges permanent",
                         "effet":[
                             {"contenu":"A chaque fois que vous piochez une carte."},
                             {"contenu":"Piocher trois cartes au lieu d'une, choisissez-en une et reposez les deux autres sur la pile dans l'ordre de votre choix."}
@@ -438,6 +438,62 @@
                     }
                 ],
                 "citation":"« Il sait brasser des cartes, tricher avec des dés ou une pièce et dit des choses qui n'intéresse personne. Selon lui, ça suffit à faire de lui un magicien. Exaspérant. Et pourquoi se costumer comme ça...? »"
+            },
+            {
+                "edition":"",
+                "nom":"Popotov",
+                "type":"conso",
+                "illustration":"./Images/Consommables/",
+                "caracteristiques":[
+                    {
+                        "nature":"<conso-icon></conso-icon>",
+                        "montant":"",
+                    },
+                    {
+                        "nature":"<or-icon></or-icon>",
+                        "montant":"1",
+                    }
+                ],
+                "effets":[
+                    {
+                        "nature":"actif",
+                        "nom":"Odeur pestinentielle",
+                        "effet":[
+                            {"contenu":"Choisissez une case de votre choix, jusqu'à la fin de votre prochain tour:"},
+                            {"contenu":"Chaque <perso>Personnage</perso> qui finit son tour sur cette case subit 1 <blessure-icon></blessure-icon> s'il n'est pas au <sdm-icon></sdm-icon>."},
+                            {"contenu":"Mettez le <conso>Popotov</conso> sous la case concernée tant que son effet est actif."}
+                        ]
+                    }
+                ],
+                "citation":"« Un tiers de popo, un tiers de bouteille, un tier de lancer pour un résultat 100 % magique ! »"
+            },
+            {
+                "edition":"",
+                "nom":"Vraie fausse baguette de sourcier",
+                "type":"steuf",
+                "illustration":"./Images/Consommables/",
+                "caracteristiques":[
+                    {
+                        "nature":"<arme-icon></arme-icon>",
+                        "montant":"",
+                    },
+                    {
+                        "nature":"<or-icon></or-icon>",
+                        "montant":"1",
+                    }
+                ],
+                "effets":[
+                    {
+                        "nature":"actif",
+                        "nom":"Redéfinition du résultat attendu",
+                        "effet":[
+                            {"contenu":"Utilisable lors de votre <i>phase de déplacement</i>."},
+                            {"contenu":"Lorsque vous arrivez sur la Case de votre destination, inversez votre tuile Case avec celle qui lui est opposée de l'autre côté du plateau."},
+                            {"contenu":"Puis activer normalement la tuile Case où vous vous trouvez."}
+                        ]
+                    }
+                ],
+                "citation":"«  »"
             }
         ]
     };
