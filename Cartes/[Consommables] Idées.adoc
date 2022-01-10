@@ -1,0 +1,16 @@
+:experimental:
+:source-highlighter: pygments
+:data-uri:
+:icons: font
+
+:toc:
+:numbered:
+
+:consommablesdir: /ressources/images/?/Consommables/
+
+* https://fr.wikipedia.org/wiki/Liste_d%27aliments,_de_boissons_et_de_substances_de_fiction
+
+
+* Consommable qui ajout des charges à un steuf
+
+* Consommable : au début du prochain tour, guérit de toutes les blessures au tour précédent (ou alors, chaque Blessure infligée se guérit ?)
