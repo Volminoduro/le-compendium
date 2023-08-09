@@ -1,0 +1,11 @@
+Dés :
+
+* Ajouter ou retirer des valeurs au résultat
+* Faire lancer les dés par un autre joueur
+* Faire lancer les dés par un autre Personnage
+* Définir la valeur fixe du tirage
+* Relancer un des dés du tirage
+* Relancer entièrement le tirage
+* Choisir la valeur fixe d'un des dés
+* Deviner à l'avance le résultat d'un des dés
+* Annuler le résultat d'un tirage

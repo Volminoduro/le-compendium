@@ -535,7 +535,103 @@
     
                 ],
                 "citation":"« Quand quelque chose vient vous carresser la jambe, parfois, ça n'est pas juste votre imagination. »"
-            }
+            },
+            {
+                "collection":"",
+                "nom":"Photo comprometantte du Pope",
+                "type":"conso",
+                "illustration":"./Images/Consommables/.jpg",
+                "caracteristiques":[
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
+                ],
+                "effets":{
+                    "nature":"actif",
+                    "nom":"Chantage",
+                    "effet":{"contenu":"Le résultat du tirage de dé actuel est <b>1</b>."}
+                },
+                "citation":"«  »"
+            },
+            {
+                "collection":"",
+                "nom":"",
+                "type":"conso",
+                "illustration":"./Images/Consommables/.jpg",
+                "caracteristiques":[
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
+                ],
+                "effets":{
+                    "nature":"actif",
+                    "nom":"",
+                    "effet":{"contenu":"Le résultat du tirage de dé actuel est <b>4</b>."}
+                },
+                "citation":"« »"
+            },
+            {
+                "collection":"",
+                "nom":"",
+                "type":"conso",
+                "illustration":"./Images/Consommables/.jpg",
+                "caracteristiques":[
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
+                ],
+                "effets":{
+                    "nature":"actif",
+                    "nom":"",
+                    "effet":{"contenu":"Relancez les dés du tirage actuel."}
+                },
+                "citation":"« »"
+            },
+            {
+                "collection":"",
+                "nom":"",
+                "type":"conso",
+                "illustration":"./Images/Consommables/.jpg",
+                "caracteristiques":[
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
+                ],
+                "effets":{
+                    "nature":"actif",
+                    "nom":"",
+                    "effet":{"contenu":"Relancez un dé du tirage actuel."}
+                },
+                "citation":"« »"
+            },
+            {
+                "collection":"",
+                "nom":"",
+                "type":"",
+                "illustration":"./Images/Consommables/.jpg",
+                "caracteristiques":[
+                    {"nature":""},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
+                ],
+                "effets":{
+                    "nature":"actif",
+                    "nom":"",
+                    "effet":{"contenu":"Devinez le résultat du tirage des dés provoque un effet."}
+                },
+                "citation":"« »"
+            },
+            {
+                "collection":"",
+                "nom":"",
+                "type":"conso",
+                "illustration":"./Images/Consommables/.jpg",
+                "caracteristiques":[
+                    {"nature":"<conso-icon></conso-icon>"},
+                    {"nature":"<or-icon></or-icon>","montant":"4"}
+                ],
+                "effets":{
+                    "nature":"actif",
+                    "nom":"",
+                    "effet":{"contenu":"Vous pouvez attaquer le personnage ciblé deux fois par tour jusqu'à la fin de votre prochain tour."}
+                },
+                "citation":"« La boisson énergisante préférée des réseaux sociaux. »"
+            },
         ]
     };
     localStorage.setItem('data', JSON.stringify(data));

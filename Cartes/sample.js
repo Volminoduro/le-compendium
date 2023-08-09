@@ -3,29 +3,6 @@
         // Consommables
         "cartes":[
             {
-                "nombre":"3",
-                "collection":"conte",
-                "nom":"Bonhomme en pain d'épices",
-                "type":"conso",
-                "illustration":"./Images/Consommables/bonhomme_epices.jpg","caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
-                    {"nature":"<or-icon></or-icon>","montant":"3"}
-                ],
-                "effets":[
-                        {
-                            "nature":"actif",
-                            "nom":"Petite douceur",
-                            "effet":[
-                                {"contenu":"Choisissez une option :",
-                                "enfants":[
-                                    {"contenu":"Vous <soin-icon></soin-icon> d'une <blessure-icon></blessure-icon>"},
-                                    {"contenu":"S'il l'accepte, <soin-icon></soin-icon> un autre <perso>Personnage</perso> d'une <blessure-icon></blessure-icon>"}]}
-                            ]
-                        }
-                ],
-                "citation":"« Oups, on a oublié de vous dire que ce délicieux biscuit était un petit enfant victime d'un sort. Non, on plaisante...  peut-être. »"
-            },
-            {
                 "collection":"conte",
                 "nom":"Pomme d'or",
                 "type":"conso",
@@ -75,7 +52,6 @@
                 "citation":"« Cette fois-ci ça va fonctionner comme prévu. Vous allez pas vous retrouver aux premières loges de la conception de votre petit frère. »"
             },
             {
-                "nombre":"2",
                 "collection":"conte",
                 "nom":"Ailes atrophiées",
                 "type":"conso",
@@ -94,45 +70,9 @@
                         ]
                     }
                 ],
-                "citation":"« Elles vous seront bien plus utiles qu'à la créature à qui vous les avez arrachées. »"
+                "citation":"« Elles vous seront bien plus utiles qu'à la pauvre créature à qui vous les avez arrachées. »"
             },
-            {
-                "nombre":"2",
-                "collection":"conte",
-                "nom":"Dés pipés",
-                "type":"conso",
-                "illustration":"./Images/Consommables/des.jpg",
-                "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
-                    {"nature":"<or-icon></or-icon>","montant":"3"}
-                ],
-                "effets":
-                    {"nature":"actif",
-                    "nom":"Tirage mal fait",
-                    "effet":[
-                        {"contenu":"Utilisable à tout moment."},
-                        {"contenu":"Pour le tirage de dé actuel : ajoutez 1 ou retirez 1."}
-                    ]
-                },
-                "citation":"« Si même le jeu vous permet de tricher, ça devient vraiment n'importe quoi. »"
-            },
-            {
-                "collection":"conte",
-                "nom":"Peluche du Pope",
-                "type":"conso",
-                "illustration":"./Images/Consommables/peluche.jpg",
-                "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
-                    {"nature":"<or-icon></or-icon>","montant":"5"}
-                ],
-                "effets":{
-                    "nature":"actif",
-                    "nom":"Ton jeu, mes règles",
-                    "effet":{"contenu":"Le résultat de votre tirage de dé actuel ou à venir sera <b>3</b>."}
-                }
-                ,
-                "citation":"« Il faut toujours que vous preniez cela trop au sérieux. Prendre une peluche en otage, quand même. »"
-            },
+            
             {
                 "collection":"conte",
                 "nom":"Poudre d'altération",
@@ -153,7 +93,6 @@
                 "citation":"« Personne n'est dupe, on sait tous que vous pensez à vous maquiller avec. »"
             },
             {
-                "nombre":"2",
                 "collection":"conte",
                 "nom":"Piège à loup",
                 "type":"conso",
@@ -174,7 +113,6 @@
                 "citation":"« Il y a ceux avec des oursins dans les poches et ceux qui prennent des mesures <u>vraiment</u> dissuasives. »"
             },
             {
-                "nombre":"2",
                 "collection":"conte",
                 "nom":"Flacon de salive d'hydre",
                 "type":"conso",
@@ -1224,7 +1162,6 @@
                 "citation":"« Ce n'était pas ce à quoi on pensait quand on vous a dit qu'il fallait savoir rebondir dans la vie. »"
             },
             {
-                "nombre":"2",
                 "collection":"dessin",
                 "nom":"Etoile trop super chouette",
                 "type":"conso",
