@@ -7,7 +7,6 @@
                 "nom":"Bonhomme en pain d'épices",
                 "type":"conso",
                 "illustration":"./Images/Consommables/bonhomme_epices.jpg","caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"2"}
                 ],
                 "effets":[
@@ -22,7 +21,7 @@
                             ]
                         }
                 ],
-                "citation":"« Oups, on a oublié de vous dire que ce délicieux biscuit était un petit enfant victime d'un sort. Non, on plaisante...  peut-être. »"
+                "citation":"Oups, on a oublié de vous dire que ce délicieux biscuit était un petit enfant victime d'un sort. Non, on plaisante...  peut-être."
             },
             {
                 "collection":"",
@@ -30,7 +29,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/des.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"3"}
                 ],
                 "effets":
@@ -41,7 +39,7 @@
                         {"contenu":"Ajoutez 1 ou retirez 1 au lancer de dés actuel."}
                     ]
                 },
-                "citation":"« Si même le jeu vous permet de tricher, ça devient vraiment n'importe quoi. »"
+                "citation":"Si même le jeu vous permet de tricher, ça devient vraiment n'importe quoi."
             },
             {
                 "collection":"",
@@ -49,7 +47,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/des.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"1"}
                 ],
                 "effets":
@@ -60,7 +57,7 @@
                         {"contenu":"Ajoutez 1 ou retirez 1 au lancer de dés actuel."}
                     ]
                 },
-                "citation":"« Si même le jeu vous permet de tricher, ça devient vraiment n'importe quoi. »"
+                "citation":"Si même le jeu vous permet de tricher, ça devient vraiment n'importe quoi."
             },
             {
                 "collection":"",
@@ -68,7 +65,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/peluche.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
@@ -77,7 +73,7 @@
                     "effet":{"contenu":"Le résultat du tirage de dé actuel est <b>2</b>."}
                 }
                 ,
-                "citation":"« Il faut toujours que vous preniez cela trop au sérieux. Prendre une peluche en otage, quand même. »"
+                "citation":"Il faut toujours que vous preniez cela trop au sérieux. Prendre une peluche en otage, quand même."
             },
             
         ]

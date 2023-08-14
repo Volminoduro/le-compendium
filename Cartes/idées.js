@@ -8,8 +8,7 @@
                 "illustration":"./Images/Consommables/miel.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<arme-icon></arme-icon>",
-                        "montant":"",
+                        "nature":"<arme-icon></arme-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -26,7 +25,7 @@
                         ]
                     }    
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -35,12 +34,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<corps-icon></corps-icon>",
-                        "montant":"",
+                        "nature":"<corps-icon></corps-icon>"
                     },
                     {
-                        "nature":"<accessoire-icon></accessoire-icon>",
-                        "montant":"",
+                        "nature":"<accessoire-icon></accessoire-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -57,7 +54,7 @@
                         ]
                     }    
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -66,12 +63,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>",
-                        "montant":"",
+                        "nature":"<mauvais-icon></mauvais-icon>"
                     },
                     {
-                        "nature":"<chaotique-icon></chaotique-icon>",
-                        "montant":"",
+                        "nature":"<chaotique-icon></chaotique-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -102,7 +97,7 @@
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -111,12 +106,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>",
-                        "montant":"",
+                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
                     },
                     {
-                        "nature":"<chaotique-icon></chaotique-icon>",
-                        "montant":"",
+                        "nature":"<chaotique-icon></chaotique-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -148,7 +141,7 @@
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -157,12 +150,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>",
-                        "montant":"",
+                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
                     },
                     {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
-                        "montant":"",
+                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -180,7 +171,7 @@
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -189,12 +180,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>",
-                        "montant":"",
+                        "nature":"<mauvais-icon></mauvais-icon>"
                     },
                     {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
-                        "montant":"",
+                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -219,7 +208,7 @@
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -228,12 +217,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>",
-                        "montant":"",
+                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
                     },
                     {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
-                        "montant":"",
+                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -245,13 +232,13 @@
                         "nature":"passif",
                         "nom":"Métamorphose spontanée",
                         "effet":[
-                            {"contenu":"Lors de votre <i>début de tour</i>, votre <perso>Personnage</perso> gagne les <actif-icon></actif-icon> et les <passif-icon></passif-icon> d'un autre <perso>Personnage</perso> révélé de votre choix."},
+                            {"contenu":"Lors de votre <i>début de tour</i>, votre <perso>Personnage</perso> gagne les </actif-icon> et les </passif-icon> d'un autre <perso>Personnage</perso> révélé de votre choix."},
                             {"contenu":"Votre <b>Moralité</b> et votre <b>Ordre</b> sont remplacés par ceux du <perso>Personnage</perso> choisi."},
                             {"contenu":"Vous ne pouvez sélectionner le même <perso>Personnage</perso> deux fois de suite."}
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -259,14 +246,6 @@
                 "type":"perso",
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
-                    {
-                        "nature":"",
-                        "montant":"",
-                    },
-                    {
-                        "nature":"",
-                        "montant":"",
-                    },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
                         "montant":"4"
@@ -288,7 +267,7 @@
                         ]
                     }
                 ],
-                "citation":"« Oui, il a eu droit à des blagues sur sa situation et son prénom-composé durant toute sa scolarité.»"
+                "citation":"Oui, il a eu droit à des blagues sur sa situation et son prénom-composé durant toute sa scolarité.»"
             },
             {
                 "collection":"",
@@ -297,12 +276,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>",
-                        "montant":"",
-                    },
-                    {
-                        "nature":"",
-                        "montant":"",
+                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -327,7 +301,7 @@
                         ]
                     }
                 ],
-                "citation":"« Attendre du secours d'une seule divinité est une erreur digne d'un parieur débutant.»"
+                "citation":"Attendre du secours d'une seule divinité est une erreur digne d'un parieur débutant.»"
             },
             {
                 "collection":"",
@@ -336,12 +310,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>",
-                        "montant":"",
+                        "nature":"<mauvais-icon></mauvais-icon>"
                     },
                     {
-                        "nature":"<chaotique-icon></chaotique-icon>",
-                        "montant":"",
+                        "nature":"<chaotique-icon></chaotique-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -359,7 +331,7 @@
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -368,12 +340,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>",
-                        "montant":"",
+                        "nature":"<mauvais-icon></mauvais-icon>"
                     },
                     {
-                        "nature":"<loyal-icon></loyal-icon>",
-                        "montant":"",
+                        "nature":"<loyal-icon></loyal-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -397,7 +367,7 @@
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -406,12 +376,10 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>",
-                        "montant":"",
+                        "nature":"<bon-icon></bon-icon>"
                     },
                     {
-                        "nature":"<loyal-icon></loyal-icon>",
-                        "montant":"",
+                        "nature":"<loyal-icon></loyal-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -421,9 +389,9 @@
                 "effets":[
                     {
                         "nature":"actif",
-                        "nom":"« Tuto pour 1 »",
+                        "nom":"Tuto pour 1",
                         "effet":[
-                            {"contenu":"Payez 2 <blessure-icon></blessure-icon>, ne peut être fait au <sdm-icon></sdm-icon>."},
+                            {"contenu":"Payez 1 <blessure-icon></blessure-icon>, ne peut être fait au <sdm-icon></sdm-icon>."},
                             {"contenu":"Prenez la carte de votre choix dans la pile de votre choix. Mélangez la pile."},
                             {"contenu":"Placez secrètement cette carte parmi les 3 premières de la pile, à la position de votre choix."}
                         ]
@@ -437,7 +405,7 @@
                         ]
                     }
                 ],
-                "citation":"« Il sait brasser des cartes, tricher avec des dés ou une pièce et dit des choses qui n'intéresse personne. Selon lui, ça suffit à faire de lui un magicien. Exaspérant. Et pourquoi se costumer comme ça...? »"
+                "citation":"Il sait brasser des cartes, tricher avec des dés ou une pièce et dit des choses qui n'intéresse personne. Selon lui, ça suffit à faire de lui un magicien. Exaspérant."
             },
             {
                 "collection":"",
@@ -445,10 +413,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
-                    {
-                        "nature":"<conso-icon></conso-icon>",
-                        "montant":"",
-                    },
                     {
                         "nature":"<or-icon></or-icon>",
                         "montant":"1",
@@ -465,7 +429,7 @@
                         ]
                     }
                 ],
-                "citation":"« Un tiers de popo, un tiers de bouteille, un tier de lancer pour un résultat 100 % magique ! »"
+                "citation":"Un tiers de popo, un tiers de bouteille, un tier de lancer pour un résultat 100 % magique !"
             },
             {
                 "collection":"",
@@ -474,8 +438,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<arme-icon></arme-icon>",
-                        "montant":"",
+                        "nature":"<arme-icon></arme-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -493,7 +456,7 @@
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"conte",
@@ -502,7 +465,7 @@
                 "illustration":"../Conte/Images/Steufs/chat_chatoyant.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"accessoire-icon",
+                        "nature":"<accessoire-icon></accessoire-icon>",
                         "montant":""
                     },
                     {
@@ -510,7 +473,7 @@
                         "montant":"5"
                     },
                     {
-                        "nature":"defense-icon",
+                        "nature":"<defense-icon></defense-icon>",
                         "montant":"-5"
                     },
                     {
@@ -521,7 +484,7 @@
                 "effets":[
                     {
                         "nature":"actif",
-                        "nom":"« Ah, mais ch'est chiant ! »",
+                        "nom":"Ah, mais ch'est chiant !",
                         "effet":[
                             {
                                 "contenu":"Vous pouvez relancer votre jet de défense une deuxième fois."
@@ -534,7 +497,7 @@
                     }
     
                 ],
-                "citation":"« Quand quelque chose vient vous carresser la jambe, parfois, ça n'est pas juste votre imagination. »"
+                "citation":"Quand quelque chose vient vous carresser la jambe, parfois, ça n'est pas juste votre imagination."
             },
             {
                 "collection":"",
@@ -542,7 +505,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
@@ -550,7 +512,7 @@
                     "nom":"Chantage",
                     "effet":{"contenu":"Le résultat du tirage de dé actuel est <b>1</b>."}
                 },
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"",
@@ -558,7 +520,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
@@ -566,7 +527,7 @@
                     "nom":"",
                     "effet":{"contenu":"Le résultat du tirage de dé actuel est <b>4</b>."}
                 },
-                "citation":"« »"
+                "citation":"»"
             },
             {
                 "collection":"",
@@ -574,7 +535,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
@@ -582,7 +542,7 @@
                     "nom":"",
                     "effet":{"contenu":"Relancez les dés du tirage actuel."}
                 },
-                "citation":"« »"
+                "citation":"»"
             },
             {
                 "collection":"",
@@ -590,7 +550,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
@@ -598,7 +557,7 @@
                     "nom":"",
                     "effet":{"contenu":"Relancez un dé du tirage actuel."}
                 },
-                "citation":"« »"
+                "citation":"»"
             },
             {
                 "collection":"",
@@ -614,15 +573,14 @@
                     "nom":"",
                     "effet":{"contenu":"Devinez le résultat du tirage des dés provoque un effet."}
                 },
-                "citation":"« »"
+                "citation":"»"
             },
             {
                 "collection":"",
-                "nom":"",
+                "nom":"Powerate",
                 "type":"conso",
                 "illustration":"./Images/Consommables/.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
@@ -630,8 +588,9 @@
                     "nom":"",
                     "effet":{"contenu":"Vous pouvez attaquer le personnage ciblé deux fois par tour jusqu'à la fin de votre prochain tour."}
                 },
-                "citation":"« La boisson énergisante préférée des réseaux sociaux. »"
+                "citation":"La boisson énergisante préférée des réseaux sociaux."
             },
+            // Un personnage qui peut deviner une fois par tour global le lancer d'un dé, en cas de succès, il gagne de l'or.
         ]
     };
     localStorage.setItem('data', JSON.stringify(data));

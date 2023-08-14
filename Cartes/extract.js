@@ -35,8 +35,7 @@ function creerEntete(carte){
   $(entete).append(imgDiv);
   
   // On traite la boucle de fanion
-  var fanionDiv = $("<div></div>").addClass("fanion");
-  $(entete).append(fanionDiv.html(getAllCaracteristiques(carte.caracteristiques)));
+  $(entete).append(getAllCaracteristiques(carte.caracteristiques));
 
   return entete;
 }
@@ -52,23 +51,28 @@ function creerDescription(carte){
 }
 
 function creerCitation(carte){
-  return $("<div></div>").addClass("citation").html(carte.citation);
+  return $("<div></div>").addClass("citation").html("&laquo; "+carte.citation+" &raquo;");
 }
 
-/* RECUPERER TOUS LES FANIONS */
+/* RECUPERER TOUS LES FANION */
 function getAllCaracteristiques(caracteristiques){
-  var fanions = "";
+  var fanion = $("<div></div>").addClass("fanion");
   
   $(caracteristiques).each(function(i,e){
-    var montant = (!!e.montant) ?
-    e.montant : "";
-    fanions += "<sp>"+montant+"</sp>";
-    fanions += e.nature;
-    if(i!= caracteristiques.length-1)
-      fanions += "<br />";
-  });
+    var carac = $('<div></div>').addClass("carac");
+    var stat = $('<div></div>').addClass("stat");
+    if(e.montant){
+      $(stat).append($('<div></div>').addClass("montant").html(e.montant)[0]);
+      $(stat).append($('<div></div>').addClass("nature").html(e.nature)[0]);
+    } else {
+      $(stat).append($('<div></div>').addClass("nature nature-solo").html(e.nature)[0]);
+    }    
+    $(carac).append(stat[0]);
+    $(fanion).append(carac[0]);
+  }
+  );
   
-  return fanions;
+  return fanion;
 }
 
 /* RECUPERER TOUT LES EFFETS */

@@ -17,7 +17,7 @@
   --leg:rgb(205, 126, 67);
   --conso:darkblue;
   --perso:grey;
-  --fanion:grey;
+  --fanion:steelblue;
   --soin:darkgreen;
   --blessure:#af111c;
   --larcin:lightpink;
@@ -240,24 +240,6 @@ lieu-icon{
   height: var(--heightIcone);
 }
 
-portee-icon{
-  content: url(./Images/portee.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-bonus-1-icon{
-  content: url(./Images/bonus_1.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-malus-1-icon{
-  content: url(./Images/malus_1.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
 chaotique-icon{
   content: url(./Images/ordre_chaotique.png);
   width: var(--widthIcone); 
@@ -312,42 +294,6 @@ arme-icon{
   height: var(--heightIcone);
 }
 
-bonus-atk-icon{
-  content: url(./Images/bonus_attaque.jpg);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-bonus-def-icon{
-  content: url(./Images/bonus_defense.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-d4-icon{
-  content: url(./Images/d4.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-d3-icon{
-  content: url(./Images/d3.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-steuf-icon{
-  content: url(./Images/steuf.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-vol-icon{
-  content: url(./Images/vol-icon.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
 atk-icon{
   content: url(./Images/attaque.png);
   width: var(--widthIcone); 
@@ -360,14 +306,20 @@ def-icon{
   height: var(--heightIcone);
 }
 
-actif-icon{
-  content: url(./Images/actif.png);
+portee-icon{
+  content: url(./Images/portee.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }
 
-passif-icon{
-  content: url(./Images/passif.png);
+bonus-atk-icon{
+  content: url(./Images/bonus_attaque.jpg);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+bonus-def-icon{
+  content: url(./Images/bonus_defense.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }
@@ -390,6 +342,42 @@ malus-1-icon{
   height: var(--heightIcone);
 }
 
+d3-icon{
+  content: url(./Images/d3.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+d4-icon{
+  content: url(./Images/d4.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+steuf-icon{
+  content: url(./Images/steuf.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+vol-icon{
+  content: url(./Images/vol-icon.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+actif-icon{
+  content: url(./Images/actif.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
+passif-icon{
+  content: url(./Images/passif.png);
+  width: var(--widthIcone); 
+  height: var(--heightIcone);
+}
+
 /* conteneur de la carte en entier */
 .carte{
   width:61mm;
@@ -402,9 +390,11 @@ malus-1-icon{
   font-size:var(--standard);
   font-family:var(--TimesNewRoman);
   
-  border:1mm solid black;
-  border-image-source:var(--borderImg);
-  border-image-slice:1;
+  border:1.25mm solid black;
+  border-color: saddlebrown;
+  border-radius: 1mm;
+  /* border-image-source:var(--borderImg);
+  border-image-slice:1; */
   
   /* NE PAS TOUCHER */
   position:relative;
@@ -435,7 +425,8 @@ malus-1-icon{
   border-bottom: 0.25mm solid var(--black);
   
   /* NE PAS TOUCHER */
-  width:80%;
+  padding-right: 8.5mm;
+  max-width:100%;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -447,7 +438,7 @@ malus-1-icon{
   height: 75%;
   
   /* NE PAS TOUCHER */
-  width:80%;
+  width:100%;
   overflow:hidden;
 }
 /* resize l'image par rapport au conteneur */
@@ -458,30 +449,57 @@ malus-1-icon{
 
 /* Fanion avec les stats */
 .carte .fanion{
-  height:102%;
-  background:var(--fanion);
-  
+  height:100%;
   text-align:center;
-  font-size:var(--stats);
-  font-weight:bold;
   
   /* NE PAS TOUCHER */
   display:block;
   width:20%;
   position:absolute;
-  top:-1px;
-  right:-1px;
+  top:2.7px;
+  right:0px;
 }
+
 /* Display correctement les stats */
-.carte .fanion>*{
-  padding:0.5mm 0;
-  width: 20px;
-  height: 20px;
+.carte .fanion .carac{  
+  /* NE PAS TOUCHER */
+  display:flex;
+  justify-content: end;
+}
+
+
+/* Display correctement les stats */
+.carte .fanion .stat{
+  margin: 0 0.25mm 0.25mm 0;
+  min-width: 8mm;
+  height: 5mm;
+  border: 0.5mm solid black;
+  border-radius:30%;
+  background:var(--fanion);
+  line-height: 5mm;
   
+}
+
+.carte .fanion .nature{
   /* NE PAS TOUCHER */
   display:inline-block;
-  vertical-align:middle;
+  vertical-align: middle;
 }
+
+.carte .fanion .nature-solo{
+  /* NE PAS TOUCHER */
+  margin-top: 0.5mm;
+}
+
+.carte .fanion .montant{
+  color:white;
+  font-size:var(--stats);
+  font-weight:bold;
+  /* NE PAS TOUCHER */
+  display:inline-block;
+  vertical-align: middle;
+}
+
 
 /* Titre de l'effet */
 .carte .titre-effet{

@@ -8,7 +8,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/pomme_or.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"8"}
                 ],
                 "effets":[
@@ -29,14 +28,13 @@
                         ]
                     }
                 ],
-                "citation":"« Mangez cinq fruits et légumes par jour, c'est ce que disait le serpent. »"
+                "citation":"Mangez cinq fruits et légumes par jour, c'est ce que disait le serpent"
             },
             {
                 "collection":"conte",
                 "nom":"Rune de téléportation",
                 "type":"conso",
                 "illustration":"./Images/Consommables/pierre_teleportation.jpg","caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"2"}
                 ],
                 "effets":[
@@ -49,14 +47,13 @@
                         ]
                     }
                 ],
-                "citation":"« Cette fois-ci ça va fonctionner comme prévu. Vous allez pas vous retrouver aux premières loges de la conception de votre petit frère. »"
+                "citation":"Cette fois-ci ça va fonctionner comme prévu. Vous allez pas vous retrouver aux premières loges de la conception de votre petit frère"
             },
             {
                 "collection":"conte",
                 "nom":"Ailes atrophiées",
                 "type":"conso",
                 "illustration":"./Images/Consommables/ailes_atrophiees.jpg","caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -70,7 +67,7 @@
                         ]
                     }
                 ],
-                "citation":"« Elles vous seront bien plus utiles qu'à la pauvre créature à qui vous les avez arrachées. »"
+                "citation":"Elles vous seront bien plus utiles qu'à la pauvre créature à qui vous les avez arrachées"
             },
             
             {
@@ -79,18 +76,17 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/poudre_perlimpinpin.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"0"}
                 ],
                 "effets":{
                     "nature":"actif",
                     "nom":"On le voit, on le voit plus",
                     "effet":[
-                        {"contenu":"Vous pouvez annuler un <actif-icon></actif-icon> ou un <passif-icon></passif-icon> d'un <steuf-icon></steuf-icon> équipé."},
+                        {"contenu":"Vous pouvez annuler un </actif-icon> ou un </passif-icon> d'un <steuf-icon></steuf-icon> équipé."},
                         {"contenu":"Cela durera tant qu'il sera équipé, placez <conso>Poudre d'altération</conso> sur l'<effet>effet</effet> affecté pendant cette durée."}
                     ]
                 },
-                "citation":"« Personne n'est dupe, on sait tous que vous pensez à vous maquiller avec. »"
+                "citation":"Personne n'est dupe, on sait tous que vous pensez à vous maquiller avec"
             },
             {
                 "collection":"conte",
@@ -98,19 +94,18 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/piege_loup.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"6"}
                 ],
                 "effets":[
                     {
                         "nature":"passif",
-                        "nom":"« Anti-vol »",
+                        "nom":"Anti-vol",
                         "effet":[
                             {"contenu":"Lorsqu'on tente de vous voler une carte en main."},
                             {"contenu":"Défaussez <conso>Piège à loup</conso> à la place. Le voleur subit 1 <blessure-icon></blessure-icon>"}]
                         }
                 ],
-                "citation":"« Il y a ceux avec des oursins dans les poches et ceux qui prennent des mesures <u>vraiment</u> dissuasives. »"
+                "citation":"Il y a ceux avec des oursins dans les poches et ceux qui prennent des mesures <u>vraiment</u> dissuasives"
             },
             {
                 "collection":"conte",
@@ -118,7 +113,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/salive_hydre.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"3"}
                 ],
                 "effets":{
@@ -132,7 +126,7 @@
                         ]
                     }
                 },
-                "citation":"« Cela dissout tout, sauf son flacon. Incompréhensible. »"
+                "citation":"Cela dissout tout, sauf son flacon. Incompréhensible"
             },
             {
                 "collection":"conte",
@@ -140,7 +134,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/coeur_drake.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"5"}
                 ],
                 "effets":{
@@ -152,7 +145,7 @@
                     ]
             }
                 ,
-                "citation":"« Coeur de drake, pas Drake. On parle du poulet volant écailleux préhistorique cracheur de feu. »"
+                "citation":"Coeur de drake, pas Drake. On parle du poulet volant écailleux préhistorique cracheur de feu"
             },
             {
                 "collection":"conte",
@@ -160,7 +153,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/potion_bras_long.jpg",
                 "caracteristiques":[
-                    {"nature":"<conso-icon></conso-icon>"},
                     {"nature":"<or-icon></or-icon>","montant":"4"}
                 ],
                 "effets":{
@@ -170,7 +162,7 @@
                         {"contenu":"Vous piochez 3 <steuf-icon></steuf-icon> puis défaussez-en 2 parmis ceux piochés."}
                     ]
                 },
-                "citation":"« Ça serait pratique pour se lacer les chaussures sans se baisser, mais il n'y aurait plus de vêtement à votre taille. »"
+                "citation":"Ça serait pratique pour se lacer les chaussures sans se baisser, mais il n'y aurait plus de vêtement à votre taille"
             },
             {
                 "collection":"conte",
@@ -178,7 +170,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/baobab.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
@@ -191,7 +182,7 @@
                             ]
                         }
                 ],
-                "citation":"« N'essayez pas d'y grimper, ni de vous y abriter par temps de pluie. »"
+                "citation":"N'essayez pas d'y grimper, ni de vous y abriter par temps de pluie."
             },
             {
                 "collection":"conte",
@@ -199,7 +190,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/yourte.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
@@ -219,7 +209,7 @@
                             ]
                         }
                 ],
-                "citation":"« Le Yog'Yourte de Bibi, le produit laitier avec des vrais morceaux de yourte à l'intérieur ! »"
+                "citation":"Le Yog'Yourte de Bibi, le produit laitier avec des vrais morceaux de yourte à l'intérieur !"
             },
             {
                 "collection":"conte",
@@ -227,7 +217,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/planche_pieu.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
@@ -243,7 +232,7 @@
                             ]
                         }
                 ],
-                "citation":"« Vous ne vous plaindrez plus jamais de vous endormir avec un petit caillou au milieu du dos. »"
+                "citation":"Vous ne vous plaindrez plus jamais de vous endormir avec un petit caillou au milieu du dos."
             },
             {
                 "collection":"conte",
@@ -251,7 +240,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/caverne_lion.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
@@ -260,7 +248,7 @@
                             "effet":""
                         }
                 ],
-                "citation":"« Il vous faisait pitié. Vous pourrez désormais porter sa fourrure pleine de puces fièrement sur vos épaules. »"
+                "citation":"Il vous faisait pitié. Vous pourrez désormais porter sa fourrure pleine de puces fièrement sur vos épaules."
             },
             {
                 "collection":"conte",
@@ -268,7 +256,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/caverne_brigand.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                         {
@@ -279,7 +266,7 @@
                             ]
                         }
                 ],
-                "citation":"« Camélia, ouvre toi ! Colza, ouvre toi ! Soja, ouvre toi ! Toujours pas... »"
+                "citation":"Camélia, ouvre toi ! Colza, ouvre toi ! Soja, ouvre toi ! Toujours pas..."
             },
             {
                 "collection":"conte",
@@ -287,11 +274,10 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/gueule_moby_dick.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                 ],
-                "citation":"« Qui aurait une très grosse brosse à dents ? On fait pas souvent le ménage là-dedans. »"
+                "citation":"Qui aurait une très grosse brosse à dents ? On fait pas souvent le ménage là-dedans."
             },
             {
                 "collection":"conte",
@@ -299,7 +285,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/gouffre.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -313,7 +298,7 @@
                         ]
                     }
                 ],
-                "citation":"« A ce jour, on compte 214 accidents de selfies à cause de cette âbime. »"
+                "citation":"A ce jour, on compte 214 accidents de selfies à cause de cette âbime."
             },
             {
                 "collection":"conte",
@@ -321,7 +306,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/atelier_solat.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -333,7 +317,7 @@
                         ]
                     }
                 ],
-                "citation":"« Ce n'est pas votre faute si votre groupe est décédé, il y avait un bouton rouge. Il fallait appuyer dessus, 'comprenez ? »"
+                "citation":"Ce n'est pas votre faute si votre groupe est décédé, il y avait un bouton rouge. Il fallait appuyer dessus, 'comprenez ?"
             },
             {
                 "collection":"conte",
@@ -341,7 +325,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/cacafarnaome.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -353,7 +336,7 @@
                         ]
                     }
                 ],
-                "citation":"« «La propriété, c'est le vol» prends une toute autre mesure ici. »"
+                "citation":"«La propriété, c'est le vol» prends une toute autre mesure ici."
             },
             {
                 "collection":"conte",
@@ -361,7 +344,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/arene_pugilisme.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -374,7 +356,7 @@
                         ]
                     }
                 ],
-                "citation":"« La première règle de l'arène du pugilisme est : il n'y a aucune règle. Aucun sens. »"
+                "citation":"La première règle de l'arène du pugilisme est : il n'y a aucune règle. Aucun sens."
             },
             {
                 "collection":"conte",
@@ -382,7 +364,6 @@
                 "type":"lieu",
                 "illustration":"./Images/Lieux/bois_gel.jpg",
                 "caracteristiques":[
-                    {"nature":"<lieu-icon></lieu-icon>"}
                 ],
                 "effets":[
                     {
@@ -397,7 +378,7 @@
                         ]
                     }
                 ],
-                "citation":"« La première règle de l'arène du pugilisme est : il n'y a aucune règle. Aucun sens. »"
+                "citation":"La première règle de l'arène du pugilisme est : il n'y a aucune règle. Aucun sens."
             },
             {
                 "collection":"conte",
@@ -420,15 +401,15 @@
                     },
                     {
                         "nature":"passif",
-                        "nom":"« Arrêtez de vous battez ! »",
+                        "nom":"Arrêtez de vous battez !",
                         "effet":[
                             {
-                                "contenu":"Vous pouvez prendre la place d'un autre <perso>Personnage</perso> attaqué dans votre <portee-icon></portee-icon> pour vous défendre à sa place."
+                                "contenu":"Vous pouvez prendre la place d'un autre <perso>Personnage</perso> attaqué dans votre </portee-icon> pour vous défendre à sa place."
                             }
                         ]
                     }
                 ],
-                "citation":"« Fière grande prédicatrice du saint-ordre de la paix entre tous les animaux de basse-cour, elle finit toujours ses phrases par «cot cot.». »"
+                "citation":"Fière grande prédicatrice du saint-ordre de la paix entre tous les animaux de basse-cour, elle finit toujours ses phrases par «cot cot.»."
             },
             {
                 "collection":"conte",
@@ -459,7 +440,7 @@
                         ]
                     }
                 ],
-                "citation":"« L'équipe du Compendium présente ses excuses auprès des autres joueurs si quelqu'un s'appelle Sandrine parmi eux. »"
+                "citation":"L'équipe du Compendium présente ses excuses auprès des autres joueurs si quelqu'un s'appelle Sandrine parmi eux."
             },
             {
                 "collection":"conte",
@@ -497,7 +478,7 @@
                         ]
                     }
                 ],
-                "citation":"« Avec sa pomme dans la bouche, vous n'entendez que les voyelles. »"
+                "citation":"Avec sa pomme dans la bouche, vous n'entendez que les voyelles."
             },
             {
                 "collection":"conte",
@@ -534,7 +515,7 @@
                         ]
                     }
                 ],
-                "citation":"« Non, en dépit de son incroyable chevelure, son nom n'est pas celui d'un modèle révolutionnaire de fer à lisser. »"
+                "citation":"Non, en dépit de son incroyable chevelure, son nom n'est pas celui d'un modèle révolutionnaire de fer à lisser."
             },
             {
                 "collection":"conte",
@@ -570,7 +551,7 @@
                         ]
                     }
                 ],
-                "citation":"« Il s'appelle Enzo, a une calèche toute option, se parfume au Jouve-en-chie et ne dit rien pour avoir l'air mystérieux. »"
+                "citation":"Il s'appelle Enzo, a une calèche toute option, se parfume au Jouve-en-chie et ne dit rien pour avoir l'air mystérieux."
             },
             {
                 "collection":"conte",
@@ -615,7 +596,7 @@
                         ]
                     }
                 ],
-                "citation":"« Elle vous parle d'une chenille fumant la chicha et d'un lapin lui volant son âme. N'importe quoi. »"
+                "citation":"Elle vous parle d'une chenille fumant la chicha et d'un lapin lui volant son âme. N'importe quoi."
             },
             {
                 "collection":"conte",
@@ -656,7 +637,7 @@
                         ]
                     }
                 ],
-                "citation":"« Voici la phonétique de ce qu'elle dit, débrouillez-vous avec le sens : ghtylemaoe ohikila mpooileenaiuy glhkylu thrrrkkfff, MARIUS. »"
+                "citation":"Voici la phonétique de ce qu'elle dit, débrouillez-vous avec le sens : ghtylemaoe ohikila mpooileenaiuy glhkylu thrrrkkfff, MARIUS."
             },
             {
                 "collection":"conte",
@@ -690,7 +671,7 @@
                         ]
                     }
                 ],
-                "citation":"« Avec le ton le plus sérieux du monde, il vous demandera l'adresse de votre coiffeur car il adore son travail. »"
+                "citation":"Avec le ton le plus sérieux du monde, il vous demandera l'adresse de votre coiffeur car il adore son travail."
             },
             {
                 "collection":"conte",
@@ -731,7 +712,7 @@
                         ]
                     }
                 ],
-                "citation":"« On l'a retrouvé dans un cagibi avec un écriteau indiquant : « Allumez-moi, ceci n'est pas un piège du tout. » »"
+                "citation":"On l'a retrouvé dans un cagibi avec un écriteau indiquant : Allumez-moi, ceci n'est pas un piège du tout."
             },
             {
                 "collection":"conte",
@@ -766,7 +747,7 @@
                         ]
                     }
                 ],
-                "citation":"« En l'occurence, cendrée n'est pas une couleur. Méfiez-vous de cet espèce de poulet. »"
+                "citation":"En l'occurence, cendrée n'est pas une couleur. Méfiez-vous de cet espèce de poulet."
             },
             {
                 "collection":"conte",
@@ -804,7 +785,7 @@
                         ]
                     }
                 ],
-                "citation":"« Il en faut peu pour être heureux, c'est une phrase de ceux qui ont peu. Il est quand même plus confortable d'en avoir beaucoup. »"
+                "citation":"Il en faut peu pour être heureux, c'est une phrase de ceux qui ont peu. Il est quand même plus confortable d'en avoir beaucoup."
             },
             {
                 "collection":"conte",
@@ -840,7 +821,7 @@
                         ]
                     }
                 ],
-                "citation":"« L'humain est stupide, la bête est violente. Ou l'inverse. On ne distingue plus trop. »"
+                "citation":"L'humain est stupide, la bête est violente. Ou l'inverse. On ne distingue plus trop."
             },
             {
                 "collection":"conte",
@@ -851,7 +832,7 @@
                     {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
                     {"nature":"<chaotique-icon></chaotique-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"},
-                    {"nature":"<portee-icon></portee-icon>","montant":"+1"}
+                    {"nature":"</portee-icon>","montant":"+1"}
                 ],
                 "effets":[
                     {
@@ -874,7 +855,7 @@
                         ]
                     }
                 ],
-                "citation":"« Son nom c'est Dubois, et c'est juste une petite frappe. Ne croyez pas en ses discours sur la redistribution des richesses. »"
+                "citation":"Son nom c'est Dubois, et c'est juste une petite frappe. Ne croyez pas en ses discours sur la redistribution des richesses."
             },
             {
                 "collection":"conte",
@@ -908,7 +889,7 @@
                             {"contenu":"Sacrifiez X <effet>Soldat de la Reine de trèfle</effet> = +X d'attaque jusqu'à votre prochain tour."}
                     }
                 ],
-                "citation":"« Cela tombera à pic si vous avez le coeur à vous tenir à carreau - Un bouffon qui a fini décapité par une reine pas très flattée »"
+                "citation":"Cela tombera à pic si vous avez le coeur à vous tenir à carreau - Un bouffon qui a fini décapité par une reine pas très flattée"
             },
             {
                 "collection":"conte",
@@ -942,7 +923,7 @@
                         ]
                     }
                 ],
-                "citation":"« En vérité, vous ne comprenez toujours pas pourquoi elle passe son temps à s'exclamer pour tout et n'importe quoi. »"
+                "citation":"En vérité, vous ne comprenez toujours pas pourquoi elle passe son temps à s'exclamer pour tout et n'importe quoi."
             },
             {
                 "collection":"conte",
@@ -973,7 +954,7 @@
                             {"contenu":"Vous pouvez payer 4 <or-icon></or-icon> au <marchand-icon></marchand-icon> pour vous <soin-icon></soin-icon> 1 <blessure-icon></blessure-icon>"}
                     }
                 ],
-                "citation":"« Nombre de jours depuis la dernière mise à mort d'un matelot s'étant moqué des souliers de son Cap'taine : 0 »"
+                "citation":"Nombre de jours depuis la dernière mise à mort d'un matelot s'étant moqué des souliers de son Cap'taine : 0"
             },
             {
                 "collection":"conte",
@@ -1000,12 +981,12 @@
                     },
                     {
                         "nature":"passif",
-                        "nom":"« Loin de moi les nécessiteux »",
+                        "nom":"Loin de moi les nécessiteux",
                         "effet":
                             {"contenu":"Vous ne pouvez attaquer des <perso>Personnages</perso> dont le total d'or des <steuf-icon></steuf-icon> équipés est <b>strictement inférieur</b> au votre."}
                     }                    
                 ],
-                "citation":"« Des rumeurs disent que mes sucreries causent le diabète. Le sucre et le diabète, voyons... Mensonges ! Fumisterie de communiste ! »"
+                "citation":"Des rumeurs disent que mes sucreries causent le diabète. Le sucre et le diabète, voyons... Mensonges ! Fumisterie de communiste !"
             },
             {
                 "collection":"conte",
@@ -1042,7 +1023,7 @@
                         ]                            
                     }
                 ],
-                "citation":"« On me dit que j'ai des grandes dents, de grands yeux, de grandes mains... Il y en a marre qu'on juge le physique comme ça ! »"
+                "citation":"On me dit que j'ai des grandes dents, de grands yeux, de grandes mains... Il y en a marre qu'on juge le physique comme ça !"
             },            
             {
                 "collection":"conte",
@@ -1076,7 +1057,7 @@
                         {"contenu":"Vous ne pouvez payer le <marchand-icon></marchand-icon> avec vos propres <blessure-icon></blessure-icon>"}
                     }
                 ],
-                "citation":"« La crise de la quatre-centième vous fait parfois choisir des noms très ridicules. »"
+                "citation":"La crise de la quatre-centième vous fait parfois choisir des noms très ridicules."
             },
             {
                 "collection":"dessin",
@@ -1084,10 +1065,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/miel.jpg",
                 "caracteristiques":[
-                    {
-                        "nature":"<conso-icon></conso-icon>",
-                        "montant":"",
-                    },
                     {
                         "nature":"<or-icon></or-icon>",
                         "montant":"5"
@@ -1106,7 +1083,7 @@
                         ]
                     }    
                 ],
-                "citation":"« Pour produire le miel, les abeilles régurgitent puis réingèrent du nectar plusieurs fois de suite. Bon appétit. »"
+                "citation":"Pour produire le miel, les abeilles régurgitent puis réingèrent du nectar plusieurs fois de suite. Bon appétit."
             },
             {
                 "collection":"dessin",
@@ -1115,10 +1092,6 @@
                 "illustration":"./Images/Consommables/carton_rouge.png",
                 "caracteristiques":[
                     {
-                        "nature":"<conso-icon></conso-icon>",
-                        "montant":"",
-                    },
-                    {
                         "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     }
@@ -1126,14 +1099,14 @@
                 "effets":[
                     {
                         "nature":"actif",
-                        "nom":"« Le 12, tu sors ! »",
+                        "nom":"Le 12, tu sors !",
                         "effet":[
                             {"contenu":"Utilisable à tout moment."},
                             {"contenu":"Jusqu'au début de son prochain tour, le <perso>Personnage</perso> choisi ne peut pas être ciblé directement ou cibler directement d'autres <perso>Personnages</perso>."}
                         ]
                     }    
                 ],
-                "citation":"« C'est fou les pouvoirs immenses d'un simple bout de papier, quand même. »"
+                "citation":"C'est fou les pouvoirs immenses d'un simple bout de papier, quand même."
             },
             {
                 "collection":"dessin",
@@ -1142,10 +1115,6 @@
                 "illustration":"./Images/Consommables/ressort.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<conso-icon></conso-icon>",
-                        "montant":"",
-                    },
-                    {
                         "nature":"<or-icon></or-icon>",
                         "montant":"5"
                     }
@@ -1153,13 +1122,13 @@
                 "effets":[
                     {
                         "nature":"actif",
-                        "nom":"« Attention en-dessous ! »",
+                        "nom":"Attention en-dessous !",
                         "effet":[
                             {"contenu":"Déplacez-vous d'une case sans l'activer."}
                         ]
                     }    
                 ],
-                "citation":"« Ce n'était pas ce à quoi on pensait quand on vous a dit qu'il fallait savoir rebondir dans la vie. »"
+                "citation":"Ce n'était pas ce à quoi on pensait quand on vous a dit qu'il fallait savoir rebondir dans la vie."
             },
             {
                 "collection":"dessin",
@@ -1167,10 +1136,6 @@
                 "type":"conso",
                 "illustration":"./Images/Consommables/etoile.png",
                 "caracteristiques":[
-                    {
-                        "nature":"<conso-icon></conso-icon>",
-                        "montant":"",
-                    },
                     {
                         "nature":"<or-icon></or-icon>",
                         "montant":"5"
@@ -1186,7 +1151,7 @@
                         ]
                     }    
                 ],
-                "citation":"« On vous l'a offert. Ouaiiiss ! Super, chouette, génial ! Incroyable. Joie et allégresse. Youhou... Vous avez envie de mourir. »"
+                "citation":"On vous l'a offert. Ouaiiiss ! Super, chouette, génial ! Incroyable. Joie et allégresse. Youhou... Vous avez envie de mourir."
             },
             // Lieux
             {
@@ -1196,8 +1161,7 @@
                 "illustration":"./Images/Lieux/stade.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<lieu-icon></lieu-icon>",
-                        "montant":"",
+                        "nature":"<lieu-icon></lieu-icon>"
                     }
                 ],
                 "effets":[
@@ -1206,11 +1170,11 @@
                         "nom":"Terrain beaucoup trop long",
                         "effet":[
                             {"contenu":"Jusqu'au début de votre prochain tour."},
-                            {"contenu":"<malus-1-icon ></malus-1-icon> <portee-icon></portee-icon>"}
+                            {"contenu":"<malus-1-icon ></malus-1-icon> </portee-icon>"}
                         ]
                     }    
                 ],
-                "citation":"« Il n'y a pas que l'horizon dont on n'atteint jamais le bout. »"
+                "citation":"Il n'y a pas que l'horizon dont on n'atteint jamais le bout."
             },
             {
                 "collection":"dessin",
@@ -1219,8 +1183,7 @@
                 "illustration":"./Images/Lieux/mer.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<lieu-icon></lieu-icon>",
-                        "montant":"",
+                        "nature":"<lieu-icon></lieu-icon>"
                     }
                 ],
                 "effets":[
@@ -1233,7 +1196,7 @@
                         ]
                     }    
                 ],
-                "citation":"« Pour un ordinateur, vous ne pouvez pas être à moitié vivant. Vous êtes vivant, parce que vous êtes pas mort. C'est très bête quand même l'informatique. »"
+                "citation":"Pour un ordinateur, vous ne pouvez pas être à moitié vivant. Vous êtes vivant, parce que vous êtes pas mort. C'est très bête quand même l'informatique."
             },
             {
                 "collection":"dessin",
@@ -1242,8 +1205,7 @@
                 "illustration":"./Images/Lieux/tour_lokyo.png",
                 "caracteristiques":[
                     {
-                        "nature":"<lieu-icon></lieu-icon>",
-                        "montant":"",
+                        "nature":"<lieu-icon></lieu-icon>"
                     }
                 ],
                 "effets":[
@@ -1255,7 +1217,7 @@
                         ]
                     }    
                 ],
-                "citation":"« Toujours nettoyer son historique de navigation. TOUJOURS. »"
+                "citation":"Toujours nettoyer son historique de navigation. TOUJOURS."
             },
             {
                 "collection":"dessin",
@@ -1264,8 +1226,7 @@
                 "illustration":"./Images/Lieux/commissariat.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<lieu-icon></lieu-icon>",
-                        "montant":"",
+                        "nature":"<lieu-icon></lieu-icon>"
                     }
                 ],
                 "effets":[
@@ -1277,7 +1238,7 @@
                         ]
                     }    
                 ],
-                "citation":"« Quand quelqu'un muni d'une matraque dit que les armes sont interdites, c'est un peu cocasse. »"
+                "citation":"Quand quelqu'un muni d'une matraque dit que les armes sont interdites, c'est un peu cocasse."
             },
             // Personnages
             {
@@ -1287,8 +1248,7 @@
                 "illustration":"./Images/Personnages/fauche_tout.png",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>",
-                        "montant":"",
+                        "nature":"<mauvais-icon></mauvais-icon>"
                     },
                     {
                         "nature":"<chaotique-icon></chaotique-icon>",
@@ -1310,7 +1270,7 @@
                         ]
                     }    
                 ],
-                "citation":"« Alors qu'il n'a pas de faux, il n'y a plus de blé après son passage. Ni d'oseille d'ailleurs. »"
+                "citation":"Alors qu'il n'a pas de faux, il n'y a plus de blé après son passage. Ni d'oseille d'ailleurs."
             },
             {
                 "collection":"dessin",
@@ -1319,8 +1279,7 @@
                 "illustration":"./Images/Personnages/marc_langer.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>",
-                        "montant":"",
+                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
                     },
                     {
                         "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
@@ -1342,7 +1301,7 @@
                         ]
                     }    
                 ],
-                "citation":"« Si vous rétorquez que c'est un anti-héros et qu'il n'a rien à faire ici. Je vous dirai que... Vous avez probablement raison. »"
+                "citation":"Si vous rétorquez que c'est un anti-héros et qu'il n'a rien à faire ici. Je vous dirai que... Vous avez probablement raison."
             },
             {
                 "collection":"dessin",
@@ -1351,8 +1310,7 @@
                 "illustration":"./Images/Personnages/xanax.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>",
-                        "montant":"",
+                        "nature":"<mauvais-icon></mauvais-icon>"
                     },
                     {
                         "nature":"<loyal-icon></loyal-icon>",
@@ -1380,7 +1338,7 @@
                         ]
                     }
                 ],
-                "citation":"« Elle ne sait répondre que par 1 ou 0. Elle n'a donc aucune conversation. »"
+                "citation":"Elle ne sait répondre que par 1 ou 0. Elle n'a donc aucune conversation."
             },
             {
                 "collection":"dessin",
@@ -1389,8 +1347,7 @@
                 "illustration":"./Images/Personnages/.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>",
-                        "montant":"",
+                        "nature":"<bon-icon></bon-icon>"
                     },
                     {
                         "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
@@ -1404,7 +1361,7 @@
                 "effets":[
                     {
                         "nature":"actif",
-                        "nom":"« Comment c'est loin... »",
+                        "nom":"Comment c'est loin...",
                         "effet":[
                             {"contenu":"Utilisable uniquement lors de votre <i>Phase de déplacement</i>."},
                             {"contenu":"Vous pouvez rester sur votre <b>Case</b> au lieu de lancer les dés pour vous déplacer."},
@@ -1415,12 +1372,12 @@
                         "nature":"passif",
                         "nom":"Paresse contagieuse",
                         "effet":[
-                            {"contenu":"Votre <portee-icon></portee-icon> est divisée par deux, arrondi à l'unité inférieure."},
-                            {"contenu":"Lorsqu'on vous cible directement, la <portee-icon></portee-icon> est divisée par deux, arrondi à l'unité inférieure."}
+                            {"contenu":"Votre </portee-icon> est divisée par deux, arrondi à l'unité inférieure."},
+                            {"contenu":"Lorsqu'on vous cible directement, la </portee-icon> est divisée par deux, arrondi à l'unité inférieure."}
                         ]
                     }
                 ],
-                "citation":"«  »"
+                "citation":""
             },
             {
                 "collection":"dessin",
@@ -1429,8 +1386,7 @@
                 "illustration":"./Images/Personnages/dori.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>",
-                        "montant":"",
+                        "nature":"<bon-icon></bon-icon>"
                     },
                     {
                         "nature":"<loyal-icon></loyal-icon>",
@@ -1454,12 +1410,12 @@
                         "nature":"passif",
                         "nom":"Destinée",
                         "effet":[
-                            {"contenu":"Si vous vous rendez sur la case <lieu-icon></lieu-icon> dès le premier tour à l'aide <actif-icon></actif-icon> <effet>Explorateuse</effet>."},
+                            {"contenu":"Si vous vous rendez sur la case <lieu-icon></lieu-icon> dès le premier tour à l'aide </actif-icon> <effet>Explorateuse</effet>."},
                             {"contenu":"Vous pouvez vous équiper directement du <commun>Sac à dos</commun> et de <epique>La caaaaaaaarte</epique>, qu'importe la pile dans laquelle ils se trouvent."}
                         ]
                     }
                 ],
-                "citation":"« Elle a sa carte fidélité dans tous les agences de voyage. »"
+                "citation":"Elle a sa carte fidélité dans tous les agences de voyage."
             },
             // https://fr.wikipedia.org/wiki/Inspecteur_Gadget_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_1983)#Les_gadgets_de_Gadget
             {
@@ -1469,8 +1425,7 @@
                 "illustration":"./Images/Personnages/luis.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>",
-                        "montant":"",
+                        "nature":"<bon-icon></bon-icon>"
                     },
                     {
                         "nature":"<ordre_neutre></ordre_neutre>",
@@ -1491,7 +1446,7 @@
                         ]
                     }
                 ],
-                "citation":"« Le plus curieux n'est pas qu'il accumule autant d'objets sans intérêts. Mais qu'il arrive à les revendre ! »"
+                "citation":"Le plus curieux n'est pas qu'il accumule autant d'objets sans intérêts. Mais qu'il arrive à les revendre !"
             },
             {
                 "collection":"dessin",
@@ -1500,8 +1455,7 @@
                 "illustration":"./Images/Personnages/.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>",
-                        "montant":"",
+                        "nature":"<bon-icon></bon-icon>"
                     },
                     {
                         "nature":"<chaotique-icon></chaotique-icon>",
@@ -1527,7 +1481,7 @@
                         ]
                     }
                 ],
-                "citation":"« Le plus curieux n'est pas qu'il accumule autant d'objets sans intérêts. Mais qu'il arrive à les revendre ! »"
+                "citation":"Le plus curieux n'est pas qu'il accumule autant d'objets sans intérêts. Mais qu'il arrive à les revendre !"
             },
             {
                 "collection":"dessin",
@@ -1536,8 +1490,7 @@
                 "illustration":"./Images/Personnages/meia.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>",
-                        "montant":"",
+                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
                     },
                     {
                         "nature":"<chaotique-icon></chaotique-icon>",
@@ -1559,7 +1512,7 @@
                         ]
                     }
                 ],
-                "citation":"« Malheureusement, elle, c'est plutôt «vole comme une abeille et pique comme un papillon». »"
+                "citation":"Malheureusement, elle, c'est plutôt «vole comme une abeille et pique comme un papillon»."
             },
             // Steufs
             {
@@ -1569,15 +1522,14 @@
                 "illustration":"./Images/Steufs/ballon.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<arme-icon></arme-icon>",
-                        "montant":"",
+                        "nature":"<arme-icon></arme-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
                         "montant":"2"
                     },
                     {
-                        "nature":"<portee-icon></portee-icon>",
+                        "nature":"</portee-icon>",
                         "montant":"<bonus-2-icon></bonus-2-icon>"
                     }
                 ],
@@ -1591,7 +1543,7 @@
                         ]
                     }
                 ],
-                "citation":"« Le ballon est votre ami. Et bien sûr que l'on donne des coups de pieds à son ami. »"
+                "citation":"Le ballon est votre ami. Et bien sûr que l'on donne des coups de pieds à son ami."
             },
             {
                 "collection":"dessin",
@@ -1600,8 +1552,7 @@
                 "illustration":"./Images/Steufs/le_chat.jfif",
                 "caracteristiques":[
                     {
-                        "nature":"<accessoire-icon></accessoire-icon>",
-                        "montant":"",
+                        "nature":"<accessoire-icon></accessoire-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -1617,11 +1568,11 @@
                         "nature":"actif",
                         "nom":"Expression très personnelle de l'affection",
                         "effet":[
-                            {"contenu":"Attaquer un <perso>Personnage</perso> à 1 de <portee-icon></portee-icon> maximum avec 2 <atk-icon></atk-icon>"}
+                            {"contenu":"Attaquer un <perso>Personnage</perso> à 1 de </portee-icon> maximum avec 2 <atk-icon></atk-icon>"}
                         ]
                     }
                 ],
-                "citation":"« Tout au fond de son regard, planqué derrière sa satisfaction, vous voyez bien que vous méritez qu'il vous punisse de la sorte. »"
+                "citation":"Tout au fond de son regard, planqué derrière sa satisfaction, vous voyez bien que vous méritez qu'il vous punisse de la sorte."
             },
             {
                 "collection":"dessin",
@@ -1630,8 +1581,7 @@
                 "illustration":"./Images/Steufs/carte.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<accessoire-icon></accessoire-icon>",
-                        "montant":"",
+                        "nature":"<accessoire-icon></accessoire-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -1647,7 +1597,7 @@
                         ]
                     }
                 ],
-                "citation":"« Vous regrettez de l'avoir prêté à votre petite soeur. C'est mignon les dessins, mais c'est pas très pratique pour se réperer. »"
+                "citation":"Vous regrettez de l'avoir prêté à votre petite soeur. C'est mignon les dessins, mais c'est pas très pratique pour se réperer."
             },
             {
                 "collection":"dessin",
@@ -1656,8 +1606,7 @@
                 "illustration":"./Images/Steufs/sac.jpeg",
                 "caracteristiques":[
                     {
-                        "nature":"<corps-icon></corps-icon>",
-                        "montant":"",
+                        "nature":"<corps-icon></corps-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -1673,7 +1622,7 @@
                         ]
                     }
                 ],
-                "citation":"« C'est juste un sac à dos. Solide et pratique. Il n'a rien de spécial. C'est tristement... banal. »"
+                "citation":"C'est juste un sac à dos. Solide et pratique. Il n'a rien de spécial. C'est tristement... banal."
             },
             {
                 "collection":"dessin",
@@ -1682,8 +1631,7 @@
                 "illustration":"./Images/Steufs/gant_laser.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<arme-icon></arme-icon>",
-                        "montant":"",
+                        "nature":"<arme-icon></arme-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -1694,7 +1642,7 @@
                         "montant":"<malus-1-icon></malus-1-icon>"
                     },
                     {
-                        "nature":"<portee-icon></portee-icon>",
+                        "nature":"</portee-icon>",
                         "montant":"<bonus-1-icon></bonus-1-icon>"
                     }
                 ],
@@ -1706,7 +1654,7 @@
                         ]
                     }
                 ],
-                "citation":"« Vous avez cessé d'essayer de comprendre si ça a du sens quand on vous a dit qu'il faut remettre des carreaux de laser dans l'arme. »"
+                "citation":"Vous avez cessé d'essayer de comprendre si ça a du sens quand on vous a dit qu'il faut remettre des carreaux de laser dans l'arme."
             },
             {
                 "collection":"dessin",
@@ -1715,8 +1663,7 @@
                 "illustration":"./Images/Steufs/taille_guepe.gif",
                 "caracteristiques":[
                     {
-                        "nature":"<corps-icon></corps-icon>",
-                        "montant":"",
+                        "nature":"<corps-icon></corps-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
@@ -1736,7 +1683,7 @@
                         ]
                     }
                 ],
-                "citation":"« Taille de Guêpe, le nouveau corset de Carlos Galerfeld. Si maigre que vous en devenez intouchable. »"
+                "citation":"Taille de Guêpe, le nouveau corset de Carlos Galerfeld. Si maigre que vous en devenez intouchable."
             },
             {
                 "collection":"dessin",
@@ -1757,7 +1704,7 @@
                         "montant":"<bonus-1-icon></bonus-1-icon>"
                     },
                     {
-                        "nature":"<portee-icon></portee-icon>",
+                        "nature":"</portee-icon>",
                         "montant":"<bonus-1-icon></bonus-1-icon>"
                     }
                 ],
@@ -1769,7 +1716,7 @@
                         ]
                     }
                 ],
-                "citation":"« «Avec un tel marteau, je vais vous clouer le bec !» - Un méchant avec de mauvaises phrase de méchant »"
+                "citation":"Avec un tel marteau, je vais vous clouer le bec ! - Un méchant avec des mauvaises phrases de méchant"
             }
         ]
     };
