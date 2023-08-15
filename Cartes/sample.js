@@ -1,4 +1,4 @@
-﻿(function(){
+(function(){
     var data = {
         // Consommables
         "cartes":[
@@ -386,8 +386,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/mere_poule.jpg",
                 "caracteristiques":[
-                    {"nature":"<bon-icon></bon-icon>"},
-                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<protagoniste-icon></protagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -409,7 +408,7 @@
                         ]
                     }
                 ],
-                "citation":"Fière grande prédicatrice du saint-ordre de la paix entre tous les animaux de basse-cour, elle finit toujours ses phrases par «cot cot.»."
+                "citation":"Fière grande prédicatrice du saint-ordre de la paix entre tous les animaux de basse-cour, elle finit toujours ses phrases par «cot cot»."
             },
             {
                 "collection":"conte",
@@ -417,8 +416,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/sandrine.jpg",
                 "caracteristiques":[
-                    {"nature":"<bon-icon></bon-icon>"},
-                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<protagoniste-icon></protagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
@@ -448,8 +446,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/enfant_sauvage.jpg",
                 "caracteristiques":[
-                    {"nature":"<bon-icon></bon-icon>"},
-                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<protagoniste-icon></protagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -486,8 +483,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/vassilisse.jpg",
                 "caracteristiques":[
-                    {"nature":"<bon-icon></bon-icon>"},
-                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<protagoniste-icon></protagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
@@ -523,8 +519,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/prince_charmeur.jpg",
                 "caracteristiques":[
-                    {"nature":"<bon-icon></bon-icon>"},
-                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<protagoniste-icon></protagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -559,8 +554,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/alice_sarouel.jpg",
                 "caracteristiques":[
-                    {"nature":"<bon-icon></bon-icon>"},
-                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<protagoniste-icon></protagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -604,8 +598,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/alice_buvard.jpg",
                 "caracteristiques":[
-                    {"nature":"<bon-icon></bon-icon>"},
-                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<protagoniste-icon></protagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -645,8 +638,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/cavalier_sans_tete.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
@@ -679,8 +671,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/munazam.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"6"}
                 ],
                 "effets":[
@@ -720,8 +711,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/faisan_feu.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"3"},
                     {"nature":"<attaque-icon></attaque-icon>","montant":"+1"}
                 ],
@@ -755,8 +745,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/ursula.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
@@ -793,8 +782,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/la_creature.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"3"}
                 ],
                 "effets":[
@@ -829,8 +817,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/robin_dubois.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"},
                     {"nature":"</portee-icon>","montant":"+1"}
                 ],
@@ -862,8 +849,7 @@
                 "nom":"Reine de trèfle",
                 "type":"perso",
                 "illustration":"./Images/Personnages/reine_trefle.jpg","caracteristiques":[
-                    {"nature":"<mauvais-icon></mauvais-icon>"},
-                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<antagoniste-icon></antagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
@@ -897,8 +883,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/machiavelique.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<loyal-icon></loyal-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -930,8 +915,7 @@
                 "nom":"Cap'taine Crocs",
                 "type":"perso",
                 "illustration":"./Images/Personnages/capt_croc.jpg","caracteristiques":[
-                    {"nature":"<mauvais-icon></mauvais-icon>"},
-                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<antagoniste-icon></antagoniste-icon>"},
                     {"montant":"6", "nature":"<blessure-icon></blessure-icon>"}
                 ],
                 "effets":[
@@ -962,8 +946,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/whinny_tonka.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<ordre-neutre-icon></ordre-neutre-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -994,8 +977,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/lycaon.jpg",
                 "caracteristiques":[
-                    {"nature":"<mauvais-icon></mauvais-icon>"},
-                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<antagoniste-icon></antagoniste-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"5"}
                 ],
                 "effets":[
@@ -1031,8 +1013,7 @@
                 "type":"perso",
                 "illustration":"./Images/Personnages/saigneur.jpg",
                 "caracteristiques":[
-                    {"nature":"<moral-neutre-icon></moral-neutre-icon>"},
-                    {"nature":"<chaotique-icon></chaotique-icon>"},
+                    {"nature":"<neutre-icon></neutre-icon>"},
                     {"nature":"<blessure-icon></blessure-icon>","montant":"4"}
                 ],
                 "effets":[
@@ -1248,11 +1229,7 @@
                 "illustration":"./Images/Personnages/fauche_tout.png",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>"
-                    },
-                    {
-                        "nature":"<chaotique-icon></chaotique-icon>",
-                        "montant":""
+                        "nature":"<antagoniste-icon></antagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1279,11 +1256,7 @@
                 "illustration":"./Images/Personnages/marc_langer.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
-                    },
-                    {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
-                        "montant":""
+                        "nature":"<neutre-icon></neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1310,11 +1283,7 @@
                 "illustration":"./Images/Personnages/xanax.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>"
-                    },
-                    {
-                        "nature":"<loyal-icon></loyal-icon>",
-                        "montant":""
+                        "nature":"<antagoniste-icon></antagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1347,11 +1316,7 @@
                 "illustration":"./Images/Personnages/.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>"
-                    },
-                    {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>",
-                        "montant":""
+                        "nature":"<protagoniste-icon></protagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1386,11 +1351,7 @@
                 "illustration":"./Images/Personnages/dori.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>"
-                    },
-                    {
-                        "nature":"<loyal-icon></loyal-icon>",
-                        "montant":""
+                        "nature":"<protagoniste-icon></protagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1425,11 +1386,10 @@
                 "illustration":"./Images/Personnages/luis.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>"
+                        "nature":"<protagoniste-icon></protagoniste-icon>"
                     },
                     {
-                        "nature":"<ordre_neutre></ordre_neutre>",
-                        "montant":""
+                        "nature":"<ordre_neutre></ordre_neutre>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1455,11 +1415,7 @@
                 "illustration":"./Images/Personnages/.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>"
-                    },
-                    {
-                        "nature":"<chaotique-icon></chaotique-icon>",
-                        "montant":""
+                        "nature":"<protagoniste-icon></protagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1490,11 +1446,7 @@
                 "illustration":"./Images/Personnages/meia.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
-                    },
-                    {
-                        "nature":"<chaotique-icon></chaotique-icon>",
-                        "montant":""
+                        "nature":"<neutre-icon></neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -1506,7 +1458,7 @@
                         "nature":"actif",
                         "nom":"Déserteuse",
                         "effet":[
-                            {"contenu":"Ne peut être activé que lors de votre <i>première phase d'action</i> si des <perso>Personnages</perso> non-<bon-icon></bon-icon> sont sur la même <b>Case</b> que vous."},
+                            {"contenu":"Ne peut être activé que lors de votre <i>première phase d'action</i> si des <perso>Personnages</perso> non-<protagoniste-icon></protagoniste-icon> sont sur la même <b>Case</b> que vous."},
                             {"contenu":"Vous pouvez vous décaler d'une case sur le côté de votre choix."},
                             {"contenu":"Cela activera la case en question."}
                         ]

@@ -240,37 +240,19 @@ lieu-icon{
   height: var(--heightIcone);
 }
 
-chaotique-icon{
-  content: url(./Images/ordre_chaotique.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-ordre-neutre-icon{
-  content: url(./Images/ordre_neutre.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-loyal-icon{
-  content: url(./Images/ordre_loyal.png);
-  width: var(--widthIcone); 
-  height: var(--heightIcone);
-}
-
-mauvais-icon{
+antagoniste-icon{
   content: url(./Images/moral_mauvais.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }
 
-moral-neutre-icon{
+neutre-icon{
   content: url(./Images/moral_neutre.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);
 }
 
-bon-icon{
+protagoniste-icon{
   content: url(./Images/moral_bon.png);
   width: var(--widthIcone); 
   height: var(--heightIcone);

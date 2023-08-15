@@ -63,10 +63,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>"
-                    },
-                    {
-                        "nature":"<chaotique-icon></chaotique-icon>"
+                        "nature":"<antagoniste-icon></antagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -106,10 +103,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
-                    },
-                    {
-                        "nature":"<chaotique-icon></chaotique-icon>"
+                        "nature":"<neutre-icon></neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -150,10 +144,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
-                    },
-                    {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>"
+                        "nature":"<neutre-icon></neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -180,10 +171,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>"
-                    },
-                    {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>"
+                        "nature":"<antagoniste-icon></antagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -217,10 +205,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
-                    },
-                    {
-                        "nature":"<ordre-neutre-icon></ordre-neutre-icon>"
+                        "nature":"<neutre-icon></neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -276,7 +261,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<moral-neutre-icon></moral-neutre-icon>"
+                        "nature":"<neutre-icon></neutre-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -310,10 +295,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>"
-                    },
-                    {
-                        "nature":"<chaotique-icon></chaotique-icon>"
+                        "nature":"<antagoniste-icon></antagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -340,10 +322,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<mauvais-icon></mauvais-icon>"
-                    },
-                    {
-                        "nature":"<loyal-icon></loyal-icon>"
+                        "nature":"<antagoniste-icon></antagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -376,10 +355,7 @@
                 "illustration":"./Images/Consommables/",
                 "caracteristiques":[
                     {
-                        "nature":"<bon-icon></bon-icon>"
-                    },
-                    {
-                        "nature":"<loyal-icon></loyal-icon>"
+                        "nature":"<protagoniste-icon></protagoniste-icon>"
                     },
                     {
                         "nature":"<blessure-icon></blessure-icon>",
@@ -465,8 +441,7 @@
                 "illustration":"../Conte/Images/Steufs/chat_chatoyant.jpg",
                 "caracteristiques":[
                     {
-                        "nature":"<accessoire-icon></accessoire-icon>",
-                        "montant":""
+                        "nature":"<accessoire-icon></accessoire-icon>"
                     },
                     {
                         "nature":"<or-icon></or-icon>",
