@@ -1,4 +1,4 @@
-(function(){
+﻿(function(){
     var data = {
         // Consommables
         "cartes":[
@@ -412,7 +412,7 @@
             },
             {
                 "collection":"conte",
-                "nom":"Sandrine",
+                "nom":"Sandrine Gnon",
                 "type":"perso",
                 "illustration":"./Images/Personnages/sandrine.jpg",
                 "caracteristiques":[
