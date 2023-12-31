@@ -522,21 +522,6 @@
             {
                 "collection":"",
                 "nom":"",
-                "type":"conso",
-                "illustration":"./Images/Consommables/.jpg",
-                "caracteristiques":[
-                    {"nature":"<or-icon></or-icon>","montant":"4"}
-                ],
-                "effets":{
-                    "nature":"actif",
-                    "nom":"",
-                    "effet":{"contenu":"Relancez un dé du tirage actuel."}
-                },
-                "citation":"»"
-            },
-            {
-                "collection":"",
-                "nom":"",
                 "type":"",
                 "illustration":"./Images/Consommables/.jpg",
                 "caracteristiques":[
@@ -552,7 +537,7 @@
             },
             {
                 "collection":"",
-                "nom":"Powerate",
+                "nom":"PowerHate",
                 "type":"conso",
                 "illustration":"./Images/Consommables/.jpg",
                 "caracteristiques":[
@@ -564,6 +549,28 @@
                     "effet":{"contenu":"Vous pouvez attaquer le personnage ciblé deux fois par tour jusqu'à la fin de votre prochain tour."}
                 },
                 "citation":"La boisson énergisante préférée des réseaux sociaux."
+            },
+            {
+                "collection":"",
+                "nom":"Pistolet en or",
+                "type":"legendaire",
+                "illustration":"../.jpg",
+                "caracteristiques":[
+                    {
+                        "nature":"<arme-icon></arme-icon>"
+                    },
+                    {
+                        "nature":"<or-icon></or-icon>",
+                        "montant":"12"
+                    },
+                    {
+                        "nature":"<attaque-icon></attaque-icon>",
+                        "montant":"+1"
+                    },
+                ],
+                "effets":[
+                ],
+                "citation":""
             },
             // Un personnage qui peut deviner une fois par tour global le lancer d'un dé, en cas de succès, il gagne de l'or.
         ]
