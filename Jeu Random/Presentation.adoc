@@ -1,6 +1,6 @@
 * Le but du jeu est d'accumuler 100 points au cours de la partie, ou alors de finir avec le plus de points au bout des 3 phases.
 ** Il faudrait des jetons de 5 / 10 / 20 / 25 / 50 pour que ça soit lisible
-* Le joueur dispose d'un compteur de 10 vies.
+* la personne joueuse dispose d'un compteur de 10 vies.
 ** Une fois arrivé à 0 vies, il meurt et quitte la partie.
 
 * Le jeu est découpé en 3 phases consécutives.
@@ -9,25 +9,25 @@
 **** Idée : se défausser jusqu'à avoir 5 cartes au maximum
 
 * Le déroulement d'une manche est simple.
-** Avant de dérouler les cartes, si des cartes possédées par les joueurs ont un effet en début de tour, il s'active.
+** Avant de dérouler les cartes, si des cartes possédées par les personnes joueuses ont un effet en début de tour, il s'active.
 ** On déroule les cartes devant soi
 *** Nombre de cartes par tour
-**** Phase 1 : Nombre de joueurs + 2
-**** Phase 2 : Nombre de joueurs + 1
-**** Phase 3 : Nombre de joueurs
-** Puis dans l'ordre de jeu, chaque joueur choisit une carte
+**** Phase 1 : Nombre de personne joueuses + 2
+**** Phase 2 : Nombre de personne joueuses + 1
+**** Phase 3 : Nombre de personne joueuses
+** Puis dans l'ordre de jeu, chaque personne joueuse choisit une carte
 
 * Les cartes donnent le choix entre un effet immédiat ou un actif / passif à utiliser plus tard.
 * Lorsqu'on récupère la carte, il faut choisir entre l'effet immédiat ou l'actif / passif.
 ** Quand l'effet immédiat est choisie, il s'applique puis la carte est écartée du jeu.
-** Quand la carte est acquérie. Le joueur bénéficiera de son pouvoir à partir du tour prochain.
+** Quand la carte est acquérie. la personne joueuse bénéficiera de son pouvoir à partir du tour prochain.
 * Certaines cartes nécessitent de payer le prix pour utiliser leurs pouvoirs ou les acheter, ça peut être des points de vie, sacrifier des cartes, de l'argent, des coeurs, etc.
 * Chaque carte peut faire partie d'une famille de couleur, qui est utilisé par certains pouvoirs passifs ou actifs.
 * Quand un actif est utilisé, la carte est consommée et sort du jeu.
 * TODO : que faire des cartes en fin de Phase 3 ?
 ** Elles enlèvent des points selon leur puissance ? Faut-il utiliser un ordre de puissance
 
-* TODO : Dans quel ordre les joueurs peuvent acheter ?
+* TODO : Dans quel ordre les personnes joueuses peuvent acheter ?
 ** Celui qui a le moins de coeurs commence ?
 
 

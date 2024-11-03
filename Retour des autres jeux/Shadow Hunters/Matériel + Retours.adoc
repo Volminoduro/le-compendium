@@ -15,13 +15,13 @@
 * 16 cartes Ténèbres
 * 16 cartes Vision
 * 6 cartes Lieux
-* 8 cartes Joueurs
+* 8 cartes personne joueuses
 * 8 marqueurs de Personnages
 * 8 marqueurs de Santé
 * 2 dés dont un 6 faces et un à 4 faces
 * 1 Règle du jeu
 
-* Cb de joueurs ? 8 ?
+* Cb de personne joueuses ? 8 ?
 
 = Les + :
 
@@ -35,4 +35,4 @@
   - La mécanique de vision n'est vraiment intéressante qu'avec le métamorphe et assez anecdoctique en mid/late-game.
   - Il n'y a que les neutres qui ont des objectifs vraiment différents.
   - Rejouabilité un peu pauvre sans personnages neutre.
-  - Plein potentiel à partir de 6 joueurs et +.
+  - Plein potentiel à partir de 6 personne joueuses et +.

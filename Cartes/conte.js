@@ -438,7 +438,7 @@
                         ]
                     }
                 ],
-                "citation":"L'équipe du Compendium présente ses excuses auprès des autres joueurs si quelqu'un s'appelle Sandrine parmi eux."
+                "citation":"L'équipe du Compendium présente ses excuses auprès des autres personne joueuses si quelqu'un s'appelle Sandrine parmi eux."
             },
             {
                 "collection":"conte",

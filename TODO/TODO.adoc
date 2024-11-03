@@ -101,7 +101,7 @@ https://fr.wikipedia.org/wiki/Prot%C3%A8ge-carte
 * Steuf : valeur en gold en plus de la qualité
 * Consommable : +valeur en gold
 
-But du jeu : une Némésis est désigné pour le joueur, il doit l'amener au SdM. Si quelqu'un d'autre que lui l'amène au SdM, il devra alors amener au SdM ce quelqu'un en question.
+But du jeu : une Némésis est désigné pour la personne joueuse, il doit l'amener au SdM. Si quelqu'un d'autre que lui l'amène au SdM, il devra alors amener au SdM ce quelqu'un en question.
 * Il y a des "Renégats" (ceux qui ont pioché leur propre pion), ceux-là doivent arriver au SdM en dernier.
 
 Personnages :

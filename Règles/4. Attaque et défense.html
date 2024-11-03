@@ -13,14 +13,13 @@
         <ul>
             <li>Vous êtes libre d'attaquer n'importe quel autre <perso>Personnage</perso>.</li>
             <li>Le choix de la cible est limité par votre portée (</portee-icon>). La </portee-icon> définit quelles zones autour de vous vous pouvez attaquer.</li>
-            <li>Par défaut, votre </portee-icon> est de 1.</li>
             <ul>
-                <li>Vous pouvez attaquer sur votre case et les cases adjacentes.</li>
+                <li>0 de portée : attaque sur votre case.</li>
+                <li>1 de portée : attaque sur votre case ou à 1 case de distance de la votre.</li>
+                <li>2/3/4/5+ de portée : attaque sur votre case ou à 2/3/4/5+ case de distance de la votre.</li>
             </ul>
+            <li>Par défaut, votre </portee-icon> est de 0.</li>
             <li>La </portee-icon> peut être augmentée ou diminuée, mais elle ne peut pas descendre en-dessous de 0.</li>
-            <ul>
-                <li>0 de </portee-icon> : attaquer sur la case où vous vous trouvez.</li>
-            </ul>
         </ul>
 
         <ul>
@@ -28,7 +27,7 @@
             <ul>
                 <li>L'attaquant lance le <d4-icon></d4-icon>.</li>
                 <li>Le défenseur ciblé par l'attaque lance le <d3-icon></d3-icon>.</li>
-                <li>Les différents bonus d'attaque <bonus-atk-icon></bonus-atk-icon> et de défense <bonus-def-icon></bonus-def-icon> s'additionnent au résultat des dés.</li>
+                <li>Les différents modificateurs d'attaque <bonus-atk-icon></bonus-atk-icon> et de défense <bonus-def-icon></bonus-def-icon> s'additionnent au résultat des dés.</li>
                 <ul>
                     <li><img src="../Cartes/Images/attaque.png" style="width: 24px; height: 24px;" /> = <d4-icon></d4-icon> + <img src="../Cartes/Images/arme.png" style="width: 24px; height: 24px;" /></li>
                     <li>Si <img src="../Cartes/Images/attaque.png" style="width: 24px; height: 24px;" /> > Défense totale = 1 <blessure-icon></blessure-icon> infligée au défenseur.</li>

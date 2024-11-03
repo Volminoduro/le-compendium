@@ -18,7 +18,7 @@
 
 ==== http://harrypotter.wikia.com/wiki/Marauder%27s_Map[Carte du maraudeur (1 exemplaire)]
 
-** Vous permet de connaître l'identité des joueurs à votre portée d'attaque, pendant votre tour, avant et après votre déplacement.
+** Vous permet de connaître l'identité des personne joueuses à votre portée d'attaque, pendant votre tour, avant et après votre déplacement.
 ** Incohérent par rapport au pouvoir de la carte du maraudeur, bon effet quand même.
 
 * Citation :

@@ -10,7 +10,7 @@
 
 = Nombre de cartes par collection
 
-* Nombre de joueurs par collection : 6 joueurs max.
+* Nombre de personne joueuses par collection : 6 personne joueuses max.
 
 |=======
 |Type de cartes |Nombre souhaité minimum |Harry Potter |Conte
@@ -29,14 +29,14 @@ Cartes renversement, quid ?
 
 == Personnages
 
-* Il faut permettre aux joueurs de pouvoir tous jouer dans le même alignement si possible.
+* Il faut permettre aux personne joueuses de pouvoir tous jouer dans le même alignement si possible.
 ** Ce qui fait 6 personnages au maximum dans chaque alignement.
 ** Ce qui fait un total de 18 personnages, ce qui est amplement suffisant compte tenu de la répartition selon les règles standard de 2 personnages par alignement. ça donne une variété de 2 personnages par règle standard + 4 au choix.
 * Au total : 18 personnages.
 
 == Consommables
 
-* Il faut permettre aux joueurs d'avoir deux cartes en main.
+* Il faut permettre aux personne joueuses d'avoir deux cartes en main.
 ** Ce qui fait 12 consommables au maximum dans toutes les mains.
 ** Multiplicateur de 1.5 pour le recyclage.
 * Au total : 18 consommables.
@@ -44,13 +44,13 @@ Cartes renversement, quid ?
 == Lieux
 
 * Certains peuvent rester actifs pendant un ou plusieurs tours.
-* Il faut que le nombre de lieux soit suffisament important pour ne pas tous les visiter en deux tours (on peut imager 3 visites par tour à 6 joueurs), mais pas trop afin que les joueurs en fassent quand même le tour.
+* Il faut que le nombre de lieux soit suffisament important pour ne pas tous les visiter en deux tours (on peut imager 3 visites par tour à 6 personne joueuses), mais pas trop afin que les personnes joueuses en fassent quand même le tour.
 * Au total : 12 lieux.
 
 == Steuf : Tête, Corps, Accessoires et Armes.
 
 * A l'exception des Accessoires, les steufs vont à un emplacement.
-** Ce qui fait 6 steufs à procurer pour chaque joueur et à chaque emplacement (12 steufs pour les accessoires, puisque 2 emplacements).
+** Ce qui fait 6 steufs à procurer pour chaque personne joueuse et à chaque emplacement (12 steufs pour les accessoires, puisque 2 emplacements).
 ** Ce qui fait un total de 9 steufs par emplacement, compte tenu d'un coefficient de 1.5 pour le recyclage (d'autant plus avec la défausse éternelle du marchand) et 18 pour les accessoires.
 * Au total : 9 Tête, 9 Corps, 9 Armes et 18 Accessoires.
 

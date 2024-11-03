@@ -1,5 +1,5 @@
 Objectif dans Shadow vs Hunter :
-- Le joueur à votre gauche / droite doit gagner.
+- la personne joueuse à votre gauche / droite doit gagner.
 - Rester en vie jusqu'à la fin.
 - Mourir en premier.
 - Tuer un personnage à 13 PDV ou se trouver à un endroit à la fin de la partie.

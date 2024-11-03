@@ -1,7 +1,7 @@
 Dés :
 
 * Ajouter ou retirer des valeurs au résultat
-* Faire lancer les dés par un autre joueur
+* Faire lancer les dés par un autre personne joueuse
 * Faire lancer les dés par un autre Personnage
 * Définir la valeur fixe du tirage
 * Relancer un des dés du tirage

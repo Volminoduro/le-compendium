@@ -3,5 +3,5 @@ Katana :
   - Geisha, permet de voler une carte
   - mort non définitive, [BUSHIDO ?]
 - Les - :
-  - Vraiment intéressant à partir de plus de 4 joueurs
+  - Vraiment intéressant à partir de plus de 4 personne joueuses
   - beaucoup de fois la même carte, assez peu varié, pas de bluff possible (principalement que des cartes offensives)
